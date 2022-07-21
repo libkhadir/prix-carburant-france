@@ -16,7 +16,7 @@ public class Runner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
         log.info("Started data extraction at {}", LocalDateTime.now());
-        DataStationList stationList = XmlUtils.unmarshal("/tmp/game-io/data.xml");
+        DataStationList stationList = XmlUtils.unmarshal("./data.xml");
         var stationMap = stationList.getStationMap();
         var headers = "Departement,Adresse,Ville,Code postale,e10,e85,sp98,gazole";
         BufferedWriter writer = new BufferedWriter(new FileWriter("./data.csv", true));
