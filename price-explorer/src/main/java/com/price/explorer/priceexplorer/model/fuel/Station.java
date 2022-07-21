@@ -40,7 +40,7 @@ public class Station {
 
     public String toCsv(String department) {
         return department + "," +
-               adresse.replace(",", " ") + "," +
+               adresse.replace(",", " ").replace("\"", "") + "," +
                ville + "," +
                cp + "," +
                getPrice("e10") + "," +
