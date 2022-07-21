@@ -7,7 +7,6 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 import java.io.BufferedWriter;
-import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.time.LocalDateTime;
@@ -21,21 +20,26 @@ public class Runner implements CommandLineRunner {
         DataStationList stationList = XmlUtils.unmarshal("./data.xml");
         var stationMap = stationList.getStationMap();
         var headers = "Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,\n";
-        BufferedWriter writer = new BufferedWriter(new FileWriter("./data.csv", true));
-        writer.append(headers);
         stationMap.keySet()
                   .stream()
+                  .sorted()
                   .forEach(k -> {
-                      stationMap.get(k).stream()
-                              .forEach(l -> {
-                                  try {
-                                      writer.append(l.toCsv(k) + ",\n");
-                                  } catch (IOException e) {
-                                      log.warn(e.getLocalizedMessage());
-                                  }
-                              });
+                      try {
+                          BufferedWriter writer = new BufferedWriter(new FileWriter("./data" + k + ".csv", true));
+                          writer.append(headers);
+                          stationMap.get(k).stream()
+                                  .forEach(l -> {
+                                      try {
+                                          writer.append(l.toCsv(k) + ",\n");
+                                      } catch (IOException e) {
+                                          log.warn(e.getLocalizedMessage());
+                                      }
+                                  });
+                          writer.close();
+                      } catch (IOException e) {
+                          log.warn(e.getLocalizedMessage());
+                      }
                   });
-        writer.close();
         log.info("End data extraction at {}", LocalDateTime.now());
     }
 }
