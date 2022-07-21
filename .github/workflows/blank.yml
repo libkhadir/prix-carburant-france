@@ -17,11 +17,16 @@ jobs:
           curl https://donnees.roulez-eco.fr/opendata/instantane --output data.zip
           unzip data.zip
           mv *.xml data.xml
-
       - name: Clean data
         run: |
+          rm -rf data.csv
           mv data.xml price-explorer/.
           cd price-explorer/
           ./gradlew bootRun
-          ls -lrt
+          mv data.csv ../.
           echo "ok"
+      - name: Push result
+        run: |
+         git add data.csv
+         git commit -m "feat: add results"
+         git push origin
