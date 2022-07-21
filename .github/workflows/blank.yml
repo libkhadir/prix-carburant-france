@@ -2,6 +2,8 @@ name: update data
 on:
   workflow_dispatch:
 
+permissions:
+  contents: write
 
 jobs:
   update-data-job:
