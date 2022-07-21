@@ -23,7 +23,10 @@ jobs:
       - name: Clean data
         run: |
           ls -lrt data*.csv
+          echo "deleting old data"
           rm -rf data*.csv
+          echo "check old data"
+          ls -lrt data*.csv
           mv data.xml price-explorer/.
           cd price-explorer/
           ./gradlew bootRun
