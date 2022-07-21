@@ -4,6 +4,7 @@ import com.price.explorer.priceexplorer.model.fuel.DataStationList;
 import com.price.explorer.priceexplorer.util.XmlUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -12,6 +13,7 @@ import java.io.IOException;
 import java.time.LocalDateTime;
 
 @Slf4j
+@Component
 public class Runner implements CommandLineRunner {
     @Override
     public void run(String... args) throws Exception {
