@@ -1,36 +1,36 @@
-Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,
-09,54 Avenue Victor Pilhes,TARASCON-SUR-ARIèGE,09400,,,2.23 €,2.19 €,
-09,AVENUE DE LASTENET,BELESTA,09300,null,null,null,null,
-09, Avenue Gabriel Faure,MIREPOIX,09500,,,2.15 €,2.05 €,
-09,ZA N20 ALLEE DU BOIS DES ESQUERS,PERLES ET CASTELET,09110,1.90 €,,1.97 €,2.00 €,
-09,CARREFOUR DE LESTANG,PAMIERS,09100,1.95 €,0.87 €,,2.00 €,
-09,HAMEAUX DE ROQUEMAUREL,OUST,09140,1.90 €,0.87 €,2.01 €,2.00 €,
-09,LIEU DIT LE RAUNIER,MAZERES,09270,,,2.12 €,2.03 €,
-09,6 Avenue de Foix,PAMIERS,09100,1.89 €,,2.00 €,1.99 €,
-09,ROUTE DE DAUMAZAN,Les Bordes-sur-Arize,09350,,,1.90 €,1.96 €,
-09,RUE DU 8 MAI 1945,LAVELANET,09300,,,2.05 €,1.96 €,
-09,Avenue de Lavelanet,Bélesta,09300,1.80 €,,2.12 €,1.94 €,
-09,rue des Bruilhols,Foix,09000,2.00 €,,2.12 €,2.05 €,
-09,Route d'Espagne,FOIX,09000,1.88 €,1.10 €,1.95 €,1.98 €,
-09,La Sinsole,LEZAT SUR LEZE,09210,,,2.06 €,2.00 €,
-09,17 Avenue du 8 Mai 1945,Laroque-d'Olmes,09600,,0.94 €,2.06 €,1.95 €,
-09,parc commercial de Saint Martin de Peyrelade,Saverdun,09700,1.98 €,0.85 €,2.00 €,1.96 €,
-09,5 avenue de la Résistance,Saint-Girons,09200,2.00 €,,2.10 €,2.00 €,
-09,Le Pont du Baup,SAINT-LIZIER,09190,1.83 €,0.85 €,2.04 €,1.95 €,
-09,Route de Quié,Tarascon-sur-Ariège,09400,1.88 €,1.10 €,2.10 €,2.00 €,
-09,60 ROUTE DE TOULOUSE,Saint-Lizier,09190,,0.96 €,,2.00 €,
-09,Avenue du 11 Novembre 1918,Laroque-d'Olmes,09600,1.80 €,0.85 €,2.06 €,1.95 €,
-09,46 route de Foix,LE FOSSAT,09130,,,2.10 €,2.03 €,
-09,RN 20,SAVIGNAC-LES-ORMEAUX,09110,1.91 €,,,2.02 €,
-09,La Cavalerie,PAMIERS,09100,1.80 €,,1.97 €,1.94 €,
-09,Route de Mirepoix,PAMIERS,09100,1.78 €,0.85 €,,1.89 €,
-09,6 Rue de l'Eglise,VICDESSOS,09220,1.93 €,,2.10 €,1.98 €,
-09,13 avenue CHARLES DE GAULLE,MIREPOIX,09500,1.84 €,0.89 €,1.99 €,1.93 €,
-09,47 faubourg sainte croix,la bastide de serou,09240,1.93 €,,2.05 €,2.00 €,
-09,247 AV CHARLES DE GAULLE,Mirepoix,09500,1.81 €,0.87 €,1.93 €,1.91 €,
-09,ROUTE D'EYCHEIL,SAINT-GIRONS,09200,,0.85 €,2.06 €,2.00 €,
-09,Route de FOIX,Lavelanet,09300,,,2.00 €,1.96 €,
-09,Route d'Espagne,Foix,09000,1.86 €,,,2.00 €,
-09,CONCESSIONNAIRE RENAULT -ROUTE D,FOIX,09000,1.94 €,0.87 €,2.05 €,2.00 €,
-09,Avenue des Pyrénées,SAINT-JEAN-DU-FALGA,09100,1.78 €,0.92 €,1.89 €,1.89 €,
-09,120 rue Clément Ader,VERNIOLLE,09340,1.78 €,,1.89 €,1.89 €,
+Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
+09,54 Avenue Victor Pilhes,TARASCON-SUR-ARIèGE,09400,,,2.23 €,2.19 €
+09,AVENUE DE LASTENET,BELESTA,09300,null,null,null,null
+09, Avenue Gabriel Faure,MIREPOIX,09500,,,2.15 €,2.05 €
+09,ZA N20 ALLEE DU BOIS DES ESQUERS,PERLES ET CASTELET,09110,1.90 €,,1.97 €,2.00 €
+09,CARREFOUR DE LESTANG,PAMIERS,09100,1.95 €,0.87 €,,2.00 €
+09,HAMEAUX DE ROQUEMAUREL,OUST,09140,1.90 €,0.87 €,2.01 €,2.00 €
+09,LIEU DIT LE RAUNIER,MAZERES,09270,,,2.12 €,2.03 €
+09,6 Avenue de Foix,PAMIERS,09100,1.89 €,,2.00 €,1.99 €
+09,ROUTE DE DAUMAZAN,Les Bordes-sur-Arize,09350,,,1.90 €,1.96 €
+09,RUE DU 8 MAI 1945,LAVELANET,09300,,,2.05 €,1.96 €
+09,Avenue de Lavelanet,Bélesta,09300,1.80 €,,2.12 €,1.94 €
+09,rue des Bruilhols,Foix,09000,2.00 €,,2.12 €,2.05 €
+09,Route d'Espagne,FOIX,09000,1.88 €,1.10 €,1.95 €,1.98 €
+09,La Sinsole,LEZAT SUR LEZE,09210,,,2.06 €,2.00 €
+09,17 Avenue du 8 Mai 1945,Laroque-d'Olmes,09600,,0.94 €,2.06 €,1.95 €
+09,parc commercial de Saint Martin de Peyrelade,Saverdun,09700,1.98 €,0.85 €,2.00 €,1.96 €
+09,5 avenue de la Résistance,Saint-Girons,09200,2.00 €,,2.10 €,2.00 €
+09,Le Pont du Baup,SAINT-LIZIER,09190,1.83 €,0.85 €,2.04 €,1.95 €
+09,Route de Quié,Tarascon-sur-Ariège,09400,1.88 €,1.10 €,2.10 €,2.00 €
+09,60 ROUTE DE TOULOUSE,Saint-Lizier,09190,,0.96 €,,2.00 €
+09,Avenue du 11 Novembre 1918,Laroque-d'Olmes,09600,1.80 €,0.85 €,2.06 €,1.95 €
+09,46 route de Foix,LE FOSSAT,09130,,,2.10 €,2.03 €
+09,RN 20,SAVIGNAC-LES-ORMEAUX,09110,1.91 €,,,2.02 €
+09,La Cavalerie,PAMIERS,09100,1.80 €,,1.97 €,1.94 €
+09,Route de Mirepoix,PAMIERS,09100,1.78 €,0.85 €,,1.89 €
+09,6 Rue de l'Eglise,VICDESSOS,09220,1.93 €,,2.10 €,1.98 €
+09,13 avenue CHARLES DE GAULLE,MIREPOIX,09500,1.84 €,0.89 €,1.99 €,1.93 €
+09,47 faubourg sainte croix,la bastide de serou,09240,1.93 €,,2.05 €,2.00 €
+09,247 AV CHARLES DE GAULLE,Mirepoix,09500,1.81 €,0.87 €,1.93 €,1.91 €
+09,ROUTE D'EYCHEIL,SAINT-GIRONS,09200,,0.85 €,2.06 €,2.00 €
+09,Route de FOIX,Lavelanet,09300,,,2.00 €,1.96 €
+09,Route d'Espagne,Foix,09000,1.86 €,,,2.00 €
+09,CONCESSIONNAIRE RENAULT -ROUTE D,FOIX,09000,1.94 €,0.87 €,2.05 €,2.00 €
+09,Avenue des Pyrénées,SAINT-JEAN-DU-FALGA,09100,1.78 €,0.92 €,1.89 €,1.89 €
+09,120 rue Clément Ader,VERNIOLLE,09340,1.78 €,,1.89 €,1.89 €
