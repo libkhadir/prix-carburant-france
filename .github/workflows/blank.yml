@@ -28,7 +28,7 @@ jobs:
           cd price-explorer/
           ./gradlew bootRun
           mv data*.csv ../.
-          rm -rf price-explorer/data.xml
+          rm -rf data.xml
           echo "ok"
       - name: Push result
         run: |
