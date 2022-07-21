@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 91,RN 20,Saint-Germain-lès-Arpajon,91180,1.88 €,,2.02 €,1.95 €
 91,70 BLD HENRI BARBUSSE,DRAVEIL,91210,1.95 €,0.88 €,2.06 €,2.01 €
 91,155 AVENUE DU GENERAL LECLERC,Gif-sur-Yvette,91190,1.88 €,,1.99 €,1.95 €
-91,6 AVENUE DE L EUROPE,DRAVEIL,91210,null,null,null,null
+91,6 AVENUE DE L EUROPE,DRAVEIL,91210,,,,
 91,105 Avenue de la République,Montgeron,91230,1.87 €,,2.06 €,1.93 €
 91,ROUTE DE LIMOURS,ARPAJON,91290,1.97 €,0.88 €,2.08 €,2.05 €
 91,25 ROUTE D'ORLEANS RN 20,Saint-Germain-lès-Arpajon,91180,1.84 €,,1.98 €,1.93 €
@@ -101,7 +101,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 91,Rond Point des Coudray,ÉTIOLLES,91450,,,2.03 €,2.01 €
 91,RUE DE VILLEROY,BONDOUFLE,91070,1.95 €,,2.06 €,2.02 €
 91,8  rue Berthollet,VERT-LE-PETIT,91710,2.00 €,,2.16 €,2.03 €
-91,18 BOULEVARD JEAN JAURES,CORBEIL ESSONNES,91100,null,null,null,null
+91,18 BOULEVARD JEAN JAURES,CORBEIL ESSONNES,91100,,,,
 91,Z.A.C. de l'Aunaye,Ballancourt-sur-Essonne,91610,,,2.00 €,1.92 €
 91,CHEVRY BELLEVILLE,GIF-SUR-YVETTE,91190,,,2.00 €,1.96 €
 91,14 Rue du Pont Lafleur,ANGERVILLE,91670,2.00 €,0.85 €,2.10 €,1.94 €

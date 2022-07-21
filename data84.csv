@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 84,Autoroute A7 (Sens Lyon - Marseille),Morières-lès-Avignon,84310,1.97 €,,2.08 €,2.00 €
 84,AV. JEAN GIONO,BOLLENE,84500,1.91 €,0.86 €,2.02 €,2.01 €
 84,ROUTE NATIONALE 7,Sorgues,84700,1.85 €,,1.99 €,2.00 €
-84, Avenue Jean Jaurès,VILLES-SUR-AUZON,84570,null,null,null,null
+84, Avenue Jean Jaurès,VILLES-SUR-AUZON,84570,,,,
 84,CD 225 RTE DES BORDS DU RHONE,LE PONTET,84130,1.80 €,,,1.90 €
 84,Aire de Mornas Village - Autoroute A7 - Sens Lyon Marseille,Mornas,84550,1.99 €,0.91 €,2.10 €,2.06 €
 84,2875 Route de malaucene,Carpentras,84200,,0.90 €,2.00 €,1.98 €
@@ -81,7 +81,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 84,515 Route de Carpentras,ENTRAIGUES-SUR-LA-SORGUE,84320,2.06 €,,2.15 €,2.02 €
 84,382 AV. DE LANCON RN 100,APT,84400,,0.87 €,,
 84,ROUTE DE CHATEAUNEUF DU PAPE,COURTHEZON,84350,1.90 €,,2.04 €,2.00 €
-84,417 Avenue du Mont Ventoux,CARPENTRAS,84200,null,null,null,null
+84,417 Avenue du Mont Ventoux,CARPENTRAS,84200,,,,
 84,QUARTIER DE MOUGNE,Sault,84390,1.84 €,0.88 €,1.99 €,1.93 €
 84,Avenue du Tourail,Maubec,84660,1.76 €,0.85 €,1.90 €,1.89 €
 84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.81 €,,1.93 €,1.90 €

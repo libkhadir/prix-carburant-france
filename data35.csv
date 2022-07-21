@@ -5,14 +5,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 35,228 Route de Lorient,RENNES,35000,1.85 €,,1.95 €,1.92 €
 35,126  BOULEVARD DES TALARDS,Saint-Malo,35400,1.93 €,0.87 €,2.04 €,2.01 €
 35,RN 137 - COTE OUEST - DIRECTION,Saint-servan-sur-mer,35400,1.83 €,,1.96 €,1.91 €
-35,5 Rue d'Antrain,Saint-Brice-en-Coglès,35460,null,null,null,null
+35,5 Rue d'Antrain,Saint-Brice-en-Coglès,35460,,,,
 35,18  RUE DE LA BALUE,Saint-Malo,35400,1.83 €,,1.98 €,1.93 €
 35,ROUTE DU MONT ST MICHEL,ROMAZY,35490,1.98 €,1.99 €,2.09 €,1.99 €
-35,115 Boulevard de Laval,Vitré,35500,null,null,null,null
+35,115 Boulevard de Laval,Vitré,35500,,,,
 35,27 RTE DE RENNES,Cesson-Sévigné,35510,1.96 €,,2.07 €,2.00 €
-35,ROUTE DE SAINT MALO,Montgermont,35760,null,null,null,null
-35,7 RUE DE GALERNE,ROMILLé,35850,null,null,null,null
-35,7 rue de Galerne,Romillé,35850,null,null,null,null
+35,ROUTE DE SAINT MALO,Montgermont,35760,,,,
+35,7 RUE DE GALERNE,ROMILLé,35850,,,,
+35,7 rue de Galerne,Romillé,35850,,,,
 35,35 Avenue du Port,GUIPRY,35480,1.83 €,,2.00 €,1.90 €
 35,34 Bd Dumaine de la Josserie,Pacé,35740,,,,2.17 €
 35,109 Avenue Alphonse LEGAULT,BRUZ,35170,1.83 €,,2.00 €,1.94 €

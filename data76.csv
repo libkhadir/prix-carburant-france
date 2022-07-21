@@ -20,10 +20,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 76,24 Avenue du Mont aux Malades,Mont-Saint-Aignan,76130,1.85 €,,1.97 €,1.90 €
 76,AVENUE DES CANADIENS,DIEPPE,76200,1.84 €,0.85 €,1.97 €,1.89 €
 76,78 RUE GAMBETTA,Dieppe,76200,1.84 €,,2.10 €,1.90 €
-76,24 BD. FAIDHERBE - RD 925,EU,76260,null,null,null,null
+76,24 BD. FAIDHERBE - RD 925,EU,76260,,,,
 76,37 ROUTE DE PARIS,LE MESNIL ESNARD,76240,1.82 €,,1.93 €,1.90 €
 76,CARREFOUR DE L'EUROPE,Notre-Dame-de-Gravenchon,76330,1.94 €,,2.02 €,2.01 €
-76,209 Rue Gustave Couturier,FéCAMP,76400,null,null,null,null
+76,209 Rue Gustave Couturier,FéCAMP,76400,,,,
 76,RD 910,TANCARVILLE,76430,1.85 €,0.84 €,1.96 €,1.89 €
 76,Rue Raymond Brétéché,LE TRAIT,76580,1.98 €,,2.06 €,2.03 €
 76,RN 138 LES ESSARTS,Grand-Couronne,76530,1.84 €,0.88 €,2.00 €,1.89 €

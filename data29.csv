@@ -3,11 +3,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29,Route de Bénodet,Quimper,29000,1.95 €,,2.04 €,1.95 €
 29,195 Boulevard de l'Europe,BREST,29200,1.82 €,0.88 €,1.97 €,1.90 €
 29,LE ROUILLEN - La Salle Verte,Ergué-Gabéric,29500,,,1.96 €,1.96 €
-29,route de cadol,MELGVEN,29140,null,null,null,null
-29,142 Rue Général Paulet,Brest,29200,null,null,null,null
-29,KERNEVEZ,Le Folgoët,29260,null,null,null,null
-29, Rue Louis Pasteur,SCAER,29390,null,null,null,null
-29,DOUAR NEVEZ,Plouguerneau,29880,null,null,null,null
+29,route de cadol,MELGVEN,29140,,,,
+29,142 Rue Général Paulet,Brest,29200,,,,
+29,KERNEVEZ,Le Folgoët,29260,,,,
+29, Rue Louis Pasteur,SCAER,29390,,,,
+29,DOUAR NEVEZ,Plouguerneau,29880,,,,
 29,Route de Concarneau,TRéGUNC,29910,1.97 €,,2.08 €,2.02 €
 29,CENTRE COMMERCIAL BRETAGNIA,MORLAIX,29600,1.90 €,,2.00 €,1.97 €
 29,ZONE DE QUIELLA,LE FAOU,29590,,,1.92 €,1.94 €
@@ -75,7 +75,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29,2 rue Charles Le Goff,Carhaix-Plouguer,29270,1.84 €,0.85 €,,1.94 €
 29,Rue de Bel Air,Plouénan,29420,,,2.15 €,2.05 €
 29,18 rue Bout du Pont-Kernevel,ROSPORDEN,29140,1.93 €,,2.04 €,2.01 €
-29,Allée Verte,LANNILIS,29870,null,null,null,null
+29,Allée Verte,LANNILIS,29870,,,,
 29,11 RUE DE STANG BIHAN,QUIMPER,29000,,,1.96 €,1.89 €
 29,place kerjean,CHâTEAULIN,29150,1.83 €,,1.92 €,1.91 €
 29,4 Route de Quimper,DAOULAS,29460,2.17 €,,,2.22 €
@@ -114,7 +114,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29,1 route de quimperle,Riec-sur-Belon,29340,1.82 €,,,1.92 €
 29,119 Rue du Couëdic,QUIMPERLE,29300,1.82 €,0.88 €,,1.92 €
 29,Ar Roudour,Guerlesquin,29650,,,1.93 €,1.94 €
-29,256 Route de Rosporden,QUIMPER,29000,null,null,null,null
+29,256 Route de Rosporden,QUIMPER,29000,,,,
 29,10 RUE DE LA LIBERTE,Pont-Croix,29790,,,1.90 €,1.90 €
 29,18 RUE D'YS,Cast,29150,,,,2.03 €
 29,RUE DU STADE,PLOUGONVELIN,29217,1.84 €,0.85 €,2.00 €,1.92 €

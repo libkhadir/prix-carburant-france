@@ -37,7 +37,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 30,78 route d'Alès,NîMES,30000,,,2.15 €,2.04 €
 30,Le Gardiol,LANUéJOLS,30750,1.97 €,,,2.17 €
 30,Autoroute A9 - AIRE DE NIMES MARGUERITTES SUD,30320 MARGUERITTES,30320,2.05 €,,2.13 €,2.08 €
-30,173 route de Nîmes,Alès,30100,null,null,null,null
+30,173 route de Nîmes,Alès,30100,,,,
 30,22 Avenue F Mitterrand,BAGNOLS-SUR-CEZE,30200,1.99 €,,2.10 €,2.04 €
 30,1 Rue des Tuileries,LA GRAND-COMBE,30110,1.94 €,0.85 €,2.00 €,1.97 €
 30,86 AVenue GEOFFROY PERRET,REMOULINS,30210,2.08 €,,2.19 €,2.21 €

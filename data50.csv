@@ -6,8 +6,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 50,41b Rue des Frères Fremine,Bricquebec-en-Cotentin,50260,1.96 €,,2.07 €,2.02 €
 50,Avenue de Normandie,Cherbourg-Octeville,50130,1.94 €,,2.11 €,1.94 €
 50,ZI PORTUAIRE DES MIELLES,Tourlaville,50110,1.94 €,,2.08 €,1.94 €
-50,10 Avenue Amiral Lemonnier,Cherbourg-Octeville,50100,null,null,null,null
-50,1 Rue Jules Labiche,SOURDEVAL,50150,null,null,null,null
+50,10 Avenue Amiral Lemonnier,Cherbourg-Octeville,50100,,,,
+50,1 Rue Jules Labiche,SOURDEVAL,50150,,,,
 50,2  AVENUE DE VERDUN,COUTANCES,50200,1.86 €,0.88 €,1.99 €,1.92 €
 50,Parc Mairie Gardin,Beaumont-Hague,50440,1.94 €,,,1.92 €
 50,ROUTE NATIONALE 13,Les Veys,50500,1.99 €,,2.08 €,2.03 €

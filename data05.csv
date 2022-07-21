@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 05,RN 94 Lieu-dit Pont la Lame,Saint-Martin-de-Queyrières,05120,1.89 €,,,1.98 €
 05,RN 547,Château-ville-vieille,05350,,,2.23 €,2.19 €
-05,Avenue de Provence,Tallard,05130,null,null,null,null
-05,ROUTE NATIONALE,Saint-Clément-sur-Durance,05600,null,null,null,null
+05,Avenue de Provence,Tallard,05130,,,,
+05,ROUTE NATIONALE,Saint-Clément-sur-Durance,05600,,,,
 05,AV. DU DAUPHINE,BRIANCON,05100,1.89 €,0.89 €,2.00 €,1.98 €
 05,Avenue de Provence,GAP,05000,1.77 €,,1.88 €,1.92 €
 05,RN 94,EYGLIERS,05600,1.92 €,,2.02 €,1.97 €
@@ -35,7 +35,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 05,10 AV.GUILLAUME FAREL,GAP,05000,1.94 €,0.90 €,2.04 €,2.01 €
 05,LA GARE,SERRES,05700,1.99 €,,,2.00 €
 05,route de gap,VEYNES,05400,1.87 €,0.80 €,,1.97 €
-05,Lieu dit Les Graves,REMOLLON,05190,null,null,null,null
+05,Lieu dit Les Graves,REMOLLON,05190,,,,
 05,PLACE DE LA MAIRIE,L'Argentière-la-Bessée,05120,1.93 €,,,1.99 €
 05,Place de la Gare,Chorges,05230,1.82 €,0.85 €,1.95 €,1.91 €
 05,50 Avenue de Provence,LARAGNE-MONTéGLIN,05300,1.89 €,,2.00 €,1.99 €

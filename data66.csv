@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 66,43 Avenue du Général Guillaut,Perpignan,66000,1.86 €,0.89 €,1.94 €,1.92 €
 66,L' Esparrou Plage,CANET-EN-ROUSSILLON,66140,1.95 €,,2.04 €,2.04 €
 66,KM 6 ROUTE NATIONALE 9,Pia,66380,1.84 €,,1.93 €,1.91 €
-66, Avenue Victor Hugo,PIA,66380,null,null,null,null
+66, Avenue Victor Hugo,PIA,66380,,,,
 66,74 BOULEVARD DESNOYER,Saint-Cyprien,66750,1.90 €,0.86 €,2.00 €,1.95 €
 66,route de canet,PERPIGNAN,66000,1.80 €,0.80 €,1.91 €,1.90 €
 66,Avenue du Roussillon,LE BARCARèS,66420,1.93 €,0.84 €,1.98 €,1.98 €
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 66,Lotissement le Pla,SAINT-PAUL-DE-FENOUILLET,66220,,,2.16 €,2.15 €
 66,chemin de Camalens av de la padrouze,THUIR,66300,1.80 €,0.80 €,1.93 €,1.90 €
 66,BOULEVARD DU 14 JUILLET,LE BARCARèS,66420,1.83 €,,1.90 €,1.94 €
-66,Rue Paul Barthez,Perpignan,66100,null,null,null,null
+66,Rue Paul Barthez,Perpignan,66100,,,,
 66,14 rue des grillons,Saint-Estève,66240,,0.89 €,2.02 €,2.01 €
 66,Route du Barcarès,Saint-Laurent-de-la-Salanque,66250,,0.85 €,,1.89 €
 66,294  AVENUE D'ARGELES SUR MER,PERPIGNAN,66100,1.93 €,0.86 €,2.04 €,2.00 €

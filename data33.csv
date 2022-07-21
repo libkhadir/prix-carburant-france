@@ -17,10 +17,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 33,388 ROUTE DU MEDOC,EYSINES,33320,1.83 €,0.88 €,1.94 €,1.91 €
 33,51 Pontet Sud Est,EYRANS,33390,1.98 €,,2.09 €,2.01 €
 33,151 Route de Toulouse,TALENCE,33400,1.88 €,,2.00 €,1.94 €
-33,22 RUE RENE COTY,AMBARèS-ET-LAGRAVE,33440,null,null,null,null
+33,22 RUE RENE COTY,AMBARèS-ET-LAGRAVE,33440,,,,
 33,A630 ROC.PRESQU'ILE LAC COTE1,Bruges,33520,1.86 €,,1.99 €,1.91 €
 33,A630 ROC.PRESQU'ILE LAC COTE2,Bruges,33520,1.86 €,,2.00 €,1.91 €
-33,228 Avenue Pasteur,PESSAC,33600,null,null,null,null
+33,228 Avenue Pasteur,PESSAC,33600,,,,
 33,3 Avenue du Général Leclerc,Pessac,33600,1.84 €,,2.04 €,1.92 €
 33,PARC BAGATELLE AVENUE DE LA SOMM,MERIGNAC,33700,1.84 €,,1.94 €,1.89 €
 33,RN 89,BEYCHAC-ET-CAILLEAU,33750,1.83 €,0.87 €,1.94 €,1.89 €
@@ -99,7 +99,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 33,AVENUE G EIFFEL,Pessac,33600,1.92 €,,2.02 €,1.98 €
 33,2 route de Marcillac,Étauliers,33820,1.85 €,,,1.94 €
 33,21 Rue de la République,PAUILLAC,33250,1.86 €,,1.96 €,1.96 €
-33,4 RUE DE LA MAIRIE,Vendays-Montalivet,33930,null,null,null,null
+33,4 RUE DE LA MAIRIE,Vendays-Montalivet,33930,,,,
 33,12 AVENUE DE VERDUN,BAZAS,33430,1.87 €,,1.97 €,1.94 €
 33,1 Route de Créon,Langoiran,33550,1.94 €,,2.00 €,1.94 €
 33,La Tour Rn 113,Cérons,33720,,,2.05 €,2.04 €
@@ -130,7 +130,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 33,AUTOROUTE A10,SAUGON,33920,2.05 €,1.00 €,2.15 €,2.06 €
 33,80 avenue de la Résistance,PINEUILH,33220,1.82 €,0.72 €,1.92 €,1.92 €
 33,2 AVENUE FERNAND PILLOT,GALGON,33133,1.86 €,0.73 €,,1.97 €
-33,ROUTE DE MONSEGUR,LA REOLE,33190,null,null,null,null
+33,ROUTE DE MONSEGUR,LA REOLE,33190,,,,
 33,4 RILLAC,CAVIGNAC,33620,1.91 €,0.75 €,1.98 €,1.98 €
 33,1 rue de la Paix,Saint-Louis-de-Montferrand,33440,,,2.40 €,2.01 €
 33,Route de Bordeaux,TARGON,33760,,,2.02 €,2.00 €

@@ -3,10 +3,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 27,Route Nationnale 13,GUICHAINVILLE,27930,1.83 €,0.86 €,1.93 €,1.91 €
 27,RD 613 - CARREFOUR DE MALBROUCK,CARSIX,27300,1.86 €,0.86 €,1.97 €,1.89 €
 27,1 Rue de Fauville,ÉVREUX,27000,1.95 €,,2.01 €,1.96 €
-27,108 Avenue du Maréchal Foch,Évreux,27000,null,null,null,null
-27,53 BLD SYLLA LEFEVRE,BERNAY,27300,null,null,null,null
+27,108 Avenue du Maréchal Foch,Évreux,27000,,,,
+27,53 BLD SYLLA LEFEVRE,BERNAY,27300,,,,
 27,RN 15,Igoville,27460,1.95 €,,2.13 €,1.96 €
-27,ROUTE NATIONALE 15,SAINT-AUBIN-SUR-GAILLON,27600,null,null,null,null
+27,ROUTE NATIONALE 15,SAINT-AUBIN-SUR-GAILLON,27600,,,,
 27,44 BIS AVENUE ARISTIDE BRIAND,GRAVIGNY,27930,1.82 €,0.86 €,1.93 €,1.90 €
 27,10  AV.DE LA REPUBLIQUE,LES ANDELYS,27700,1.93 €,0.88 €,2.04 €,2.00 €
 27,12 Route des Anglais,ÉPAIGNES,27260,1.95 €,,2.06 €,2.03 €
@@ -71,7 +71,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 27,BD. DE NORMANDIE,EVREUX,27000,1.88 €,0.86 €,1.98 €,1.91 €
 27,30 Rue du Bouloir,GISORS,27140,,,1.99 €,1.96 €
 27,273 RUE ALBERT SOREL,Beuzeville,27210,,,1.96 €,1.93 €
-27,15 Route de Paris D613,FOLLEVILLE,27230,null,null,null,null
+27,15 Route de Paris D613,FOLLEVILLE,27230,,,,
 27,Za Du  Le Petit Hanoy,Rugles,27250,1.87 €,0.85 €,2.00 €,1.93 €
 27,RN15,GAILLON,27600,1.88 €,0.86 €,1.97 €,1.91 €
 27,Boulevard de Normandie,EVREUX,27000,1.93 €,,2.03 €,1.97 €

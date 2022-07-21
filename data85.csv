@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
-85,Route de talmont,Château-d'Olonne,85180,null,null,null,null
+85,Route de talmont,Château-d'Olonne,85180,,,,
 85,40  AVE GEORGES CLEMENCEAU,LES HERBIERS,85500,,,,2.03 €
 85,322 Rue de l'Océan,Longeville-sur-Mer,85560,,,,2.09 €
 85,31 RUE DU MOULIN ROUGE,LA CHAIZE-LE-VICOMTE,85310,2.05 €,,2.17 €,2.13 €
@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,52 Avenue du Général de Gaulle,La Châtaigneraie,85120,1.85 €,0.68 €,1.96 €,1.90 €
 85,BOULEVARD DE LA VIE,Belleville-sur-Vie,85170,1.85 €,0.80 €,1.93 €,1.90 €
 85,4 RUE DES ALOUETTES,LA GAUBRETIERE,85130,,,,2.07 €
-85,56  ROUTE NATIONALE,L'OIE,85140,null,null,null,null
+85,56  ROUTE NATIONALE,L'OIE,85140,,,,
 85, Avenue de Verdun,BRETIGNOLLES-SUR-MER,85470,1.84 €,0.73 €,1.94 €,1.93 €
 85,68 Rue Joseph Bénatier,Les Sables-d'Olonne,85100,,,1.94 €,1.91 €
 85,42 Avenue Monseigneur Batiot,CHANTONNAY,85110,2.14 €,,2.06 €,2.01 €
@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,2 RUE DE LA BRACHETIERE,LE POIRE SUR VIE,85170,1.99 €,,2.11 €,1.99 €
 85,15 rue Pierre Rangeard,LA GAUBRETIERE,85130,,,2.01 €,1.99 €
 85,144 Avenue François Mitterrand,OLONNE-SUR-MER,85340,,,,1.99 €
-85,Boulevard du Maréchal Leclerc,SAINT-JEAN-DE-MONTS,85160,null,null,null,null
+85,Boulevard du Maréchal Leclerc,SAINT-JEAN-DE-MONTS,85160,,,,
 85,2 rue de la Gare,Benet,85490,,,2.00 €,1.90 €
 85,RUE GEORGES CLEMENCEAU,LONGEVILLE-SUR-MER,85560,1.93 €,,1.99 €,1.93 €
 85,39 Rue de la Roche,BEAUVOIR-SUR-MER,85230,1.92 €,0.88 €,2.02 €,1.94 €
@@ -71,7 +71,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,33 Avenue d'Aquitaine,Les Sables-d'Olonne,85100,,,,1.97 €
 85,Avenue Georges Clemenceau,MOUTIERS-LES-MAUXFAITS,85540,1.86 €,0.85 €,1.96 €,1.96 €
 85,AUTOROUTE A83AIRE DES BROUZILS,LE MARCHAS-CLAVEAU,85260,2.09 €,0.99 €,2.20 €,2.11 €
-85,26 Rue de la Capitale du Bas Poitou,FONTENAY-LE-COMTE,85200,null,null,null,null
+85,26 Rue de la Capitale du Bas Poitou,FONTENAY-LE-COMTE,85200,,,,
 85,9 Rue Neptune,L'Île-d'Yeu,85350,,,,2.55 €
 85,97 RUE DU PRESIDENT DE GAULLE,LUÇON,85400,1.88 €,0.85 €,,1.93 €
 85,Route du Fief Noumois,NOTRE-DAME-DE-MONTS,85690,,,1.97 €,1.94 €

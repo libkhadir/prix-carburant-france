@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 65,centre commercial Val d'Adour,Maubourguet,65700,1.90 €,,2.00 €,1.99 €
 65,Avenue de Bagnères,Tournay,65190,2.03 €,,2.13 €,1.96 €
 65,27 AVENUE DES PYRENEES,Argelès-Gazost,65400,1.92 €,0.89 €,1.98 €,1.93 €
-65,86 Avenue François Mitterrand,Séméac,65600,null,null,null,null
+65,86 Avenue François Mitterrand,Séméac,65600,,,,
 65,32  avenue du Général de Gaulle,ARGELES-GAZOST,65400,,,2.07 €,2.05 €
 65,ROUTE DE TOULOUSE,CASTELNAU-MAGNOAC,65230,,0.85 €,1.99 €,1.99 €
 65,3150 RN 117,CAPVERN,65130,,0.85 €,,1.98 €

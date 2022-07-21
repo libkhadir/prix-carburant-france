@@ -28,7 +28,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 78,48 BD ROGER SALENGRO,Mantes-la-Ville,78711,2.00 €,0.86 €,2.11 €,2.05 €
 78,ROUTE NATIONALE 190,LIMAY,78520,1.87 €,,1.97 €,1.98 €
 78,46 RUE DES PONTS,Croissy-sur-Seine,78290,1.98 €,0.88 €,2.09 €,2.05 €
-78,1 Rue du Haut de la Girouette,LE MESNIL-LE-ROI,78600,null,null,null,null
+78,1 Rue du Haut de la Girouette,LE MESNIL-LE-ROI,78600,,,,
 78,138 BOULEVARD JEAN JAURES,Houilles,78800,1.89 €,,2.01 €,1.96 €
 78,rue Clos Batant,RAMBOUILLET,78120,1.90 €,,1.99 €,1.98 €
 78,ANGLE RN 307 ET 317,ROCQUENCOURT,78150,1.97 €,,2.07 €,2.04 €
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 78,39 ROUTE DE MANTES,LONGNES,78980,1.98 €,,,2.02 €
 78,RN 13 RTE D'EVREUX,Chaufour-lès-Bonnières,78270,1.88 €,,1.98 €,1.94 €
 78,Rue de la Grosse Pierre,VERNOUILLET,78540,1.86 €,,,1.98 €
-78,100 Rue de Versailles,Le Chesnay,78150,null,null,null,null
+78,100 Rue de Versailles,Le Chesnay,78150,,,,
 78,104 RTE DE CHATOU,Carrières-sur-Seine,78420,2.02 €,,2.12 €,2.08 €
 78,18 Avenue du Général de Gaulle,Maisons-Laffitte,78600,2.02 €,,2.14 €,2.09 €
 78,rd28,TESSANCOURT-SUR-AUBETTE,78250,1.90 €,,1.99 €,1.99 €
@@ -76,7 +76,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 78,4 Route de VERSAILLES,Thoiry,78770,2.10 €,,2.18 €,2.05 €
 78,RN 10 LIEU DIT L'ABBE,SONCHAMP,78120,1.93 €,0.91 €,1.99 €,1.95 €
 78,32 ROUTE DU PONTEL,Jouars-Pontchartrain,78760,1.87 €,,1.97 €,1.95 €
-78,29 route de la gare,Garancières,78890,null,null,null,null
+78,29 route de la gare,Garancières,78890,,,,
 78,60 Rue du Vexin,HARDRICOURT,78250,1.98 €,,2.08 €,2.00 €
 78,6 AVENUE DE LA GARE,MéZIèRES-SUR-SEINE,78970,1.91 €,,2.01 €,1.99 €
 78,4 BLD HENRI BARBUSSE,Saint-Cyr-l'École,78210,1.85 €,,1.97 €,1.93 €

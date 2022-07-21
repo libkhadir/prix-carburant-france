@@ -10,8 +10,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 42,11 AV DE VERDUN,Saint-Étienne,42000,1.83 €,0.91 €,1.94 €,1.91 €
 42,55 rue de Corbines,BOëN,42130,,,2.06 €,1.96 €
 42,36 Rue de Terrenoire,Saint-Étienne,42100,1.85 €,,1.98 €,1.92 €
-42,142 Rue Mulsant,ROANNE,42300,null,null,null,null
-42,Route de Charlieu,Roanne,42300,null,null,null,null
+42,142 Rue Mulsant,ROANNE,42300,,,,
+42,Route de Charlieu,Roanne,42300,,,,
 42,Avenue Jean Moulin,Sury-le-Comtal,42450,,,,2.04 €
 42,Route de Roanne RN 82,CIVENS - FEURS,42110,1.80 €,0.85 €,1.90 €,1.97 €
 42,BIORANGE ROUTE DE ST VICTOR,ST VICTOR SUR LOIRE,42230,,,2.17 €,2.12 €
@@ -77,7 +77,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 42,ROUTE DE BONSON,Saint-Marcellin-en-Forez,42680,,,,2.00 €
 42,14 QUAI DE LA RIVE RN88,Saint-Chamond,42400,1.83 €,0.91 €,1.94 €,1.91 €
 42,12 rue Aubépine,NOIRéTABLE,42440,,,1.99 €,1.93 €
-42,LA GARE,Saint-Priest-la-Prugne,42830,null,null,null,null
+42,LA GARE,Saint-Priest-la-Prugne,42830,,,,
 42,274 avenue Galliéni,RIORGES,42153,,0.85 €,1.97 €,1.93 €
 42,ZONE ACTIVITE LES GAGERES,VIOLAY,42780,,,2.01 €,2.03 €
 42,Le Parc des VERCHERES,Sury-le-Comtal,42450,1.90 €,0.85 €,,1.97 €
@@ -99,7 +99,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 42,ZA La Grange  route de Rivas,CHAMBOEUF,42330,1.80 €,,1.91 €,1.96 €
 42,ROUTE DE SAINT ETIENNE,Feurs,42110,1.79 €,,1.90 €,1.90 €
 42,AIRE DE LA LOIRE,NERONDE,42510,1.98 €,,2.06 €,2.02 €
-42,Place Sully,ROANNE,42300,null,null,null,null
+42,Place Sully,ROANNE,42300,,,,
 42,RUE DU FAUBOURG MOLLIAN,Boën-sur-Lignon,42130,1.90 €,,2.00 €,1.95 €
 42,A-89 aire du Haut-Forez SUD,Les Salles,42440,2.04 €,,2.16 €,2.11 €
 42,15 Rue des trois Glorieuses,SAINT-PRIEST-EN-JAREZ,42270,2.00 €,1.00 €,2.10 €,2.07 €
@@ -121,7 +121,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 42,ZAC NOTRE DAME,Pélussin,42410,1.95 €,,2.02 €,2.00 €
 42,Route de Tarare,Panissières,42360,,,,2.07 €
 42,217 Chemin des Serrots,Les Salles,42440,1.99 €,,2.11 €,2.06 €
-42,Rue du Plat du Gier,L'HORME,42152,null,null,null,null
+42,Rue du Plat du Gier,L'HORME,42152,,,,
 42,ROUTE DE LYON,Savigneux,42600,1.85 €,0.85 €,1.92 €,1.97 €
 42,304  rue de Persigny,SAINT-GERMAIN-LESPINASSE,42640,,,,2.02 €
 42,538 rue magellan,Saint-Nizier-sous-Charlieu,42190,1.84 €,,1.97 €,1.93 €

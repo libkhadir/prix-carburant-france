@@ -11,7 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 26,396 Avenue Victor Hugo,Valence,26000,1.85 €,,1.95 €,1.91 €
 26,295 Avenue de Chabeuil,Valence,26000,1.85 €,,1.99 €,1.92 €
 26,RTE DE MARSEILLE,Montélimar,26200,1.85 €,,1.99 €,1.92 €
-26,22 avenue de Québec,Saint-Vallier,26240,null,null,null,null
+26,22 avenue de Québec,Saint-Vallier,26240,,,,
 26,RN 7 - LES PEYRAUDS,Donzère,26290,1.84 €,,1.95 €,1.92 €
 26,ROUTE NATIONALE 532,Alixan,26300,1.85 €,0.91 €,2.03 €,1.91 €
 26,19 AVENUE ADRIEN FAYOLLE,CREST,26400,1.90 €,,2.00 €,2.00 €
@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 26,Autoroute A49 - Aire Royans VercorsSens Valence - Grenoble,LA BAUME D'HOSTUN,26730,1.95 €,,2.06 €,2.03 €
 26,Autoroute A49 - Aire Porte de la DromeSens Grenoble - Valence,LA BAUME D'HOSTUN,26730,1.95 €,,2.06 €,2.03 €
 26,RN 7,Châteauneuf-du-Rhône,26780,1.85 €,0.87 €,1.96 €,1.92 €
-26,408 route de Nyons,TULETTE,26790,null,null,null,null
+26,408 route de Nyons,TULETTE,26790,,,,
 26,15 AVE JEAN JAURES,Portes-lès-valence,26800,1.94 €,,2.04 €,1.96 €
 26,AUTOROUTE A7 - AIRE PORTE LES VALENCE EST,Portes-lès-Valence,26800,1.87 €,0.88 €,1.98 €,1.96 €
 26,22 AVENUE DE QUEBEC,Saint-Vallier,26240,1.93 €,,2.04 €,1.95 €

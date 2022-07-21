@@ -4,10 +4,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 22,LES VILLAGES,Saint-Brieuc,22000,1.93 €,,2.03 €,1.98 €
 22,52 RUE DE BREST,DINAN,22100,1.96 €,0.87 €,2.07 €,2.00 €
 22,LA LANDE,TRESSIGNAUX,22290,,,2.16 €,2.08 €
-22,40 Rue d'Armor,Lamballe,22400,null,null,null,null
+22,40 Rue d'Armor,Lamballe,22400,,,,
 22,z a des parpareux,Loudéac,22600,,,2.17 €,2.15 €
 22,RN 12,PLOUNEVEZ MOEDEC,22810,1.83 €,0.88 €,1.94 €,1.89 €
-22,2 Rue Charles de Gaulle,LANVALLAY,22100,null,null,null,null
+22,2 Rue Charles de Gaulle,LANVALLAY,22100,,,,
 22,SA BRIODIS Centre Commercial du Carpont,Ploufragan,22440,1.83 €,0.83 €,1.90 €,1.89 €
 22,RN12 - LA MARE MELEE,PLERNEUF,22170,1.86 €,,1.97 €,1.89 €
 22,RUE DU GENERAL DE GAULLE,Lanvallay,22100,,,1.99 €,1.91 €

@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 15,route de murat  station-service BAR,Riom-es-Montagnes,15400,,,2.13 €,2.09 €
-15,AVENUE DU DOCTEUR MALLET,Chaudes-Aigues,15110,null,null,null,null
-15,Route de Riom Es Montagne,Murat,15300,null,null,null,null
+15,AVENUE DU DOCTEUR MALLET,Chaudes-Aigues,15110,,,,
+15,Route de Riom Es Montagne,Murat,15300,,,,
 15,87 Avenue Charles de Gaulle,AURILLAC,15000,1.93 €,,2.04 €,1.98 €
 15,Rue de la République,Ydes,15210,1.93 €,0.82 €,2.04 €,1.96 €
 15,15 Grand'Rue,Thiézac,15800,,,,2.02 €
@@ -32,14 +32,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 15,66 Rue de Firminy,AURILLAC,15000,1.87 €,0.88 €,2.12 €,1.92 €
 15,16 Avenue du 4 Septembre 1870,AURILLAC,15000,,,2.08 €,2.02 €
 15,1 rue germain prat,LAFEUILLADE-EN-VéZIE,15130,2.11 €,,2.16 €,2.15 €
-15,Route d'Aurillac,Saint-Paul-des-Landes,15250,null,null,null,null
+15,Route d'Aurillac,Saint-Paul-des-Landes,15250,,,,
 15,Rue de la Jordanne,AURILLAC,15000,1.87 €,0.78 €,,1.92 €
-15,Allée des Tilleuls,Vic-sur-Cère,15800,null,null,null,null
+15,Allée des Tilleuls,Vic-sur-Cère,15800,,,,
 15,Chemin de la Croix Jolie,Murat,15300,,,,2.05 €
 15,PRE CHAMBON,MASSIAC,15500,,,2.03 €,1.99 €
 15,RN122 La Croix Blanche,Saint-Mamet-la-Salvetat,15220,,,2.18 €,2.12 €
 15,ZAC de la Sablière,Aurillac,15000,1.85 €,0.77 €,1.96 €,1.91 €
-15,41 Avenue de la République,SAINT-FLOUR,15100,null,null,null,null
+15,41 Avenue de la République,SAINT-FLOUR,15100,,,,
 15,AVENUE HECTOR PESCHAUD,Murat,15300,,,,2.10 €
 15,34 avenue de Verdun,Saint-Flour,15100,,,,2.02 €
 15,10  Avenue de la Fontlong,SAINT-FLOUR,15100,,0.99 €,,1.99 €

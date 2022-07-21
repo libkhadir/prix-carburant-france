@@ -2,8 +2,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 40,STATION TOTAL,SAUGNAC-ET-CAMBRAN,40180,2.05 €,,2.16 €,2.05 €
 40,47 rue Roger Salengro,MORCENX,40110,1.98 €,,2.10 €,1.98 €
 40,RD38 ZAC DE SEGUES,Ygos-Saint-Saturnin,40110,,,2.10 €,2.02 €
-40,FOCH,Dax,40100,null,null,null,null
-40,Av de cramat,Soustons,40140,null,null,null,null
+40,FOCH,Dax,40100,,,,
+40,Av de cramat,Soustons,40140,,,,
 40,Rue Robert Dubaa,MAGESCQ,40140,,,,2.09 €
 40,394 AVENUE GEORGES CLEMENCEAU,Mont-de-Marsan,40000,1.84 €,0.88 €,1.95 €,1.90 €
 40,500 Rue de Gouveia,Labouheyre,40210,1.96 €,0.85 €,,1.97 €
@@ -88,7 +88,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 40,boulevard des cigales,CAPBRETON,40130,1.97 €,,2.04 €,1.96 €
 40,route de tarbes,Aire-sur-l'Adour,40800,1.95 €,,2.13 €,2.01 €
 40,129 Rue Victor Hugo,TARTAS,40400,1.87 €,0.85 €,,1.93 €
-40,600 AVENUE DE SAINT SEVER,Saint-Pierre-du-Mont,40280,null,null,null,null
+40,600 AVENUE DE SAINT SEVER,Saint-Pierre-du-Mont,40280,,,,
 40, Route de la Parcelle,Dax,40100,1.81 €,0.85 €,1.93 €,1.89 €
 40,C/C CD 54,SAINT-MARTIN-DE-SEIGNANX,40390,1.90 €,,1.98 €,1.95 €
 40,42 AVENUE DE MONT DE MARSAN,GRENADE SUR L'ADOUR,40270,,,,2.01 €

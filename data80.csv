@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 80,213 Boulevard de la République,Abbeville,80100,1.86 €,,2.05 €,1.93 €
 80, Rue Thuillier Delambre,RIVERY,80136,,,2.04 €,2.05 €
 80,AUTOROUTE A 28,LE TRANSLAY,80140,2.17 €,,2.27 €,2.15 €
-80,Avenue des Australiens,Péronne,80200,null,null,null,null
+80,Avenue des Australiens,Péronne,80200,,,,
 80,rue charles de gaulle,Gamaches,80220,,,2.00 €,1.95 €
 80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,2.00 €,0.89 €,2.11 €,2.01 €
 80,2 Route de Normandie,Salouël,80480,1.95 €,,2.03 €,1.97 €
@@ -89,7 +89,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 80,zi route d'etinehem,Bray-sur-Somme,80340,,,,1.91 €
 80,Route de Taisnil,SALEUX,80480,1.94 €,,2.11 €,1.94 €
 80,Rue de Roye,MONTDIDIER,80500,1.86 €,0.82 €,1.95 €,1.94 €
-80, Rue Hippolyte Noiret,FOUILLOY,80800,null,null,null,null
+80, Rue Hippolyte Noiret,FOUILLOY,80800,,,,
 80,7 BD DU PORT D'AVAL,AMIENS,80000,1.94 €,0.87 €,2.05 €,2.02 €
 80,1 Place du génèral de Gaulle,Conty,80160,,0.93 €,,2.11 €
 80,RUE HYPPOLYTE NOIRET,FOUILLOY,80800,1.93 €,,2.00 €,1.94 €

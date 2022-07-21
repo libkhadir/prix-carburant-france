@@ -2,9 +2,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 19,ROUTE DE TULLE,Meymac,19250,2.01 €,,2.11 €,2.04 €
 19,CHAULAUDRE,Égletons,19300,1.97 €,0.88 €,2.08 €,2.03 €
 19,12 AV ALSACE LORRAINE,TULLE,19000,1.98 €,,2.09 €,2.03 €
-19, Avenue de Coulaud,LAGUENNE,19150,null,null,null,null
+19, Avenue de Coulaud,LAGUENNE,19150,,,,
 19,RD15 LE BOURG,LE PESCHER,19190,,,2.10 €,2.04 €
-19,12 Rue du Commerce,Eygurande,19340,null,null,null,null
+19,12 Rue du Commerce,Eygurande,19340,,,,
 19,56 Avenue du Général Leclerc,USSEL,19200,,1.00 €,,2.20 €
 19,86 Avenue Président John Kennedy,Brive-la-Gaillarde,19100,,,1.95 €,1.94 €
 19,108 AVENUE PIERRE SEMARD,Brive-la-Gaillarde,19100,1.85 €,0.89 €,1.95 €,1.91 €
@@ -52,7 +52,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 19,RD 921,BEYNAT,19190,,,2.15 €,2.05 €
 19,Lieu-dit les Paturaux,Uzerche,19140,1.90 €,,2.00 €,1.97 €
 19,2 QUAI CONTINSOUZA,TULLE,19000,1.98 €,0.85 €,,1.96 €
-19,1 Rue de Baladour,TULLE,19000,null,null,null,null
+19,1 Rue de Baladour,TULLE,19000,,,,
 19,Avenue Charles de Gaulle,ÉGLETONS,19300,1.89 €,,1.97 €,1.95 €
 19,AIRE DU PAYS DE BRIVE A 89,Saint-Pantaléon-de-Larche,19600,2.13 €,,2.23 €,2.14 €
 19,90 Avenue Abbé Jean Alvitre,BRIVE-LA-GAILLARDE,19100,1.84 €,,1.94 €,1.92 €

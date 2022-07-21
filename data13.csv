@@ -18,8 +18,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 13,32 BOULEVARD SCHLOESING,MARSEILLE,13009,1.81 €,,1.92 €,1.90 €
 13,175 Avenue Clot-Bey,MARSEILLE,13008,1.93 €,,2.03 €,2.02 €
 13,BOULEVARD JEAN MOULIN,Marseille,13010,1.83 €,,1.94 €,1.92 €
-13,162 Boulevard de Plombières,Marseille,13014,null,null,null,null
-13,221 Boulevard Danielle Casanova,MARSEILLE,13014,null,null,null,null
+13,162 Boulevard de Plombières,Marseille,13014,,,,
+13,221 Boulevard Danielle Casanova,MARSEILLE,13014,,,,
 13,Avenue du Plan de Campagne,LES PENNES-MIRABEAU,13170,1.91 €,0.84 €,2.00 €,1.96 €
 13,516 Chemin de la Madrague-Ville,MARSEILLE,13015,1.93 €,0.85 €,2.03 €,2.02 €
 13,20-22  RN DE ST ANTOINE,MARSEILLE,13015,1.93 €,,2.03 €,2.02 €
@@ -35,9 +35,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 13,RN 7 QUARTIER DU RABET,NOVES,13550,1.92 €,0.88 €,2.02 €,2.01 €
 13,ROND POINT SAINTE ANNE,MARTIGUES,13500,1.93 €,,2.05 €,1.99 €
 13,RD 559 AVENUE PAUL ROVARCH,LA CIOTAT,13600,1.81 €,,1.93 €,1.92 €
-13,3 avenue du Général de Gaulle,Eyragues,13630,null,null,null,null
+13,3 avenue du Général de Gaulle,Eyragues,13630,,,,
 13,Vieille Route de Saint-Rémy,Orgon,13660,1.97 €,,2.13 €,1.97 €
-13,Chemin des Plaines Baronnes,La Ciotat,13600,null,null,null,null
+13,Chemin des Plaines Baronnes,La Ciotat,13600,,,,
 13,RN 96 LES 4 CHEMINS LA BARQUE,Fuveau,13710,1.85 €,0.89 €,1.94 €,1.91 €
 13,AUTOROUTE A7 - AIRE DE LANÇON OUEST,Lançon-Provence,13680,1.91 €,0.88 €,2.02 €,1.96 €
 13,CD5 Le Crépon Ouest,Saint-Mitre-les-Remparts,13920,1.82 €,,1.92 €,1.90 €
@@ -107,8 +107,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 13,260 BOULEVARD PAUL CLAUDEL,MARSEILLE,13010,,,2.16 €,2.10 €
 13,ZI du grand pont RD 561,La Roque-d'Anthéron,13640,1.89 €,,2.00 €,1.99 €
 13,34  Route de Salon- RN 572,PELISSANNE,13330,,0.98 €,2.14 €,2.20 €
-13,ZAC des Pradeaux,Gréasque,13850,null,null,null,null
-13,65 avenue père Sylvain Giraud,Éguilles,13510,null,null,null,null
+13,ZAC des Pradeaux,Gréasque,13850,,,,
+13,65 avenue père Sylvain Giraud,Éguilles,13510,,,,
 13,CAMP MAJOR,AUBAGNE,13400,1.91 €,,2.02 €,2.01 €
 13,LES BROQUETIERS,SALON-DE-PROVENCE,13300,1.89 €,,2.00 €,1.99 €
 13,AUTOROUTE A7 - AIRE DE LANÇON EST,Lançon-Provence,13680,1.92 €,0.88 €,2.03 €,2.01 €

@@ -12,7 +12,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 61,AUTOROUTE A 28,LE SAP-ANDRE,61230,2.07 €,,2.18 €,2.09 €
 61,108 Rue de Messei,FLERS,61100,1.85 €,0.85 €,,1.93 €
 61,la coquerie,Athis-de-l'Orne,61430,,,2.06 €,2.00 €
-61,95 Rue Louis Pasteur,L'Aigle,61300,null,null,null,null
+61,95 Rue Louis Pasteur,L'Aigle,61300,,,,
 61,Rue de frères Juchereau,Tourouvre,61190,,,2.03 €,1.99 €
 61,38 Route de Fresnay,SAINT-GERMAIN-DU-CORBéIS,61000,,,2.03 €,2.05 €
 61,28 Rue d'Alençon,Condé-sur-Sarthe,61250,1.91 €,,2.02 €,2.00 €

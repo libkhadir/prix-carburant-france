@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,Allée de la Balme,SAINT-GERMAIN-DU-BOIS,71330,1.86 €,,1.95 €,1.97 €
 71,26 Place Roger Salengro,SAINT-VALLIER,71230,2.07 €,,,2.13 €
 71,Rue du Pranet,Ouroux-sur-Saône,71370,,,1.89 €,1.93 €
-71,Carrefour de l'Europe,Mâcon,71000,null,null,null,null
+71,Carrefour de l'Europe,Mâcon,71000,,,,
 71,37 AV NICEPHORE NIEPCE,Chalon-sur-Saône,71100,1.93 €,,2.06 €,2.01 €
 71,22 Avenue Monnot,Chalon-sur-Saône,71100,1.94 €,,2.04 €,2.00 €
 71,52 RTE DE LYON,Saint-Remy,71100,1.93 €,,2.04 €,2.03 €
@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,ZI de la Saule,SAINT-VALLIER,71230,1.83 €,,1.96 €,1.95 €
 71,15  AVENUE DE LA REPUBLIQUE,AUTUN,71400,1.85 €,0.88 €,1.95 €,1.91 €
 71,AVENUE DU 2 EME DRAGON RD 978,AUTUN,71400,1.85 €,,,1.91 €
-71,47 Rue du Guidon,Louhans,71500,null,null,null,null
+71,47 Rue du Guidon,Louhans,71500,,,,
 71,ZA RD 69,Givry,71640,1.90 €,,,1.96 €
 71,RN 79,Sainte-Cécile,71250,1.93 €,,2.04 €,2.03 €
 71,55 Rue du Château,Sennecé-lès-Mâcon,71000,1.95 €,,2.07 €,1.96 €
@@ -73,7 +73,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,99 RUE DU GUIDON,Louhans,71500,2.10 €,,2.13 €,2.03 €
 71,2 route,Clux villeneuve,71270,2.05 €,1.46 €,2.03 €,2.00 €
 71,144 Avenue de Paris,CHALON-SUR-SAôNE,71100,,,1.98 €,2.00 €
-71,71 RUE SAINT NICOLAS,Couches,71490,null,null,null,null
+71,71 RUE SAINT NICOLAS,Couches,71490,,,,
 71,ZI DE MILLEURE,Le MIROIR,71480,1.93 €,,2.04 €,2.01 €
 71,Le Champêtre,BAUGY,71110,,,2.21 €,2.07 €
 71,540 route des CHARMETTES,Varennes-Saint-Sauveur,71480,,,2.13 €,2.03 €

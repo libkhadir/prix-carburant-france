@@ -4,10 +4,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 02,183 ROUTE DE PARIS,Vauxbuin,02200,1.90 €,,2.00 €,1.91 €
 02,AUT A 26- AIRE DU MONT NIZY,Juvincourt-et-Damary,02190,2.07 €,,2.18 €,2.09 €
 02,89 Grand Rue,Dizy-le-Gros,02340,2.05 €,,,2.00 €
-02,87 rue de st quentin,Bohain-en-Vermandois,02110,null,null,null,null
+02,87 rue de st quentin,Bohain-en-Vermandois,02110,,,,
 02,46 Avenue Faidherbe,Saint-Quentin,02100,1.91 €,,2.03 €,1.92 €
 02,16 Boulevard Pierre Brossolette,Laon,02000,1.92 €,0.90 €,2.10 €,1.98 €
-02,ZI l'Ecorcherie,La Ferté-Milon,02460,null,null,null,null
+02,ZI l'Ecorcherie,La Ferté-Milon,02460,,,,
 02,102 RUE CHARLES DE GAULLE,HIRSON,02500,1.84 €,,1.93 €,1.89 €
 02,1 Place de Laon,Soissons,02200,1.89 €,,2.04 €,1.92 €
 02,1 Chemin de Danizy,LA FèRE,02800,,,2.12 €,2.03 €
@@ -68,7 +68,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 02,BLD CAMILLE GUERIN,Saint-Quentin,02100,1.89 €,0.87 €,2.01 €,1.90 €
 02,2 AVENUE DE LA LIBERATION,Crécy-sur-Serre,02270,2.10 €,,2.22 €,2.17 €
 02,RTE NATIONALE 2  CHEMIN DE LA NONNE,VILLERS-COTTERêTS,02600,,1.26 €,2.29 €,2.24 €
-02,Rue de la Fère,Saint-Quentin,02100,null,null,null,null
+02,Rue de la Fère,Saint-Quentin,02100,,,,
 02,rue de la Fère,Neuville-Saint-Amand,02100,1.88 €,0.70 €,2.00 €,1.90 €
 02,16 RUE DU 2 SEPTEMBRE 1944,LA NEUVILLE-LèS-DORENGT,02450,,,2.17 €,2.15 €
 02,20 AVENUE JEAN JAURES,VAILLY SUR AISNE,02370,,,2.10 €,2.00 €

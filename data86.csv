@@ -4,8 +4,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 86,Beaulieu - 2 Avenue de Lafayette,POITIERS,86000,1.90 €,,2.00 €,1.95 €
 86,RN10 - LONGEVE,Dissay,86130,,,2.08 €,2.01 €
 86,AIRE DE CHATELLERAULT-ANTRAN,Antran,86100,2.23 €,,2.34 €,2.16 €
-86,autoroute a10,Jaunay-Clan,86130,null,null,null,null
-86,1 Avenue de l'Europe,Montmorillon,86500,null,null,null,null
+86,autoroute a10,Jaunay-Clan,86130,,,,
+86,1 Avenue de l'Europe,Montmorillon,86500,,,,
 86,15 RUE MARIE CURIE,Vendeuvre-du-Poitou,86380,1.91 €,,2.00 €,1.94 €
 86,109 AV MARECHAL DE LATTRE DE TASSIGNY,CHATELLERAULT,86100,1.88 €,0.85 €,1.97 €,1.95 €
 86,108 Avenue du 8 Mai 1945,POITIERS,86000,,,2.02 €,1.93 €

@@ -15,9 +15,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 74,ROUTE NATIONALE 522,MEGEVE,74120,1.95 €,0.89 €,2.06 €,2.03 €
 74, Route de Sallanches,DEMI-QUARTIER,74120,2.06 €,,2.17 €,2.04 €
 74,66 ROUTE D'ETREMBIERES,ANNEMASSE,74100,1.94 €,,2.05 €,2.03 €
-74,220 rue Charles baudalaires,Bonneville,74130,null,null,null,null
+74,220 rue Charles baudalaires,Bonneville,74130,,,,
 74,ROUTE DES GRANDES ALPES,Les Gets,74260,,,2.13 €,2.15 €
-74,PLACE AVET,THONES,74230,null,null,null,null
+74,PLACE AVET,THONES,74230,,,,
 74,1 Avenue du Mont-Blanc,Cluses,74300,1.98 €,0.93 €,2.06 €,2.02 €
 74,Route Imperiale,SAINT-MARTIN-BELLEVUE,74370,1.92 €,,,2.03 €
 74,9 AVENUE ANNA DE NOUAILLES,Évian-les-Bains,74500,,,2.08 €,2.03 €

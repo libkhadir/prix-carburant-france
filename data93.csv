@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 93,2 Rue des Hauts-Châteaux,Noisy-le-Grand,93160,1.91 €,,2.01 €,1.99 €
 93,44-48 AVENUE DE LA REPUBLIQUE,BAGNOLET,93170,2.02 €,,2.13 €,2.07 €
 93,22 Route de Neuilly,Noisy-le-Grand,93160,1.90 €,,2.02 €,1.96 €
-93,107 AVENUE JULES GUESDE,GAGNY,93220,null,null,null,null
+93,107 AVENUE JULES GUESDE,GAGNY,93220,,,,
 93,17 AVENUE MARCEL CACHIN,STAINS,93240,1.91 €,,1.98 €,1.96 €
 93,238 RUE DE PARIS,LES LILAS,93260,1.90 €,0.87 €,2.00 €,1.96 €
 93,DEVIATION CD 88 - 1 ROUTE DE ROI,Tremblay-en-France,93290,,,2.12 €,2.06 €
@@ -74,7 +74,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 93,21 AV.DE STALINGRAD - COURS ST L,STAINS,93240,1.97 €,,2.08 €,2.03 €
 93,ROUTE DES PETITS PONTS,Sevran,93270,1.90 €,,2.02 €,1.96 €
 93,41 Avenue de Rosny-sous-Bois,Villemomble,93250,2.04 €,,2.09 €,2.04 €
-93,56 avenue du pavé neuf,Noisy-le-Grand,93160,null,null,null,null
+93,56 avenue du pavé neuf,Noisy-le-Grand,93160,,,,
 93,104/106 AV MEDERIC,Noisy-le-Grand,93160,1.97 €,0.86 €,2.08 €,2.03 €
 93,55 Rue de la Commune de Paris,AUBERVILLIERS,93300,1.95 €,,2.04 €,2.00 €
 93,80  rue Saint Stenay,DRANCY,93700,1.87 €,,2.00 €,1.96 €

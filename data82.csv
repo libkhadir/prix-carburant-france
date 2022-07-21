@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 82,Route de Montricoux,NEGREPELISSE,82800,1.90 €,,1.99 €,1.93 €
 82,Boulevard Victor Guilhem,Valence,82400,2.00 €,,2.15 €,2.01 €
 82,43 Avenue du Chasselas,Moissac,82200,1.93 €,,2.04 €,2.01 €
-82,2 AV MARCEAU HAMECHER,MONTAUBAN,82000,null,null,null,null
+82,2 AV MARCEAU HAMECHER,MONTAUBAN,82000,,,,
 82,190 ROUTE DE TOULOUSE,POMPIGNAN,82170,2.06 €,,,2.07 €
 82,Aire de Nauze Vert  RN 20,BRESSOLS,82710,2.06 €,,2.17 €,2.10 €
 82,CHEMIN DEPARTEMENTAL 926,Monteils,82300,,,2.04 €,1.96 €

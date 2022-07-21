@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 58,ROUTE DE PARIS,Pougues-les-Eaux,58320,,,2.00 €,2.00 €
-58,LE BOURG,Brassy,58140,null,null,null,null
-58, Rue Vieille,DORNES,58390,null,null,null,null
+58,LE BOURG,Brassy,58140,,,,
+58, Rue Vieille,DORNES,58390,,,,
 58,9 route de l’aerodrome,Cosne cours sur Loire,58200,,0.95 €,,
 58,AVENUE DU 8 MAI,LORMES,58140,2.09 €,,2.18 €,2.03 €
 58,58 Rue du Maréchal Leclerc,COSNE-COURS-SUR-LOIRE,58200,,,2.06 €,2.00 €

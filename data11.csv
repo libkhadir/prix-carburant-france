@@ -11,9 +11,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 11,40 Boulevard Frédéric Mistral,Narbonne,11100,1.83 €,0.88 €,1.98 €,1.89 €
 11,AVENUE CROIX SUD,Narbonne,11100,1.83 €,,1.94 €,1.89 €
 11,Avenue de la Croix Sud - PL uniquement,Narbonne,11100,,,,1.88 €
-11,La Madeleine,PEZENS,11170,null,null,null,null
+11,La Madeleine,PEZENS,11170,,,,
 11,RD6113,LéZIGNAN-CORBIèRES,11200,,0.99 €,,1.98 €
-11,Avenue Charles Palauqui,PORT-LA-NOUVELLE,11210,null,null,null,null
+11,Avenue Charles Palauqui,PORT-LA-NOUVELLE,11210,,,,
 11,23 AVENUE CAMILLE BOUCHE,Limoux,11300,1.92 €,0.89 €,2.00 €,1.97 €
 11,88 Avenue Monseigneur de Langle,Castelnaudary,11400,,0.99 €,2.12 €,2.05 €
 11,A61 Aire d'Arzens Sud,ARZENS,11290,2.06 €,0.99 €,2.17 €,2.08 €
@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 11,Route de Coursan,Salles-d'Aude,11110,1.99 €,0.88 €,2.00 €,1.96 €
 11,Avenue d'Espagne,NARBONNE,11100,1.91 €,,2.02 €,1.98 €
 11,RN 113,TRèBES,11800,1.90 €,0.75 €,2.00 €,1.93 €
-11,Avenue du Souvenir Français,CARCASSONNE,11000,null,null,null,null
+11,Avenue du Souvenir Français,CARCASSONNE,11000,,,,
 11,1033 Avenue Martin dauch,CASTELNAUDARY,11400,,,,2.07 €
 11,Boulevard du Minervois,Trèbes,11800,1.78 €,0.85 €,1.88 €,1.90 €
 11,route départementale 6009,La Palme,11480,1.98 €,0.90 €,2.08 €,2.05 €
@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 11,Lieu dit La Viala,VILLEMOUSTAUSSOU,11620,,0.99 €,2.09 €,2.04 €
 11,ZA DE MATEILLE,GRUISSAN,11430,1.79 €,0.85 €,1.93 €,1.91 €
 11,AVENUE DU 3ème RPIMA,Carcassonne,11000,1.91 €,,2.02 €,2.00 €
-11,8 Avenue du Président Franklin Roosevelt,CARCASSONNE,11000,null,null,null,null
+11,8 Avenue du Président Franklin Roosevelt,CARCASSONNE,11000,,,,
 11,RD 620 Lieu dit la pièce,VILLEGLY,11600,2.00 €,,,2.04 €
 11,4 Avenue du Minervois,LA REDORTE,11700,1.94 €,0.88 €,1.97 €,1.95 €
 11,LIEU DIT "ROC DEL DIE",Capendu,11700,1.78 €,0.85 €,1.88 €,1.90 €

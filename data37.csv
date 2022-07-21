@@ -6,8 +6,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 37,89 Boulevard Richard Wagner,TOURS,37000,1.86 €,,1.96 €,1.94 €
 37,45  QUAI DE MARMOUTIER,TOURS,37100,1.94 €,,2.05 €,2.00 €
 37,Lieu-dit La Loge,Azay-le-Rideau,37190,,,2.12 €,2.05 €
-37,RUE DU VAL D'INDRE,MONTS,37260,null,null,null,null
-37,RN 143,Chambourg-sur-Indre,37310,null,null,null,null
+37,RUE DU VAL D'INDRE,MONTS,37260,,,,
+37,RN 143,Chambourg-sur-Indre,37310,,,,
 37,Aire de Athée-sur-Cher Autoroute A 85,Athée-sur-Cher,37270,2.10 €,,2.23 €,2.15 €
 37,AUTOROUTE A10 - AIRE TOURS VAL DE LOIRE,MONNAIE,37380,1.92 €,0.90 €,2.03 €,2.00 €
 37,28 route de Tours,Chaveignes,37120,,,2.00 €,1.95 €
@@ -65,7 +65,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 37,RUE DES GRANDS CLOS,ARTANNES SUR INDRE,37260,,,2.08 €,1.99 €
 37,RUE DES PEUPLIERS - ROND POINT DU FOUR A CHAUX,Sorigny,37250,1.94 €,0.87 €,2.03 €,1.96 €
 37,RUE ABEL GANCE - ZAC DE L'AEROGA,TOURS,37100,1.83 €,0.87 €,1.95 €,1.91 €
-37,LA ROCADE PIECE DE BUXEUIL,DESCARTES,37160,null,null,null,null
+37,LA ROCADE PIECE DE BUXEUIL,DESCARTES,37160,,,,
 37,27 avenue du general de gaulle,bourgueil,37140,1.86 €,0.71 €,2.02 €,1.96 €
 37,340 avenue du grand sud RD910,LES RENARDIERES,37170,1.83 €,0.87 €,1.95 €,1.90 €
 37,Avenue des Martyrs,LIGUEIL,37240,1.91 €,,2.00 €,1.99 €

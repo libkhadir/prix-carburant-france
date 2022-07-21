@@ -21,8 +21,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,140 Rue Jean Jaurès,Villeneuve-d'Ascq,59491,1.86 €,0.88 €,1.98 €,1.91 €
 59,ROND-POINT DE L'EPINETTE,SECLIN,59113,1.86 €,0.89 €,1.98 €,1.90 €
 59,237 Avenue de l'Hippodrome,Lambersart,59130,1.87 €,,1.99 €,1.92 €
-59,Rue Ledru Rollin,ESCAUDAIN,59124,null,null,null,null
-59,47 Rue Jean-Baptiste Lebas,PHALEMPIN,59133,null,null,null,null
+59,Rue Ledru Rollin,ESCAUDAIN,59124,,,,
+59,47 Rue Jean-Baptiste Lebas,PHALEMPIN,59133,,,,
 59,48 RUE ETIENNE D'ORVES,PECQUENCOURT,59146,1.86 €,0.85 €,1.97 €,1.91 €
 59,AUTOROUTE A2 - AIRE DE LA SENTINELLE OUEST,LA SENTINELLE,59174,1.93 €,0.86 €,2.04 €,1.99 €
 59,C.C. AUCHAN - LIEU-DIT MOULIN DE,Faches-Thumesnil,59155,1.86 €,,1.97 €,1.91 €
@@ -43,11 +43,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,2  RUE DE CAUDRY,CAMBRAI,59400,1.95 €,0.88 €,2.06 €,2.01 €
 59,BLD DE LA LIBERTE,Cambrai,59400,1.88 €,,1.99 €,1.92 €
 59,18 Rue de la République,Saint-Pol-sur-Mer,59430,1.86 €,0.89 €,1.94 €,1.91 €
-59,Route Nationale - Le Raquet,Lambres-lez-Douai,59552,null,null,null,null
+59,Route Nationale - Le Raquet,Lambres-lez-Douai,59552,,,,
 59,2 PLACE DE LA GARE,Le Quesnoy,59530,1.90 €,,1.98 €,1.95 €
-59,11 Rue Fernand Pécheux,Fourmies,59610,null,null,null,null
-59,3 RUE JACQUES VARLET,BOURBOURG,59630,null,null,null,null
-59,301 Rue Jean Jaurès,VILLENEUVE-D'ASCQ,59650,null,null,null,null
+59,11 Rue Fernand Pécheux,Fourmies,59610,,,,
+59,3 RUE JACQUES VARLET,BOURBOURG,59630,,,,
+59,301 Rue Jean Jaurès,VILLENEUVE-D'ASCQ,59650,,,,
 59,33 RUE JEAN JAURES,VILLENEUVE D'ASCQ,59491,1.86 €,0.88 €,1.98 €,1.91 €
 59,76  RUE JEAN JAURES,Villeneuve-d'Ascq,59650,1.86 €,,1.98 €,1.91 €
 59,115 Boulevard Clemenceau,Marcq-en-Baroeul,59700,1.87 €,,1.99 €,1.92 €

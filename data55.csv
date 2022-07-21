@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 55,2 Avenue Miribel,Verdun,55100,1.96 €,,2.06 €,2.04 €
-55,3 Rue de Verdun,GONDRECOURT-LE-CHâTEAU,55130,null,null,null,null
-55,Rue du Docteur Edmond Morelle,COMMERCY,55200,null,null,null,null
+55,3 Rue de Verdun,GONDRECOURT-LE-CHâTEAU,55130,,,,
+55,Rue du Docteur Edmond Morelle,COMMERCY,55200,,,,
 55,28 Rue de Saint-Mihiel,Vigneulles-lès-Hattonchâtel,55210,1.90 €,,,1.97 €
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS NORD,HAUDIOMONT,55160,1.97 €,,2.08 €,2.05 €
 55,6 RUE DU FORT,Saint-Mihiel,55300,1.96 €,0.88 €,2.07 €,2.04 €

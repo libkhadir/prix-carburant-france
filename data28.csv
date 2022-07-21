@@ -2,9 +2,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 28,56 Rue de Paris,BREZOLLES,28270,,,2.16 €,2.00 €
 28,Rue de Dolmont,Saint-Georges-sur-Eure,28190,1.95 €,,2.07 €,1.96 €
 28,AUTOROUTE A11 OCEANE,Dampierre-sous-Brou,28160,1.92 €,,2.03 €,1.97 €
-28,ROUTE D'OULINS,ANET,28260,null,null,null,null
+28,ROUTE D'OULINS,ANET,28260,,,,
 28,Route d'Alençon,Nogent-le-Rotrou,28400,1.95 €,,2.07 €,2.03 €
-28,2 Rue Louis Fauvel,Vernouillet,28500,null,null,null,null
+28,2 Rue Louis Fauvel,Vernouillet,28500,,,,
 28,id Brieure,VICHèRES,28480,2.02 €,,2.14 €,2.08 €
 28,zac du debucher,ANET,28260,1.88 €,,1.97 €,1.97 €
 28,1 Impasse de la Cerisaie,La Loupe,28240,1.80 €,,1.89 €,1.86 €

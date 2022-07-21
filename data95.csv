@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 95,177 BD VICTOR BORDIER,Montigny-lès-Cormeilles,95370,1.85 €,,,1.92 €
 95,47 AVENUE DU GENERAL DE GAULLE,Saint-Brice-sous-Forêt,95350,2.00 €,0.86 €,2.11 €,2.07 €
 95,RN 14,CHARMONT,95420,1.87 €,,,1.94 €
-95,Boulevard de l'Oise,Cergy,95490,null,null,null,null
+95,Boulevard de l'Oise,Cergy,95490,,,,
 95,5 Avenue Voltaire,Eaubonne,95600,1.92 €,0.87 €,2.01 €,1.97 €
 95,RN1,Moisselles,95570,1.88 €,,2.07 €,1.98 €
 95,CD 916 - ROUTE DE GISORS,GENICOURT,95650,1.88 €,0.85 €,2.02 €,1.94 €
@@ -33,7 +33,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 95,151 Avenue Gabriel Péri,BEZONS,95870,1.88 €,,2.00 €,1.95 €
 95,1 Rue Georges Pompidou,GONESSE,95500,1.85 €,0.85 €,1.94 €,1.91 €
 95,56 Rue de la Libération,Écouen,95440,1.86 €,,1.96 €,2.00 €
-95,56 Rue de Paris,Saint ouen l'aumone,95310,null,null,null,null
+95,56 Rue de Paris,Saint ouen l'aumone,95310,,,,
 95,28 Avenue de la Division Leclerc,Deuil-la-Barre,95170,2.02 €,,2.14 €,2.09 €
 95,52 RUE DE PARIS,Saint-Ouen-l'Aumône,95310,2.07 €,,2.17 €,2.10 €
 95,9 RD 104,ATTAINVILLE,95570,2.02 €,,2.14 €,2.10 €
@@ -63,7 +63,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 95,VOIE P5 ET F2 BP 20212,Roissy-en-France,95700,1.97 €,0.89 €,2.08 €,2.06 €
 95,RN 14 LIEUDIT LA MARLIERE,SAGY,95450,1.87 €,0.89 €,1.98 €,1.94 €
 95,LE CLOS PONTCEL D 316,LUZARCHES,95270,,,2.00 €,1.95 €
-95,avenue des entrepreneurs,Villiers-le-Bel,95400,null,null,null,null
+95,avenue des entrepreneurs,Villiers-le-Bel,95400,,,,
 95,Avenue des Violettes,Le Thillay,95500,1.91 €,0.87 €,,2.00 €
 95,RUE NEUVE,PUISEUX-PONTOISE,95650,1.86 €,,1.96 €,1.98 €
 95,Rue de Pontoise,MéRY-SUR-OISE,95540,1.85 €,0.85 €,1.96 €,1.96 €
@@ -98,7 +98,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 95,Route Nationale 1,MOISSELLES,95570,1.85 €,,1.98 €,1.93 €
 95,175 BOULEVARD DE PONTOISE,Montigny-lès-Cormeilles,95370,1.85 €,,1.93 €,1.92 €
 95,AUTOROUTE A15 - AIRE DE PIERRELAYE,PIERRELAYE,95480,1.83 €,,1.94 €,1.90 €
-95,AVENUE DES VIOLETTES,LE THILLAY,95500,null,null,null,null
+95,AVENUE DES VIOLETTES,LE THILLAY,95500,,,,
 95,1 RUE DE L'OR - BP.20212,Roissy-en-France,95700,1.97 €,0.89 €,2.08 €,2.06 €
 95,3 Avenue des Trois Fontaines,Cergy,95000,2.08 €,,2.17 €,2.10 €
 95,RD 370 RUE NUNGESSER ET COLI,GONESSE,95500,1.86 €,0.85 €,2.01 €,1.94 €

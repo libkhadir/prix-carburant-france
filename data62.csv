@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,Autoroute A16 péage le touquet,Étaples,62630,,,2.27 €,2.13 €
 62,7bis rue des Glattignies,Fleurbaix,62840,2.00 €,,2.07 €,2.00 €
 62,138 PLACE DE THECOSLOVAQUIE,ARRAS,62000,1.83 €,0.87 €,1.95 €,1.90 €
-62, Avenue Roger Salengro,CALAIS,62100,null,null,null,null
+62, Avenue Roger Salengro,CALAIS,62100,,,,
 62,ROUTE DE LAMBRES,Aire-sur-la-Lys,62120,1.86 €,0.90 €,1.98 €,1.91 €
 62,Rue d'Arras,Saint-Michel-sur-Ternoise,62130,1.85 €,,1.93 €,1.93 €
 62,Aire de Rely - Autoroute A26 - Sens Calais - Reims,Rely,62120,1.97 €,,2.08 €,2.03 €
@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,Autoroute A1 - Aire de Wancourt,WANCOURT,62128,1.98 €,,2.09 €,2.01 €
 62,22 Rue François Beaucamp,Grenay,62160,2.05 €,,2.13 €,1.90 €
 62,AUTOROUTE A26 - AIRE DE SOUCHEZ,SOUCHEZ,62153,1.93 €,,2.04 €,1.99 €
-62,Boulevard Jean Jaurès,BOULOGNE-SUR-MER,62200,null,null,null,null
+62,Boulevard Jean Jaurès,BOULOGNE-SUR-MER,62200,,,,
 62,RN 341 ROUTE DE BOULOGNE,Longfossé,62240,1.92 €,,2.00 €,1.93 €
 62,43 Route d'Arras,Lens,62300,1.85 €,,1.97 €,1.89 €
 62,47 Rue Nationale,NOEUX-LES-MINES,62290,2.09 €,,2.19 €,2.17 €
@@ -32,7 +32,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,109 Rue d'Arras,Saint-Omer,62500,1.85 €,0.89 €,1.97 €,1.90 €
 62,26 RUE PRINCIPALE,Coyecques,62560,,,,2.08 €
 62,481 RUE IMPERATRICE,Berck,62600,1.93 €,,2.04 €,2.01 €
-62,avenue francois mitterand,MONTIGNY-EN-GOHELLE,62640,null,null,null,null
+62,avenue francois mitterand,MONTIGNY-EN-GOHELLE,62640,,,,
 62,Route de Merlimont,Berck,62600,,,2.19 €,2.16 €
 62,CD 46,Fouquières-lès-Lens,62740,1.86 €,0.88 €,1.98 €,1.92 €
 62,15 route départementale 943,Nielles-lès-Ardres,62610,1.96 €,,,2.02 €
@@ -141,8 +141,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,1 place de la Gare,AUXI-LE-CHâTEAU,62390,1.81 €,,1.89 €,1.86 €
 62,ROUTE NATIONALE 43,RACQUINGHEM,62120,2.00 €,,,2.00 €
 62,350 route de Saint Pol,Herlin-le-Sec,62130,1.88 €,0.81 €,1.96 €,1.92 €
-62,1 Rue de l'Europe,WIZERNES,62570,null,null,null,null
-62, Avenue Henri Mory,SAMER,62830,null,null,null,null
+62,1 Rue de l'Europe,WIZERNES,62570,,,,
+62, Avenue Henri Mory,SAMER,62830,,,,
 62,118 RUE RENE LANOY,LENS,62300,1.93 €,0.87 €,2.04 €,2.01 €
 62,Avenue Joffre,SAINT-MARTIN-AU-LAëRT,62500,1.85 €,,1.96 €,1.93 €
 62,Impasse Stein,LE PORTEL,62480,1.99 €,,2.09 €,1.97 €
@@ -211,7 +211,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,2 Rue Marie Liétard,LIévin,62800,1.83 €,0.85 €,1.93 €,1.90 €
 62,Rue du 19 Mars 1962,Achicourt,62217,1.84 €,,1.93 €,1.92 €
 62,45 RUE A.PEZE,WINGLES,62410,1.83 €,0.85 €,1.95 €,1.93 €
-62,Rue Casimir Beugnet,BULLY-LES-MINES,62160,null,null,null,null
+62,Rue Casimir Beugnet,BULLY-LES-MINES,62160,,,,
 62,Chemin de la Grosse Borne,HARNES,62440,1.97 €,,2.04 €,1.98 €
 62,RUE EMILE ZOLA,HAILLICOURT,62940,,,2.01 €,1.94 €
 62,Boulevard Industriel,OUTREAU,62230,1.83 €,0.78 €,,1.90 €

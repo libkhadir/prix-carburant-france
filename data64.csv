@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 64,77 Avenue de bayonne,Anglet,64600,1.86 €,,1.95 €,1.92 €
 64,Route d'Orthez,Salies-de-Béarn,64270,,,1.99 €,1.94 €
 64,Route d'Elizaberri,Hasparren,64240,,,2.04 €,1.97 €
-64,AU BOURG RN 117,PUYOO,64270,null,null,null,null
+64,AU BOURG RN 117,PUYOO,64270,,,,
 64,AV. DE GRAMMONT,Biarritz,64200,1.99 €,,2.09 €,2.11 €
 64,ROUTE NATIONALE 10,Bidart,64210,1.83 €,0.85 €,2.00 €,1.92 €
 64,RN134 18 AV HENRI 4,JURANCON,64110,1.86 €,0.90 €,1.95 €,
@@ -94,7 +94,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 64,AUTOROUTE A64 AIRE DE PYRÉNÉES - AIRE DES PYRÉNÉES,GER,64530,1.94 €,0.89 €,2.05 €,1.98 €
 64,ROUTE DEPARTEMENTALE 936,Susmiou,64190,1.89 €,0.85 €,2.08 €,1.95 €
 64,35 Route Départementale 817,LACQ,64170,,,,2.00 €
-64,174 ZA de la Plaine des Bois,BIRON,64300,null,null,null,null
+64,174 ZA de la Plaine des Bois,BIRON,64300,,,,
 64,RN 10,Urrugne,64122,1.90 €,,2.00 €,1.94 €
 64,36  Boulevard des Pyrénées,Mauléon-Licharre,64130,,,2.18 €,2.06 €
 64,Route de CAMBO,LARRESSORE,64480,2.04 €,,2.14 €,2.07 €

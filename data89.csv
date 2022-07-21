@@ -1,15 +1,15 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 89,16 Boulevard Vaulabelle,Auxerre,89000,1.98 €,,2.09 €,2.05 €
-89,7 boulevard du pont neuf,Sens,89100,null,null,null,null
+89,7 boulevard du pont neuf,Sens,89100,,,,
 89,Boulevard Gallieni,Auxerre,89000,1.94 €,,2.01 €,1.95 €
 89,AUTOROUTE A6 - AIRE DE LA COULINE,Précy-sur-Vrin,89116,1.93 €,0.89 €,2.04 €,2.00 €
-89, Route de Sens,SAINT-VALERIEN,89150,null,null,null,null
+89, Route de Sens,SAINT-VALERIEN,89150,,,,
 89,AUTOROUTE A 19,Fouchères,89150,2.02 €,,2.13 €,2.03 €
 89,2 Avenue Pasteur,SAINT-JULIEN-DU-SAULT,89330,,,,2.09 €
-89,30 RUE PORTE D'EN BAS,CHEVANNES,89240,null,null,null,null
+89,30 RUE PORTE D'EN BAS,CHEVANNES,89240,,,,
 89,RN 6 - 29 ROUTE DE PARIS,APPOIGNY,89380,1.88 €,0.86 €,1.98 €,1.92 €
-89,Route Nationale,CUSSY-LES-FORGES,89420,null,null,null,null
-89,Route d'Auxerre,MONéTEAU,89470,null,null,null,null
+89,Route Nationale,CUSSY-LES-FORGES,89420,,,,
+89,Route d'Auxerre,MONéTEAU,89470,,,,
 89,129 Avenue Jean Jaurès,Migennes,89400,1.90 €,,2.02 €,2.00 €
 89,ROUTE DE ST FARGEAU,SAINT-SAUVEUR-EN-PUISAYE,89520,,,2.27 €,2.04 €
 89,Avenue de Paris,MONéTEAU,89470,1.99 €,,2.10 €,2.00 €
@@ -19,11 +19,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 89,Boulevard de Verdun,Auxerre,89000,,,,1.96 €
 89,Près Aubert St Denis les Sens,Saint-Denis-lès-Sens,89100,1.90 €,,2.00 €,1.94 €
 89,Centre commercial ChampBertrand,Sens,89100,1.96 €,,2.12 €,2.00 €
-89,32 B AVENUE GENERAL LECLERC,Pont-sur-Yonne,89140,null,null,null,null
+89,32 B AVENUE GENERAL LECLERC,Pont-sur-Yonne,89140,,,,
 89,ROUTE DE JOIGNY,APPOIGNY,89380,,,2.20 €,2.02 €
 89,RN 6,SENS,89100,1.90 €,0.88 €,1.97 €,1.93 €
 89,AUTOROUTE A 6 AIRE DE VENOY SOLEIL LEVANT,Champs-sur-Yonne,89290,2.09 €,,2.21 €,2.12 €
-89,6 Route de Maison Dieu,Guillon,89420,null,null,null,null
+89,6 Route de Maison Dieu,Guillon,89420,,,,
 89,34 GRANDE RUE,Charny,89120,,,2.06 €,1.98 €
 89,Autoroute A6 Aire de Maison Dieu - Sens Lyon Paris,Sceaux,89420,1.98 €,1.10 €,2.06 €,2.07 €
 89,ROUTE DAUXERRE,TOUCY,89130,,0.80 €,,2.04 €

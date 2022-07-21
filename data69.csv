@@ -48,10 +48,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 69,3 AVE GENERAL DE GAULLE,CHAMPAGNE-AU-MONT-D'OR,69410,1.90 €,,2.00 €,1.95 €
 69,La Croisette,Pontcharra-sur-Turdine,69490,,,1.93 €,1.97 €
 69,16 AV F ROOSEVELT,BRON,69500,1.82 €,,1.93 €,1.90 €
-69,104 ROUTE DES MONTS DU LYONNAIS,MESSIMY,69510,null,null,null,null
+69,104 ROUTE DES MONTS DU LYONNAIS,MESSIMY,69510,,,,
 69,AIRE PORTE DE LYON,DARDILLY,69570,1.84 €,0.89 €,1.95 €,1.90 €
 69,boulevard du 11 Novembre 1918,Saint-Symphorien-sur-Coise,69590,,,2.22 €,2.12 €
-69,A 47 - Aire de St Romain,GIVORS,69700,null,null,null,null
+69,A 47 - Aire de St Romain,GIVORS,69700,,,,
 69,RN 6,Saint-Laurent-de-Mure,69720,1.83 €,,1.94 €,1.91 €
 69,119 Route d'Heyrieux,Saint-Priest,69800,1.91 €,0.89 €,2.03 €,1.98 €
 69,248 ROUTE DE GRENOBLE,Saint-Priest,69800,1.82 €,,1.94 €,1.90 €
@@ -74,7 +74,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 69,85  Avenue de Chaponnay - Parc d'activité de la vallée de l'Ozon,CHAPONNAY,69970,1.80 €,0.85 €,1.88 €,1.90 €
 69,19 avenue Edouard Hérriot,Limas,69651,1.93 €,0.87 €,2.04 €,2.02 €
 69,44 AVENUE LECLERC,LYON 7,69007,,,2.03 €,2.00 €
-69,38 Rue de l'Abbaye,Villefranche-sur-Saône,69400,null,null,null,null
+69,38 Rue de l'Abbaye,Villefranche-sur-Saône,69400,,,,
 69,A6 Aire des Cheres Est,Les Cheres,69380,1.91 €,0.91 €,2.00 €,2.03 €
 69,A6 Aire des Cheres Ouest,Les Cheres,69380,1.92 €,,2.01 €,2.04 €
 69,3710 ROUTE DE SAINT VINCENT,Quincié-en-Beaujolais,69430,,0.99 €,2.09 €,2.10 €

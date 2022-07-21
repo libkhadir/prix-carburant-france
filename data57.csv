@@ -11,28 +11,28 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 57,8 Avenue Leclerc de Hauteclocque,Metz,57000,1.90 €,,2.08 €,1.94 €
 57,192 Avenue de Strasbourg,Metz,57070,1.91 €,0.87 €,2.04 €,1.95 €
 57,ROND POINT MERLIN,THIONVILLE,57100,1.99 €,,2.10 €,2.04 €
-57,28 Route de Metz,AMANVILLERS,57865,null,null,null,null
+57,28 Route de Metz,AMANVILLERS,57865,,,,
 57,3 Rue du Barrois,Creutzwald,57150,1.83 €,,2.07 €,1.97 €
 57,RUE DU BOIS LE PRETRE,Ars-sur-Moselle,57130,1.91 €,,2.00 €,1.95 €
 57,1 Rue Costes et Bellonte,Marly,57155,1.91 €,,2.08 €,1.95 €
 57,29 RUE DE METZ,Château-Salins,57170,2.01 €,,2.09 €,2.09 €
 57,24 Rue du Maréchal Foch,Sarreguemines,57200,1.97 €,,2.13 €,2.01 €
 57,1 Rue de Metz,Bouzonville,57320,1.85 €,,,1.94 €
-57,20 -22 Rue de Metz,HAGONDANGE,57300,null,null,null,null
+57,20 -22 Rue de Metz,HAGONDANGE,57300,,,,
 57,16 Route Sarrebruck,Montoy-Flanville,57645,,,,2.00 €
 57,15 Avenue de France,Sarrebourg,57400,1.98 €,,2.06 €,1.99 €
 57,1 RUE DE SARREBOURG,Phalsbourg,57370,1.87 €,,1.95 €,1.91 €
-57,75 A RUE DE BITCHE,MONTBRONN,57415,null,null,null,null
-57,55 B Rue de Carling,L'Hôpital,57490,null,null,null,null
+57,75 A RUE DE BITCHE,MONTBRONN,57415,,,,
+57,55 B Rue de Carling,L'Hôpital,57490,,,,
 57,37  GRAND RUE,FARéBERSVILLER,57450,1.95 €,,2.05 €,2.00 €
 57,199 Rue Nationale,Forbach,57600,1.93 €,,2.10 €,1.96 €
 57,655 Rue de Sarreguemines,Oeting,57600,1.93 €,,2.05 €,1.96 €
-57,Rue Saint-Guy,FORBACH,57600,null,null,null,null
+57,Rue Saint-Guy,FORBACH,57600,,,,
 57,19 RUE NATIONALE,FORBACH,57600,1.92 €,0.86 €,2.00 €,1.95 €
-57,RUE DE GOETZENBRUCK,LEMBERG,57620,null,null,null,null
+57,RUE DE GOETZENBRUCK,LEMBERG,57620,,,,
 57,RN 3,Betting,57800,1.96 €,0.92 €,2.04 €,2.00 €
 57,RUE DU MARECHAL FOCH,Hayange,57700,1.98 €,,2.06 €,2.05 €
-57,1 RN 4,RICHEVAL,57830,null,null,null,null
+57,1 RN 4,RICHEVAL,57830,,,,
 57,RN 3,Longeville-lès-Saint-Avold,57740,1.90 €,0.91 €,2.00 €,1.94 €
 57,Parc Unicom,Basse-Ham,57970,1.90 €,0.85 €,1.99 €,2.03 €
 57,AUTOROUTE A4 - AIRE DE LONGEVILLE SUD,Longeville-lès-Saint-Avold,57740,1.96 €,,2.06 €,2.02 €
@@ -106,7 +106,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 57,route de Phalsbourg,SARREBOURG,57400,1.97 €,,2.09 €,2.00 €
 57,2 Rue de la Paix,BITCHE,57230,1.86 €,,1.96 €,1.96 €
 57,Rue Poincarré,Sarreguemines,57200,1.87 €,0.85 €,1.90 €,1.99 €
-57,6 Rue Émile Houpert,Faulquemont,57380,null,null,null,null
+57,6 Rue Émile Houpert,Faulquemont,57380,,,,
 57,AUTOROUTE A31,Woippy,57140,1.89 €,,1.98 €,1.96 €
 57,45 Avenue André Malraux,METZ,57000,,,,2.06 €
 57,66/68 voie de la Liberté,SCY-CHAZELLES,57160,,,1.99 €,1.97 €

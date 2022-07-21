@@ -1,13 +1,13 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
-81,185 av de roquecourbe,CASTRES,81100,null,null,null,null
+81,185 av de roquecourbe,CASTRES,81100,,,,
 81,ROUTE DE REVEL,Puylaurens,81700,1.83 €,0.85 €,1.99 €,1.92 €
 81,23 avenue de Toulouse,Marssac-sur-Tarn,81150,1.97 €,,2.08 €,2.01 €
 81,42 Avenue du Général de Gaulle,RéALMONT,81120,1.93 €,,2.04 €,2.00 €
 81,246 Avenue Colonel Teyssier,Albi,81000,1.89 €,0.84 €,1.97 €,1.97 €
 81,BOULEVARD CARNOT,Castres,81100,1.85 €,,1.96 €,1.90 €
-81,185 Avenue de Roquecourbe,Castres,81100,null,null,null,null
-81,9 Av de Carmaux,Mirandol-Bourgnounac,81190,null,null,null,null
-81, Chemin de Castres Ã  Brassac,BRASSAC,81260,null,null,null,null
+81,185 Avenue de Roquecourbe,Castres,81100,,,,
+81,9 Av de Carmaux,Mirandol-Bourgnounac,81190,,,,
+81, Chemin de Castres Ã  Brassac,BRASSAC,81260,,,,
 81,11 BIS ROUTE DE TOULOUSE,SAIX,81710,1.85 €,0.86 €,1.96 €,1.90 €
 81,Chemin de Cap Long,Le Sequestre,81990,1.87 €,0.88 €,1.98 €,1.95 €
 81,Avenue Rhin et Danube,GRAULHET,81300,,,,2.11 €

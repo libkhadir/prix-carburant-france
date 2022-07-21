@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 41,avenue de la Paix,Montoire-sur-le-Loir,41800,1.97 €,0.85 €,2.06 €,1.97 €
 41,93 Avenue de Vierzon,LAMOTTE-BEUVRON,41600,1.96 €,0.85 €,2.07 €,2.00 €
-41, Rue Nationale,CHAILLES,41120,null,null,null,null
-41,Avenue de la Braye,SAVIGNY-SUR-BRAYE,41360,null,null,null,null
+41, Rue Nationale,CHAILLES,41120,,,,
+41,Avenue de la Braye,SAVIGNY-SUR-BRAYE,41360,,,,
 41,5 AV. DE L'HOTEL DE VILLE,Lamotte-Beuvron,41600,1.96 €,,2.07 €,2.01 €
 41,AUTOROUTE A 71,CHAUMONT-SUR-THARONNE,41600,2.14 €,,2.25 €,2.17 €
 41,16 Avenue du Général De Gaulle,Contres,41700,1.88 €,,2.02 €,1.94 €

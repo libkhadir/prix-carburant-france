@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
-08,RD 8051,FUMAY,08170,null,null,null,null
+08,RD 8051,FUMAY,08170,,,,
 08, Avenue de la Paix,MOUZON,08210,,,2.13 €,2.10 €
 08,Chestres,Vouziers,08400,1.97 €,,2.07 €,1.98 €
 08,45 Avenue de la Marne,Sedan,08200,1.90 €,0.89 €,2.03 €,1.93 €

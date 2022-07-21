@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 83,157 Avenue Ganzin,Le Pradet,83220,1.86 €,,1.99 €,1.94 €
 83,620 Rue David,Toulon,83200,1.92 €,,2.02 €,2.00 €
 83,AUTOROUTE A 57,LA VALETTE-DU-VAR,83160,1.88 €,,1.97 €,1.96 €
-83,Av. Georges Clémenceau,LA LONDE-LES-MAURES,83250,null,null,null,null
+83,Av. Georges Clémenceau,LA LONDE-LES-MAURES,83250,,,,
 83,RN 98 CARREFOUR DE LA FOUX,COGOLIN,83310,1.84 €,0.87 €,1.95 €,1.92 €
 83,LIEU DIT LES TAURELLES RN 7,Le Cannet-des-Maures,83340,1.85 €,0.86 €,1.94 €,1.91 €
 83,BD GEOFFROY ST HILAIRE,Hyères,83400,2.02 €,,2.10 €,1.98 €
@@ -126,7 +126,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 83,ZA du Peyrouas rn7,Flassans-sur-Issole,83340,1.86 €,0.80 €,1.95 €,1.95 €
 83,QUAI SAINT-ESPRIT,RIANS,83560,2.10 €,,2.21 €,2.14 €
 83,Rond-Point la Baou,BORMES-LES-MIMOSAS,83230,1.96 €,0.95 €,2.06 €,2.00 €
-83,zac des fontaines,Forcalqueiret,83136,null,null,null,null
+83,zac des fontaines,Forcalqueiret,83136,,,,
 83,Avenue de Tavernes,BARJOLS,83670,1.89 €,0.85 €,1.99 €,1.98 €
 83,780 Boulevard de l'Europe,LA SEYNE-SUR-MER,83500,1.76 €,,1.83 €,1.88 €
 83,526 Avenue Pierre Brossolette,DRAGUIGNAN BROSSOLETTE,83300,1.82 €,,1.93 €,1.92 €
@@ -168,7 +168,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 83,RN 555 LA FOUX,Trans-en-Provence,83720,1.83 €,0.84 €,1.94 €,1.89 €
 83,Avenue du 8 Mai 1945,La Crau,83260,1.90 €,1.08 €,1.97 €,1.94 €
 83,QUARTIER LE PIGEONNIER,Montfort-sur-Argens,83570,1.93 €,,2.05 €,1.95 €
-83,Route départementale 955,Comps sur Artuby,83840,null,null,null,null
+83,Route départementale 955,Comps sur Artuby,83840,,,,
 83,ZI SAINT HERMENTAIRE,DRAGUIGNAN,83300,1.82 €,,1.90 €,1.89 €
 83,Chemin du Plan,VINON-SUR-VERDON,83560,1.85 €,0.85 €,1.94 €,1.99 €
 83,Place Jean Mermoz,SAINTE-MAXIME,83120,1.83 €,,1.93 €,1.92 €

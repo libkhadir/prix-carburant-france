@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 92,24 Rue Pasteur,Saint-Cloud,92210,1.93 €,,2.02 €,1.96 €
 92,21 Avenue Jeanne et Maurice Dolivet,Fontenay-aux-Roses,92260,2.06 €,0.85 €,2.17 €,2.05 €
 92,37 AVENUE LUCIEN LANTERNIER,GENNEVILLIERS,92230,1.93 €,0.87 €,2.01 €,1.95 €
-92,10 Boulevard de la République,La Garenne-Colombes,92250,null,null,null,null
+92,10 Boulevard de la République,La Garenne-Colombes,92250,,,,
 92,13 Avenue de Verdun-1916,La Garenne-Colombes,92250,1.95 €,,2.05 €,1.98 €
 92,12 Avenue Pierre Brossolette,MALAKOFF,92242,1.94 €,,2.04 €,1.97 €
 92,191 Rue de Versailles,Ville-d'Avray,92410,1.89 €,,2.02 €,1.94 €
@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 92,96 Avenue d'Argenteuil,ASNIèRES-SUR-SEINE,92600,2.09 €,,2.19 €,2.09 €
 92,14 BD EDGAR QUINET,COLOMBES,92700,2.06 €,,2.18 €,2.08 €
 92,108 AV.A MORIZET,BOULOGNE BILLANCOURT,92100,2.02 €,0.88 €,2.13 €,2.08 €
-92,RUE BAUDIN PLACE CHARRAS,COURBEVOIE,92400,null,null,null,null
+92,RUE BAUDIN PLACE CHARRAS,COURBEVOIE,92400,,,,
 92,151 AVENUE DIVISION LECLERC,Châtenay-Malabry,92290,2.03 €,0.85 €,2.16 €,2.08 €
 92,59 RUE JEAN BLEUZEN,VANVES,92170,2.01 €,0.88 €,2.12 €,2.06 €
 92,113 AV LAURENT CELY,GENNEVILLIERS,92230,1.90 €,,1.99 €,1.93 €
@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 92,Quai de Dion-Bouton,PUTEAUX,92800,2.08 €,,2.18 €,2.16 €
 92,43-47 BOULEVARD DE VERDUN,COURBEVOIE,92400,1.94 €,,2.04 €,1.97 €
 92,192 Avenue Louis Roche,GENNEVILLIERS,92230,1.92 €,,2.01 €,1.96 €
-92,77 Avenue Ãdouard Depreux,SCEAUX,92330,null,null,null,null
+92,77 Avenue Ãdouard Depreux,SCEAUX,92330,,,,
 92,40 RUE DE FONTENAY,CHATILLON,92320,2.15 €,,2.28 €,2.12 €
 92,64 BD CHARLES DE GAULLE,COLOMBES,92700,2.07 €,0.93 €,2.19 €,2.09 €
 92,119 AVENUE DU PDT POMPIDOU,Rueil-Malmaison,92500,1.99 €,,2.10 €,2.07 €
@@ -73,7 +73,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 92,31 AVENUE DU ROULE,NEUILLY,92200,,,2.33 €,
 92,53-55 RUE DE L'ALMA,COURBEVOIE,92400,2.02 €,,2.13 €,2.07 €
 92,1 AVENUE CLAUDE TREBIGNAUD,CLAMART,92140,1.92 €,0.85 €,2.01 €,1.98 €
-92,1 RUE DE STRASBOURG,COURBEVOIE,92400,null,null,null,null
+92,1 RUE DE STRASBOURG,COURBEVOIE,92400,,,,
 92,AUTOROUTE A 86 - LA PRAIRIE,COLOMBES,92700,2.06 €,,2.18 €,2.07 €
 92,18 Boulevard de la République,VAUCRESSON,92420,1.88 €,,1.97 €,1.97 €
 92,246 ROUTE DE L'EMPEREUR,RUEIL MALMAISON,92500,2.00 €,,2.12 €,2.08 €

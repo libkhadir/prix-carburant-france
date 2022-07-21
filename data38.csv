@@ -1,11 +1,11 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,Chemin des Lones,Vienne,38200,1.79 €,0.89 €,1.98 €,1.94 €
-38,centre cial St Bonnet,VILLEFONTAINE,38090,null,null,null,null
+38,centre cial St Bonnet,VILLEFONTAINE,38090,,,,
 38,5 Avenue Jean Perrot,Grenoble,38100,1.93 €,,2.03 €,2.00 €
-38,Rue du 19 mars 1962,SASSENAGE,38360,null,null,null,null
+38,Rue du 19 mars 1962,SASSENAGE,38360,,,,
 38,AUTOROUTE A43 - AIRE LE LOMBARD,L'Isle-d'Abeau,38080,1.91 €,0.88 €,2.02 €,1.99 €
 38,Avenue de Savoie,SAINT-CLAIR-DE-LA-TOUR,38110,,,2.08 €,2.02 €
-38,84 rue Gambetta,Les Abrets en Dauphiné,38490,null,null,null,null
+38,84 rue Gambetta,Les Abrets en Dauphiné,38490,,,,
 38,88 Avenue Henri Barbusse,Bourgoin-Jallieu,38300,1.94 €,,2.05 €,2.00 €
 38,Rue des Aubépines,PONT-DE-CHéRUY,38230,,,2.06 €,2.00 €
 38,1 avenue Aristide Berges,Domene,38420,,,1.97 €,1.93 €
@@ -15,15 +15,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,AUTOROUTE A 41,Saint-Nazaire-les-Eymes,38330,1.90 €,,2.01 €,1.96 €
 38,45 Avenue des Sept Laux,MEYLAN,38240,1.94 €,,2.04 €,2.02 €
 38,45 AV ALSACE LORRAINE,Bourgoin-Jallieu,38300,1.82 €,,1.91 €,1.95 €
-38,AV DU 22 AOUT 1944,LA MURE,38350,null,null,null,null
+38,AV DU 22 AOUT 1944,LA MURE,38350,,,,
 38,128 Avenue Jean Jaurès,Eybens,38320,1.82 €,0.88 €,1.93 €,1.90 €
-38, Avenue de Juin 1940,VOREPPE,38340,null,null,null,null
-38,4 Route de Condrieu,Saint-Clair-du-Rhône,38370,null,null,null,null
+38, Avenue de Juin 1940,VOREPPE,38340,,,,
+38,4 Route de Condrieu,Saint-Clair-du-Rhône,38370,,,,
 38,8 Route de Grenoble,Moirans,38430,1.84 €,,1.96 €,1.91 €
 38,AUTOROUTE A48 - AIRE DE VOREPPE,VOREPPE,38340,1.91 €,0.88 €,2.02 €,1.99 €
 38,AV DU 8 MAI 1945,VOIRON,38500,1.85 €,,1.97 €,1.92 €
 38,Autouroute A43 Sens Chambéry - Lyon,ROMAGNIEU,38480,1.95 €,,2.06 €,2.02 €
-38,ROUTE DE MONTOUVRARD,ALLEVARD,38580,null,null,null,null
+38,ROUTE DE MONTOUVRARD,ALLEVARD,38580,,,,
 38,Route des Avenieres,Veyrins-Thuellin,38630,1.84 €,,,1.94 €
 38,RN 91,Vizille,38220,,,1.91 €,1.96 €
 38,Z.I. de La Mure,Susville,38350,1.85 €,,1.96 €,2.00 €
