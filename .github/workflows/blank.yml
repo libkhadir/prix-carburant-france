@@ -21,16 +21,16 @@ jobs:
           mv *.xml data.xml
       - name: Clean data
         run: |
-          rm -rf data.csv
+          rm -rf data*.csv
           mv data.xml price-explorer/.
           cd price-explorer/
           ./gradlew bootRun
-          mv data.csv ../.
+          mv data*.csv ../.
           echo "ok"
       - name: Push result
         run: |
          git config --global user.email "tkhadir.dev@gmail.com"
          git config --global user.name "tkhadir"
-         git add data.csv
+         git add data*.csv
          git commit -m "feat: add results"
          git push origin
