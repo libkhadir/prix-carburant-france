@@ -31,7 +31,7 @@ public class Station {
     }
 
     public String getPrice(final String type) {
-        return prices == null ? null : prices.stream()
+        return prices == null ? "" : prices.stream()
                 .filter(p -> p.getNom().equalsIgnoreCase(type))
                 .findFirst()
                 .map(FuelPrice::formatValeur)
