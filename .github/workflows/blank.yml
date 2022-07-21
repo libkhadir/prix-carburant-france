@@ -16,5 +16,8 @@ jobs:
 
       - name: Clean data
         run: |
+          mv data.xml price-explorer/.
+          cd price-explorer/
+          ./gradlew bootRun
           ls -lrt
           echo "ok"
