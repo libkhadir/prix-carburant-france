@@ -21,6 +21,7 @@ jobs:
           mv *.xml data.xml
       - name: Clean data
         run: |
+          ls -lrt data*.csv
           rm -rf data*.csv
           mv data.xml price-explorer/.
           cd price-explorer/
