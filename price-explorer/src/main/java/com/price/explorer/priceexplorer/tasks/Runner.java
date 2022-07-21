@@ -20,7 +20,7 @@ public class Runner implements CommandLineRunner {
         log.info("Started data extraction at {}", LocalDateTime.now());
         DataStationList stationList = XmlUtils.unmarshal("./data.xml");
         var stationMap = stationList.getStationMap();
-        var headers = "Departement,Adresse,Ville,Code postale,e10,e85,sp98,gazole\n";
+        var headers = "Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,\n";
         BufferedWriter writer = new BufferedWriter(new FileWriter("./data.csv", true));
         writer.append(headers);
         stationMap.keySet()
@@ -29,7 +29,7 @@ public class Runner implements CommandLineRunner {
                       stationMap.get(k).stream()
                               .forEach(l -> {
                                   try {
-                                      writer.append(l.toCsv(k) + "\n");
+                                      writer.append(l.toCsv(k) + ",\n");
                                   } catch (IOException e) {
                                       log.warn(e.getLocalizedMessage());
                                   }
