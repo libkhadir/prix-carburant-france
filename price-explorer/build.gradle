@@ -1,0 +1,34 @@
+plugins {
+	id 'org.springframework.boot' version '2.7.2'
+	id 'io.spring.dependency-management' version '1.0.12.RELEASE'
+	id 'java'
+	id 'io.freefair.lombok' version '6.3.0'
+}
+
+group = 'com.price.explorer'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '17'
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
+	implementation 'com.google.code.gson:gson:2.8.6'
+	implementation 'net.logstash.logback:logstash-logback-encoder:7.0.1'
+	implementation 'ch.qos.logback:logback-classic:1.2.10'
+	implementation 'ch.qos.logback:logback-core:1.2.10'
+	implementation 'ch.qos.logback:logback-access:1.2.10'
+	implementation 'ch.qos.logback.contrib:logback-jackson:0.1.5'
+	implementation 'javax.xml.bind:jaxb-api:2.3.1'
+	implementation 'com.sun.xml.bind:jaxb-core:3.0.2'
+	implementation 'com.sun.xml.bind:jaxb-impl:2.2.3-1'
+	implementation 'org.springframework.boot:spring-boot-starter'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
