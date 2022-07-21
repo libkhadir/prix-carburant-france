@@ -26,7 +26,7 @@ jobs:
           echo "deleting old data"
           rm -rf data*.csv
           echo "check old data"
-          ls -lrt data*.csv
+          ls -lrt
           mv data.xml price-explorer/.
           cd price-explorer/
           ./gradlew bootRun
