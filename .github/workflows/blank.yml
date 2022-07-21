@@ -29,6 +29,8 @@ jobs:
           echo "ok"
       - name: Push result
         run: |
+         git config --global user.email "tkhadir.dev@gmail.com"
+         git config --global user.name "tkhadir"
          git add data.csv
          git commit -m "feat: add results"
          git push origin
