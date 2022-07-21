@@ -16,4 +16,5 @@ jobs:
 
       - name: Clean data
         run: |
+          ls -lrt
           echo ok
