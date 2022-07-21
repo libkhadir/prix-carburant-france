@@ -25,7 +25,7 @@ public class FuelPrice {
 
     public String formatValeur() {
         var formatter = NumberFormat.getCurrencyInstance(Locale.FRANCE);
-        return formatter.format(this.valeur)
+        return this.valeur == null ? "" : formatter.format(this.valeur)
                 .replace(",", ".");
     }
 }
