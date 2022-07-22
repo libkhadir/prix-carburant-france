@@ -26,8 +26,9 @@ jobs:
         run: |
           ls -lrt data*.csv
           echo "saving old data"
-          mkdir $(date)
-          mv data*.csv $(date)
+          now=$(date +%F_%H-%M-%S)
+          mkdir backup-$now
+          mv data*.csv backup-$now/.
           echo "check old data"
           ls -lrt
           mv data.xml price-explorer/.
@@ -41,5 +42,6 @@ jobs:
          git config --global user.email "tkhadir.dev@gmail.com"
          git config --global user.name "tkhadir"
          git add data*.csv
+         git add backup-*
          git commit -m "feat: add results"
          git push origin
