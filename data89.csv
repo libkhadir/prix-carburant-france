@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 89,16 Boulevard Vaulabelle,Auxerre,89000,1.97 €,,2.08 €,2.03 €
 89,7 boulevard du pont neuf,Sens,89100,,,,
 89,Boulevard Gallieni,Auxerre,89000,1.91 €,,1.98 €,1.95 €
-89,AUTOROUTE A6 - AIRE DE LA COULINE,Précy-sur-Vrin,89116,1.93 €,0.89 €,2.04 €,2.00 €
+89,AUTOROUTE A6 - AIRE DE LA COULINE,Précy-sur-Vrin,89116,1.90 €,0.89 €,2.01 €,1.98 €
 89, Route de Sens,SAINT-VALERIEN,89150,,,,
 89,AUTOROUTE A 19,Fouchères,89150,2.02 €,,2.13 €,2.03 €
 89,2 Avenue Pasteur,SAINT-JULIEN-DU-SAULT,89330,,,,2.09 €
@@ -40,7 +40,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 89,14 Avenue Jean Jaurès,Auxerre,89000,1.99 €,,2.07 €,2.00 €
 89,LES HAUTES VEUVES,Pont-sur-Yonne,89140,,,2.00 €,1.94 €
 89,86 Route de Saint-Martin,Charny-Orée-de-Puisaye,89120,,0.85 €,2.02 €,1.98 €
-89,RN 6,VILLEBLEVIN,89720,,,,2.05 €
+89,RN 6,VILLEBLEVIN,89720,,,,2.03 €
 89,Rue Braubach,VILLENEUVE-SUR-YONNE,89500,1.99 €,0.91 €,,2.03 €
 89,Voie Nouvelle Les Latteux,Migennes,89400,1.89 €,0.85 €,2.02 €,2.00 €
 89,Route de Ouanne,SAINT-SAUVEUR-EN-PUISAYE,89520,,,2.18 €,2.04 €
@@ -56,7 +56,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 89,RUE DE LA GOULOTTE,Avallon,89200,,,,1.95 €
 89,ROUTE DE PARIS,SAINT-FLORENTIN,89600,1.94 €,,2.05 €,2.00 €
 89,RUE DU MOULIN DE L ARCHE,Saint-Fargeau,89170,,,1.98 €,1.95 €
-89,AUTOROUTE A6 - AIRE DE VENOY-GROSSE-PIERRE,VENOY,89290,1.93 €,0.89 €,2.04 €,2.00 €
+89,AUTOROUTE A6 - AIRE DE VENOY-GROSSE-PIERRE,VENOY,89290,1.90 €,0.89 €,2.01 €,1.98 €
 89,A6 AIRE DE LA CHAPONNE,SCEAUX,89420,2.03 €,,2.15 €,2.10 €
 89,route de Perrigny,SAINT-GEORGES-SUR-BAULCHE,89000,,,2.00 €,1.96 €
 89,Avenue de la gare,Villeneuve-l'Archevêque,89190,,,1.99 €,1.99 €
@@ -83,10 +83,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 89,Aire de Villeneuve l'Archevêque autoroute A5 Sens PARIS TROYES,Villeneuve-l'Archevêque,89190,2.03 €,,2.13 €,1.99 €
 89,6 Rue de Lyon,Avallon,89200,,0.90 €,2.20 €,2.07 €
 89,Route d'Avrolles,Saint-Florentin,89600,1.89 €,0.85 €,2.00 €,1.98 €
-89,8 Route de Voulx,SENS,89100,,,2.00 €,1.96 €
+89,8 Route de Voulx,SENS,89100,,,2.00 €,1.94 €
 89,97-99 Avenue de Saint-Georges,Auxerre,89000,,,2.10 €,1.96 €
 89,ROUTE DE TONNERRE,AVALLON,89200,2.00 €,,2.08 €,1.94 €
-89,Rue des Entrepreneurs,Joigny,89300,1.89 €,0.85 €,2.01 €,2.00 €
+89,Rue des Entrepreneurs,Joigny,89300,1.87 €,0.85 €,1.96 €,1.93 €
 89,84 ROUTE DE MAILLOT,SENS,89100,,,2.00 €,1.96 €
 89,Avenue du Général de Gaulle,TOUCY,89130,1.98 €,0.85 €,2.10 €,1.97 €
 89,Route de Lyon,SENS,89100,1.97 €,,2.08 €,2.05 €

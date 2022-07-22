@@ -10,12 +10,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 27,44 BIS AVENUE ARISTIDE BRIAND,GRAVIGNY,27930,1.79 €,0.86 €,1.90 €,1.88 €
 27,10  AV.DE LA REPUBLIQUE,LES ANDELYS,27700,1.90 €,0.88 €,2.01 €,1.98 €
 27,12 Route des Anglais,ÉPAIGNES,27260,1.92 €,,2.03 €,2.00 €
-27,RUELLE SAINT MARTIN,ETREPAGNY,27150,1.93 €,,2.00 €,1.97 €
 27,Lieu-Dit Merville,LA MADELEINE-DE-NONANCOURT,27320,1.79 €,,1.90 €,1.88 €
 27,530 RUE DU DOCTEUR DUVRAC,BOURG ACHARD,27310,1.87 €,0.85 €,2.05 €,1.93 €
+27,RUELLE SAINT MARTIN,ETREPAGNY,27150,1.93 €,,2.00 €,1.97 €
 27,Autoroute A13  sens Caen-Paris,BEUZEVILLE,27210,2.05 €,1.00 €,2.15 €,2.06 €
 27,Route d'Epaigne,Beuzeville,27210,1.83 €,0.85 €,1.92 €,1.90 €
-27,AUTOROUTE A13 - AIRE NORD DE BEUZEVILLE,BEUZEVILLE,27210,1.93 €,0.86 €,2.04 €,1.99 €
+27,AUTOROUTE A13 - AIRE NORD DE BEUZEVILLE,BEUZEVILLE,27210,1.90 €,0.86 €,2.01 €,1.97 €
 27,rue de Général de Gaulle,FLEURY-SUR-ANDELLE,27380,,,1.99 €,1.95 €
 27,RUE DES PRES,INCARVILLE,27400,1.80 €,0.79 €,1.89 €,1.86 €
 27,RUE DES CANADIENS,PERRIERS-SUR-ANDELLE,27910,1.87 €,,1.97 €,1.96 €
@@ -33,15 +33,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 27,LES PRES DE LA BOUVERIE,Charleval,27380,,,2.03 €,1.92 €
 27,rue Lépouzé,ÉVREUX,27000,1.97 €,,2.08 €,1.95 €
 27,RN10 CC des Templiers,GISORS,27140,1.85 €,0.88 €,1.92 €,1.90 €
-27,Route de Rouen,MENNEVAL,27300,1.82 €,0.72 €,1.92 €,1.92 €
+27,Route de Rouen,MENNEVAL,27300,1.76 €,0.72 €,1.92 €,1.84 €
 27,Le Becquet  Avenue des Peupliers,LOUVIERS,27400,1.82 €,0.85 €,1.91 €,1.88 €
-27,RN 154 Caër,Normanville,27930,1.82 €,,1.92 €,1.91 €
+27,RN 154 Caër,Normanville,27930,1.79 €,,1.90 €,1.88 €
 27,ROUTE DE LYONS,IGOVILLE,27460,1.90 €,0.76 €,,1.95 €
 27,RTE DE PONT AUDEMER,Bourneville SAINT CROIX,27500,1.93 €,,2.04 €,1.99 €
 27,Rue de l'Étang,PONT-AUDEMER,27500,,,2.10 €,1.98 €
 27,16 route de Lieurey,Thiberville,27230,,,2.20 €,2.10 €
 27,19  Rue Charles de Gaulle - Aubevoye,Le Val-d'Hazey,27940,1.85 €,0.85 €,1.95 €,1.94 €
-27,Boulevard du 14 Juillet,Évreux,27000,1.98 €,,2.08 €,1.96 €
+27,Boulevard du 14 Juillet,Évreux,27000,1.94 €,,2.04 €,1.93 €
 27,RN 15,la chapelle de longueville,27950,2.05 €,,2.16 €,2.04 €
 27,405 RUE DES PORTES,Bourg-Achard,27310,,,2.13 €,2.00 €
 27,65 Rue Saint-Denis,BRIONNE,27800,1.87 €,0.85 €,1.98 €,1.91 €
@@ -57,13 +57,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 27,RN 15,Igoville,27460,1.93 €,,2.04 €,1.98 €
 27,2 route Nationale 13,Écardenville-la-Campagne,27170,,,2.01 €,1.98 €
 27,4 ROUTE D'ORLEANS,Angerville-la-Campagne,27930,2.01 €,0.87 €,2.12 €,2.03 €
-27,Rue Bernard Gombert,Bernay,27300,1.83 €,,1.93 €,1.92 €
+27,Rue Bernard Gombert,Bernay,27300,1.82 €,,1.91 €,1.88 €
 27,75 Avenue Forêt de Bord,Les Damps,27340,1.90 €,0.76 €,1.96 €,1.95 €
 27,73 Avenue de Paris,Vernon,27200,1.93 €,,2.08 €,2.03 €
 27,ROUTE DE VERNEUIL,DAMVILLE,27240,,,2.15 €,2.02 €
-27,rue Planches,Les Andelys,27700,1.94 €,0.88 €,2.04 €,1.98 €
+27,rue Planches,Les Andelys,27700,1.90 €,0.88 €,2.04 €,1.94 €
 27,ROUTE DE FOURGES,GASNY,27620,1.83 €,,1.92 €,1.92 €
-27,A13 - AIRE DE BOSGOUET SUD,BOSGOUET,27310,1.92 €,0.87 €,2.03 €,1.99 €
+27,A13 - AIRE DE BOSGOUET SUD,BOSGOUET,27310,1.89 €,0.87 €,2.00 €,1.97 €
 27,50 Avenue de la République,LES ANDELYS,27700,,,2.04 €,1.98 €
 27,Rue de la République,AMFREVILLE-LA-CAMPAGNE,27370,,,,1.95 €
 27,route de Conches,Breteuil,27160,1.96 €,,2.03 €,1.98 €
@@ -74,7 +74,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 27,15 Route de Paris D613,FOLLEVILLE,27230,,,,
 27,Za Du  Le Petit Hanoy,Rugles,27250,1.87 €,0.85 €,2.00 €,1.93 €
 27,RN15,GAILLON,27600,1.85 €,0.86 €,1.94 €,1.89 €
-27,Boulevard de Normandie,EVREUX,27000,1.93 €,,2.03 €,1.97 €
+27,Boulevard de Normandie,EVREUX,27000,1.92 €,,2.02 €,1.96 €
 27,LE CLOS DU LOUP,La Bonneville-sur-Iton,27190,1.94 €,,2.04 €,2.00 €
 27,Rue du Roumois,ROUTOT,27350,,,2.16 €,2.08 €
 27,7 RUE DU GENERAL KOENIG,Pont-Audemer,27500,1.90 €,0.88 €,1.99 €,1.96 €
@@ -82,9 +82,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 27,ZA PORTE ROUGE,Étrépagny,27150,,,2.05 €,1.98 €
 27,Route de Lisieux,CORMEILLES,27260,1.83 €,,1.93 €,1.91 €
 27,Route de Médine,Valletot,27350,1.93 €,,,1.99 €
-27,A13 - AIRE DE BOSGOUET NORD,Bosgouet,27310,1.92 €,0.87 €,2.03 €,1.98 €
-27,Place des 4 Saisons,VAL-DE-REUIL,27100,1.90 €,,1.99 €,1.96 €
-27,Route du Neubourg,SAINT-PIERRE-DES-FLEURS,27370,1.88 €,0.85 €,1.98 €,1.95 €
+27,A13 - AIRE DE BOSGOUET NORD,Bosgouet,27310,1.89 €,0.87 €,2.00 €,1.96 €
+27,Place des 4 Saisons,VAL-DE-REUIL,27100,1.87 €,,1.96 €,1.95 €
+27,Route du Neubourg,SAINT-PIERRE-DES-FLEURS,27370,1.85 €,0.85 €,1.96 €,1.92 €
 27,18 rue des canadiens,Saint-Ouen-du-Tilleul,27670,1.92 €,,2.03 €,1.98 €
 27,AVENUE DE LA LIBERATION,Le Neubourg,27110,1.85 €,0.85 €,1.95 €,1.91 €
 27,26  Avenue Jean Jaurès,GAILLON,27600,1.86 €,,1.95 €,1.94 €

@@ -14,7 +14,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 51,FAUBOURG DE CHALONS,Vitry-le-François,51300,1.82 €,0.89 €,1.92 €,1.90 €
 51,31  AVENUE DU 29 AOUT 1944,TINQUEUX,51430,1.82 €,0.86 €,1.97 €,1.87 €
 51,Aire de Gueux A4,Gueux,51390,2.13 €,,2.25 €,2.18 €
-51,ROUTE NATIONALE 44 - AIRE DE SAINT MARTIN SUR LE PRÉ,Saint-Martin-sur-le-Pré,51520,1.89 €,0.86 €,2.01 €,1.92 €
+51,ROUTE NATIONALE 44 - AIRE DE SAINT MARTIN SUR LE PRÉ,Saint-Martin-sur-le-Pré,51520,1.86 €,0.86 €,1.98 €,1.91 €
 51,Route de Troyes,Fagnières,51510,1.90 €,0.88 €,2.09 €,1.91 €
 51,autoroute a4 aire de valmy orbeval,Valmy,51800,,,,
 51,ZAC DE SAINT LEONARD RN44,REIMS,51100,1.90 €,,2.02 €,2.03 €
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 51,RN 51 CHAMPFLEURY,CHAMPFLEURY,51500,1.94 €,,2.07 €,1.95 €
 51,RN 44 - ROUTE DE VITRY LE FRANC,Châlons-en-Champagne,51000,1.86 €,,,1.91 €
 51,RD9 CHEMIN DU PARADIS,AVIZE,51190,1.85 €,,1.95 €,1.96 €
-51,Rue des Tournières,Mourmelon-le-Grand,51400,1.93 €,0.85 €,2.07 €,1.96 €
+51,Rue des Tournières,Mourmelon-le-Grand,51400,1.90 €,0.85 €,2.02 €,1.96 €
 51,ROUTE NATIONALE 4,Moeurs-verdey,51120,1.86 €,,1.97 €,1.91 €
 51,38 rue de sezanne,Anglure,51260,,,2.29 €,2.29 €
 51,RUE DE LA GARE,FISMES,51170,1.92 €,,2.05 €,1.97 €
@@ -58,7 +58,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 51,10 Rue du Faubourg de Condé,Montmirail,51210,1.88 €,,2.00 €,1.91 €
 51,10 AVENUE DU GENERAL LECLERC,SUIPPES,51600,,,2.06 €,2.00 €
 51,46 rue jean Jaurès,Bazancourt,51110,,0.85 €,2.19 €,2.04 €
-51,ROUTE NATIONALE 4,SOMMESOUS,51320,1.89 €,0.88 €,2.01 €,1.92 €
+51,ROUTE NATIONALE 4,SOMMESOUS,51320,1.86 €,0.88 €,1.98 €,1.91 €
 51,47 Rue Gosset,Reims,51100,,,2.11 €,1.94 €
 51,N31,MUIZON,51140,1.98 €,,2.09 €,2.09 €
 51,38 Rue Franklin Roosevelt,CORMICY,51220,1.96 €,,2.07 €,1.95 €
@@ -90,5 +90,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 51,RD 933 FAUBOURG DE PARIS,MONTMIRAIL,51210,1.86 €,0.89 €,1.98 €,1.90 €
 51,RN 31,TINQUEUX,51430,1.83 €,0.80 €,1.97 €,1.90 €
 51,2 RUE DENIS PAPIN,COURTISOLS,51460,1.87 €,0.85 €,1.99 €,1.93 €
-51,RUE DU FAUBOURG DE CONDE,MONTMIRAIL,51210,1.90 €,,2.06 €,1.96 €
+51,RUE DU FAUBOURG DE CONDE,MONTMIRAIL,51210,1.90 €,,2.06 €,1.94 €
 51,A4 - Aire de Valmy Orbeval,Valmy,51800,2.10 €,,2.18 €,2.14 €

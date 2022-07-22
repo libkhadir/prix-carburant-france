@@ -6,8 +6,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 04,RN 202,SAINT-ANDRé-LES-ALPES,04170,,,2.15 €,2.10 €
 04,LE BELVEDERE - RN 96,Château-Arnoux-Saint-Auban,04160,1.82 €,0.85 €,1.93 €,1.93 €
 04,RN 85,Barrême,04330,1.85 €,0.86 €,2.00 €,1.99 €
-04,AUTOROUTE A51 - AIRE DE MANOSQUE,VOLX,04130,1.91 €,0.87 €,2.02 €,2.01 €
-04,AUTOROUTE A51 - AIRE DE VOLX OUEST,VOLX,04130,1.91 €,,2.02 €,2.01 €
+04,AUTOROUTE A51 - AIRE DE MANOSQUE,VOLX,04130,1.88 €,0.87 €,1.99 €,1.99 €
+04,AUTOROUTE A51 - AIRE DE VOLX OUEST,VOLX,04130,1.88 €,,1.99 €,1.99 €
 04,Route de Marseille,Riez,04500,,1.15 €,,2.15 €
 04,39 AV DE VERDUN,Digne-les-Bains,04000,1.83 €,,1.98 €,1.94 €
 04,Rue de l'Anonciade,Les Mées,04190,1.80 €,0.85 €,1.87 €,1.91 €
@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 04,route La Brillanne,ORAISON,04700,1.83 €,,1.92 €,1.97 €
 04,27 Avenue Antoine Signoret,Barcelonnette,04400,1.94 €,,2.05 €,2.01 €
 04,Place Aimé Gassier,BARCELONNETTE,04400,1.94 €,,2.04 €,1.98 €
-04,10 AVENUE DE LA LIBERATION,SISTERON,04200,1.84 €,,1.94 €,1.93 €
+04,10 AVENUE DE LA LIBERATION,SISTERON,04200,1.81 €,,1.93 €,1.92 €
 04,70 Avenue du Général de Gaulle,Château-Arnoux-Saint-Auban,04160,2.26 €,,2.27 €,2.13 €
 04,Route de Sisteron,Manosque,04100,1.74 €,,1.83 €,1.89 €
 04,49 Avenue des trois frères Arnaud,Barcelonnette,04400,,,2.04 €,1.99 €
@@ -39,8 +39,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 04,RTE DE MANOSQUE,VALENSOLE,04210,1.90 €,,1.97 €,1.98 €
 04,RN 85,Mallemoisson - Les Grillons,04510,,,2.12 €,2.00 €
 04,AIRE D AUBIGNOSC,Aubignosc,04200,1.99 €,,2.07 €,2.09 €
-04,RN 96 CENTRE COMMERCIAL LE PLAN,LA BRILLANNE,04700,,,2.08 €,2.00 €
-04,ZI St JosephBP335,MANOSQUE,04100,1.77 €,0.85 €,1.87 €,1.92 €
+04,RN 96 CENTRE COMMERCIAL LE PLAN,LA BRILLANNE,04700,,,2.00 €,1.95 €
+04,ZI St JosephBP335,MANOSQUE,04100,1.74 €,0.85 €,1.83 €,1.89 €
 04,9 avenue des Plantiers BP201,SISTERON,04204,1.96 €,,2.12 €,2.00 €
 04,3 CHEMIN DU RIOU,VALENSOLE,04210,,,,
 04,Rue Principale,LA PALUD-SUR-VERDON,04120,,,,2.06 €

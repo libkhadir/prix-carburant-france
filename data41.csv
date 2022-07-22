@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 41,ROUTE DE VENDOME,VILLEBAROU,41000,1.96 €,,2.10 €,1.96 €
 41,za la varenne,Morée,41160,,0.80 €,,2.20 €
 41,A71 - Aire de salbris la loge,Theillay,41300,2.04 €,1.00 €,2.14 €,2.08 €
-41,RTE DE BLOIS,MER,41500,,0.98 €,1.99 €,1.96 €
+41,RTE DE BLOIS,MER,41500,,0.98 €,1.97 €,1.94 €
 41,Autoroute A71  Sens Paris-Vierzon,Theillay,41300,2.02 €,1.00 €,2.12 €,2.04 €
 41,Bd des Déportés - Angle rue des Merisiers / av Déportés,LA CHAUSSEE-SAINT-VICTOR,41260,1.92 €,,2.02 €,1.96 €
 41,ROUTE DE MER,JOSNES,41370,,,2.25 €,2.19 €
@@ -47,7 +47,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 41,2 Bis Voie Romaine,BEAUCE LA ROMAINE,41240,1.89 €,,1.98 €,1.96 €
 41,CENTRE COMMERCIAL MONTPARNASSE,FAVEROLLES-SUR-CHER,41400,,,1.93 €,1.97 €
 41,ROUTE DU MANS,EPUISAY,41360,,,2.13 €,2.10 €
-41,AUTOROUTE A85 - AIRE DE ROMORANTIN,Pruniers-en-Sologne,41200,1.94 €,0.88 €,2.05 €,1.98 €
+41,AUTOROUTE A85 - AIRE DE ROMORANTIN,Pruniers-en-Sologne,41200,1.91 €,0.88 €,2.02 €,1.96 €
 41,Rue edouard Branly,BLOIS,41000,2.01 €,,2.07 €,2.06 €
 41,74 BD REPUBLIQUE,SALBRIS,41300,,,2.10 €,1.98 €
 41,Avenue de Châteaudun,Blois,41000,1.88 €,0.90 €,,1.92 €
@@ -61,6 +61,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 41,20 RUE GAUGIRAN,LAMOTTE-BEUVRON,41600,,,2.00 €,1.98 €
 41,rue de Chenonceaux,Chissay-en-Touraine,41400,1.85 €,,1.93 €,1.93 €
 41,RN10 71 Route de Paris,Saint-Ouen,41100,,0.87 €,2.03 €,1.99 €
-41,15 Rue du 8 Mai 1945,Binas,41240,,,,2.01 €
+41,15 Rue du 8 Mai 1945,Binas,41240,,,,1.99 €
 41,45  rue des Morines,MONT-PRèS-CHAMBORD,41250,1.84 €,0.88 €,1.95 €,1.91 €
 41,ZAC DE PLAISANCE,ROMORANTIN-LANTHENAY,41200,1.97 €,,2.10 €,1.96 €

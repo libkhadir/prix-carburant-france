@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
-40,STATION TOTAL,SAUGNAC-ET-CAMBRAN,40180,2.05 €,,2.16 €,2.05 €
+40,STATION TOTAL,SAUGNAC-ET-CAMBRAN,40180,1.92 €,,2.03 €,1.99 €
 40,47 rue Roger Salengro,MORCENX,40110,1.98 €,,2.10 €,1.98 €
 40,RD38 ZAC DE SEGUES,Ygos-Saint-Saturnin,40110,,,2.07 €,2.00 €
 40,FOCH,Dax,40100,,,,
@@ -13,7 +13,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 40,Route de Mont-de-Marsan,SABRES,40630,,,,2.33 €
 40,200 boulevard oscar niemeyer,Saint-Pierre-du-Mont,40280,1.81 €,0.80 €,,1.88 €
 40,1234 Avenue du Vignau,Mont-de-Marsan,40000,1.81 €,0.80 €,,1.88 €
-40,Avenue de Bordeaux,Aire-sur-l'Adour,40800,1.95 €,,,2.00 €
+40,Avenue de Bordeaux,Aire-sur-l'Adour,40800,1.93 €,,,1.97 €
 40,A63 Aire de l'Ocean Ouest,Lesperon,40260,2.12 €,,2.22 €,2.14 €
 40,169 RUE DE L'AIGUILLE,Sanguinet,40460,1.96 €,0.88 €,,1.97 €
 40,160  route d'Estibeaux,Pouillon,40350,1.88 €,0.88 €,2.07 €,1.92 €
@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 40,520 avenue Jean Jaurès,Montfort-en-Chalosse,40380,,,2.01 €,1.99 €
 40,40 BD DES SPORTS,DAX,40100,1.84 €,,1.93 €,1.90 €
 40,642  avenue Robert Labeyrie,Pontonx-sur-l'Adour,40465,1.87 €,0.85 €,2.00 €,1.93 €
-40,AVENUE JEAN JAURES,VILLENEUVE-DE-MARSAN,40190,,,2.09 €,1.99 €
+40,AVENUE JEAN JAURES,VILLENEUVE-DE-MARSAN,40190,,,2.06 €,1.99 €
 40,Avenue du 1er Mai,TARNOS,40220,,0.99 €,,2.00 €
 40,Aire Portes Landes Ouest,Saugnacq-et-Muret,40410,2.09 €,,2.19 €,2.08 €
 40,Route de Parentis,BISCARROSSE,40600,,,2.06 €,1.98 €
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 40,43 Avenue du Maréchal Leclerc,CAPBRETON,40130,1.93 €,,2.04 €,2.00 €
 40,1 rue Brémontier,Ychoux,40160,,,,2.14 €
 40,rue des morilles,LINXE,40260,1.84 €,,1.93 €,1.96 €
-40,AUTOROUTE A65 - AIRE DE L'ADOUR,Aire-sur-l'Adour,40800,1.95 €,0.89 €,2.06 €,2.00 €
+40,AUTOROUTE A65 - AIRE DE L'ADOUR,Aire-sur-l'Adour,40800,1.92 €,0.89 €,2.03 €,1.98 €
 40,Route de Montfort,DAX,40100,1.81 €,0.85 €,1.93 €,1.89 €
 40,71 Route de Pontenx,Parentis-en-Born,40160,1.96 €,,,1.98 €
 40,Route de Monfort,MUGRON,40250,,,2.01 €,1.98 €
@@ -64,7 +64,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 40,3 route de Baleste,MIMIZAN,40200,1.96 €,0.86 €,2.22 €,1.99 €
 40,ZA LE BOURDET,GEAUNE,40320,,,,1.98 €
 40,Rue Brémontier,Saint-Paul-lès-Dax,40990,1.81 €,0.85 €,1.93 €,1.89 €
-40,Avenue Georges Clémenceau,Dax,40100,1.81 €,,1.93 €,1.89 €
+40,Avenue Georges Clémenceau,Dax,40100,1.81 €,,1.93 €,1.93 €
 40,1850 ROUTE DE LALANDE,Carcarès-Sainte-Croix,40400,,,2.10 €,2.05 €
 40,Route de Tosse,SOUSTONS,40140,1.81 €,,1.94 €,1.93 €
 40,Avenue du Tursan,Hagetmau,40700,,,2.18 €,2.00 €
@@ -74,7 +74,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 40,RN134 - Route de Sabres,Garein,40420,,,,2.32 €
 40,Plaine de la Règle RN 117,Cauneille,40300,1.92 €,,,1.96 €
 40,Boulevard des Cigales,CAPBRETON,40130,1.97 €,0.80 €,2.02 €,1.96 €
-40,le claous,TARTAS,40400,,,2.03 €,1.99 €
+40,le claous,TARTAS,40400,,,2.03 €,1.97 €
 40,RUE GEORGES CHAULET,DAX,40100,1.81 €,0.88 €,1.90 €,1.88 €
 40,355  avenue de l'Océan,AMOU,40330,1.90 €,,2.00 €,1.94 €
 40,Lieudit Lamarque - Route d'Hagetmau,Samadet,40320,2.05 €,,,1.98 €

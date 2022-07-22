@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 79,Boulevard de Thouars,BRESSUIRE,79300,1.89 €,0.72 €,2.00 €,1.94 €
 79,1 impasse des Acacias,BEAUVOIR-SUR-NIORT,79360,1.85 €,0.85 €,,1.92 €
 79,23 ROUTE DE BRESSUIRE,La Chapelle-Saint-Laurent,79430,,,,2.06 €
-79,AUTOROUTE A10 - AIRE DE POITOU CHARENTE,VOUILLE,79230,1.91 €,,2.02 €,1.97 €
+79,AUTOROUTE A10 - AIRE DE POITOU CHARENTE,VOUILLE,79230,1.88 €,,1.99 €,1.95 €
 79,30 PLACE DE L HOTEL DE VILLE,Thénezay,79390,,,2.20 €,2.00 €
 79,6 avenue Louis Doignon,CHEF-BOUTONNE,79110,1.83 €,,1.93 €,1.93 €
 79,A10 AIRE DE ROUILLE PAMPROUX SUD,Pamproux,79800,2.05 €,,2.16 €,2.10 €
@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 79,46 route de ST-MAIXENT,POMPAIRE,79200,,,2.00 €,1.99 €
 79,Route de Bressuire,CHâTILLON-SUR-THOUET,79200,,,1.92 €,1.90 €
 79,A83 - AIRE DE LA CANEPETIERE,Faye-sur-Ardin,79160,1.91 €,0.90 €,2.02 €,1.97 €
-79,AUTOROUTE A10 - AIRE DE ROUILLÉ PAMPROUX NORD,PAMPROUX,79800,1.92 €,0.88 €,2.03 €,1.98 €
+79,AUTOROUTE A10 - AIRE DE ROUILLÉ PAMPROUX NORD,PAMPROUX,79800,1.89 €,0.88 €,2.00 €,1.96 €
 79,58 RUE LEONARD DE VINCI,PARTHENAY,79200,1.82 €,,1.92 €,1.90 €
 79,17 Place Cail,CHEF-BOUTONNE,79110,1.95 €,,2.05 €,1.95 €
 79,55 route de Niort,FONTENILLE-ST-MARTIN-D'ENTRAIGUE,79110,,,2.26 €,2.15 €
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 79,Boulevard de l'Atlantique,NIORT,79000,,,1.92 €,1.88 €
 79,16 ROUTE DE NIORT,COULONGES-SUR-L'AUTIZE,79160,1.94 €,,1.91 €,1.90 €
 79,Route de Montalembert,SAUZé-VAUSSAIS,79190,1.87 €,,1.96 €,1.92 €
-79,Avenue des Platanes,SAINT-VARENT,79330,1.93 €,,2.02 €,1.95 €
+79,Avenue des Platanes,SAINT-VARENT,79330,1.92 €,,2.02 €,1.93 €
 79,Route de Poitiers,Airvault,79600,1.88 €,,1.97 €,1.94 €
 79,5 Rue Jules Ferry,Niort,79000,,,,
 79,BD DU THOUET,CHATILLON SUR THOUET,79200,,,2.19 €,2.16 €
@@ -59,12 +59,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 79,580  avenue de Paris,Niort,79000,1.75 €,0.66 €,1.83 €,1.82 €
 79,2 rue de la taillee,L'Absie,79240,2.00 €,,,2.04 €
 79,38 route de Poitiers,MAULEON,79700,1.90 €,0.72 €,2.00 €,1.94 €
-79,7 voie Charles VII,Saint-Maixent-l'École,79400,1.85 €,,1.95 €,1.95 €
+79,7 voie Charles VII,Saint-Maixent-l'École,79400,1.82 €,,1.91 €,1.88 €
 79,c commercial geant casino route de paris,Chauray,79180,1.88 €,,1.98 €,1.93 €
 79,13 Rue des Joncs,Bressuire,79300,1.89 €,0.72 €,2.00 €,1.94 €
 79,27 Boulevard de l'Europe,BRESSUIRE,79300,1.99 €,,,1.97 €
 79,22 boulevard jacques menard,Thouars,79100,,0.87 €,2.06 €,1.97 €
-79,358 Route d'Aiffres,NIORT,79000,1.81 €,0.85 €,1.92 €,1.88 €
+79,358 Route d'Aiffres,NIORT,79000,1.82 €,0.75 €,1.90 €,1.87 €
 79,20 AVENUE DE PARIS,Moncoutant,79320,1.90 €,,2.00 €,1.94 €
 79,BD PORT GENTIL,THOUARS,79100,1.97 €,,2.00 €,1.94 €
 79,A10 Aire de Poitou Charentes,Aiffres,79230,2.09 €,,2.21 €,2.08 €

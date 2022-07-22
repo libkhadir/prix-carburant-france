@@ -17,11 +17,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 75,30 AV PTE CLIGNANCOURT,PARIS,75018,1.98 €,,2.09 €,2.03 €
 75,32 AVENUE DE LA PORTE DE ST OUEN,PARIS,75018,1.98 €,0.88 €,2.09 €,2.03 €
 75,101 BLD MORTIER,Paris,75020,1.98 €,,2.09 €,2.05 €
+75,7 - 11 Boulevard Garibaldi,Paris,75015,,,2.14 €,2.10 €
 75,4 AVENUE FOCH,Paris,75016,,,2.25 €,2.18 €
 75,37 RUE FABERT,Paris,75007,2.00 €,,2.11 €,2.07 €
 75,99 Avenue de Versailles,Paris,75016,2.32 €,,2.41 €,2.40 €
 75,27 AVENUE DE LA PORTE D'ITALIE,Paris,75013,1.98 €,0.88 €,2.09 €,2.06 €
-75,34 BOULEVARD DE GRENELLE,PARIS,75015,,,2.16 €,2.08 €
+75,34 BOULEVARD DE GRENELLE,PARIS,75015,,,2.13 €,2.06 €
 75,175 Avenue Ledru-Rollin,PARIS,75011,,,,2.49 €
 75,231 Rue de Tolbiac,Paris,75013,2.03 €,,2.14 €,2.08 €
 75,32 rue de Reuilly,Paris,75012,2.08 €,,2.14 €,2.10 €
@@ -29,8 +30,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 75,217 BOULEVARD MARECHAL DAVOUT,PARIS,75020,1.99 €,0.90 €,2.10 €,2.05 €
 75,1 Avenue du Général Sarrail,PARIS,75016,1.94 €,,2.03 €,2.04 €
 75,1 Boulevard de la Chapelle,PARIS,75010,,,2.30 €,2.15 €
-75,21 Avenue Emile Zola,Paris,75015,2.13 €,1.07 €,2.19 €,2.15 €
-75,7 - 11 Boulevard Garibaldi,Paris,75015,,,2.19 €,2.15 €
+75,21 Avenue Emile Zola,Paris,75015,2.08 €,1.07 €,2.14 €,2.10 €
 75,BLD DU PERIPHERIQUE EXTERIEUR,Paris,75019,1.99 €,0.88 €,2.10 €,2.06 €
 75,234 RUE DE CRIMEE,PARIS,75019,1.98 €,,2.09 €,2.03 €
 75,69 Avenue Kléber,Paris,75116,,,2.88 €,2.59 €
@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 75,26 AV PAUL DOUMER,PARIS,75016,2.42 €,,2.52 €,2.38 €
 75,85 RUE JEANNE DARC,PARIS,75013,2.05 €,,2.20 €,2.07 €
 75,154 Rue d'Alésia,Paris,75014,2.00 €,,2.11 €,2.06 €
-75,QUAI D'ISSY LES MOULINEAUX,Paris,75015,2.01 €,0.87 €,2.12 €,2.08 €
+75,QUAI D'ISSY LES MOULINEAUX,Paris,75015,1.98 €,0.87 €,2.09 €,2.06 €
 75,15 Avenue Duquesne,PARIS,75007,,,2.89 €,2.70 €
 75,151 Rue de la Convention,Paris,75015,2.11 €,,2.23 €,2.15 €
 75,PLACE TATTEGRAIN,PARIS,75116,2.34 €,,2.45 €,2.30 €

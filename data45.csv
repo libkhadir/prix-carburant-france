@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 45,3 Rue du Général de Gaulle,MEUNG-SUR-LOIRE,45130,2.19 €,,2.26 €,2.19 €
 45,Rue de la Fabrique,GIEN,45500,1.90 €,,2.00 €,1.94 €
 45,RUE DE SAVOIE,SAINT-PèRE-SUR-LOIRE,45600,1.89 €,0.80 €,1.97 €,1.95 €
-45,Route de Montargis,CHâTILLON-COLIGNY,45230,1.90 €,0.86 €,2.00 €,1.94 €
+45,Route de Montargis,CHâTILLON-COLIGNY,45230,1.88 €,0.86 €,1.98 €,1.91 €
 45,25 BOULEVARD JEAN JAURES,ORLEANS,45000,1.81 €,0.86 €,1.92 €,1.88 €
 45,88 Rue du Faubourg Madeleine,ORLEANS,45000,,,,
 45,39 AV .J.F.KENNEDY,Orléans,45100,1.80 €,0.86 €,1.92 €,1.88 €
@@ -15,15 +15,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 45,RN 7 LA COMMODITE,SOLTERRE,45700,1.92 €,0.88 €,1.99 €,1.92 €
 45,51  RTE DE CHAMBON,NIBELLE,45340,,,,
 45,94 AVENUE PRESIDENT WILSON,GIEN,45500,1.85 €,0.88 €,1.95 €,1.89 €
-45,A10 AIRE ORLEANS GIDY,GIDY,45520,1.92 €,0.88 €,2.03 €,1.97 €
+45,A10 AIRE ORLEANS GIDY,GIDY,45520,1.89 €,0.88 €,2.00 €,1.95 €
 45,AVENUE DU GENERAL LECLERC,Saint-Jean-de-Braye,45800,1.94 €,0.88 €,2.05 €,2.02 €
-45,CHEMIN DES ALLIX,Gien,45500,,,2.00 €,1.94 €
 45,RUE DES PRES FLEURIS,LA FERTé-SAINT-AUBIN,45240,,,2.07 €,1.96 €
 45,ZI LA CHAMPAGNE,BONNY-SUR-LOIRE,45420,1.88 €,,1.97 €,1.91 €
 45,8 avenue du Stade,Saint-Denis-de-l'Hôtel,45550,,,2.06 €,1.97 €
 45,4 route de Sens,Courtenay,45320,,,2.36 €,2.22 €
+45,CHEMIN DES ALLIX,Gien,45500,,,1.98 €,1.91 €
 45,21 rue de Vauluizard,MALESHERBES,45330,1.90 €,0.88 €,2.02 €,1.97 €
-45,ROUTE NATIONALE 60,MARDIE,45430,1.88 €,,1.98 €,1.93 €
+45,ROUTE NATIONALE 60,MARDIE,45430,1.85 €,,1.95 €,1.91 €
 45,a,uchan Supermarche,45800,1.89 €,,1.98 €,1.91 €
 45,Avenue du 11 Novembre,PITHIVIERS,45300,1.88 €,,1.97 €,1.97 €
 45,35 rue du general patton,MALESHERBES,45330,,,2.08 €,1.99 €
@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 45,RN7 LES STATIONS,Fontenay-sur-Loing,45210,1.98 €,,2.09 €,2.02 €
 45,16 RUE DES FRERES LUMIERE ZAC DE LA BARAUDIERE,VILLEMANDEUR,45700,1.94 €,0.85 €,2.00 €,1.95 €
 45,3 Chemin de la Sablonnière,Coullons,45720,1.94 €,,2.04 €,1.96 €
-45,RUE DES PATUREAUX,Courtenay,45320,,,2.00 €,1.96 €
+45,RUE DES PATUREAUX,Courtenay,45320,,,1.99 €,1.94 €
 45,198 Rue Marcellin Berthelot,FLEURY-LES-AUBRAIS,45400,2.01 €,1.16 €,2.07 €,2.06 €
 45,69 rue de l'enfer,fay aux loges,45450,,,2.15 €,2.15 €
 45,18 ZAC DE LA POTERIE RTE D'ORLEANS,JOUY LE POTIER,45370,1.98 €,0.83 €,2.10 €,1.99 €
@@ -40,7 +40,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 45,AVENUE DU LION D'OR,LOURY,45470,1.88 €,0.88 €,1.98 €,1.94 €
 45,A19 AIRE DU LOIRET,Beaune-la-Rolande,45340,2.09 €,0.95 €,2.22 €,2.12 €
 45,ZI ROUTE NATIONALE 60,Bellegarde,45270,1.89 €,,1.98 €,1.98 €
-45,1094  avenue d'Antibes,Amilly,45200,1.94 €,0.88 €,2.00 €,1.94 €
+45,1094  avenue d'Antibes,Amilly,45200,1.92 €,0.88 €,1.99 €,1.92 €
 45,19 Rue Louis Labonne,FLEURY-LES-AUBRAIS,45400,1.85 €,0.85 €,1.96 €,1.95 €
 45,32 bis Avenue de la libération,Villemandeur,45700,,,2.04 €,2.01 €
 45,RUE DES CHATAIGNIERS,SARAN,45770,,,,2.16 €
@@ -61,7 +61,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 45,514 ROUTE D'ORLEANS,Ouzouer-sur-Loire,45570,1.87 €,0.85 €,2.00 €,1.97 €
 45,ROUTE DE SENS,COURTENAY,45320,,,2.20 €,2.03 €
 45,AUTOROUTE A77 AIRE DU JARDIN DES ARBRES,VARENNES CHANGY,45290,2.02 €,,2.14 €,2.09 €
-45,Allée de la Gravière,Château-Renard,45220,1.98 €,0.86 €,2.00 €,1.95 €
+45,Allée de la Gravière,Château-Renard,45220,1.90 €,0.86 €,2.00 €,1.94 €
 45,23 RUE DE MONTFORT,NEUVILLE-AUX-BOIS,45170,1.88 €,0.88 €,1.98 €,1.94 €
 45,Rue de Vauluizard,MALESHERBES,45330,1.90 €,,2.02 €,1.97 €
 45,AUTOROUTE A10 - AIRE D'ORLÉANS-SARAN,GIDY,45520,1.94 €,0.88 €,2.05 €,1.99 €

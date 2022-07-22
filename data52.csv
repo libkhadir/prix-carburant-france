@@ -30,11 +30,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 52,ZI LES PATIS,MONTIER-EN-DER,52220,1.99 €,,2.08 €,2.00 €
 52,3  ROUTE DE LANGRES,CHAUMONT,52000,1.90 €,,2.01 €,2.00 €
 52,4 PLACE DE VERDUN,CHALINDREY,52600,1.91 €,,,1.97 €
-52,18 AVENUE DE HAUTE MEUSE,MONTIGNY LE ROI,52140,1.94 €,,2.05 €,2.02 €
+52,18 AVENUE DE HAUTE MEUSE,MONTIGNY LE ROI,52140,1.90 €,,2.01 €,2.00 €
 52,A31 Aire de Langres Perrogney,Perrogney-les-Fontaines,52160,1.99 €,1.10 €,2.07 €,2.05 €
 52,Route de Vesoul,FAYL-BILLOT,52500,1.92 €,,,1.99 €
 52,CENTRE COMMERCIAL LES FRANCHISES,Langres,52200,1.87 €,0.88 €,2.00 €,1.95 €
-52,56 Rue de Vergy,SAINT-DIZIER,52100,1.97 €,0.85 €,2.09 €,1.99 €
+52,56 Rue de Vergy,SAINT-DIZIER,52100,1.92 €,0.85 €,2.09 €,1.98 €
 52,13 rue de l'avenir,Saints-Geosmes,52200,1.89 €,,,1.90 €
 52,39 rue du Moulin,Bourbonne-les-Bains,52400,,,2.20 €,2.05 €
 52,Rue du Général Leclerc,Wassy,52130,1.96 €,,2.07 €,2.00 €
@@ -42,9 +42,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 52,RUE AMBROISE PARE,NOGENT,52800,,,2.03 €,2.00 €
 52,Route de Bar le Duc,BETTANCOURT-LA-FERRéE,52100,2.01 €,,2.12 €,2.07 €
 52,5 Route de Châtillon,CHATEAUVILLAIN,52120,1.90 €,0.85 €,2.00 €,1.95 €
-52,Route de Neufchâteau RD 74,VAL-DE-MEUSE,52140,1.90 €,0.85 €,1.99 €,1.96 €
-52,Rue des Loyes,Saint-Dizier,52100,1.89 €,0.82 €,2.03 €,1.97 €
-52,Rue du Vernoy,Longeau-Percey,52250,1.89 €,0.85 €,2.00 €,1.96 €
+52,Route de Neufchâteau RD 74,VAL-DE-MEUSE,52140,1.78 €,0.85 €,1.87 €,1.89 €
+52,Rue des Loyes,Saint-Dizier,52100,1.89 €,0.82 €,2.00 €,1.97 €
+52,Rue du Vernoy,Longeau-Percey,52250,1.88 €,0.85 €,2.00 €,1.93 €
 52,LIEU DIT LA HACHE LOTISSEMENT LA CHAMPAGNE,Bologne,52310,1.95 €,,2.05 €,1.99 €
 52,12 Route de Nancy,SAINT-DIZIER,52100,1.96 €,0.88 €,2.21 €,2.00 €
 52,Rue du Général Leclerc,Rimaucourt,52700,1.95 €,,2.05 €,1.95 €

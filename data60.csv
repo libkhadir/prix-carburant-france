@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 60,Avenue des Pommiers,VILLERS-SAINT-PAUL,60870,2.03 €,,2.17 €,1.99 €
 60,Rue Truffaut,CHAMBLY,60230,1.84 €,,1.95 €,1.88 €
 60,8 avenue du Général de Gaulle,Crèvecœur-le-Grand,60360,1.79 €,,,1.88 €
-60,Route de Beauvais,ANGY,60250,1.85 €,0.85 €,1.96 €,1.94 €
+60,Route de Beauvais,ANGY,60250,1.83 €,0.85 €,1.95 €,1.90 €
 60,6 Avenue de l'Europe,VENETTE,60280,1.85 €,0.85 €,1.96 €,1.88 €
 60,1 AVE KENNEDY,Beauvais,60000,1.86 €,,2.05 €,1.93 €
 60,20 Rue de Clermont,Compiègne,60200,1.83 €,,1.98 €,1.90 €
@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 60,RN31 - LE VIVIER DANGER,ONS EN BRAY,60650,,,1.98 €,1.97 €
 60,79 Avenue de la Libération,LAMORLAYE,60260,1.89 €,,2.05 €,1.96 €
 60,2 RUE ALAVOINE,Formerie,60220,,0.81 €,1.98 €,1.94 €
-60,Rue de la Sècherie,Moyvillers,60190,,,1.99 €,1.94 €
+60,Rue de la Sècherie,Moyvillers,60190,,,1.96 €,1.90 €
 60,510 AVENUE MARECHAL FOCH,SENLIS,60300,1.95 €,0.91 €,2.07 €,2.03 €
 60,28 Avenue du Maréchal Joffre,Chantilly,60500,1.97 €,0.90 €,2.09 €,2.00 €
 60,ZAC DU GROS GRELOT,THOUROTTE,60150,1.90 €,0.80 €,2.02 €,1.90 €
@@ -34,10 +34,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 60,Rue d'Amiens,BRETEUIL,60120,,,2.22 €,1.95 €
 60,ROUTE D'HAUCOURT,FORMERIE,60220,1.87 €,,1.96 €,1.95 €
 60,RN1 ROUTE PARIS,CHAMBLY,60230,1.84 €,,1.95 €,1.89 €
-60,69 Rue du Moulin,LA NEUVILLE-SUR-RESSONS,60490,1.93 €,,2.08 €,1.98 €
+60,69 Rue du Moulin,LA NEUVILLE-SUR-RESSONS,60490,1.88 €,,2.07 €,1.94 €
 60,LA VALLEE DE NOGENT-RN16,CREIL,60100,1.92 €,,2.03 €,1.98 €
 60,100 rue de royaumont,Choisy-au-Bac,60750,1.90 €,,2.00 €,2.00 €
-60,42 Rue Juliette Nevouet,Goincourt,60000,1.84 €,,1.94 €,1.92 €
+60,42 Rue Juliette Nevouet,Goincourt,60000,1.82 €,,1.94 €,1.89 €
 60,Z.A DE LA SEIGNEURIE,Lamorlaye,60260,1.86 €,0.85 €,2.05 €,1.96 €
 60,ZAC LA REMIS DU FRIER,Sérifontaine,60590,,,2.02 €,2.00 €
 60,13 Rue de Clermont,Compiègne,60200,,,,1.97 €
@@ -45,9 +45,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 60,202 RUE DE PICARDIE,Longueil-Sainte-Marie,60126,,,,1.90 €
 60,RUE EUGENE ST FUSCIEN,GRANDVILLIERS,60210,,,2.08 €,1.98 €
 60,2 rue de la croix de coivrel,Maignelay-Montigny,60420,,,2.10 €,1.97 €
-60,AUTOROUTE A16 - AIRE HARDIVILLERS,HARDIVILLERS,60120,1.92 €,0.86 €,2.03 €,1.98 €
+60,AUTOROUTE A16 - AIRE HARDIVILLERS,HARDIVILLERS,60120,1.89 €,0.86 €,2.00 €,1.96 €
 60,39 Route de Dieppe,SONGEONS,60380,,,2.08 €,2.00 €
-60,A1 SENS LILLE/PARIS REPERE 80.260,RESSONS SUR MATZ,60490,1.92 €,0.86 €,2.03 €,1.97 €
+60,A1 SENS LILLE/PARIS REPERE 80.260,RESSONS SUR MATZ,60490,1.89 €,0.86 €,2.00 €,1.95 €
 60,Rue de Dieppe,Troissereux,60112,1.91 €,,2.02 €,1.98 €
 60,6 Rue Victor Hugo,Liancourt,60140,,,,1.97 €
 60,ROUTE DE SOISSONS- RN 31,Cuise-la-Motte,60350,1.85 €,,1.96 €,1.90 €
@@ -70,9 +70,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 60,20 Rue Charles de Gaulle,CRéPY-EN-VALOIS,60800,,,2.05 €,1.97 €
 60,145 DU GENERAL LECLERC,MARSEILLE EN BEAUVAISIS,60690,1.86 €,0.85 €,1.96 €,1.96 €
 60,Avenue de l' Europe,Compiègne,60200,1.92 €,,2.03 €,1.99 €
-60,ZAC DES JARDINS,LA CROIX SAINT OUEN,60610,1.85 €,0.96 €,1.99 €,1.90 €
+60,ZAC DES JARDINS,LA CROIX SAINT OUEN,60610,1.85 €,0.96 €,1.99 €,1.88 €
 60,40 avenue du 8 Mai 1945,Beauvais,60000,,0.85 €,1.88 €,1.86 €
-60,AUTOROUTE A1 - AIRE DE RESSONS EST,RESSONS SUR MATZ,60490,1.93 €,0.89 €,2.04 €,1.98 €
+60,AUTOROUTE A1 - AIRE DE RESSONS EST,RESSONS SUR MATZ,60490,1.90 €,0.89 €,2.01 €,1.96 €
 60,rue du moulin d'andeux,Noyon,60400,,0.85 €,2.05 €,1.98 €
 60,254 avenue de la république,CLAIROIX,60280,1.85 €,0.85 €,1.98 €,1.88 €
 60,RN 31 - ROUTE DE CLERMONT,BEAUVAIS,60000,1.93 €,,2.04 €,2.02 €
@@ -84,11 +84,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 60,33  RUE GUY MOQUET,MONTATAIRE,60160,1.81 €,0.88 €,1.90 €,1.86 €
 60,64/66 AV. MAL FOCH,SENLIS,60300,1.92 €,0.88 €,2.03 €,1.98 €
 60,9 Avenue Montaigne,BEAUVAIS,60000,,0.88 €,1.91 €,1.90 €
-60,10 RUE LOUIS DENOUAL,BORNEL,60540,2.04 €,,2.09 €,1.99 €
+60,10 RUE LOUIS DENOUAL,BORNEL,60540,1.92 €,,1.96 €,1.93 €
 60,ZAC du moulin d'Angean,Chaumont-en-Vexin,60240,2.00 €,,2.06 €,1.93 €
 60,RN 31 - ROUTE DE CLERMONT,JONQUIERES,60680,1.82 €,0.86 €,1.93 €,1.86 €
 60,RD1016,SAINT-MAXIMIN,60740,1.92 €,,2.02 €,1.97 €
-60,DEVIATION NORD DE SENLIS - Avenue du Poteau,CHAMANT,60300,1.96 €,0.88 €,2.07 €,2.03 €
+60,DEVIATION NORD DE SENLIS - Avenue du Poteau,CHAMANT,60300,1.94 €,0.88 €,2.05 €,2.01 €
 60,ZI route de Crouy,Neuilly-en-Thelle,60530,1.85 €,,1.95 €,1.95 €
 60,9 Rue Saint-Germain,Crépy-en-Valois,60800,1.95 €,,2.09 €,1.97 €
 60,ROCADE INDUSTRIELLE,Villers-Saint-Paul,60870,1.82 €,0.88 €,1.94 €,1.89 €

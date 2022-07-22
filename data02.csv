@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 02,Boulevard de l'Europe,Chauny,02300,1.82 €,0.85 €,1.94 €,1.91 €
 02,16 RUE DU 2 SEPTEMBRE 1944,La Neuville-lès-Dorengt,02450,,,2.10 €,2.00 €
 02,13 Avenue Jules Lefèbvre,Château-Thierry,02400,2.18 €,,2.25 €,2.13 €
-02,Avenue de la Ferté Milon,VILLERS-COTTERêTS,02600,1.89 €,,,1.93 €
+02,Avenue de la Ferté Milon,VILLERS-COTTERêTS,02600,1.89 €,,,1.90 €
 02,43 Avenue de Château-Thierry,Belleu,02200,1.89 €,0.85 €,1.99 €,1.90 €
 02,route de pavant,CHARLY,02310,,,2.08 €,1.93 €
 02,1000 rue jean jaures,Fresnoy-le-Grand,02230,,,2.00 €,1.96 €
@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 02,37 Avenue d'Essômes,CHâTEAU-THIERRY,02400,1.89 €,,1.99 €,1.93 €
 02,route d'Amiens,St Quentin,02100,1.93 €,0.73 €,2.01 €,1.93 €
 02,Rue des Docteurs Devillers,GUISE,02120,1.92 €,,2.00 €,1.97 €
-02,2 RUE Jese RACINE,Neuilly-Saint-Front,02470,2.02 €,,2.15 €,1.98 €
+02,2 RUE Jese RACINE,Neuilly-Saint-Front,02470,1.84 €,,1.93 €,1.90 €
 02,167 Avenue Pierre Mendès France,Laon,02000,1.91 €,,2.03 €,1.96 €
 02,Autoroute de l'Est,Fresnes-en-Tardenois,02130,2.10 €,,2.18 €,2.14 €
 02,3 Avenue Raymonde Fiolet,Soissons,02200,1.90 €,0.86 €,2.07 €,1.96 €
@@ -62,7 +62,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 02,34 BD DE MONTPELLIER,BRAINE,02220,1.96 €,0.85 €,2.03 €,1.97 €
 02,39 Rue de Picardie,Bellicourt,02420,,,,2.19 €
 02,Z.A Rue de la Plaine,CHâTEAU-THIERRY,02400,1.87 €,1.29 €,,1.89 €
-02,AUTOROUTE A26 - AIRE D'URVILLERS,Essigny-le-Grand,02690,1.93 €,0.86 €,2.04 €,1.99 €
+02,AUTOROUTE A26 - AIRE D'URVILLERS,Essigny-le-Grand,02690,1.90 €,0.86 €,2.01 €,1.97 €
 02,213 Boulevard Gambetta,CONDREN,02700,1.94 €,,2.05 €,1.99 €
 02,98 rue Alexandre Dumas,SAINT-QUENTIN,02100,1.90 €,0.86 €,2.02 €,1.90 €
 02,BLD CAMILLE GUERIN,Saint-Quentin,02100,1.87 €,0.87 €,1.99 €,1.88 €
@@ -82,13 +82,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 02, Rue Auguste Delaune,GAUCHY,02430,1.91 €,0.85 €,2.01 €,1.92 €
 02,ZAC DU CHAMP DU ROY,Laon,02000,1.87 €,0.90 €,1.98 €,1.93 €
 02,RUE DES VERRIERS,LE NOUVION-EN-THIéRACHE,02170,,,2.10 €,2.00 €
-02,RUE DU DR MENU,Laon,02000,,0.90 €,,2.06 €
+02,RUE DU DR MENU,Laon,02000,,0.90 €,,2.05 €
 02,34 bis rue du 7ème Bca,PINON,02320,2.00 €,0.85 €,,2.00 €
 02,CHEMIN DEPARTEMENTAL 937,AUTREVILLE,02300,,,1.94 €,1.93 €
 02,rue Jean Jaures,CHAMBRY,02000,1.93 €,0.86 €,2.04 €,1.99 €
 02,36 ROUTE DE LA FERTE MILON,VILLERS-COTTERÊTS,02600,,,2.23 €,1.99 €
 02,Route de Fismes,BRUYèRES-ET-MONTBéRAULT,02860,1.95 €,,2.06 €,2.00 €
-02,AVENUE DE LA GARE,Ressons-le-Long,02290,1.86 €,0.88 €,1.99 €,1.92 €
+02,AVENUE DE LA GARE,Ressons-le-Long,02290,1.85 €,0.88 €,1.96 €,1.90 €
 02,12 Rue Nationale,Buironfosse,02620,2.05 €,,,2.00 €
 02,1B Rue de Couvron,Crépy,02870,2.11 €,,,2.08 €
 02,14 RUE DU MONVINAGE,ETREAUPONT,02580,2.02 €,,,2.05 €

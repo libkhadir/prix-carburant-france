@@ -65,7 +65,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 21,Rue Champ de la Perdrix,Semur-en-Auxois,21140,,,2.17 €,2.05 €
 21,18 rue François Mitterrand,IS-SUR-TILLE,21120,,1.19 €,,1.99 €
 21,Rue St Roch,Montbard,21500,1.90 €,,2.05 €,1.96 €
-21,AUTOROUTE A6 - AIRE DE BEAUNE MERCEUIL,MERCEUIL,21190,1.92 €,0.89 €,2.03 €,2.00 €
+21,AUTOROUTE A6 - AIRE DE BEAUNE MERCEUIL,MERCEUIL,21190,1.89 €,0.89 €,2.00 €,1.98 €
 21,ZA le terreau de lée,Seurre,21250,,,2.18 €,2.04 €
 21,37 Route de Seurre,Beaune,21200,1.81 €,,1.90 €,1.98 €
 21,19 Avenue du Général Mazillier,Semur-en-Auxois,21140,1.90 €,,,1.96 €
@@ -73,7 +73,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 21,1 rue de la sagesse,EPOISSES,21460,2.13 €,,2.18 €,2.05 €
 21,Route de Dijon,Saint-Usage,21170,,,1.92 €,1.99 €
 21,Route de Dijon,Chevigny-Saint-Sauveur,21800,1.90 €,0.94 €,,1.93 €
-21,AUTOROUTE A31 - AIRE DE DIJON BROGNON,BROGNON,21490,1.89 €,0.88 €,2.00 €,1.99 €
+21,AUTOROUTE A31 - AIRE DE DIJON BROGNON,BROGNON,21490,1.86 €,0.88 €,1.97 €,1.97 €
 21,Route d'Autun,NOLAY,21340,2.15 €,,2.20 €,2.05 €
 21,zac les vignes blanches,PERRIGNY-LèS-DIJON,21160,1.92 €,,2.00 €,1.96 €
 21,8 rue du sergent mazeau,POUILLY-EN-AUXOIS,21320,1.94 €,,2.05 €,2.00 €
@@ -81,7 +81,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 21,7 Rue de Cracovie,Dijon,21000,1.95 €,,1.95 €,1.90 €
 21,BLD DES ALLOBROGES,Fontaine-lès-Dijon,21121,1.80 €,0.91 €,1.92 €,1.90 €
 21,ZA LE PRE RABY / CREANCEY,POUILLY-EN-AUXOIS,21320,,,,2.06 €
-21,58 rue des Chezeaux,Arc-sur-Tille,21560,1.92 €,,1.95 €,1.93 €
+21,58 rue des Chezeaux,Arc-sur-Tille,21560,1.88 €,,1.95 €,1.90 €
 21,zae de la petite fin,Saint-Julien,21490,1.90 €,,2.00 €,2.00 €
 21,65 rue de Dijon,Montbard,21500,1.95 €,,,1.96 €
 21,Boulevard des Martyrs de la Résistance,Dijon,21000,2.15 €,,2.20 €,2.09 €
@@ -92,7 +92,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 21,20 rue François Mitterand,IS-SUR-TILLE,21120,1.91 €,0.85 €,2.00 €,1.97 €
 21,58 Faubourg St Georges,SEURRE,21250,,,,2.00 €
 21,Autoroute A6 du Soleil,BLIGNY-SUR-OUCHE,21360,1.96 €,,2.07 €,2.04 €
-21,Avenue Noël NAVOIZAT Actipôle,CHâTILLON-SUR-SEINE,21400,,,2.13 €,2.00 €
+21,Avenue Noël NAVOIZAT Actipôle,CHâTILLON-SUR-SEINE,21400,,,2.13 €,1.98 €
 21,ZA LES PORTES DE BOURGOGNE  Route d'Arnay-le-Duc,CREANCEY,21320,2.05 €,,2.16 €,2.05 €
 21,ROUTE DE BEAUNE,Marsannay-la-Côte,21160,1.81 €,0.89 €,1.91 €,1.93 €
 21,12 RUE ARNOULT,NUITS-SAINT-GEORGES,21700,,,2.06 €,2.00 €
@@ -118,7 +118,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 21,Route de Seurre,LONGVIC,21600,1.89 €,,2.00 €,2.00 €
 21,Route de Gray,Saint-Apollinaire,21850,1.79 €,,1.90 €,1.92 €
 21,78 Route de Pommard,BEAUNE,21200,1.89 €,,2.00 €,2.00 €
-21,AUTOROUTE A6 - AIRE DE BEAUNE TAILLY,MERCEUIL,21190,1.92 €,0.89 €,2.03 €,2.00 €
+21,AUTOROUTE A6 - AIRE DE BEAUNE TAILLY,MERCEUIL,21190,1.89 €,0.89 €,2.00 €,1.98 €
 21,10 RUE PAUL AUBAN,Mirebeau-sur-Bèze,21310,1.89 €,,1.95 €,1.92 €
 21,ROUTE DE DIJON,SEMUR-EN-AUXOIS,21140,,,,2.15 €
 21,RUE DE LA CHARME,Fleurey-sur-Ouche,21410,1.89 €,0.85 €,1.97 €,1.92 €

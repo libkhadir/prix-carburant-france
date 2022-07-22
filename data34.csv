@@ -39,7 +39,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 34,RN 113,VENDARGUES,34740,1.79 €,0.86 €,1.86 €,1.87 €
 34,Quartier des Calquières,GANGES,34190,1.79 €,0.71 €,1.89 €,1.92 €
 34,28 avenue de Montpellier,CASTRIES,34160,,,,1.99 €
-34,AUTOROUTE A9 - AIRE AMBRUSSUM SUD,VILLETELLE,34400,1.92 €,0.86 €,2.03 €,1.96 €
+34,AUTOROUTE A9 - AIRE AMBRUSSUM SUD,VILLETELLE,34400,1.89 €,0.86 €,2.00 €,1.94 €
 34,Avenue de Béziers,SAINT-CHINIAN,34360,2.05 €,,2.16 €,2.10 €
 34,55 Avenue du Général de Gaulle,LODèVE,34700,1.84 €,0.75 €,,1.93 €
 34,Route de Sète,Balaruc-les-Bains,34540,1.86 €,,1.92 €,1.89 €
@@ -47,13 +47,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 34,AUTOROUTE A9  AIRE AMBRUSSUM NORD (direction Nimes Montpellier),Lunel,34400,1.97 €,,2.09 €,2.03 €
 34,790 RTE DE MONTPELLIER,GRABELS,34790,2.07 €,,2.20 €,2.18 €
 34,AVENUE GENERAL GROLLIER,Pignan,34570,2.02 €,,2.13 €,2.03 €
-34,Route de Sète,AGDE,34300,1.87 €,0.85 €,1.98 €,1.97 €
+34,Route de Sète,AGDE,34300,1.84 €,0.85 €,1.95 €,1.90 €
 34,28 Faubourg des cordeliers  route de Montpellier,Pézenas,34120,1.99 €,,2.10 €,2.01 €
 34,Station Service de BEL AIR,FAUGERES,34600,,,,2.00 €
 34,Rue de la Carrièrasse,Thézan-lès-Béziers,34490,1.83 €,0.85 €,1.96 €,1.92 €
 34,AIRE DE BEZIERS MONTBLANC NORD,MONTBLANC,34290,2.01 €,,2.13 €,2.06 €
 34,A9 Sens Espagne Paris,Fabrègues,34690,1.97 €,1.10 €,2.05 €,2.01 €
-34,ROUTE DE MONTPELLIER,LAROQUE,34190,1.85 €,,1.90 €,1.93 €
+34,ROUTE DE MONTPELLIER,LAROQUE,34190,1.79 €,,1.89 €,1.92 €
 34,43 avenue de béziers,Puisserguier,34620,,0.95 €,2.16 €,2.08 €
 34,ZA de l'Aube Rouge  avenue de l'Industrie,Castelnau-le-Lez,34170,2.00 €,,2.12 €,2.02 €
 34,1 Avenue du MAS VIEL,SERVIAN,34290,1.86 €,0.90 €,,1.93 €
@@ -72,7 +72,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 34,ECOPARC DEPARTEMENTAL CD.112,SAINT-AUNES,34130,1.74 €,,1.81 €,1.88 €
 34,10 rue Alphonse Daudet,MARSILLARGUES,34590,1.93 €,,1.91 €,1.90 €
 34,543 AVENUE FREDERIC MISTRAL,BOISSERON,34160,,,2.12 €,2.06 €
-34,A9 - AIRE DE FABREGUES NORD,FABREGUES,34690,1.93 €,,2.04 €,2.00 €
+34,A9 - AIRE DE FABREGUES NORD,FABREGUES,34690,1.90 €,,2.01 €,1.98 €
 34,ZAE de la liquière,Saint-Martin-de-Londres,34380,2.00 €,0.90 €,2.10 €,1.98 €
 34,CIAL LES PORTES DE LA MER,Lunel,34400,1.75 €,0.85 €,1.84 €,1.91 €
 34,Avenue du Mas Argelliers,Montpellier,34070,1.86 €,,1.96 €,1.99 €
@@ -100,7 +100,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 34,55 Avenue de Béziers,CESSENON-SUR-ORB,34460,1.93 €,,2.02 €,2.04 €
 34, Boulevard Camille Blanc,SèTE,34200,1.82 €,,1.92 €,1.90 €
 34,ZAC VIA EUROPA BEZIERS OUEST A9 SORTIE 36,Vendres,34350,1.90 €,,,1.97 €
-34,Route de St Pons,Bédarieux,34600,,0.84 €,1.91 €,1.93 €
+34,Route de St Pons,Bédarieux,34600,,0.84 €,1.91 €,1.87 €
 34,Route de Nîmes,Le Crès,34920,1.76 €,,1.84 €,1.88 €
 34,Route de Valras,Sérignan,34410,1.85 €,0.85 €,1.90 €,1.92 €
 34,Boulevard Maurice Pacull,AGDE,34300,1.84 €,0.92 €,1.94 €,1.90 €
@@ -117,7 +117,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 34,route d Oupia,OLONZAC,34210,,,,
 34,ZAC de Montimaran - Bretelle Est Autoroute A9,Béziers,34500,1.87 €,,1.96 €,1.91 €
 34,1742 Route de Toulouse,MONTPELLIER,34070,1.83 €,,1.90 €,1.91 €
-34,AVENUE DE SETE,POUSSAN,34560,,,,2.00 €
+34,AVENUE DE SETE,POUSSAN,34560,,,,1.97 €
 34,1 AVENUE DE LA DEVEZE,BEZIERS,34500,1.80 €,0.86 €,1.91 €,1.88 €
 34,341  avenue de la salamane,Clermont-l'Hérault,34800,1.78 €,0.84 €,2.00 €,1.92 €
 34,AVENUE DE LA RECAMBALE,MONTPELLIER,34070,1.90 €,0.86 €,2.00 €,2.00 €
@@ -132,7 +132,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 34,Z.A.C. la Louvade,Mauguio,34130,,0.85 €,,1.92 €
 34,2 rue du servent,Clermont-l'Hérault,34800,1.78 €,,1.93 €,1.90 €
 34,ROUTE DE SETE,BALARUC-LE-VIEUX,34540,1.85 €,,1.92 €,1.89 €
-34,Route de Bessan,Marseillan,34340,1.89 €,,1.94 €,1.94 €
+34,Route de Bessan,Marseillan,34340,1.82 €,,1.92 €,1.88 €
 34,Centre Cial Grand Axe La Madeleine,Clermont-l'Hérault,34800,1.78 €,0.84 €,1.93 €,1.90 €
 34,RD 5 - Centre Commercial Le Frigoulet RD 5 - Centre Commercial Le Frigoulet,COURNONSEC,34660,1.82 €,0.85 €,2.04 €,1.98 €
 34,Avenue du Général de Gaulle,Mèze,34140,1.82 €,0.85 €,1.96 €,1.93 €
@@ -149,13 +149,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 34,Route de Saint-Guilhem,ANIANE,34150,,,,1.98 €
 34,1001 avenue de l'Industrie,Castelnau-le-lez,34170,1.90 €,0.85 €,2.01 €,1.97 €
 34,Avenue de Nissan,CAPESTANG,34310,1.85 €,0.85 €,2.03 €,1.95 €
-34,ROUTE DE CARNON - CS61015,LATTES,34970,1.81 €,,1.90 €,1.91 €
-34,Rue du Levant,LUNEL,34400,1.75 €,0.85 €,1.84 €,1.91 €
+34,ROUTE DE CARNON - CS61015,LATTES,34970,1.81 €,,1.89 €,1.89 €
+34,Rue du Levant,LUNEL,34400,1.75 €,0.85 €,1.84 €,1.86 €
 34,Route de Pézenas,GIGNAC,34150,1.78 €,0.85 €,1.86 €,1.89 €
 34,Avenue de Montpellier,SAINT-ANDRé-DE-SANGONIS,34725,1.87 €,,2.00 €,1.99 €
 34,la méridienne - Autouroute A75 - sortie 54,Le Bosc,34700,1.81 €,0.84 €,2.00 €,1.92 €
 34,24 avenue de beziers,GIGEAN,34770,2.00 €,,2.09 €,2.00 €
-34,Avenue du pech de Valras,Béziers,34500,1.85 €,,1.99 €,1.95 €
+34,Avenue du pech de Valras,Béziers,34500,1.84 €,,1.96 €,1.93 €
 34,ROUTE DE GANGES,SAINT-CLéMENT-DE-RIVIèRE,34980,1.79 €,,2.08 €,1.94 €
 34,CHEMIN DE PAYSSIEROU  CENTRE COMMERCIAL LE LIROU,MARAUSSAN,34370,1.91 €,0.80 €,2.02 €,1.98 €
 34,47  avenue de Béziers,Gigean,34770,1.86 €,,1.92 €,1.89 €

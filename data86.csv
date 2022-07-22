@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
-86,Rue des Ecoles,BUXEROLLES,86180,1.80 €,,,1.86 €
+86,Rue des Ecoles,BUXEROLLES,86180,1.79 €,,,1.85 €
 86,71 AVENUE DE CHATELLERAULT,Migné-Auxances,86440,1.81 €,,1.92 €,1.87 €
 86,RN10 - LONGEVE,Dissay,86130,,,2.05 €,1.99 €
 86,Beaulieu - 2 Avenue de Lafayette,POITIERS,86000,1.89 €,,1.99 €,1.93 €
@@ -14,16 +14,16 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 86,5 ROUTE DE POITIERS,Mirebeau,86110,1.90 €,,2.00 €,1.97 €
 86,70  avenue John Kennedy,Poitiers,86000,1.96 €,,2.10 €,2.02 €
 86,8 ROUTE DE CHARDONCHAMPS,Migné-Auxances,86440,1.83 €,,1.92 €,1.88 €
-86,63 av Saintonge,Lusignan,86600,1.88 €,0.85 €,2.13 €,1.95 €
+86,63 av Saintonge,Lusignan,86600,1.84 €,0.85 €,1.94 €,1.90 €
 86,59 BIS AVENUE HENRI ROUCHER,CIVRAY,86400,,,,2.01 €
 86,93 Route de Gençay,Poitiers,86000,1.79 €,,1.87 €,1.85 €
 86,ZA DE PEURON 2 RUE ENTREPRENEURS,Chauvigny,86300,2.12 €,,2.25 €,2.15 €
 86,Route Nationale 10 - Lieu-dit la Fosse aux Sables,Les Ormes,86220,,,,1.95 €
 86,23 Avenue Aristide Gigot,LES TROIS-MOUTIERS,86120,1.99 €,,2.10 €,2.02 €
 86,Avenue du Cerisier Noir,NAINTRé,86530,1.90 €,,2.02 €,1.94 €
-86,ZAE DE VAUGENDRON,Vouillé,86190,1.81 €,,1.90 €,1.90 €
-86,Autoroute A10 - Aire de Poitiers Jaunay Clan,Jaunay-Clan,86130,2.20 €,,2.10 €,2.13 €
+86,ZAE DE VAUGENDRON,Vouillé,86190,1.78 €,,1.88 €,1.87 €
 86,106 Avenue Victor Hugo,MONTMORILLON,86500,1.88 €,,1.92 €,1.94 €
+86,Autoroute A10 - Aire de Poitiers Jaunay Clan,Jaunay-Clan,86130,2.08 €,,2.18 €,2.11 €
 86,13 Avenue Honoré de Balzac,CHâTELLERAULT,86100,1.86 €,,1.95 €,1.90 €
 86,8 Avenue du Général de Gaulle,Saint-Savin,86310,2.04 €,,,2.10 €
 86,Rue de la Pierre du Theil,CIVRAY,86400,1.84 €,,1.93 €,1.90 €
@@ -53,7 +53,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 86,41 allée jean monnet,Neuville-de-Poitou,86170,1.84 €,,1.94 €,1.90 €
 86,ROCADE OUEST - Z.I.REPUBLIQUE III,POITIERS,86000,1.81 €,0.88 €,1.91 €,1.87 €
 86,Sortie A10 Nord - ZI Nord - Espace d Argenson,CHATELLERAULT,86100,1.89 €,0.85 €,1.99 €,1.95 €
-86,Les Chaumettes,LA ROCHE-POSAY,86270,1.99 €,0.85 €,2.10 €,1.99 €
+86,Les Chaumettes,LA ROCHE-POSAY,86270,1.99 €,0.85 €,2.07 €,1.99 €
 86,avenue Loge,Migné-Auxances,86440,1.92 €,,2.03 €,1.97 €
 86,SENS POITIERS TOURS,Jaunay-Marigny,86130,2.11 €,,2.21 €,2.15 €
 86,RN10,DANGE-SAINT-ROMAIN,86220,,,2.05 €,2.00 €

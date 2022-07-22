@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
-73,14 Rue Antoine Borrel,UGINE,73400,1.95 €,,2.05 €,2.04 €
+73,14 Rue Antoine Borrel,UGINE,73400,1.95 €,,2.05 €,2.03 €
 73,Route du Lac,Novalaise,73470,,,2.10 €,2.05 €
 73,21 RUE CENTRALE,BASSENS,73000,1.76 €,,1.89 €,1.85 €
 73,Route de l'aéroport,Voglans,73420,1.76 €,,,1.85 €
@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 73,Route Nationale 6,FRANCIN,73800,,,,2.15 €
 73,Lieu-dit Les Chartreux,Tignes,73320,2.17 €,,2.28 €,2.19 €
 73,les platières,ST PIERRE D'ENTREMONT,73670,,,2.15 €,2.06 €
-73,583 Avenue des Landiers,CHAMBéRY,73000,,,2.06 €,2.04 €
+73,583 Avenue des Landiers,CHAMBéRY,73000,,,,
 73,zi Baronnie,Le Pont-de-Beauvoisin,73330,1.77 €,,,1.94 €
 73,3320 ROUTE DU LAC,Saint-Alban-de-Montbel,73610,,,2.20 €,2.09 €
 73,AIRE DE MOUXY,MOUXY,73182,2.05 €,,2.17 €,2.10 €
@@ -51,14 +51,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 73,EX AUTOPORT DU FREJUS,Freney,73500,,,2.21 €,2.11 €
 73,AIRE DE L'ABIS autoroute A 43,Saint-Jeoire-Prieuré,73190,2.15 €,,2.27 €,2.23 €
 73,AUTOROUTE A41 AIRE DU GRANIER,Myans,73800,2.11 €,,2.23 €,2.18 €
-73,rue du pré Renaud,LA RAVOIRE,73490,1.85 €,,,1.91 €
+73,rue du pré Renaud,LA RAVOIRE,73490,1.76 €,,1.89 €,1.85 €
 73,Avenue des Salines Royales,MOûTIERS,73600,,,,2.00 €
 73,ZAE DE SAUMONT,RUFFIEUX,73310,1.89 €,,,1.96 €
 73,27 AVENUE JEAN MARIE MEUNIER,UGINE,73400,1.88 €,,1.99 €,1.96 €
 73,RN504,Yenne,73170,,0.78 €,,1.95 €
 73,42 AVENUE D'ANNECY,Chambéry,73000,1.91 €,0.80 €,,1.93 €
 73,1388 AVENUE DE LYON,CHAMBERY,73000,1.79 €,0.87 €,1.91 €,1.88 €
-73,399 rue de bompan,La Bâthie,73540,,,2.30 €,2.16 €
+73,399 rue de bompan,La Bâthie,73540,,,2.08 €,2.10 €
 73,192 AV.DES THERMES SALINS,Salins-les-Thermes,73600,1.80 €,0.87 €,1.92 €,1.90 €
 73,Avenue Denis Therme,Le Chatelard,73630,,,,2.02 €
 73,330 avenue JEAN ROSTAND,La Motte-Servolex,73290,1.90 €,,2.00 €,1.97 €
@@ -75,7 +75,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 73,100 ROUTE DU JARDY,Villard-sur-Doron,73270,,,2.00 €,2.00 €
 73,AVENUE DU 8 MAI 1945 LES PLANS,Saint-Jean-de-Maurienne,73300,,,2.06 €,1.96 €
 73,70 ROUTE NATIONALE 6,SAINT-JEOIRE-PRIEURé,73190,,,2.06 €,1.99 €
-73,AUTOROUTE A41N - AIRE DE DRUMETTAZ,Mouxy,73100,1.91 €,0.87 €,2.02 €,2.00 €
+73,AUTOROUTE A41N - AIRE DE DRUMETTAZ,Mouxy,73100,1.88 €,0.87 €,1.99 €,1.97 €
 73,2120 route d'Annecy,UGINE,73400,,,2.26 €,2.16 €
 73,4 PLACE DE LA VANOISE,SAINT-MICHEL-DE-MAURIENNE,73140,,,2.10 €,2.09 €
 73,ROUTE DES ARCS,Bourg-Saint-Maurice,73700,1.85 €,0.86 €,1.95 €,1.96 €
@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 73,75 Rue Lavoisier,LA MOTTE-SERVOLEX,73290,1.76 €,0.83 €,1.89 €,1.85 €
 73,345 Quai du 11 Novembre,CHAMBERY,73000,1.87 €,,2.00 €,1.96 €
 73,Route de l'Énergie,La Bâthie,73540,,0.84 €,,1.99 €
-73,29 Rue Raymond Bertrand,Albertville,73200,1.93 €,0.84 €,2.04 €,2.01 €
+73,29 Rue Raymond Bertrand,Albertville,73200,1.89 €,0.84 €,2.00 €,1.99 €
 73,Chemin de la Caronnière,Montmélian,73800,1.84 €,,1.92 €,1.91 €
 73,ZI DU CAROUGE,Saint-Pierre-d'Albigny,73250,1.82 €,,2.00 €,1.94 €
 73,100 Rue Pasteur,ALBERTVILLE,73200,1.81 €,,1.97 €,1.91 €

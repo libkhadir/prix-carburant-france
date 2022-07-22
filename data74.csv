@@ -23,8 +23,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 74,9 AVENUE ANNA DE NOUAILLES,Évian-les-Bains,74500,,,2.07 €,2.00 €
 74,3515 Avenue du Mont-Blanc,Saint-Pierre-en-Faucigny,74800,1.88 €,0.90 €,2.05 €,2.00 €
 74,1 Avenue de la République,Cran-Gevrier,74960,1.81 €,,1.93 €,1.90 €
-74,65 impasse des Champs,Amancy,74800,1.85 €,0.85 €,2.00 €,1.98 €
+74,65 impasse des Champs,Amancy,74800,1.83 €,0.85 €,1.93 €,1.96 €
 74,1365 ROUTE DE TANINGES,SAMOENS,74340,,,,2.05 €
+74,rue des mouettes,ANNECY-LE-VIEUX,74940,,,2.29 €,1.96 €
 74,930 AVENUE DE THONON,ALLINGES,74200,2.04 €,,2.15 €,2.08 €
 74,240 IMPASSE DES CONTAMINES,PERS JUSSY,74930,1.89 €,,2.00 €,1.99 €
 74,271 ROUTE DE SALLANCHES,DEMI-QUARTIER,74120,2.08 €,,2.19 €,2.10 €
@@ -37,7 +38,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 74,1751 Avenue de Genève,SALLANCHES,74700,1.80 €,,1.89 €,1.91 €
 74,27 Avenue de Genève,THONON LES BAINS,74200,,0.89 €,2.01 €,2.01 €
 74,Lieu-dit Chef-Lieu la Chapelle-d'Abondance,Abondance,74360,,,2.30 €,2.21 €
-74,rue des mouettes,ANNECY-LE-VIEUX,74940,,,2.09 €,2.00 €
 74,Avenue Roosevelt,Rumilly,74150,,,1.83 €,1.88 €
 74,Parc d'Activités de la Menoge,BONNE,74380,1.84 €,,1.95 €,1.94 €
 74,RD 19 Lieu dit Les Bossons,Thyez,74300,1.91 €,,,1.97 €
@@ -46,15 +46,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 74,ZA les Boucheroz RN 508,FAVERGES,74210,1.84 €,,,1.92 €
 74,54 Avenue d'Évian,Thonon-les-Bains,74200,2.04 €,,2.14 €,2.10 €
 74,Route de Genève,ALLONZIER-LA-CAILLE,74350,,,,2.10 €
-74,A40 - KM79 - SENS MILAN MACON,VALLEIRY,74520,1.89 €,0.86 €,2.00 €,1.99 €
+74,A40 - KM79 - SENS MILAN MACON,VALLEIRY,74520,1.86 €,0.86 €,1.97 €,1.97 €
 74,1930 Route de Bellegarde,SILLINGY,74330,1.96 €,,,2.02 €
 74,ZI LES ESSERTS,DOUVAINE,74140,1.75 €,0.85 €,1.88 €,1.90 €
-74,Avenue d'Aix-les-Bains,Seynod,74600,1.94 €,,2.06 €,2.00 €
+74,Avenue d'Aix-les-Bains,Seynod,74600,1.81 €,,1.92 €,1.97 €
 74,382 Avenue de Thezières,TANINGES,74440,,,2.10 €,2.20 €
 74,RN5 Route de Thonon,SCIEZ,74140,,,2.08 €,2.00 €
 74,934 AV. DE GENEVE,SALLANCHES,74700,1.82 €,0.90 €,1.92 €,1.91 €
 74,LES BLOSSONNIERS ROUTE DES VOIRONS,VEIGY-FONCENEX,74140,,,1.97 €,1.98 €
-74,A41 AIRE DE LA RIPAILLE,SEYNOD,74600,1.92 €,0.90 €,2.03 €,1.99 €
+74,A41 AIRE DE LA RIPAILLE,SEYNOD,74600,1.89 €,0.90 €,2.00 €,1.97 €
 74,61 AVENUE DE GENEVE,Thonon-les-Bains,74200,1.90 €,0.88 €,2.00 €,2.00 €
 74,81 ROUTE DE THONON,ANNEMASSE,74100,1.90 €,0.89 €,2.01 €,2.01 €
 74,94 Chemin des Vorges,La Chapelle-d'Abondance,74360,1.92 €,,,1.99 €
@@ -114,7 +114,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 74,AVENUE DES LACS,SCIONZIER,74950,1.97 €,,1.93 €,2.00 €
 74,223 Route de la Clusaz,SAINT-JEAN-DE-SIXT,74450,2.08 €,,2.20 €,2.13 €
 74,37 chemin des artisans,Valleiry,74520,1.90 €,,2.00 €,1.98 €
-74,123 ROUTE DE MONTRENAZ,SAINT-JEOIRE,74490,1.92 €,,,1.96 €
+74,123 ROUTE DE MONTRENAZ,SAINT-JEOIRE,74490,1.86 €,,,1.95 €
 74,530 Route d'Annecy,Menthon-Saint-Bernard,74290,,,2.04 €,2.07 €
 74,913 AVENUE GEORGES CLEMENCEAU,CLUSES,74300,,,2.03 €,2.00 €
 74,RD 1005,PUBLIER,74500,2.03 €,,2.13 €,2.09 €

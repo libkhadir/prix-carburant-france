@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,RD 93 GRANDE RUE,Camphin-en-Pévèle,59780,1.96 €,0.70 €,2.08 €,1.95 €
 59,Rue de la Canteraine,EMMERIN,59320,1.94 €,,2.02 €,1.94 €
 59,Boulevard d'Halluin,RONCQ,59223,1.87 €,0.74 €,1.95 €,1.94 €
-59,AUTOROUTE A23 6 - AIRE DE PETITE FORÊT,Petite-Forêt,59494,1.88 €,0.85 €,1.99 €,1.92 €
+59,AUTOROUTE A23 6 - AIRE DE PETITE FORÊT,Petite-Forêt,59494,1.85 €,0.85 €,1.96 €,1.90 €
 59,1476 route nationnale 1,LOON-PLAGE,59279,2.00 €,,2.18 €,2.07 €
 59,144 Route d'Eecke,Steenvoorde,59114,,,2.10 €,1.97 €
 59,route de Trélon,AVESNELLES,59440,1.93 €,,2.04 €,1.99 €
@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,Rue Ledru Rollin,ESCAUDAIN,59124,,,,
 59,47 Rue Jean-Baptiste Lebas,PHALEMPIN,59133,,,,
 59,48 RUE ETIENNE D'ORVES,PECQUENCOURT,59146,1.83 €,0.85 €,1.94 €,1.89 €
-59,AUTOROUTE A2 - AIRE DE LA SENTINELLE OUEST,LA SENTINELLE,59174,1.93 €,0.86 €,2.04 €,1.99 €
+59,AUTOROUTE A2 - AIRE DE LA SENTINELLE OUEST,LA SENTINELLE,59174,1.90 €,0.86 €,2.01 €,1.97 €
 59,C.C. AUCHAN - LIEU-DIT MOULIN DE,Faches-Thumesnil,59155,1.86 €,,1.97 €,1.91 €
 59,2 Avenue de la Marne,Tourcoing,59200,1.84 €,,1.96 €,1.89 €
 59,398  BOULEVARD DE L'EGALITE,TOURCOING,59200,1.90 €,0.87 €,2.01 €,1.97 €
@@ -86,7 +86,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,221 Rue Jean Jaurès,Quarouble,59243,,,2.04 €,1.94 €
 59,Le cochon noir,GRAND-FORT-PHILIPPE,59153,1.84 €,0.70 €,1.97 €,1.96 €
 59,2 RUE DE VALENCIENNES,Haspres,59198,,,2.13 €,2.00 €
-59,AUTOROUTE A2 - AIRE LA SENTINELLE EST,Trith-Saint-Léger,59125,1.93 €,,2.04 €,1.97 €
+59,AUTOROUTE A2 - AIRE LA SENTINELLE EST,Trith-Saint-Léger,59125,1.90 €,,2.01 €,1.95 €
 59,Rue Mirabeau,AULNOYE-AYMERIES,59620,1.88 €,0.85 €,1.96 €,1.93 €
 59,29  rue de Maresquel,Templeuve,59242,1.83 €,0.73 €,1.92 €,1.91 €
 59,bd ambroize croizat,Guesnain,59287,1.90 €,0.85 €,1.99 €,1.97 €
@@ -96,7 +96,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,53 Avenue Jean Jaurès,QUIéVRECHAIN,59920,1.87 €,,2.04 €,1.94 €
 59,27 RUE DU GENERAL DE GAULLE,Sars-Poteries,59216,1.99 €,,2.11 €,2.01 €
 59,18 place de la République,HOUPLINES,59116,1.96 €,,2.05 €,1.96 €
-59,Rue de l'Epeule,Hazebrouck,59190,1.87 €,0.73 €,1.97 €,1.93 €
+59,Rue de l'Epeule,Hazebrouck,59190,1.87 €,0.73 €,1.97 €,1.90 €
 59,Route de Begues,WORMHOUT,59470,1.88 €,0.74 €,1.98 €,1.90 €
 59,Boulevard Lamartine  Quartier de l'Epinette,Maubeuge,59600,1.84 €,,1.94 €,1.89 €
 59,28 Rue Jean Jaurès,Feignies,59750,,,2.15 €,2.03 €
@@ -110,7 +110,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,194 Route de Tournai,WAZIERS,59119,1.83 €,0.86 €,1.96 €,1.88 €
 59,ZAC des Jardins,Dunkerque,59430,1.82 €,,1.92 €,1.88 €
 59,ZA DU MONT DES BRUYERES ROCADE NORD,SAINT-AMAND-LES-EAUX,59230,1.83 €,0.75 €,1.95 €,1.90 €
-59,RD 643,TILLOY-LEZ-CAMBRAI,59554,1.90 €,0.85 €,2.03 €,1.94 €
+59,RD 643,TILLOY-LEZ-CAMBRAI,59554,1.86 €,0.85 €,1.98 €,1.91 €
 59,AVENUE DE LA SABLONNIERE,Sainghin-en-Weppes,59184,,,2.02 €,2.00 €
 59,Place de Nos Fusillés,FENAIN,59179,,,2.10 €,2.00 €
 59,1  avenue de l'Europe,Leers,59115,1.85 €,,1.96 €,1.92 €
@@ -118,14 +118,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,81 RUE DE SECLIN,Avelin,59710,1.84 €,0.87 €,1.96 €,1.89 €
 59,FAUBOURG DE CASSEL RD 916,QUAEDYPRE,59380,1.82 €,0.87 €,1.93 €,1.88 €
 59,70 ROUTE D HAZEBROUCK,CAESTRE,59190,2.00 €,,,2.00 €
-59,Boulevard Louise Michel,SOMAIN,59490,1.87 €,,1.98 €,1.92 €
+59,Boulevard Louise Michel,SOMAIN,59490,1.86 €,,1.97 €,1.91 €
 59,102 route d'estaires,Merville,59660,1.87 €,0.82 €,1.96 €,1.97 €
 59,79 Rue Sadi Carnot,Avesnes-les-Aubert,59129,,,2.06 €,1.98 €
 59,RN 352,HAUBOURDIN,59320,1.83 €,,1.91 €,1.92 €
 59,769 avenue Albert Mahieu,Cassel,59670,,,2.04 €,1.97 €
 59,Route d'hazebrouck,Terdeghem,59114,1.86 €,,2.04 €,1.97 €
 59,960 avenue Jean Jaurès,La Sentinelle,59174,1.92 €,0.88 €,2.02 €,1.93 €
-59,AUTOROUTE A1 - AIRE DE PHALEMPIN OUEST,SECLIN,59113,1.94 €,0.89 €,2.05 €,1.99 €
+59,AUTOROUTE A1 - AIRE DE PHALEMPIN OUEST,SECLIN,59113,1.91 €,0.89 €,2.02 €,1.97 €
 59,Avenue des Aulnes,LA GORGUE,59253,1.83 €,0.85 €,1.90 €,1.88 €
 59,17 RUE DU GENERAL LECLERC,SAINT-ANDRE-LEZ-LILLE,59350,2.06 €,0.96 €,2.12 €,2.04 €
 59,15 Route de Lille,Seclin,59113,1.84 €,0.89 €,1.96 €,1.90 €
@@ -151,9 +151,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,187 Rue Saint-Ladre,CAMBRAI,59400,,,2.12 €,2.03 €
 59,510 Rue Nationale,RâCHES,59194,1.91 €,0.88 €,2.04 €,1.93 €
 59,112 RUE DE LA BASSEE,LILLE,59000,1.90 €,0.87 €,2.01 €,1.97 €
-59,A 23 sens Lille-Valenciennes Aire de Genech,Templeuve,59242,1.83 €,0.87 €,1.94 €,1.89 €
+59,A 23 sens Lille-Valenciennes Aire de Genech,Templeuve,59242,1.80 €,0.87 €,1.91 €,1.86 €
 59,365  BOULEVARD VICTOR HUGO,LILLE,59000,1.83 €,0.87 €,1.91 €,1.89 €
-59,2 Rue des Forts,DUNKERQUE,59240,,,1.99 €,1.96 €
+59,2 Rue des Forts,DUNKERQUE,59240,,,1.93 €,1.89 €
 59,126 ROUTE DE VALENCIENNES,FEIGNIES,59750,1.83 €,0.85 €,1.95 €,1.89 €
 59,Boulevard de Roncq,HALLUIN,59250,1.91 €,0.85 €,2.03 €,1.96 €
 59,Rue Ernest Macarez,VALENCIENNES,59300,1.84 €,0.75 €,1.93 €,1.90 €
@@ -167,7 +167,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,1 AV DE PETITE SYNTHE,Grande-Synthe,59760,1.92 €,,2.03 €,1.98 €
 59,BOULEVARD DE TOURNAI,LEZENNES,59260,1.83 €,0.87 €,1.95 €,1.89 €
 59,184 RUE DU GENERAL DE GAULLE,LA MADELEINE,59110,1.83 €,0.87 €,1.95 €,1.89 €
-59,15 TER ROUTE NATIONALE,BUGNICOURT,59151,1.87 €,,1.98 €,1.93 €
+59,15 TER ROUTE NATIONALE,BUGNICOURT,59151,1.84 €,,1.95 €,1.91 €
 59,268 Rue Pierre Legrand,LILLE,59000,1.91 €,,2.03 €,1.94 €
 59,25 RUE FRANKLIN,MONS EN BAROEUL,59370,1.85 €,0.88 €,,1.94 €
 59,av Abbé Lemire,HALLUIN,59250,1.86 €,,1.95 €,1.89 €
@@ -192,7 +192,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,58 RUE DE DOUAI,CAMBRAI,59400,1.92 €,0.88 €,2.03 €,1.98 €
 59,Zone du Luc,DECHY,59187,1.85 €,0.84 €,1.92 €,1.93 €
 59,Rue du Lavoisier,ANNOEULLIN,59112,,0.68 €,1.96 €,1.93 €
-59,26 Avenue Aristide Briand,ARMENTIèRES,59280,1.83 €,,1.96 €,1.91 €
+59,26 Avenue Aristide Briand,ARMENTIèRES,59280,1.83 €,,1.96 €,1.90 €
 59,Rue Sadi Carnot,AVESNES-LES-AUBERT,59129,1.96 €,,2.06 €,1.98 €
 59,RN 30,HAULCHIN,59121,1.83 €,,1.94 €,1.89 €
 59,Boulevard de l'Europe,DUNKERQUE,59240,,,2.05 €,1.96 €
@@ -205,7 +205,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,2 rue du coeur joyeux,SANTES,59211,,,2.15 €,1.92 €
 59,14 Grand Rue,PONT-SUR-SAMBRE,59138,,,1.94 €,1.91 €
 59,AUTOROUTE A25AIRE DE SAINT ELOI,STEENVOORDE,59114,2.08 €,0.99 €,2.19 €,2.10 €
-59,RUE DU PETIT SOLESMES,SAINT-PYTHON,59730,1.88 €,0.80 €,1.97 €,1.94 €
+59,RUE DU PETIT SOLESMES,SAINT-PYTHON,59730,1.81 €,0.78 €,1.91 €,1.90 €
 59,Avenue du Général de Gaulle,JEUMONT,59460,,,2.07 €,1.95 €
 59,160 RUE DE ROUBAIX,Mouvaux,59420,2.15 €,0.90 €,2.20 €,2.09 €
 59,10 Rue Maurice Bouchery,LA BASSéE,59480,,,1.96 €,1.94 €
@@ -228,7 +228,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 59,AVENUE KENNEDY,BOUCHAIN,59111,,,1.98 €,1.95 €
 59,RUE DE STALINGRAD,WATTRELOS,59150,1.85 €,0.85 €,1.96 €,1.92 €
 59,67 Boulevard Paul Vaillant-Couturier,ANICHE,59580,2.05 €,,2.17 €,2.13 €
-59,1 rue du vieux de Gravelines,Loon-Plage,59279,1.92 €,0.85 €,2.00 €,1.95 €
+59,1 rue du vieux de Gravelines,Loon-Plage,59279,1.91 €,0.85 €,1.99 €,1.93 €
 59,Rue de la Fontaine,AULNOYE-AYMERIES,59620,1.85 €,,1.93 €,1.94 €
 59,VOIE RAPIDE HAUTMONT-MAUBEUGE,HAUTMONT,59330,1.98 €,,2.06 €,1.95 €
 59,ROUTE DE MERVILLE,ESTAIRES,59940,1.86 €,0.88 €,1.95 €,1.96 €

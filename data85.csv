@@ -4,7 +4,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,322 Rue de l'Océan,Longeville-sur-Mer,85560,,,,2.09 €
 85,31 RUE DU MOULIN ROUGE,LA CHAIZE-LE-VICOMTE,85310,2.05 €,,2.17 €,2.13 €
 85,52 Avenue du Général de Gaulle,La Châtaigneraie,85120,1.82 €,0.68 €,1.94 €,1.86 €
-85,BOULEVARD DE LA VIE,Belleville-sur-Vie,85170,1.85 €,0.80 €,1.93 €,1.90 €
+85,BOULEVARD DE LA VIE,Belleville-sur-Vie,85170,1.91 €,0.80 €,1.93 €,1.92 €
 85,4 RUE DES ALOUETTES,LA GAUBRETIERE,85130,,,,2.07 €
 85,56  ROUTE NATIONALE,L'OIE,85140,,,,
 85,RN 160 LA VERRIE,CHANVERRIE,85130,1.92 €,,2.03 €,1.99 €
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,AUTOROUTE A83AIRE DE CHAVAGNES EN PAILLERS,CHAVAGNES EN PAILLERS,85250,2.09 €,,2.20 €,2.11 €
 85,A 83 AIRE DE LA VENDEE,Sainte-Hermine,85210,1.97 €,,2.07 €,1.99 €
 85,AVENUE DE LA MAINE,LES HERBIERS,85500,1.83 €,0.72 €,1.91 €,1.91 €
-85,Rue de la Rivière,Saint-Jean-de-Monts,85160,1.84 €,,1.93 €,1.92 €
+85,Rue de la Rivière,Saint-Jean-de-Monts,85160,1.82 €,,1.90 €,1.89 €
 85,CHEMIN DU VASAIS DE MILLET,LA TRANCHE-SUR-MER,85360,1.91 €,0.86 €,1.99 €,1.92 €
 85,26 bd du Bas Poitou,Fontenay-le-Comte,85200,,,2.18 €,2.09 €
 85,D 949 -LES QUATRE CHEMINS,SAINTE-GEMME-LA-PLAINE,85400,,,,1.98 €
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,ROND POINT PORTE DE BOUFFERE,BOUFFERE,85600,1.86 €,0.69 €,1.92 €,1.90 €
 85,Rue de la Brûlerie,LA BRUFFIèRE,85530,1.95 €,,2.06 €,1.97 €
 85,1 RUE DES MARTYRS,Saint-Laurent-sur-Sèvre,85290,,,2.00 €,2.01 €
-85,1 RUE DE LA DRIE,Saint-Gilles-Croix-de-Vie,85800,,,1.91 €,1.92 €
+85,1 RUE DE LA DRIE,Saint-Gilles-Croix-de-Vie,85800,,,1.90 €,1.91 €
 85,44 ROUTE DE NANTES,LA ROCHE-SUR-YON,85000,1.92 €,,1.95 €,1.92 €
 85,ROND POINT DE CHOLET,CHALLANS,85300,1.93 €,,2.01 €,2.01 €
 85,10 RUE DES ECOLES,La Verrie,85130,,,2.10 €,2.05 €
@@ -91,10 +91,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,ROUTE DES SABLES,BEAUVOIR-SUR-MER,85230,1.86 €,0.83 €,2.00 €,1.93 €
 85,Rue Pierre de Coubertin,LES EPESSES,85590,,,2.00 €,2.00 €
 85,Impasse Bellevue,NIEUL-LE-DOLENT,85430,1.83 €,,1.93 €,1.91 €
-85,ROUTE DE LA ROCHELLE,FONTENAY-LE-COMTE,85200,1.84 €,0.71 €,1.97 €,1.92 €
+85,ROUTE DE LA ROCHELLE,FONTENAY-LE-COMTE,85200,1.83 €,0.71 €,1.90 €,1.89 €
 85,208 RUE DU CLAIR BOCAGE,Mouilleron-le-Captif,85000,1.81 €,0.87 €,1.92 €,1.88 €
 85,11 RUE DE LA VENDEE,Saint-Hilaire-de-Loulay,85600,1.93 €,,2.04 €,2.00 €
-85,BOULEVARD JEAN XXIII,CHALLANS,85300,1.82 €,0.69 €,1.91 €,1.90 €
+85,BOULEVARD JEAN XXIII,CHALLANS,85300,1.79 €,0.69 €,1.89 €,1.86 €
 85,BEL AIR,Maché,85190,,,2.23 €,2.05 €
 85,87 Avenue François Mitterand,Olonne-sur-Mer,85340,1.79 €,0.66 €,1.88 €,1.87 €
 85,Rue Amiral Duchaffault,MONTAIGU,85600,1.86 €,,,1.90 €
@@ -104,18 +104,18 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 85,Route de Challans,SAINT-JEAN-DE-MONTS,85160,1.82 €,0.69 €,1.90 €,1.89 €
 85,Rte de la Tranche,LA ROCHE-SUR-YON,85000,1.84 €,,1.93 €,1.90 €
 85,45  AV G. CLEMENCEAU,CHANTONNAY,85110,1.86 €,0.72 €,1.94 €,1.91 €
-85,86 AVENUE DES SABLES,Talmont-Saint-Hilaire,85440,1.83 €,,1.93 €,1.91 €
+85,86 AVENUE DES SABLES,Talmont-Saint-Hilaire,85440,1.82 €,,1.92 €,1.89 €
 85,Rue Eugène Charrier,Le Boupère,85510,,,1.96 €,1.96 €
 85,Boulevard Stéphane Moreau,LA ROCHE-SUR-YON,85000,1.83 €,,1.94 €,1.90 €
 85,Rue des Plesses,CHâTEAU-D'OLONNE,85180,1.80 €,0.85 €,1.89 €,1.89 €
 85,91 Avenue des Sables,TALMONT-SAINT-HILAIRE,85440,,,,1.99 €
 85,RUE SAVARY DE L'EPINERAYE,La Roche-sur-Yon,85000,1.96 €,,2.07 €,1.99 €
-85,Route De Fontenay,Luçon,85400,1.84 €,0.73 €,1.93 €,1.92 €
+85,Route De Fontenay,Luçon,85400,1.84 €,0.73 €,1.91 €,1.90 €
 85,Les petits Trais-RD N°6,Coëx,85220,1.89 €,,1.99 €,1.96 €
 85,Rue du Chemin Bas,LA GARNACHE,85710,,,2.00 €,1.93 €
 85,7 ROUTE DE SAINT-GILLES,AIZENAY,85190,1.88 €,0.88 €,1.99 €,1.94 €
 85,Rue Nationale,LA FERRIèRE,85280,,,,2.11 €
 85,Avenue de la Métairie,Saint-Fulgent,85250,1.89 €,,1.94 €,1.95 €
-85,Route de Fontenay,Luçon,85400,1.84 €,,,1.92 €
+85,Route de Fontenay,Luçon,85400,1.84 €,,,1.90 €
 85,1 ZA LA COLONNE 1,LES BROUZILS,85260,,,,2.02 €
 85,1 rue des Blés  La Mothe Achard,LES ACHARDS,85150,1.85 €,0.78 €,1.93 €,1.93 €

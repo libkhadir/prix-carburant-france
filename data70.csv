@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 70,101 Route de Gray,CHAMPLITTE,70600,,,2.25 €,2.07 €
 70,ZA DE LA CHARRIERE,Rioz,70190,2.00 €,,2.10 €,2.04 €
 70,RUE DE LA LIBERATION,JUSSEY,70500,1.92 €,,1.99 €,1.99 €
-70,Carrefour de la Vaugine,Vesoul,70000,1.78 €,0.85 €,1.99 €,1.93 €
+70,Carrefour de la Vaugine,Vesoul,70000,1.75 €,0.85 €,1.99 €,1.92 €
 70,Place du 15 Juin 1940,Combeaufontaine,70120,,,2.16 €,2.07 €
 70,RN 19 ROUTE DE PARIS BP 30217,VESOUL,70004,1.91 €,0.87 €,2.02 €,2.00 €
 70,34 Grande Rue,CHAMPAGNEY,70290,1.90 €,0.97 €,,1.97 €
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 70,14 avenue Jacques Prévost,PESMES,70140,,,1.97 €,1.97 €
 70,Route de Luxeuil,Fougerolles,70220,1.90 €,,,1.94 €
 70,27 Rue des Martyrs de la Résistance,Luxeuil-les-Bains,70300,,,,1.94 €
-70, Z.a la Saline,LURE,70200,1.84 €,0.85 €,2.05 €,1.95 €
+70, Z.a la Saline,LURE,70200,1.80 €,0.85 €,2.05 €,1.94 €
 70,Rue Olivier Albert,NOIDANS-LèS-VESOUL,70000,1.75 €,,1.99 €,1.92 €
 70,Rue du Bouquet,Saint-Sauveur,70300,,,,1.92 €
 70,100 FAUBOURG DE MONTBELIARD,Héricourt,70400,1.88 €,,1.90 €,1.98 €
@@ -46,10 +46,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 70,1 avenue Parmentier,Conflans-sur-Lanterne,70800,,,2.05 €,2.00 €
 70,ZI Aux Cloyes,Lure,70200,1.75 €,,,1.92 €
 70,Route de Vesoul,BUCEY-LèS-GY,70700,,,2.10 €,2.02 €
-70,28 Rue Édouard Herriot,Saint-Sauveur,70300,1.93 €,,2.04 €,2.01 €
+70,28 Rue Édouard Herriot,Saint-Sauveur,70300,1.89 €,,2.00 €,2.00 €
 70,Route de Paris,VESOUL,70000,1.91 €,,2.02 €,2.00 €
 70,ZA du Bouquet,SAINT-SAUVEUR,70300,1.75 €,0.87 €,,1.92 €
-70,27 Rue Pierre Curie,Navenne,70000,1.78 €,0.85 €,1.99 €,1.93 €
+70,27 Rue Pierre Curie,Navenne,70000,1.75 €,0.85 €,1.99 €,1.92 €
 70,Rue VOLTA,FAVERNEY,70160,,,2.02 €,1.99 €
 70,Rue Sous les Vorpes,Gy,70700,2.00 €,,2.10 €,2.01 €
 70,PLACE DES PROMENADES,PESMES,70140,,,1.97 €,1.97 €
