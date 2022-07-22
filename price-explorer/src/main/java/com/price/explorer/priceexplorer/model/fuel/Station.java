@@ -23,6 +23,10 @@ public class Station {
     private String ville;
     @XmlAttribute(name = "cp")
     private String cp;
+    @XmlAttribute(name = "latitude")
+    private String latitude;
+    @XmlAttribute(name = "longitude")
+    private String longitude;
     @XmlElement(name = "prix")
     private List<FuelPrice> prices;
 
@@ -46,6 +50,8 @@ public class Station {
                getPrice("e10") + "," +
                getPrice("e85") + "," +
                getPrice("sp98") + "," +
-               getPrice("gazole");
+               getPrice("gazole") + "," +
+               latitude + "," +
+               longitude;
     }
 }

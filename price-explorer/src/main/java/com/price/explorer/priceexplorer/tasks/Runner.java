@@ -19,7 +19,7 @@ public class Runner implements CommandLineRunner {
         log.info("Started data extraction at {}", LocalDateTime.now());
         DataStationList stationList = XmlUtils.unmarshal("./data.xml");
         var stationMap = stationList.getStationMap();
-        var headers = "Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE\n";
+        var headers = "Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude\n";
         stationMap.keySet()
                   .stream()
                   .sorted()
