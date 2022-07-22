@@ -31,7 +31,6 @@ jobs:
           mv data*.csv backup-$now/.
           echo "check old data"
           ls -lrt
-          cat data.xml
           mv data.xml price-explorer/.
           cd price-explorer/
           ./gradlew bootRun
