@@ -11,7 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 36,Route de Montluçon,Châteauroux,36000,1.83 €,,1.92 €,1.91 €,4680600,169600
 36,rue des Remparts,SAINT-GAULTIER,36800,,,1.97 €,1.96 €,4663900,142500
 36,La Combette,Aigurande,36140,1.87 €,,1.97 €,1.93 €,4643700,182700
-36,ROUTE DE TOURS,Châtillon-sur-Indre,36700,1.97 €,,2.08 €,2.02 €,4699100,116700
+36,ROUTE DE TOURS,Châtillon-sur-Indre,36700,1.92 €,,2.03 €,1.99 €,4699100,116700
 36,39 Avenue des Marins,Châteauroux,36000,,,2.04 €,1.97 €,4680978,168526
 36,Rue de la Limoise,Issoudun,36100,1.86 €,,1.99 €,1.92 €,4695700,200300
 36,AVENUE D'AUVERGNE,LA CHâTRE,36400,1.83 €,0.78 €,1.93 €,1.90 €,4658200,200100
@@ -30,14 +30,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 36,PARKING CARREFOUR CENTRE VILLE,CHâTEAUROUX,36000,1.85 €,,1.96 €,1.93 €,4680612,169604
 36,Route de Villegongis,LEVROUX,36110,1.88 €,,1.89 €,1.99 €,4697300,161200
 36,96 AVENUE D'OCCITANIE,Saint-Maur,36250,1.85 €,0.92 €,1.95 €,1.90 €,4678058,165276
-36,aire du Val de l'Indre - autoroute A20,VELLES,36330,2.10 €,,2.22 €,2.09 €,4672400,160400
+36,aire du Val de l'Indre - autoroute A20,VELLES,36330,2.16 €,,2.28 €,2.15 €,4672400,160400
 36,ZAC DU GRAND DEOLS,Déols,36130,1.89 €,,1.97 €,1.91 €,4681900,174600
 36,Route de Saint-Marin,Argenton-sur-Creuse,36200,1.84 €,,1.97 €,1.93 €,4660400,150800
 36,ROUTE DE CHATEAUROUX,Valençay,36600,,,,2.08 €,4714300,157300
-36,Route de Bourges,ISSOUDUN,36100,1.90 €,,2.01 €,1.95 €,4695100,200700
+36,Route de Bourges,ISSOUDUN,36100,1.87 €,,1.99 €,1.92 €,4695100,200700
 36,18 rue des Ajoncs,LA CHâTRE,36400,1.83 €,0.78 €,1.97 €,1.90 €,4657400,197700
 36,Route de Beauvais LD Les Chaumes,BUZANCAIS,36500,1.83 €,,1.93 €,1.91 €,4689000,140100
-36,Avenue de la Résistance,VALENçAY,36600,,,2.03 €,1.97 €,4716354,155945
+36,Avenue de la Résistance,VALENçAY,36600,,,2.03 €,1.95 €,4716354,155945
 36,No 33 Rte de Neuvy,Montgivray,36400,,,2.14 €,2.09 €,4657750,196750
 36,28 Rue Georges Clemenceau,PAULNAY,36290,,,,2.13 €,4685100,114300
 36,59 Rue Haute Saint-Paterne,Issoudun,36100,,,2.00 €,1.97 €,4694210,198786
@@ -46,5 +46,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 36,RD 920,Déols,36130,1.86 €,0.91 €,1.94 €,1.89 €,4685027.3080948,170741.60371735
 36,boulevard du franc,ST MAUR,36250,1.83 €,,,1.90 €,4678300,165100
 36, Route de Limoges,ARGENTON-SUR-CREUSE,36200,1.84 €,0.88 €,1.98 €,1.93 €,4657643,151152
-36,26 Rue Jean Lurçat,Châtillon-sur-Indre,36700,1.95 €,0.85 €,2.04 €,1.97 €,4698700,116900
+36,26 Rue Jean Lurçat,Châtillon-sur-Indre,36700,1.84 €,0.85 €,1.94 €,1.93 €,4698700,116900
 36,ROUTE DE VALENCAY,CHABRIS,36210,1.95 €,,2.03 €,1.97 €,4724800,163800
