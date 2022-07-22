@@ -23,8 +23,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 64,Avenue de la Résistance,Monein,64360,2.22 €,,2.01 €,1.98 €
 64,208 AV JEAN MERMOZ,PAU,64000,1.85 €,0.90 €,1.91 €,1.89 €
 64,6 AVENUE LOUIS DE FOIX,BAYONNE,64100,1.81 €,0.89 €,1.93 €,1.89 €
-64,AUTOROUTE A63 - AIRE DE BIDART EST,BIDART,64210,1.89 €,0.90 €,2.00 €,1.99 €
-64,Route de Pau,Orthez,64300,1.86 €,0.79 €,2.04 €,1.95 €
+64,AUTOROUTE A63 - AIRE DE BIDART EST,BIDART,64210,1.92 €,0.90 €,2.03 €,2.01 €
+64,Route de Pau,Orthez,64300,1.86 €,0.79 €,2.06 €,1.95 €
 64,-,TARDETS-SORHOLUS,64470,,,2.20 €,2.10 €
 64,20 AVENUE MARECHAL JUIN,BAYONNE,64100,1.81 €,0.90 €,1.92 €,1.89 €
 64,163 Av. Jean Mermoz,LONS,64140,1.96 €,0.92 €,,1.99 €
@@ -55,12 +55,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 64,RD 33,Pardies,64150,1.93 €,0.89 €,2.04 €,2.00 €
 64,Rond-point de la Négresse,BIARRITZ,64200,1.92 €,,2.02 €,1.94 €
 64,Zone d'Iraty,Biarritz,64200,1.85 €,,1.95 €,1.92 €
-64,PLACE DU CHÂTEAU,Saint-Pée-sur-Nivelle,64310,1.90 €,,,1.91 €
+64,PLACE DU CHÂTEAU,Saint-Pée-sur-Nivelle,64310,1.90 €,,,1.94 €
 64,Rond-Point Grand-Basque,BAYONNE,64100,1.92 €,0.85 €,2.06 €,2.00 €
 64,ROUTE DE SAINT JEAN PIED DE PORT,Saint-Étienne-de-Baïgorry,64430,,,2.02 €,1.94 €
-64,AUTOROUTE A63 - AIRE DE BIDART OUEST,BIDART,64210,1.91 €,0.90 €,2.02 €,1.97 €
+64,AUTOROUTE A63 - AIRE DE BIDART OUEST,BIDART,64210,1.94 €,0.90 €,2.05 €,1.99 €
 64,1 RTE DE BAYONNE,ORTHEZ,64300,2.01 €,,2.12 €,2.04 €
-64,ZAC DE TTARGA,Aïcirits-Camou-Suhast,64120,1.96 €,0.78 €,,1.92 €
+64,ZAC DE TTARGA,Aïcirits-Camou-Suhast,64120,1.96 €,0.78 €,,1.97 €
 64,Avenue de la Gare,COARRAZE,64800,1.92 €,,2.15 €,1.96 €
 64,ROUTE DE GARRIS,Amendeuix-Oneix,64120,1.91 €,,2.02 €,1.96 €
 64,123 avenue henri de navarre,Bayonne,64100,,0.88 €,,2.01 €
@@ -72,7 +72,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 64,22 Chemin d'Arancette,Bayonne,64100,,,2.02 €,1.94 €
 64,Rue Baratnau,Morlaàs,64160,1.89 €,,2.00 €,1.95 €
 64,Boulevard du B.A.B.,Anglet,64600,1.81 €,0.81 €,1.92 €,1.90 €
-64,Boulevard du B.A.B.BP 423,Anglet,64600,1.79 €,,,1.85 €
+64,Boulevard du B.A.B.BP 423,Anglet,64600,1.83 €,,,1.92 €
 64,RELAIS DES HIRONDELLES,SAINT-PIERRE-D'IRUBE,64990,1.94 €,,2.05 €,2.01 €
 64,route de Samadet,ARZACQARRAZIGUET,64410,,,1.99 €,1.99 €
 64,Chemin Churrieta,URCUIT,64990,1.92 €,,2.05 €,1.98 €
@@ -88,31 +88,31 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 64,AV. DE GRAMMONT,Biarritz,64200,1.99 €,,2.09 €,2.11 €
 64,ROUTE NATIONALE 10,Bidart,64210,1.83 €,0.85 €,2.00 €,1.92 €
 64,RN134 18 AV HENRI 4,JURANCON,64110,1.83 €,0.90 €,1.92 €,1.90 €
-64,QUARTIER MOUILIA,ARAMITS,64570,1.85 €,,1.93 €,1.93 €
+64,QUARTIER MOUILIA,ARAMITS,64570,1.89 €,,1.98 €,1.98 €
 64,PARC D'ACTIVITE CLEMENT ADER,BORDES,64510,,,1.99 €,2.00 €
 64,20 Avenue Jean Mermoz,PAU,64000,2.03 €,0.98 €,2.08 €,2.05 €
-64,AUTOROUTE A64 AIRE DE PYRÉNÉES - AIRE DES PYRÉNÉES,GER,64530,1.91 €,0.89 €,2.02 €,1.96 €
+64,AUTOROUTE A64 AIRE DE PYRÉNÉES - AIRE DES PYRÉNÉES,GER,64530,1.94 €,0.89 €,2.05 €,1.98 €
 64,ROUTE DEPARTEMENTALE 936,Susmiou,64190,1.89 €,0.85 €,2.08 €,1.95 €
 64,35 Route Départementale 817,LACQ,64170,,,,2.00 €
 64,174 ZA de la Plaine des Bois,BIRON,64300,,,,
 64,RN 10,Urrugne,64122,1.83 €,,2.00 €,1.92 €
-64,36  Boulevard des Pyrénées,Mauléon-Licharre,64130,,,1.96 €,1.97 €
+64,36  Boulevard des Pyrénées,Mauléon-Licharre,64130,,,2.18 €,2.06 €
 64,Route de CAMBO,LARRESSORE,64480,2.04 €,,2.14 €,2.07 €
 64,Rue de Fabrèges ZAC du pont long,Serres-Castet,64121,1.89 €,,1.98 €,1.95 €
 64,Avenue Aristide Briand,Louvie-Juzon,64260,1.97 €,,2.00 €,1.97 €
 64,ZA DE N'HAUX,Arthez-de-Béarn,64370,,,2.15 €,1.99 €
 64,Chemin Cam Marty,IDRON,64320,1.86 €,,1.95 €,1.97 €
-64,Avenue Alexandre Fleming,OLORON-SAINTE-MARIE,64400,1.85 €,0.80 €,,1.93 €
+64,Avenue Alexandre Fleming,OLORON-SAINTE-MARIE,64400,1.89 €,0.80 €,,1.98 €
 64,RN 10,SAINT-JEAN-DE-LUZ,64500,,,,2.01 €
 64,Avenue Charles Moureu,Mourenx,64150,1.92 €,,,1.96 €
 64,ZA DE L'ESCLAUZE,SAULT DE NAVAILLES,64300,,,2.10 €,1.97 €
 64,3 rue principale,POEY DE LESCAR,64230,,,2.10 €,2.00 €
-64,ZA Le Pey,PONTACQ,64530,1.86 €,,1.96 €,1.92 €
+64,ZA Le Pey,PONTACQ,64530,1.88 €,,1.97 €,1.96 €
 64,LE BOURG,Accous,64490,,,2.21 €,1.98 €
-64,RD 918 ZAC de Lizardia II - Quartier Ibarron,SAINT-PEE-SUR-NIVELLE,64310,1.90 €,0.85 €,1.93 €,1.91 €
+64,RD 918 ZAC de Lizardia II - Quartier Ibarron,SAINT-PEE-SUR-NIVELLE,64310,1.90 €,0.85 €,2.00 €,1.94 €
 64,132 Rue des Pyrénées,Bénéjacq,64800,1.94 €,,2.00 €,1.97 €
 64,22 rue du Parc National,ARUDY,64260,,,2.00 €,2.00 €
-64,ZA Errobi,ITXASSOU,64250,1.84 €,,1.95 €,1.90 €
+64,ZA Errobi,ITXASSOU,64250,1.90 €,,2.00 €,1.95 €
 64,Avenue du Général de Gaulle,Mazères-Lezons,64110,1.92 €,,1.99 €,1.94 €
 64, Avenue Louis Sallenave,PAU,64000,1.89 €,,1.98 €,1.94 €
 64,CD 932,Ustaritz,64480,,,1.95 €,1.90 €

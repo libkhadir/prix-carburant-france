@@ -28,8 +28,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 77,6 A 10 AV CHARLES ROUXEL,Pontault-Combault,77340,1.81 €,,1.91 €,1.91 €
 77,2  AVENUE CHARLES DE GAULLE,ESBLY,77450,1.95 €,0.88 €,2.06 €,2.02 €
 77,32 Rue Pasteur,Souppes-sur-Loing,77460,,,,
-77,AUTOROUTE A4 - AIRE DE BUSSY ST GEORGES,Bussy-Saint-Georges,77600,1.92 €,,2.03 €,1.99 €
-77,AUTOROUTE A4 - AIRE DE FERRIÈRES,Bussy-Saint-Georges,77600,1.92 €,,2.03 €,1.99 €
+77,AUTOROUTE A4 - AIRE DE BUSSY ST GEORGES,Bussy-Saint-Georges,77600,1.95 €,,2.06 €,2.01 €
+77,AUTOROUTE A4 - AIRE DE FERRIÈRES,Bussy-Saint-Georges,77600,1.95 €,,2.06 €,2.01 €
 77,BLD DE LA MALIBRAN,Roissy-en-Brie,77680,1.82 €,,1.96 €,1.92 €
 77,1 Avenue Robert Schuman,COUPVRAY,77700,1.98 €,,2.07 €,2.04 €
 77,11 Rue de Paris,Torcy,77200,1.93 €,,2.09 €,2.01 €
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 77,AIRE DE ACHERES EST A6,URY,77760,1.92 €,,2.03 €,1.99 €
 77,2 RUE JEAN COCTEAU,CHAMPAGNE-SUR-SEINE,77430,1.85 €,,1.97 €,1.93 €
 77,Rue Bertaux,FONTENAY-TRéSIGNY,77610,1.87 €,,1.96 €,1.95 €
-77,17 allée des rousselets Zac des vallières,THORIGNY-SUR-MARNE,77400,1.87 €,0.88 €,1.97 €,1.95 €
+77,17 allée des rousselets Zac des vallières,THORIGNY-SUR-MARNE,77400,1.91 €,0.88 €,2.00 €,2.00 €
 77,AVENUE DE STRASBOURG,COULOMMIERS,77120,1.86 €,,2.02 €,1.87 €
 77,11 av Roland Moréno,Chauconin-Neufmontiers,77124,1.83 €,,1.94 €,1.94 €
 77,Autoroute du Soleil - AIRE DE NEMOURS OUEST,NEMOURS,77140,2.05 €,,2.19 €,2.06 €
@@ -87,9 +87,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 77,10 AVENUE DU GENERAL DE GAULLE,NEMOURS,77140,1.95 €,0.88 €,2.06 €,2.03 €
 77,5 avenue des deux Moulins,Saint-Mard,77230,1.95 €,0.85 €,2.07 €,2.00 €
 77,RN4 route de Pecy  lieu dit Lugins,Vaudoy-en-Brie,77141,2.20 €,1.00 €,2.30 €,2.20 €
-77,AUTOROUTE A5B - AIRE DE GALANDE-LA-MARE-LAROCHE,REAU,77550,1.89 €,0.87 €,2.00 €,1.98 €
+77,AUTOROUTE A5B - AIRE DE GALANDE-LA-MARE-LAROCHE,REAU,77550,1.92 €,0.87 €,2.03 €,2.00 €
 77,AV MAURICE DAUVERGNE,LE MEE SUR SEINE,77350,1.87 €,,1.96 €,1.92 €
-77,Rue Georges Claude,Meaux,77100,1.86 €,,1.97 €,1.92 €
+77,Rue Georges Claude,Meaux,77100,1.88 €,,1.99 €,1.94 €
 77,5 Rue Abel Prouharam,COULOMMIERS,77120,1.85 €,,1.95 €,1.93 €
 77,RD 231  STATION TOTAL,VAUDOY EN BRIE,77141,1.96 €,,2.07 €,2.05 €
 77,Centre commercial de la Fontaine,LéSIGNY,77150,1.93 €,0.86 €,2.02 €,1.97 €
@@ -127,16 +127,16 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 77,Avenue du Maréchal Gallieni,SAINT-SOUPPLETS,77165,,,2.21 €,2.07 €
 77,AIRE DE ACHERES LA FORET OUEST A6,Achères-la-Forêt,77760,1.92 €,0.88 €,2.03 €,1.99 €
 77,RUE DE LA SUCRERIE,Mousseaux-lès-Bray,77480,1.88 €,,1.92 €,1.94 €
-77,CHEMIN DÉPARTEMENTAL 51 - AIRE DES BRÉCHÈRES,Pontault-Combault,77340,1.91 €,0.88 €,2.02 €,2.01 €
+77,CHEMIN DÉPARTEMENTAL 51 - AIRE DES BRÉCHÈRES,Pontault-Combault,77340,1.94 €,0.88 €,2.05 €,2.03 €
 77,RD 606,MORET-LOING-ET-ORVANNE,77250,1.85 €,0.88 €,1.96 €,1.93 €
 77,544 Avenue André Ampère,DAMMARIE-LES-LYS,77190,1.90 €,,1.98 €,1.93 €
 77,Avenue du Général Leclerc,LA FERTé-GAUCHER,77320,2.00 €,0.88 €,2.10 €,1.99 €
-77,AUTOROUTE A5A - AIRE DU PLESSIS-PICARD,REAU,77550,1.89 €,0.87 €,2.00 €,1.98 €
+77,AUTOROUTE A5A - AIRE DU PLESSIS-PICARD,REAU,77550,1.92 €,0.87 €,2.03 €,2.00 €
 77,14 Cours du Danube,Serris,77700,1.88 €,,1.98 €,1.99 €
 77,12 Rue Gustave Eiffel,BRIE-COMTE-ROBERT,77170,1.81 €,,1.91 €,1.90 €
 77,route de Montfermeil,CHELLES,77500,1.90 €,,2.00 €,1.96 €
 77,45 Allée Jean-Louis Barrault,MEAUX,77100,,,,
-77,AUTOROUTE N104 - AIRE DE VILLEVAUDÉ,VILLEVAUDE,77410,1.85 €,,1.97 €,1.94 €
+77,AUTOROUTE N104 - AIRE DE VILLEVAUDÉ,VILLEVAUDE,77410,1.88 €,,2.00 €,1.96 €
 77,2-4 RUE DU GENERAL LECLERC,Pomponne,77400,1.93 €,,2.04 €,1.98 €
 77,56 rue de vilpré,Rozay-en-Brie,77540,,,2.06 €,2.00 €
 77,119 AV DU GENDARME CASTERMANT,CHELLES,77500,1.95 €,0.85 €,2.06 €,2.01 €
@@ -147,8 +147,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 77,30 MAIL DE LA GRANDE HAIE,Mareuil-lès-Meaux,77100,1.88 €,,1.97 €,1.97 €
 77,7 Rue du Général Leclerc,BRIE-COMTE-ROBERT,77170,1.98 €,,2.09 €,2.05 €
 77,RN 4 77346 Pontault-Combault,PONTAULT-COMBAULT,77340,1.81 €,,1.91 €,1.90 €
-77,8 avenue du 8 mai 1945,SAVIGNY-LE-TEMPLE,77176,1.96 €,0.88 €,2.07 €,2.08 €
-77,route du bréau,VARENNES-SUR-SEINE,77130,1.90 €,,2.00 €,1.92 €
+77,8 avenue du 8 mai 1945,SAVIGNY-LE-TEMPLE,77176,1.97 €,0.88 €,2.08 €,2.06 €
+77,route du bréau,VARENNES-SUR-SEINE,77130,1.94 €,,2.03 €,1.96 €
 77,Rue du 8 Mai 1945,Othis,77280,,0.88 €,2.00 €,1.99 €
 77,Rue de Nisceville,CHâTEAU-LANDON,77570,,,2.11 €,2.00 €
 77,26 Avenue Charles de Gaulle,CRéCY-LA-CHAPELLE,77580,,,2.14 €,2.08 €
@@ -160,7 +160,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 77,Aire de Darvault A6,Darvault,77140,2.07 €,,2.19 €,2.07 €
 77,Avenue de Villiers,CRéCY-LA-CHAPELLE,77580,1.87 €,0.85 €,1.97 €,2.00 €
 77,Place du Général de Gaulle,VAIRES-SUR-MARNE,77360,1.94 €,,2.06 €,2.00 €
-77,RN 3 ZI DU HAINAULT.,SEPT-SORTS,77260,1.82 €,0.85 €,1.93 €,1.91 €
+77,RN 3 ZI DU HAINAULT.,SEPT-SORTS,77260,1.84 €,0.85 €,1.94 €,1.92 €
 77,Route de Larchant,SAINT-PIERRE-LèS-NEMOURS,77140,,,2.02 €,1.97 €
 77,Avenue de Rebais,LA FERTé-SOUS-JOUARRE,77260,1.84 €,,1.93 €,1.96 €
 77,Avenue de la Foulée,Nanteuil-lès-Meaux,77100,,,1.97 €,1.97 €
@@ -170,7 +170,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 77,4 Avenue Pierre Mendès France,NOISIEL,77186,2.04 €,,2.15 €,2.05 €
 77,L OREE DE GUIGNES,GUIGNES,77390,1.90 €,,1.97 €,1.98 €
 77,42 ALLÉE JEAN LOUIS BARRAULT,MEAUX,77100,1.92 €,,,1.98 €
-77,81 Avenue Président Roosevelt,MEAUX,77100,1.90 €,,2.01 €,1.98 €
+77,81 Avenue Président Roosevelt,MEAUX,77100,1.93 €,,2.04 €,2.00 €
 77,27 BIS AVENUE DU GENERAL LECLERC,LA ROCHETTE,77000,1.85 €,,1.93 €,1.88 €
 77,Avenue de Verdun,NANGIS,77370,1.95 €,,2.05 €,2.00 €
 77,A5 Aire des Jonchets Grande Paroisse,Forges,77130,1.95 €,,2.01 €,1.98 €

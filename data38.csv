@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,centre cial St Bonnet,VILLEFONTAINE,38090,,,,
 38,5 Avenue Jean Perrot,Grenoble,38100,1.93 €,,2.03 €,2.00 €
 38,Rue du 19 mars 1962,SASSENAGE,38360,,,,
-38,AUTOROUTE A43 - AIRE LE LOMBARD,L'Isle-d'Abeau,38080,1.88 €,0.88 €,1.99 €,1.97 €
+38,AUTOROUTE A43 - AIRE LE LOMBARD,L'Isle-d'Abeau,38080,1.91 €,0.88 €,2.02 €,1.99 €
 38,Avenue de Savoie,SAINT-CLAIR-DE-LA-TOUR,38110,,,2.08 €,2.02 €
 38,84 rue Gambetta,Les Abrets en Dauphiné,38490,,,,
 38,Rue des Aubépines,PONT-DE-CHéRUY,38230,,,2.06 €,2.00 €
@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38, Avenue de Juin 1940,VOREPPE,38340,,,,
 38,4 Route de Condrieu,Saint-Clair-du-Rhône,38370,,,,
 38,8 Route de Grenoble,Moirans,38430,1.80 €,,1.92 €,1.89 €
-38,AUTOROUTE A48 - AIRE DE VOREPPE,VOREPPE,38340,1.88 €,0.88 €,1.99 €,1.97 €
+38,AUTOROUTE A48 - AIRE DE VOREPPE,VOREPPE,38340,1.91 €,0.88 €,2.02 €,1.99 €
 38,AV DU 8 MAI 1945,VOIRON,38500,1.81 €,,1.93 €,1.90 €
 38,Autouroute A43 Sens Chambéry - Lyon,ROMAGNIEU,38480,1.95 €,,2.06 €,2.02 €
 38,ROUTE DE MONTOUVRARD,ALLEVARD,38580,,,,
@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,Rue du Champ Sappey,Crêts-en-Belledonne,38830,1.95 €,1.00 €,,1.95 €
 38,69 BIS RUE DE LA REPUBLIQUE,LES ABRETS-EN-DAUPHINE,38490,1.80 €,0.80 €,,1.94 €
 38,Route départementale 523 Bois de Chalimbeaud,Froges,38190,,,2.05 €,1.99 €
-38,ROUTE DE BOURGOIN,SAINT-JEAN-DE-SOUDAIN,38110,1.75 €,0.88 €,1.85 €,1.88 €
+38,ROUTE DE BOURGOIN,SAINT-JEAN-DE-SOUDAIN,38110,1.78 €,0.88 €,1.86 €,1.93 €
 38,1070 Avenue des Alpes,MARCILLOLES,38260,,,,2.13 €
 38,RN7 LES PERRIERS,Salaise-sur-Sanne,38150,1.79 €,,1.90 €,1.91 €
 38,Zi la Thuery,Saint-Geoire-en-Valdaine,38620,,,,2.08 €
@@ -63,7 +63,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,174 ROUTE DES ECHARRIERES,SAINT-JEAN-DE-BOURNAY,38440,1.83 €,0.78 €,,1.98 €
 38,Z.A DES BLANCHISSERIES,VOIRON,38500,,,2.07 €,1.98 €
 38,Rue du Pré Ruffier,Saint-Martin-d'Hères,38400,1.86 €,,1.98 €,1.94 €
-38,2 RUE DU COLONEL ARNAUD BELTRAME,Vienne,38200,,,1.90 €,1.92 €
+38,2 RUE DU COLONEL ARNAUD BELTRAME,Vienne,38200,,,1.97 €,1.97 €
 38,AVENUE 22 AOUT 1945,La Mure,38350,,,2.02 €,2.00 €
 38,ROCADE SUD,EYBENS,38320,1.89 €,0.87 €,2.00 €,1.99 €
 38,2 chemin de grange neuve,diemoz,38790,2.00 €,,2.11 €,1.99 €
@@ -129,7 +129,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,Aire de Saint Nazaire les Eymes,Saint-Nazaire-les-Eymes,38330,1.98 €,,2.06 €,2.02 €
 38,1159 AVENUE DE JUIN 1940,VOREPPE,38340,1.80 €,0.90 €,1.92 €,1.89 €
 38,115 AVENUE DE LA REPUBLIQUE,SEYSSINET,38170,1.78 €,,1.89 €,1.87 €
-38,ZA le Plan  180 Rue du 8 Mai 1945,Renage,38140,,,1.99 €,1.92 €
+38,ZA le Plan  180 Rue du 8 Mai 1945,Renage,38140,,,2.00 €,1.94 €
 38,155 rue de la bascule,st savin,38300,,,,2.06 €
 38,293  avenue Victor Hugo,Saint-Laurent-du-Pont,38380,1.90 €,,2.02 €,1.95 €
 38,31 AVENUE DE ROMANS,SASSENAGE,38360,1.78 €,,1.91 €,1.89 €
@@ -171,13 +171,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,62 AVENUE DE LA VERPILLIERE,Villefontaine,38090,,,2.05 €,2.01 €
 38,ROUTE DES PERVES,Charvieu-Chavagneux,38230,1.79 €,0.75 €,1.93 €,1.88 €
 38,Rue des Ardennes,Tignieu-Jameyzieu,38230,1.79 €,0.75 €,1.93 €,1.88 €
-38,Avenue de la Contamine,TULLINS,38210,1.87 €,,,1.92 €
+38,Avenue de la Contamine,TULLINS,38210,1.90 €,,,1.94 €
 38,178 Route de Lyon,Domarin,38300,1.77 €,,,1.92 €
 38,Le rivet,BOURGOIN,38300,,,2.00 €,1.99 €
 38,1 Rue des Abattoirs,SAINT-ÉGRèVE,38120,1.78 €,,1.91 €,1.89 €
 38,120 BD PAUL LANGEVIN,Fontaine,38600,1.85 €,,1.99 €,1.96 €
 38,151 RUE DE LA CHARTREUSE,RIVES,38140,1.80 €,,1.96 €,1.94 €
-38,Lieu-dit Le Lanthey Passins,Passins,38510,1.76 €,0.85 €,,1.90 €
+38,Lieu-dit Le Lanthey Passins,Passins,38510,1.78 €,0.85 €,,1.90 €
 38,2935 chemin de la voie ferrée,La Côte-Saint-André,38260,1.88 €,,1.99 €,1.99 €
 38,RN 7,Chanas,38150,2.00 €,0.95 €,,1.98 €
 38,510 Route de Grenoble,LA FRETTE,38260,1.87 €,,1.98 €,1.97 €
@@ -185,8 +185,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 38,601 ROUTE NATIONALE 7,Salaise-sur-Sanne,38150,1.79 €,0.89 €,1.90 €,1.89 €
 38,Avenue de la Ridelet,CLAIX,38640,,,1.86 €,1.91 €
 38,AUTOROUTE A 43 ROMAGNIEU,Le Pont-de-Beauvoisin,38480,1.98 €,1.10 €,2.06 €,2.02 €
-38,ZI LES GAMEUX,Chatte,38160,1.88 €,,2.03 €,1.90 €
-38,Rue Salpêtrière,LA CôTE-SAINT-ANDRé,38260,1.88 €,,2.05 €,2.02 €
+38,Rue Salpêtrière,LA CôTE-SAINT-ANDRé,38260,1.92 €,,2.04 €,2.00 €
+38,ZI LES GAMEUX,Chatte,38160,1.88 €,,2.03 €,1.93 €
 38,ZA Le Parc du Soleil - Route Nationale 7,CHANAS,38150,1.76 €,,,1.90 €
 38,14 Cours de Verdun,Vienne,38200,1.89 €,,2.00 €,1.99 €
 38,400 av de juin 1940,VOREPPE,38340,1.80 €,,1.90 €,1.89 €

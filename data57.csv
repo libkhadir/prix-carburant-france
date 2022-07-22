@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 57,AUTOROUTE A4 - AIRE DE LONGEVILLE SUD,Longeville-lès-Saint-Avold,57740,1.96 €,,2.06 €,2.02 €
 57,de l'Arc Mosellan,Metzervisse,57940,2.02 €,,2.12 €,2.04 €
 57,rue lavoisier,Morhange,57340,1.87 €,0.88 €,1.99 €,1.97 €
-57,19 Route de Lunéville,SARREBOURG,57400,1.89 €,,2.00 €,1.95 €
+57,19 Route de Lunéville,SARREBOURG,57400,1.89 €,0.80 €,2.00 €,1.95 €
 57,41 ROUTE DE METZ,Jouy-aux-Arches,57130,1.97 €,,2.08 €,2.02 €
 57,1 RUE DU FORT,VERNY,57420,,,1.99 €,2.00 €
 57,RN3 ZAC SAINT JEAN,COURCELLES-CHAUSSY,57530,1.95 €,,,1.97 €
@@ -132,7 +132,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 57,Chemin départemental,Ay-sur-Moselle,57300,,0.90 €,,2.02 €
 57,66 Route de Woippy,METZ,57050,1.85 €,,1.93 €,1.94 €
 57,1  rue Bellevue,GUéNANGE,57310,1.98 €,,2.08 €,2.05 €
-57,AUTOROUTE A4 - AIRE DE METZ SAINT PRIVAT,Saint-Privat-la-Montagne,57855,1.88 €,0.86 €,1.99 €,1.96 €
+57,AUTOROUTE A4 - AIRE DE METZ SAINT PRIVAT,Saint-Privat-la-Montagne,57855,1.91 €,0.86 €,2.02 €,1.98 €
 57,RUE DU GENERAL NEWINGER,Boulay-Moselle,57220,1.84 €,,1.95 €,1.97 €
 57,63 avenue Saint Jean,Farébersviller,57450,1.90 €,,2.03 €,1.98 €
 57,Avenue du Général Patton,SAINT-AVOLD,57500,1.98 €,0.86 €,2.09 €,2.01 €

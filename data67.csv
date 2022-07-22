@@ -40,13 +40,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 67,38 Rue de Dettwiller,SAVERNE,67700,1.98 €,,2.08 €,2.02 €
 67,49 RTE DU RHIN,STRASBOURG,67000,1.82 €,,,1.90 €
 67,20 ROUTE DE STRASBOURG,WASSELONNE,67310,1.81 €,0.87 €,1.91 €,1.90 €
-67,A4 - Aire de Saverne - Monswiller,Eckartswiller,67700,1.88 €,0.86 €,1.99 €,1.96 €
+67,A4 - Aire de Saverne - Monswiller,Eckartswiller,67700,1.91 €,0.86 €,2.02 €,1.98 €
 67,67 Route de Brumath,SOUFFELWEYERSHEIM,67460,1.82 €,,,1.93 €
 67,19 Rue de l'Avenir,BETSCHDORF,67660,1.98 €,,2.05 €,1.95 €
 67,14 Avenue de l'Europe,MARCKOLSHEIM,67390,,,1.86 €,1.97 €
 67,4A Rue du Maréchal FOCH,Sarre-Union,67260,,,2.09 €,1.96 €
 67,ROUTE NATIONALE,ROTHAU,67570,1.90 €,0.85 €,2.00 €,2.00 €
-67,AUTOROUTE A4 - AIRE DE KESKASTEL EST,KESKASTEL,67260,1.88 €,,1.99 €,1.96 €
+67,AUTOROUTE A4 - AIRE DE KESKASTEL EST,KESKASTEL,67260,1.91 €,,2.02 €,1.98 €
 67,Rue de Weyer,DRULINGEN,67320,1.85 €,,1.95 €,1.99 €
 67,4 Route de Schirmeck,DUPPIGHEIM,67120,1.92 €,0.99 €,2.03 €,2.02 €
 67,1 Rue Principale,HATTEN,67690,,,1.98 €,1.96 €
@@ -105,7 +105,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 67,Rue de la Robertsau,Bischheim,67800,1.89 €,,1.89 €,1.94 €
 67,61 Rue de Dettwiller,SAVERNE,67700,1.81 €,,1.90 €,1.98 €
 67,45 Rue du Printemps,ERSTEIN,67150,1.83 €,0.78 €,1.90 €,1.90 €
-67,Rue de Griesmatt,Marlenheim,67520,1.82 €,,1.91 €,1.96 €
+67,Rue de Griesmatt,Marlenheim,67520,1.84 €,,1.93 €,1.99 €
 67,20 RUE DES CLES,SAVERNE,67700,1.93 €,,2.04 €,2.01 €
 67,37 AVENUE DU PROFESSEUR LERICHE,HAGUENAU,67500,1.86 €,,1.99 €,1.97 €
 67,aire de la Bruche,Duttlenheim,67120,1.86 €,1.00 €,1.97 €,1.95 €
@@ -128,7 +128,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 67,2 BIS RUE DE LA PAIX,Seebach,67160,1.88 €,,1.98 €,1.95 €
 67,2b rue du collège,Herrlisheim,67850,2.10 €,,2.20 €,2.14 €
 67,7 Rue de Niederbronn,SCHWEIGHOUSE-SUR-MODER,67590,1.79 €,,1.88 €,1.95 €
-67,Route de Strasbourg (RD85),Schweighouse-sur-Moder,67590,1.91 €,,2.02 €,2.00 €
+67,Route de Strasbourg (RD85),Schweighouse-sur-Moder,67590,1.92 €,,2.03 €,2.01 €
 67,ROUTE DE SAVERNE,MARMOUTIER,67440,,,,1.92 €
 67,6a Allée des Peupliers,WISSEMBOURG,67160,1.89 €,,1.98 €,1.99 €
 67,RD 468,SCHEIBENHARD,67630,,0.70 €,1.98 €,1.95 €
@@ -145,7 +145,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 67,Rue du Mattfeld,MUTZIG,67190,1.91 €,,2.00 €,1.96 €
 67,19 Route de Strasbourg,HOCHFELDEN,67270,1.85 €,,1.95 €,1.96 €
 67,10 Rue du Haut Koenigsbourg,VILLé,67220,1.90 €,,2.01 €,1.99 €
-67,2 Route de Bourgheim,GERTWILLER,67140,1.92 €,,1.93 €,1.93 €
+67,2 Route de Bourgheim,GERTWILLER,67140,1.93 €,,1.93 €,1.93 €
 67,186 Avenue de Strasbourg,BRUMATH,67170,1.82 €,0.85 €,1.90 €,1.89 €
 67,4 Boulevard Maréchal de Lattre de Tassigny,Haguenau,67500,1.94 €,,2.03 €,1.99 €
 67,1 Rue Principale,Roeschwoog,67480,1.99 €,,,2.10 €

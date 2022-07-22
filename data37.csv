@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 37,RUE DU VAL D'INDRE,MONTS,37260,,,,
 37,RN 143,Chambourg-sur-Indre,37310,,,,
 37,Aire de Athée-sur-Cher Autoroute A 85,Athée-sur-Cher,37270,2.10 €,,2.23 €,2.15 €
-37,AUTOROUTE A10 - AIRE TOURS VAL DE LOIRE,MONNAIE,37380,1.89 €,0.90 €,2.00 €,1.98 €
+37,AUTOROUTE A10 - AIRE TOURS VAL DE LOIRE,MONNAIE,37380,1.92 €,0.90 €,2.03 €,2.00 €
 37,28 route de Tours,Chaveignes,37120,,,2.00 €,1.95 €
 37,6 Rue du Franc Palais,Joué-lès-Tours,37300,,,1.95 €,1.92 €
 37,Avenue Victor Laloux,MONTLOUIS-SUR-LOIRE,37270,1.84 €,0.68 €,1.95 €,1.92 €
@@ -26,7 +26,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 37,Avenue Jacques DUCLOS,SAINT-PIERRE-DES-CORPS,37700,1.81 €,,1.92 €,1.88 €
 37,ZAC DE LA GRANDE PIECE,CHANCEAUX SUR CHOISILLE,37390,1.89 €,,2.00 €,1.94 €
 37,5 Avenue du 11 Novembre 1918,BLéRé,37150,1.83 €,,1.93 €,1.95 €
-37,AUTOROUTE A10 - AIRE DE SAINTE MAURE DE TOURAINE,Saint-Épain,37800,1.89 €,0.88 €,2.00 €,1.96 €
+37,AUTOROUTE A10 - AIRE DE SAINTE MAURE DE TOURAINE,Saint-Épain,37800,1.92 €,0.88 €,2.03 €,1.98 €
 37,La Croix Poêlon,Monnaie,37380,,0.85 €,2.00 €,1.96 €
 37,62 CHEMIN DE LA BUSSARDIERE,VERETZ,37270,1.82 €,0.85 €,1.92 €,1.93 €
 37,9  rue Jean Mermoz,Ballan-Miré,37510,1.88 €,,1.99 €,1.94 €
@@ -42,7 +42,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 37,2 Rue René Cassin,Chinon,37500,1.86 €,,1.91 €,1.94 €
 37,Autoroute A10 Aire de Fontaine Colette,Saint-Épain,37800,2.23 €,,2.36 €,2.25 €
 37,4 AVENUE JAURES,FONDETTES,37230,1.94 €,,2.00 €,1.94 €
-37,105 RUE ST JACQUES,LOCHES,37600,,,,2.01 €
+37,105 RUE ST JACQUES,LOCHES,37600,,,,2.04 €
 37,1786 Boulevard saint denis hors,Amboise,37400,1.86 €,,,1.95 €
 37,Route de Tours,Chinon,37500,1.86 €,,1.91 €,1.95 €
 37,32 ROUTE DE ST AVERTIN,TOURS,37200,1.81 €,0.88 €,1.92 €,1.88 €
@@ -54,7 +54,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 37,75 ROUTE DE CHINON,Noyant-de-Touraine,37800,2.04 €,,2.15 €,2.04 €
 37,rue gambetta,CHâTEAU-RENAULT,37110,,,1.97 €,1.95 €
 37,119-123 BD JEAN JAURES,Joué-lès-Tours,37300,1.82 €,,1.97 €,1.88 €
-37,Rue du Petit Versailles,Château-Renault,37110,1.90 €,0.85 €,1.94 €,1.95 €
+37,Rue du Petit Versailles,Château-Renault,37110,1.93 €,0.85 €,2.02 €,1.95 €
 37,ZAC Les Marchaux - Les Rotes,SAINTE-MAURE DE TOURAINE,37800,1.79 €,0.87 €,1.92 €,1.86 €
 37,Boulevard du Sevrage,Pocé-sur-Cisse,37530,1.84 €,0.85 €,1.93 €,1.92 €
 37,18 Rue Giraudeau,Tours,37000,,,,2.19 €
@@ -90,8 +90,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 37,ZA LES BUTTES,AVOINE,37420,1.92 €,0.87 €,2.03 €,2.02 €
 37,Avenue Léonard de Vinci,Amboise,37400,1.84 €,,1.93 €,1.92 €
 37,42 rue de la Gitonnière,Joué-lès-Tours,37300,1.88 €,1.95 €,2.01 €,1.94 €
-37,ZAC Les Fougerolles LA VILLE AUX DAMES,La Ville-aux-Dames,37700,1.82 €,0.68 €,1.94 €,1.88 €
+37,ZAC Les Fougerolles LA VILLE AUX DAMES,La Ville-aux-Dames,37700,1.84 €,0.68 €,1.95 €,1.92 €
 37,CHEMIN DU PONT DE LA FORGE ,SAVIGNé-SUR-LATHAN,37340,,,2.07 €,1.95 €
 37,300 Rue du Général Renault,Tours,37000,1.93 €,,2.02 €,1.99 €
 37,75 Avenue du Général de Gaulle,Château-la-Vallière,37330,1.92 €,,2.06 €,1.95 €
-37,CENTRE CIAL LA ROCADE,L'Île-Bouchard,37220,1.80 €,0.66 €,1.89 €,1.88 €
+37,CENTRE CIAL LA ROCADE,L'Île-Bouchard,37220,1.84 €,0.66 €,1.94 €,1.93 €

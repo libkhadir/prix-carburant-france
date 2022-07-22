@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 44, Rue de la Vieille Cour,MESANGER,44522,1.84 €,,1.93 €,1.91 €
 44,ROUTE DE BOUIN,Bourgneuf-en-Retz,44580,,,,1.99 €
 44,2 Rue Beau Soleil,SAINT-MARS-DU-DéSERT,44850,,,1.98 €,1.95 €
-44,A11 - AIRE DE VARADES PAYS DE LOIRE,VARADES,44370,1.89 €,0.89 €,2.00 €,1.97 €
+44,A11 - AIRE DE VARADES PAYS DE LOIRE,VARADES,44370,1.92 €,0.89 €,2.03 €,1.99 €
 44,Rue des Musiciens,Malville,44260,,,2.18 €,1.95 €
 44,306  Rue du Maréchal Foch,Varades,44370,2.25 €,,,2.22 €
 44,7 Avenue du Maréchal de Lattre de Tassigny,Rezé,44400,,,,
@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 44,8 RUE DE KERVILY,Saint-Lyphard,44410,1.87 €,,1.97 €,1.92 €
 44,164 Route de Vannes,ORVAULT,44700,1.85 €,,1.95 €,1.92 €
 44,ZAC DE LA FONTAINE AU BRUN,Trignac,44570,1.79 €,,1.90 €,1.90 €
-44,AUTOROUTE A83 - AIRE DE LA GRASSINIÈRE,VERTOU,44120,1.79 €,0.89 €,1.90 €,1.87 €
+44,AUTOROUTE A83 - AIRE DE LA GRASSINIÈRE,VERTOU,44120,1.82 €,0.89 €,1.93 €,1.89 €
 44,ROUTE DE ST NAZAIRE - Z.C. SAVIN,TRIGNAC,44570,1.80 €,0.87 €,1.91 €,1.87 €
 44,14 Avenue du Maréchal de Lattre de Tassigny,La Baule-Escoublac,44500,1.99 €,,2.09 €,2.05 €
 44,11 Rue du 8 Mai,Blain,44130,1.96 €,,2.07 €,2.00 €
@@ -33,8 +33,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 44,ZI DE LA SANGLE,Nort-sur-Erdre,44390,1.90 €,,2.00 €,1.95 €
 44,L'Aubinière,ANCENIS,44150,,,2.23 €,2.02 €
 44,Rue du Général Patton,CHâTEAUBRIANT,44110,1.89 €,,2.00 €,1.98 €
-44,22 Rue de la Galarnière,Rezé,44400,1.77 €,,1.86 €,1.87 €
 44,RN 137 - Aire de Treillières Ouest,Treillières,44119,2.04 €,,2.15 €,2.04 €
+44,22 Rue de la Galarnière,Rezé,44400,1.84 €,,1.93 €,1.93 €
 44,ROUTE DE LA BAULE,GUERANDE,44350,,,1.96 €,1.94 €
 44,ROUTE DU POULIGUEN,Batz-sur-Mer,44740,2.00 €,,2.11 €,2.02 €
 44,RUE DES CHARMES,SAINTE-PAZANNE,44680,,,2.00 €,1.90 €
@@ -74,26 +74,26 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 44,6 Rue des Ardillets,COUëRON,44220,,,,1.97 €
 44,Rue des Malifestes,Clisson,44190,1.86 €,0.67 €,2.01 €,1.93 €
 44, Rue du Stade,DONGES,44480,1.97 €,,2.08 €,1.95 €
-44,48 Rue Châteaubriant,DERVAL,44590,1.85 €,,1.95 €,1.90 €
+44,48 Rue Châteaubriant,DERVAL,44590,1.85 €,,1.95 €,1.92 €
 44,93 Rue François-René de Chateaubriand,Carquefou,44470,,,,1.98 €
 44,Rue de Villejames,Guérande,44350,1.81 €,,1.90 €,1.89 €
 44,ESPACE CIAL GRAND LAC,SAINT-PHILBERT-DE-GRAND-LIEU,44310,1.85 €,,1.95 €,1.91 €
 44,57 A 61  BD DU TERTRE,NANTES,44100,1.80 €,,1.91 €,1.87 €
 44,Lieu-dit Le Mortier,Derval,44590,,,,2.04 €
 44,Route de Gorges,Clisson,44190,,,2.24 €,2.19 €
-44,2 rue des Pins,LA TURBALLE,44420,1.82 €,,1.91 €,1.90 €
+44,2 rue des Pins,LA TURBALLE,44420,1.85 €,,1.94 €,1.94 €
 44,CD 723 - ZI DE CHEVIRE,BOUGUENAIS,44340,1.80 €,0.90 €,1.91 €,1.87 €
 44,24   ROUTE DE COUERON,SAINT-ÉTIENNE-DE-MONTLUC,44360,1.84 €,,1.93 €,1.90 €
-44,ZA LE BUTAI,Arthon-en-Retz,44320,1.92 €,,2.01 €,1.92 €
+44,ZA LE BUTAI,Arthon-en-Retz,44320,1.96 €,,2.04 €,1.94 €
 44,AIRES DES AJONCS,Bouguenais,44340,1.88 €,0.95 €,1.97 €,1.87 €
 44,Rue des Vignes,PONT-SAINT-MARTIN,44860,1.89 €,,1.98 €,1.96 €
 44,rue des artisans,MESQUER,44420,,,1.99 €,1.98 €
-44,AUTOROUTE A11 - AIRE VARADES LA BÉDOIRE,VARADES,44370,1.89 €,0.89 €,2.00 €,1.97 €
+44,AUTOROUTE A11 - AIRE VARADES LA BÉDOIRE,VARADES,44370,1.92 €,0.89 €,2.03 €,1.99 €
 44,Zone Atlantis,Saint-Herblain,44800,1.83 €,0.70 €,1.94 €,1.89 €
 44,Rue de Cornen,LE POULIGUEN,44510,1.88 €,,1.95 €,1.93 €
-44,Parc comemrcial de la Colleraye,SAVENAY,44260,1.83 €,0.70 €,1.94 €,1.89 €
+44,Parc comemrcial de la Colleraye,SAVENAY,44260,1.85 €,0.70 €,1.94 €,1.89 €
 44,RN 171,TRIGNAC,44570,1.99 €,0.98 €,2.13 €,2.05 €
-44,54 Rue Léon Bourgeois,SAINT-NAZAIRE,44600,1.80 €,,1.90 €,1.89 €
+44,54 Rue Léon Bourgeois,SAINT-NAZAIRE,44600,1.84 €,,1.93 €,1.92 €
 44,23 rue des chenes,Riaille,44440,,,2.08 €,2.05 €
 44,89  rue du Souvenir,LIGNE,44850,1.86 €,,2.00 €,1.93 €
 44,Espace 23 SAINT-GEREON,ANCENIS,44150,1.82 €,0.73 €,1.92 €,1.91 €
@@ -141,7 +141,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 44,Boulevard de Linz,PORNIC,44210,1.96 €,0.88 €,2.07 €,1.96 €
 44,BOULEVARD ALEXANDRE FLEMING,La Chapelle-sur-Erdre,44240,1.80 €,0.87 €,1.91 €,1.87 €
 44,173  route de Saint Joseph,Nantes,44300,1.82 €,0.85 €,1.92 €,1.91 €
-44,28 Route de clisson,Vallet,44330,1.87 €,0.73 €,2.00 €,1.92 €
+44,28 Route de clisson,Vallet,44330,1.89 €,0.73 €,2.01 €,1.93 €
 44,BOULEVARD GUY MOLLET,NANTES,44000,1.80 €,,1.91 €,1.87 €
 44,95 rue du Perray,NANTES,44300,1.84 €,,1.96 €,1.91 €
 44,48 Boulevard de la Libération,Couëron,44220,1.86 €,,1.95 €,1.91 €
@@ -150,7 +150,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 44,Boulevard de la Baule,SAINT-HERBLAIN,44800,1.83 €,,1.94 €,1.90 €
 44,RUE GAETAN RONDEAU,NANTES,44200,1.80 €,0.85 €,1.91 €,1.87 €
 44,RTE DE CHATEAUBRIANT,SAINT-MARS-LA-JAILLE,44540,,,1.95 €,1.91 €
-44,Route d'Ancenis,Vallet,44330,,,2.00 €,1.92 €
+44,Route d'Ancenis,Vallet,44330,,,2.04 €,1.92 €
 44,4 LES LEVEES MIRAUD,LA CHAPELLE-DES-MARAIS,44410,1.86 €,,1.96 €,1.89 €
 44,Recouvrance,GéTIGNé,44190,1.91 €,0.87 €,2.02 €,1.98 €
 44,1 Avenue de la Vendée,Geneston,44140,1.82 €,0.88 €,1.92 €,1.92 €
@@ -162,7 +162,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 44,Le Point du Jour,SAINT-NAZAIRE,44600,1.80 €,0.69 €,1.90 €,1.89 €
 44,Route de Nantes-CS 20077,Pontchâteau,44160,1.83 €,,1.94 €,1.89 €
 44,1 rue de Bretagne - ZAC de la Pancarte,NORT-SUR-ERDRE,44390,1.86 €,0.88 €,1.99 €,1.90 €
-44,LA HIRTAIS,Sainte-Anne-sur-Brivet,44160,1.83 €,,1.94 €,1.89 €
+44,LA HIRTAIS,Sainte-Anne-sur-Brivet,44160,1.83 €,,1.94 €,1.90 €
 44,Avenue Guy Lafontaine,Saint-Brevin-les-Pins,44250,1.90 €,0.89 €,,1.97 €
 44,BD PASTEUR,LA CHAPELLE-BASSE-MER,44450,1.87 €,,1.95 €,1.91 €
 44,Avenue du Baulois,PORNICHET,44380,1.87 €,0.85 €,1.94 €,1.93 €

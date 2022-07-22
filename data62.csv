@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,ROUTE DE BOULOGNE,Desvres,62240,,,2.03 €,1.90 €
 62,18 rue Casimir Beugnet,BULLY-LES-MINES,62160,,,1.97 €,2.00 €
 62,150 AVENUE ROGER SALENGRO,CALAIS,62100,1.87 €,,1.98 €,1.96 €
-62,AUTOROUTE A16 - AIRE DE L'EPITRE,BEUVREQUEN,62250,1.83 €,0.87 €,1.95 €,1.90 €
+62,AUTOROUTE A16 - AIRE DE L'EPITRE,BEUVREQUEN,62250,1.86 €,0.87 €,1.98 €,1.92 €
 62,580 route de bethune,Lestrem,62136,1.92 €,0.87 €,2.03 €,1.98 €
 62,av République,NOYELLES-GODAULT,62950,1.84 €,0.74 €,1.93 €,1.93 €
 62,Rue Augustin Caron,Bruay-la-Buissière,62700,1.86 €,0.88 €,1.99 €,1.91 €
@@ -26,7 +26,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,126 Boulevard Louis Lesage,Cambrin,62149,1.80 €,,1.97 €,1.88 €
 62,Autoroute A1 - Aire de Wancourt,WANCOURT,62128,1.98 €,,2.09 €,2.01 €
 62,22 Rue François Beaucamp,Grenay,62160,2.05 €,,2.13 €,1.90 €
-62,AUTOROUTE A26 - AIRE DE SOUCHEZ,SOUCHEZ,62153,1.90 €,,2.01 €,1.97 €
+62,AUTOROUTE A26 - AIRE DE SOUCHEZ,SOUCHEZ,62153,1.93 €,,2.04 €,1.99 €
 62,Boulevard Jean Jaurès,BOULOGNE-SUR-MER,62200,,,,
 62,RN 341 ROUTE DE BOULOGNE,Longfossé,62240,1.92 €,,2.00 €,1.93 €
 62,43 Route d'Arras,Lens,62300,1.82 €,,1.94 €,1.89 €
@@ -106,13 +106,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,22 ROUTE NATIONALE,Cauchy-à-la-Tour,62260,1.91 €,,2.02 €,1.98 €
 62,LES ALLEES,VERTON,62180,,,2.06 €,2.02 €
 62,RUE PASTEUR,MARLES-LES-MINES,62540,1.85 €,,1.93 €,1.92 €
-62,59 rue des allées,Neufchâtel-Hardelot,62152,1.94 €,,2.05 €,2.02 €
+62,59 rue des allées,Neufchâtel-Hardelot,62152,2.05 €,,2.17 €,2.06 €
 62, Rue Roger Salengro,COURRIèRES,62710,1.84 €,,2.16 €,1.92 €
 62,56 Avenue Antoine de Saint-Exupéry,Calais,62100,,0.85 €,2.07 €,1.96 €
 62,RUE BLEUE MAISON,Éperlecques,62910,1.89 €,,2.00 €,1.96 €
 62,rue du 21 mai 1940,BEAURAINVILLE,62990,1.85 €,0.91 €,,1.93 €
 62,2 Rue Principale,CAMPAGNE-LèS-WARDRECQUES,62120,,0.85 €,2.15 €,1.95 €
-62,AUTOROUTE A16 - AIRE DES DEUX CAPS,LEUBRINGHEN,62250,1.83 €,0.87 €,1.95 €,1.90 €
+62,AUTOROUTE A16 - AIRE DES DEUX CAPS,LEUBRINGHEN,62250,1.86 €,0.87 €,1.98 €,1.92 €
 62,BOULEVARD MONTESQUIEU,OUTREAU,62230,1.80 €,0.87 €,1.91 €,1.87 €
 62,655 Rue de Lille,Béthune,62400,,,2.10 €,2.05 €
 62, Route de Paris,SAINT-MARTIN-BOULOGNE,62280,,,2.14 €,1.99 €
@@ -123,7 +123,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,Rue du Grand Mont,Loos-en-Gohelle,62750,1.86 €,0.85 €,1.95 €,1.96 €
 62,AUTOROUTE A2 AIRE DE GRAINCOURT,HAVRINCOURT,62147,2.04 €,,2.15 €,2.06 €
 62,RUE DU MARECHAL FOCH,BIACHE SAINT VAAST,62118,1.77 €,,1.85 €,1.94 €
-62,rue pasteur,MARCK,62730,,2.26 €,2.10 €,2.05 €
+62,rue pasteur,MARCK,62730,,2.26 €,2.00 €,2.00 €
 62, Avenue Georges Besse,LE TOUQUET-PARIS-PLAGE,62520,2.07 €,,2.18 €,2.15 €
 62,73 RUE D.HESDIN,ANVIN,62134,,,2.00 €,2.02 €
 62,Rue de Courtebourne,LICQUES,62850,,,2.05 €,1.98 €
@@ -139,8 +139,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,57 Avenue Bernard Chochoy,Lumbres,62380,1.90 €,0.88 €,2.01 €,1.98 €
 62,PLACE DE GENERAL DE GAULLE,Oye-Plage,62215,,,2.18 €,1.98 €
 62,1 place de la Gare,AUXI-LE-CHâTEAU,62390,1.81 €,,1.89 €,1.86 €
-62,350 route de Saint Pol,Herlin-le-Sec,62130,1.80 €,0.81 €,1.96 €,1.86 €
 62,ROUTE NATIONALE 43,RACQUINGHEM,62120,2.00 €,,,2.00 €
+62,350 route de Saint Pol,Herlin-le-Sec,62130,1.88 €,0.81 €,1.96 €,1.92 €
 62,1 Rue de l'Europe,WIZERNES,62570,,,,
 62, Avenue Henri Mory,SAMER,62830,,,,
 62,118 RUE RENE LANOY,LENS,62300,1.93 €,0.87 €,2.04 €,2.01 €
@@ -160,7 +160,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,Avenue Georges Guynemer,CALAIS,62100,2.02 €,,2.09 €,2.04 €
 62,1000 AVENUE DES ALLIES,AUDRUICQ,62370,,,1.94 €,1.89 €
 62,RUE MARCEL DASSAULT,CALAIS,62100,1.89 €,0.87 €,2.00 €,1.95 €
-62,TERMINAL EUROTUNNEL,COQUELLES,62231,1.93 €,,2.04 €,1.98 €
+62,TERMINAL EUROTUNNEL,COQUELLES,62231,1.96 €,,2.07 €,2.01 €
 62,ROUTE DE BOULOGNE,NESLES,62152,,,2.18 €,1.98 €
 62,89 Avenue Fernand Lobbedez,ARRAS,62000,1.82 €,0.68 €,1.90 €,1.92 €
 62,Autoroute A26 - Aire d'Angres,Angres,62143,2.01 €,,2.13 €,2.03 €
@@ -188,19 +188,19 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 62,rue saint nazaire,Vimy,62580,,,2.04 €,1.96 €
 62,245 AVENUE KENNEDY,PERNES,62550,,,2.08 €,2.01 €
 62,14 Rue René Lannoy,Avion,62210,1.86 €,,1.94 €,1.95 €
-62,Route de La Bassée,Vendin-le-Vieil,62880,1.93 €,,2.04 €,1.97 €
+62,Route de La Bassée,Vendin-le-Vieil,62880,1.93 €,,2.04 €,1.99 €
 62,612 Rue d'Aire,Béthune,62400,1.90 €,,2.01 €,1.97 €
 62,RN 43,NOYELLES-LèS-VERMELLES,62980,1.83 €,,1.92 €,1.92 €
 62,Rue du Bon Air,WIMEREUX,62930,,,2.00 €,1.99 €
 62,Rue du vieux Moulin,CAMIERS,62176,1.98 €,,2.09 €,2.00 €
-62,Route d'Acquin,LUMBRES,62380,1.84 €,0.72 €,1.94 €,1.92 €
+62,Route d'Acquin,LUMBRES,62380,1.86 €,0.72 €,1.97 €,1.93 €
 62,Aire de Saint-Hilaire Cottes A26,SAINT-HILAIRE COTTES,62120,2.06 €,,2.18 €,2.04 €
 62,2 RUE DU RENOUVEAU,VENDIN LES BETHUNE,62232,2.02 €,0.88 €,,2.04 €
 62,Rue Witternesse,LAMBRES,62120,,,2.06 €,1.95 €
 62,18 BIS RUE DE LA LONGEVILLE,HUCQUELIERS,62650,,,2.02 €,1.98 €
 62,Route Nationale 42,SAINT-MARTIN-BOULOGNE,62280,1.89 €,,1.97 €,1.93 €
 62,Avenue Percier et Fontaine,Boulogne-sur-Mer,62200,1.96 €,,2.00 €,1.96 €
-62,TERMINAL EUROTUNNEL,COQUELLES,62100,1.90 €,0.87 €,2.01 €,1.98 €
+62,TERMINAL EUROTUNNEL,COQUELLES,62100,1.93 €,0.87 €,2.04 €,2.01 €
 62,Rue de Neuville,MAROEUIL,62161,,,2.06 €,1.96 €
 62,jean mermoz,DAINVILLE,62000,1.83 €,0.69 €,2.01 €,1.92 €
 62,Rue Nationale,Beaumetz-lès-Loges,62123,,,2.06 €,1.97 €

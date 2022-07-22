@@ -7,13 +7,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 36,1 Route de Vierzon,Reuilly,36260,,,1.99 €,2.00 €
 36,Route de Chateauroux,VATAN,36150,,,2.12 €,2.00 €
 36,RN 151,ISSOUDUN,36100,,,,2.08 €
-36,AUTOROUTE A20 - AIRE DES MILLE ETANGS,LUANT,36350,1.90 €,0.88 €,2.01 €,1.96 €
-36,Route de Montluçon,Châteauroux,36000,1.83 €,,1.92 €,1.92 €
+36,AUTOROUTE A20 - AIRE DES MILLE ETANGS,LUANT,36350,1.93 €,0.88 €,2.04 €,1.98 €
+36,Route de Montluçon,Châteauroux,36000,1.84 €,,1.95 €,1.92 €
 36,rue des Remparts,SAINT-GAULTIER,36800,,,1.97 €,1.96 €
 36,La Combette,Aigurande,36140,1.94 €,,2.06 €,1.98 €
 36,ROUTE DE TOURS,Châtillon-sur-Indre,36700,1.97 €,,2.08 €,2.02 €
 36,39 Avenue des Marins,Châteauroux,36000,,,2.04 €,1.97 €
-36,Rue de la Limoise,Issoudun,36100,1.86 €,,1.99 €,1.92 €
+36,Rue de la Limoise,Issoudun,36100,1.87 €,,1.99 €,1.92 €
 36,AVENUE D'AUVERGNE,LA CHâTRE,36400,1.83 €,0.78 €,1.93 €,1.90 €
 36,Rue Albert Chichery,Le Blanc,36300,1.81 €,,1.90 €,1.89 €
 36,40 Avenue d'Argenton,CHâTEAUROUX,36000,,,2.11 €,2.05 €
@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 36,route de chateauroux,BUZANçAIS,36500,,,2.04 €,1.97 €
 36,ZA  Le Fay,Neuvy-Saint-Sépulchre,36230,,,2.10 €,2.03 €
 36,23 ROUTE D'ARGENTON,Saint-Benoît-du-Sault,36170,1.84 €,,1.95 €,1.95 €
-36,371 Avenue de Verdun,CHATEAUROUX,36000,1.88 €,,2.04 €,1.97 €
+36,371 Avenue de Verdun,CHATEAUROUX,36000,1.88 €,,2.04 €,2.00 €
 36,A20 AIRE DES CHAMPS D' AMOUR,Meunet-sur-Vatan,36150,2.16 €,,2.28 €,2.17 €
 36,Route de Gargilesse PAUMULE,LE PêCHEREAU,36200,,,2.00 €,2.01 €
 36,Route de Beauvais,BUZANçAIS,36500,,,,1.91 €
@@ -32,7 +32,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 36,96 AVENUE D'OCCITANIE,Saint-Maur,36250,1.85 €,0.92 €,1.95 €,1.90 €
 36,aire du Val de l'Indre - autoroute A20,VELLES,36330,2.10 €,,2.22 €,2.09 €
 36,ZAC DU GRAND DEOLS,Déols,36130,1.89 €,,1.97 €,1.91 €
-36,Route de Saint-Marin,Argenton-sur-Creuse,36200,1.84 €,,1.97 €,1.93 €
+36,Route de Saint-Marin,Argenton-sur-Creuse,36200,1.90 €,,2.00 €,1.99 €
 36,ROUTE DE CHATEAUROUX,Valençay,36600,,,,2.08 €
 36,Route de Bourges,ISSOUDUN,36100,1.90 €,,2.01 €,1.95 €
 36,18 rue des Ajoncs,LA CHâTRE,36400,1.85 €,0.85 €,1.97 €,1.92 €
@@ -47,4 +47,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 36,boulevard du franc,ST MAUR,36250,1.83 €,,,1.90 €
 36, Route de Limoges,ARGENTON-SUR-CREUSE,36200,1.84 €,0.88 €,1.98 €,1.93 €
 36,26 Rue Jean Lurçat,Châtillon-sur-Indre,36700,1.95 €,0.85 €,2.04 €,1.97 €
-36,ROUTE DE VALENCAY,CHABRIS,36210,1.95 €,,2.03 €,1.97 €
+36,ROUTE DE VALENCAY,CHABRIS,36210,1.95 €,,2.04 €,1.97 €

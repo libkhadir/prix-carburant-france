@@ -32,7 +32,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 06,31 AVENUE DU BELLET,NICE,06200,1.97 €,,2.09 €,2.03 €
 06,Route du Bord-de-Mer,VILLENEUVE-LOUBET,06270,1.89 €,,1.99 €,1.96 €
 06,63 BLD GORBELLA,NICE,06100,2.02 €,,2.12 €,2.10 €
-06,AUTOROUTE A8 - AIRE DE BRÉGUIERES SUD,MOUGINS,06250,1.85 €,0.89 €,1.96 €,1.97 €
+06,AUTOROUTE A8 - AIRE DE BRÉGUIERES SUD,MOUGINS,06250,1.88 €,0.89 €,1.99 €,1.99 €
 06,606 boulevard du mercantour,Nice,06200,1.79 €,,1.92 €,1.91 €
 06,ZAC ARENAS 125 BD RENE CASSIN,NICE,06200,1.99 €,1.02 €,2.09 €,2.06 €
 06,19-21 BD VALLOMBROSA,CANNES,06400,1.98 €,,2.10 €,2.03 €
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 06,839 route de LA GIANDOLA,Breil-sur-Roya,06540,2.10 €,,2.17 €,2.19 €
 06,280 ROUTE DE GRENOBLE,NICE,06200,1.79 €,0.87 €,1.92 €,
 06,RN.559 BASSE CORNICHE,Beaulieu-sur-Mer,06310,1.94 €,,2.05 €,1.99 €
-06,480  av. du Général De Gaulle,LE CANNET,06110,1.89 €,0.93 €,,1.99 €
+06,480  av. du Général De Gaulle,LE CANNET,06110,1.95 €,0.92 €,,2.01 €
 06,TERRE PLEIN DU PORT,SAINT-LAURENT-DU-VAR,06700,1.95 €,,2.05 €,2.00 €
 06,PONT GARIGLIANO,NICE,06300,1.90 €,0.86 €,2.01 €,1.99 €
 06,171 Avenue Louis Pasteur,Roquebrune-Cap-Martin,06190,1.99 €,0.88 €,2.09 €,2.06 €
@@ -72,7 +72,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 06,Faisse longue-route de draguignan - Lotissement le Hameau du Val du Tignet,Tignet,06530,,,,2.02 €
 06,ROUTE DE GRASSE,Saint-Cézaire-sur-Siagne,06530,,,2.08 €,2.04 €
 06,136 Route de Nice,ANTIBES,06600,1.95 €,,2.06 €,2.02 €
-06,140 Av. Francis Tonner,CANNES,06150,1.92 €,,2.07 €,2.02 €
+06,140 Av. Francis Tonner,CANNES,06150,1.97 €,,2.11 €,2.01 €
 06,31 Route de Laghet,La Trinité,06345,1.80 €,,1.88 €,1.92 €
 06,94 Avenue de Boutiny,Peymeinade,06530,1.82 €,,1.90 €,1.93 €
 06,ROUTE NATIONALE 7,Mandelieu-la-Napoule,06210,2.01 €,0.91 €,2.13 €,2.07 €
@@ -93,7 +93,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 06,Aéroport Nice Côte d'Azur,Nice,06200,1.99 €,0.99 €,2.09 €,2.05 €
 06,Chemin de Saint-Claude,ANTIBES,06600,1.82 €,,1.90 €,1.91 €
 06,158 route de cannes,GRASSE,06130,1.79 €,,1.87 €,1.93 €
-06,1 AV.VICTOR HUGO,Cannes,06150,1.78 €,,1.92 €,1.91 €
+06,1 AV.VICTOR HUGO,Cannes,06150,1.81 €,,2.00 €,1.92 €
 06,2 avenue Charles David,Levens,06670,,,2.25 €,2.19 €
 06,3256 CHEMIN DE CARIMAÏ,MOUGINS,06250,1.88 €,0.89 €,2.00 €,1.98 €
 06,57 BD DU RIOU,CANNES,06400,1.91 €,0.86 €,2.02 €,1.99 €

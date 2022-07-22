@@ -4,7 +4,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 76,Avenue Aristide Briand,BARENTIN,76360,,,,2.05 €
 76,Centre Commercial la LEZARDE,MONTIVILLIERS,76290,1.81 €,,1.89 €,1.90 €
 76,2 ROUTE DE ROUEN,GOURNAY EN BRAY,76220,1.90 €,,2.01 €,1.98 €
-76,AUTOROUTE A28 - AIRE DE BOSC MESNIL,Bosc-Mesnil,76680,1.89 €,0.89 €,2.00 €,1.96 €
+76,AUTOROUTE A28 - AIRE DE BOSC MESNIL,Bosc-Mesnil,76680,1.92 €,0.89 €,2.03 €,1.98 €
 76,ROUTE DE TOURVILLE,Cléon,76410,1.92 €,,2.03 €,1.98 €
 76,Rue de l'Europe,FAUVILLE-EN-CAUX,76640,1.84 €,0.75 €,1.97 €,1.92 €
 76,AVENUE DE LA HETRAIE,Offranville,76550,,,1.97 €,1.96 €
@@ -122,9 +122,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 76,Avenue Maximiliansau,Cany-Barville,76450,,,1.94 €,1.91 €
 76,Place Gaston Sanson,FAUVILLE-EN-CAUX,76640,,,1.99 €,1.95 €
 76,Rue Jérôme Cardan,Notre-Dame-de-Gravenchon,76330,,,2.00 €,2.00 €
-76,975 Rue Robert Lefranc,Saint-Nicolas-d'Aliermont,76510,1.80 €,0.88 €,1.89 €,1.86 €
+76,975 Rue Robert Lefranc,Saint-Nicolas-d'Aliermont,76510,1.83 €,0.88 €,1.92 €,1.92 €
 76,RN 182,Gonfreville-l'Orcher,76700,,1.35 €,2.16 €,2.12 €
-76,AVENUE DE L'EUROPE,BOIS-GUILLAUME,76230,1.83 €,,1.94 €,1.91 €
+76,AVENUE DE L'EUROPE,BOIS-GUILLAUME,76230,1.84 €,,1.94 €,1.92 €
 76,CENTRE COMMERCIAL SAINT JEAN,NEUVILLE-FERRIERES,76270,1.90 €,0.73 €,2.03 €,1.96 €
 76,2 RUE EUGENE MOPIN,LE HAVRE,76610,1.80 €,,1.89 €,1.87 €
 76,8  rue Romain Rolland Sanvic,Le Havre,76620,,,1.96 €,1.92 €
@@ -155,7 +155,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 76,Rue du Moulin,GRAND-COURONNE,76530,1.90 €,,2.04 €,1.92 €
 76,3 Route de Ganzeville,FéCAMP,76400,,,2.13 €,1.99 €
 76,Avenue du Maréchal Juin,BIHOREL,76420,1.82 €,0.75 €,1.94 €,1.89 €
-76,Départemental RD 6014,Boos,76520,1.83 €,,,1.89 €
+76,Départemental RD 6014,Boos,76520,1.85 €,,,1.93 €
 76,Route de Pont-de-l'Arche,Saint-Pierre-lès-Elbeuf,76320,1.81 €,0.73 €,1.92 €,1.89 €
 76,route de Lillebonne,Gruchet-le-Valasse,76210,1.86 €,,1.96 €,1.93 €
 76,Zone d'activités du Bois de l'Arc,YERVILLE,76760,2.09 €,0.90 €,2.10 €,2.00 €
@@ -166,4 +166,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 76,163 Rue du Général de Gaulle,LE HOULME,76770,1.83 €,,1.92 €,1.91 €
 76,Rue des Martyrs de la Résistance,Maromme,76150,1.97 €,0.78 €,2.00 €,1.92 €
 76,10 Boulevard Industriel,Sotteville-lès-Rouen,76300,2.01 €,0.94 €,2.10 €,2.07 €
-76,52 Avenue de la Libération,Dieppe,76370,,,2.11 €,2.04 €
+76,52 Avenue de la Libération,Dieppe,76370,,,2.11 €,2.00 €

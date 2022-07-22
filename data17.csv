@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 17,Route de Saintes,Saint-Savinien,17350,1.84 €,,1.94 €,1.89 €
 17,A10 - AIRE DE FENIOUX OUEST,FENIOUX,17350,2.12 €,,2.24 €,2.14 €
 17,3 Avenue Salvador Allende,SAINTES,17100,1.94 €,,2.04 €,1.92 €
-17,1 RUE D'ALIGRE,MARANS,17230,1.84 €,,1.96 €,1.90 €
+17,1 RUE D'ALIGRE,MARANS,17230,1.89 €,,1.99 €,1.93 €
 17,8 AVENUE MARYSE BASTIE,ROYAN,17200,1.82 €,,1.92 €,1.87 €
 17,1  AV DE LA LIBERATION,ROYAN,17200,1.82 €,0.86 €,1.92 €,1.87 €
 17,route de la rochelle,ROCHEFORT,17300,1.86 €,0.85 €,1.95 €,1.90 €
@@ -33,7 +33,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 17, Rue de la Pouline,ECHILLAIS,17620,1.86 €,0.87 €,1.95 €,1.90 €
 17,44 Rue Audry de Puyravault,Surgères,17700,,,,2.01 €
 17,Espace Jean-Philippe Rameau,SURGERES,17700,1.86 €,0.75 €,1.96 €,1.91 €
-17,AIRE DE SERVICE - RN 11,PUILBOREAU,17138,1.81 €,0.87 €,1.91 €,1.87 €
+17,AIRE DE SERVICE - RN 11,PUILBOREAU,17138,1.84 €,0.87 €,1.94 €,1.89 €
 17,286 ROUTE DE SAINTES,ST JEAN D'ANGELY,17400,,,2.26 €,2.18 €
 17,43 RUE DES SPORTS,Saint-Xandre,17138,,,1.95 €,1.89 €
 17,Rue de l'Écuissière,DOLUS-D'OLéRON,17550,1.83 €,,1.93 €,1.94 €
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 17,6 Boulevard Maréchal Lyautey,LA ROCHELLE,17000,1.87 €,,1.97 €,1.93 €
 17,Rue de la République,MARENNES,17320,,,1.92 €,1.90 €
 17,Rue Nicolas Gargot,AYTRé,17440,,,1.92 €,1.92 €
-17,6 rue des Ecoles,La Jarrie,17220,1.81 €,0.85 €,1.90 €,1.87 €
+17,6 rue des Ecoles,La Jarrie,17220,1.83 €,0.85 €,1.92 €,1.91 €
 17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.83 €,,1.91 €,1.93 €
 17,Avenue de la République,Montendre,17130,1.97 €,,2.00 €,1.98 €
 17,Boulevard du Colonel Baillet,Royan,17200,1.89 €,,1.98 €,1.96 €
@@ -58,20 +58,20 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 17,ROUTE DE SAINTES,Saint-Savinien,17350,1.87 €,,,1.92 €
 17,Route de Surgeres,AYTRE,17440,1.93 €,,2.04 €,1.99 €
 17,Route de la Rochelle RN137,Angoulins,17690,1.83 €,0.96 €,1.94 €,1.86 €
-17,Lieu dit la Beaucousière,Le Château-d'Oléron,17480,1.80 €,,1.92 €,1.89 €
+17,Lieu dit la Beaucousière,Le Château-d'Oléron,17480,1.83 €,,1.93 €,1.92 €
 17,3 route des cedres,Chaniers,17610,,,,
 17,109 AVENUE D'AUNIS,Tonnay-Charente,17430,1.83 €,0.87 €,1.92 €,1.88 €
 17,4 AVENUE ROYAN,LES MATHES,17570,,,2.13 €,2.12 €
 17,ZA du Tonneau,Archiac,17520,,,2.19 €,2.04 €
-17,2 Route des Mirouelles,SAINT-PIERRE-D'OLéRON,17310,,0.69 €,1.92 €,1.89 €
-17,Route de la Flotte,SAINT-MARTIN-DE-Ré,17410,1.80 €,,1.91 €,1.87 €
+17,2 Route des Mirouelles,SAINT-PIERRE-D'OLéRON,17310,,0.68 €,1.93 €,1.92 €
+17,Route de la Flotte,SAINT-MARTIN-DE-Ré,17410,1.84 €,,1.94 €,1.92 €
 17,37 BIS PLACE DE LA REPUBLIQUE,AIGREFEUILLE-D'AUNIS,17290,,,,2.20 €
 17,LA GARE,Chevanceaux,17210,2.00 €,,2.09 €,2.00 €
 17,ZAC DE LA VARENNE   N 137,Tonnay-Charente,17430,1.86 €,,1.95 €,1.90 €
 17,15 Rue Champagne Saint Georges,Saintes,17100,1.80 €,,1.88 €,1.86 €
 17,Aire de Bedenac Est - RN 10,Bedenac,17210,1.96 €,1.18 €,2.07 €,2.02 €
 17,RUE JEAN-PAUL SARTRE,La Rochelle,17000,1.94 €,0.86 €,2.05 €,1.99 €
-17,Impasse du 11 Novembre 1918,ROCHEFORT,17300,1.83 €,,1.92 €,1.88 €
+17,Impasse du 11 Novembre 1918,ROCHEFORT,17300,1.86 €,,1.95 €,1.90 €
 17,TOTAL ACCESS Rte de Rochefort,ANGOULINS,17690,1.80 €,,1.91 €,1.87 €
 17,11 Rue de Lamothe,Saintes,17100,1.83 €,0.85 €,1.94 €,1.91 €
 17,CD201,Sainte-Marie-de-Ré,17740,1.96 €,,2.07 €,2.02 €
@@ -92,9 +92,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 17,Rue de la Sacristinerie,SAINT-JEAN-D'ANGéLY,17400,1.90 €,,1.97 €,1.96 €
 17, Place de la Renaissance,AIGREFEUILLE-D'AUNIS,17290,1.80 €,0.85 €,1.89 €,1.86 €
 17,Avenue Monseigneur Chauvin,JONZAC,17500,1.79 €,0.85 €,1.89 €,1.90 €
-17,4 Avenue des Corsaires,Saint-Martin-de-Ré,17410,1.85 €,0.85 €,1.95 €,1.93 €
+17,4 Avenue des Corsaires,Saint-Martin-de-Ré,17410,1.85 €,0.88 €,1.95 €,1.93 €
 17,36 rue Marc Jeanjean,Matha,17160,1.95 €,,2.05 €,1.97 €
-17,Rue Caillotière,La Flotte,17630,1.84 €,,1.94 €,1.92 €
+17,Rue Caillotière,La Flotte,17630,1.85 €,,1.95 €,1.93 €
 17,Rue Alexandre Dumas,Saint-Jean-d'Angély,17400,1.90 €,,1.97 €,1.96 €
 17,20 BD GOULEBENEZE,Burie,17770,,,2.13 €,1.95 €
 17,8 Avenue du Maréchal Leclerc,SAINT-AIGULIN,17360,1.91 €,,2.15 €,2.00 €
@@ -106,7 +106,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 17,ROUTE DE SAINTES,GEMOZAC,17260,1.85 €,0.80 €,1.95 €,1.93 €
 17,LA CHAINADE,Marennes,17320,,0.80 €,1.92 €,1.90 €
 17,47 RUE DE L'EGLISE,MESCHERS-SUR-GIRONDE,17132,1.88 €,,1.96 €,1.97 €
-17,Le Moulin des Justices,ARVERT,17530,1.82 €,,1.92 €,1.89 €
+17,Le Moulin des Justices,ARVERT,17530,1.84 €,,1.94 €,1.90 €
 17,Zone commerciale de clairvent,MONTGUYON,17270,1.84 €,,1.99 €,1.93 €
 17,Avenue du Fief Rose ,LAGORD,17140,1.81 €,,1.91 €,1.87 €
 17,176 Avenue de Rochefort,ROYAN,17200,,,2.08 €,2.01 €
@@ -115,6 +115,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 17,Route Départementale 735,Ars-en-Ré,17590,,,1.98 €,1.95 €
 17,PARC COMMERCIAL DE LA SOURCE,Jonzac,17500,1.80 €,0.85 €,1.89 €,1.86 €
 17,31 Cours Lemercier,SAINTES,17100,1.90 €,,2.01 €,1.98 €
-17,Route de Rochefort,ANGOULINS,17690,1.81 €,0.80 €,1.91 €,1.87 €
+17,Route de Rochefort,ANGOULINS,17690,1.83 €,0.80 €,1.94 €,1.89 €
 17,RUE DE L'ADJUDANT GALLAND,DOMPIERRE-SUR-MER,17139,,,1.96 €,1.90 €
 17,rue du 14 juillet,PUILBOREAU,17138,1.81 €,0.80 €,1.91 €,1.87 €

@@ -4,7 +4,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 65,BD DE LATTRE DE TASSIGNY,Tarbes,65000,1.87 €,0.91 €,2.01 €,1.92 €
 65,4 Avenue François Abadie,Lourdes,65100,1.87 €,,2.01 €,1.91 €
 65,25 BOULEVARD DE LAPACCA,LOURDES,65100,1.85 €,0.89 €,1.99 €,
-65,13 route de Lourdes,Juillan,65290,1.89 €,0.89 €,1.99 €,1.93 €
+65,13 route de Lourdes,Juillan,65290,1.90 €,0.91 €,2.00 €,2.00 €
 65,ROUTE DE SAINT LARY,SARRANCOLIN,65410,1.95 €,,2.05 €,2.09 €
 65,route pierrefitte,Cauterets,65110,,,2.26 €,2.20 €
 65,5 rue francis cruzel,Rabastens-de-Bigorre,65140,,,2.09 €,2.05 €
@@ -28,7 +28,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 65,ROUTE DE TOULOUSE,CASTELNAU-MAGNOAC,65230,,0.85 €,1.99 €,1.99 €
 65,3150 RN 117,CAPVERN,65130,,0.85 €,,1.98 €
 65,2 RUE OSMIN RICAU,Vic-en-Bigorre,65500,1.90 €,,2.02 €,1.96 €
-65,Place Germain Claverie,TARBES,65000,,,2.03 €,1.94 €
+65,Place Germain Claverie,TARBES,65000,,,2.03 €,2.00 €
 65,rue du XI novembre,AUREILHAN,65800,,,2.04 €,1.97 €
 65,ROUTE DES COLS,BAGNèRES-DE-BIGORRE,65200,1.95 €,,2.06 €,2.02 €
 65,Route de Saint Lary,ANCIZAN,65440,1.89 €,0.85 €,2.00 €,2.00 €

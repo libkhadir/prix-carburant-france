@@ -1,4 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
+72,A11 - AIRE SARTHE SARGE LE MANS SUD,Sargé-lès-le-Mans,72190,1.92 €,0.89 €,2.03 €,1.99 €
 72,ZA LE TERTRE,Noyen-sur-Sarthe,72430,,,2.14 €,2.00 €
 72,43 AVENUE DE TALHOUET,Le Lude,72800,1.99 €,,2.10 €,2.04 €
 72,15 Rue Mohain,MAROLLES-LES-BRAULTS,72260,1.88 €,,1.99 €,1.97 €
@@ -9,7 +10,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 72,AUT A11 AIRE DE VILLAINES LA GONAIS,VILLAINES-LA-GONAIS,72400,2.08 €,,2.19 €,2.14 €
 72,Avenue Georges Duhamel,Le Mans,72000,,0.85 €,1.93 €,1.91 €
 72,3 rue du Perche,Saint-Cosme-en-Vairais,72110,2.00 €,,2.10 €,2.00 €
-72,A11 - AIRE SARTHE SARGE LE MANS SUD,Sargé-lès-le-Mans,72190,1.89 €,0.89 €,2.00 €,1.97 €
 72,ROUTE DU MANS,SAINT-RéMY-DE-SILLé,72140,1.95 €,,2.04 €,1.95 €
 72,AUT A11 AIRE DE LA FERTE BERNARD,Villaines-la-Gonais,72400,2.09 €,,2.22 €,2.14 €
 72,LES SABLONNIERES,Bessé-sur-Braye,72310,,,2.04 €,1.97 €
@@ -38,10 +38,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 72,ROUTE DE PARIS,Yvré-l'Évêque,72530,2.17 €,,2.28 €,2.01 €
 72,Grande Rue,SAVIGNé-L'ÉVêQUE,72460,,,2.19 €,2.13 €
 72,1 Rue Nationale,BOULOIRE,72440,1.97 €,,2.08 €,2.02 €
-72,45 RUE DU MANS,Maresché,72170,,,,2.02 €
+72,45 RUE DU MANS,Maresché,72170,,,,2.04 €
 72,62 Rue Nationale,CéRANS-FOULLETOURTE,72330,,,2.05 €,1.95 €
 72,44 Rue de Bonnétable,LE MANS,72000,1.92 €,,2.03 €,2.01 €
-72,A11-AIRE SARTHE SARGE LE MANS NORD,Sargé-lès-le-Mans,72190,1.89 €,0.89 €,2.00 €,1.97 €
+72,A11-AIRE SARTHE SARGE LE MANS NORD,Sargé-lès-le-Mans,72190,1.92 €,0.89 €,2.03 €,1.99 €
 72,Avenue Jean Monnet,SABLE-SOLESMES,72300,1.96 €,,2.07 €,2.02 €
 72,RUE ABBE LELIEVRE,FRESNAY-SUR-SARTHE,72130,1.95 €,,2.04 €,1.97 €
 72,Avenue de Verdun,LA FLèCHE,72200,1.92 €,0.87 €,,1.99 €
@@ -91,7 +91,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 72,7 Avenue Charles de Gaulle,SAINT-CALAIS,72120,,,,2.00 €
 72,Avenue de Bönen,MULSANNE,72230,,,1.98 €,1.93 €
 72,Rue de Paris,CONNERRé,72160,1.93 €,,2.01 €,1.95 €
-72,2 Rue de Bonnétable,LE MANS,72000,1.84 €,,1.93 €,1.92 €
+72,2 Rue de Bonnétable,LE MANS,72000,1.88 €,,1.99 €,1.94 €
 72,zone artisanale Prairie des Moulins,SAINTE-JAMME-SUR-SARTHE,72380,1.90 €,,1.97 €,1.94 €
 72,ZAC du Moulin aux Moines,La Chapelle-Saint-Aubin,72650,1.83 €,,1.93 €,1.92 €
 72,ROUTE BELLEME,MAMERS,72600,1.91 €,,2.00 €,1.95 €

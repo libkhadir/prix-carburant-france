@@ -40,11 +40,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,RN20,AUTERIVE,31190,1.80 €,,1.91 €,1.87 €
 31,66 bis route de Paris D820,SAINT-JORY,31790,1.99 €,,2.10 €,2.03 €
 31,ROUTE DE MAUZAC,LAVERNOSE-LACASSE,31410,1.76 €,0.85 €,1.87 €,1.90 €
-31,2  rue du 8 mai 1945,PECHBONNIEU,31140,1.88 €,,2.04 €,1.98 €
+31,avenue du nord,Montréjeau,31210,1.95 €,0.89 €,1.99 €,1.96 €
+31,2  rue du 8 mai 1945,PECHBONNIEU,31140,1.89 €,,2.04 €,1.98 €
 31,Avenue du Bruguet,Bruguières,31150,1.93 €,0.94 €,2.08 €,1.95 €
 31,Avenue de Luchon,GOURDAN-POLIGNAN,31210,1.86 €,0.95 €,1.95 €,1.95 €
-31,avenue du nord,Montréjeau,31210,1.82 €,0.89 €,1.98 €,1.94 €
-31,615 route de Toulouse,SAINT LYS,31470,1.89 €,0.85 €,1.94 €,1.90 €
 31,52 ROUTE DE CEPET,Saint-Sauveur,31790,1.96 €,,2.04 €,1.97 €
 31,3 RUE CLEMENCE ISAURE,REVEL,31250,1.83 €,0.85 €,1.99 €,1.94 €
 31,CHEMIN DE SAINT JEAN,MONTRABE,31850,1.91 €,0.85 €,2.00 €,1.96 €
@@ -54,7 +53,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,95 Avenue du Languedoc,SAINT-LYS,31470,1.71 €,,1.86 €,1.85 €
 31,CD 65 Route de Toulouse,Pibrac,31820,1.98 €,,2.00 €,1.98 €
 31,Allées de Gascogne,Fonsorbes,31470,1.76 €,0.88 €,1.92 €,1.90 €
-31,5 avenue de Lengel,LéGUEVIN,31490,1.85 €,0.97 €,2.00 €,1.93 €
+31,5 avenue de Lengel,LéGUEVIN,31490,1.98 €,0.97 €,2.00 €,1.98 €
 31,CENTRE COMMERCIAL DE L'AUTAN,LABEGE,31670,1.94 €,,,2.02 €
 31,Chemin des Arènes,Balma,31130,1.89 €,0.88 €,2.00 €,1.97 €
 31,Impasse Al Croz,Buzet-sur-Tarn,31660,1.92 €,0.88 €,2.10 €,1.95 €
@@ -73,7 +72,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,Rue Jean Rouquette,Saint-Alban,31140,,1.07 €,,1.99 €
 31,Avenue des Pyrénées,MARTRES-TOLOSANE,31220,1.94 €,,1.95 €,1.95 €
 31,138 Avenue de Fronton,Toulouse,31200,1.86 €,,2.00 €,1.90 €
-31,Avenue Pasteur,CAZèRES,31220,1.77 €,0.90 €,1.93 €,1.92 €
+31,Avenue Pasteur,CAZèRES,31220,1.88 €,0.90 €,1.95 €,1.95 €
 31,170 Avenue de la République,Villefranche-de-Lauragais,31290,1.95 €,0.87 €,2.03 €,1.94 €
 31,Avenue des Pyrénées,MONTESQUIEU-VOLVESTRE,31310,,,2.05 €,2.00 €
 31,Rue Benjamin Franklin,LAUNAGUET,31140,1.93 €,,2.04 €,1.96 €
@@ -81,7 +80,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,104 AV GDE BRETAGNE,TOULOUSE,31300,1.86 €,0.86 €,1.98 €,1.99 €
 31,114 route de fronton,Fonbeauzard,31140,1.89 €,0.94 €,1.96 €,1.94 €
 31,RN.113,Avignonet-Lauragais,31290,,,,2.03 €
-31,AUTOROUTE A61 - AIRE DU PORT LAURAGAIS SUD,Avignonet-Lauragais,31290,1.89 €,0.89 €,2.00 €,1.96 €
+31,AUTOROUTE A61 - AIRE DU PORT LAURAGAIS SUD,Avignonet-Lauragais,31290,1.92 €,0.89 €,2.03 €,1.98 €
 31, Avenue de Toulouse,CARAMAN,31460,,,,2.00 €
 31,AVENUE DE TOULOUSE,VERNET,31810,,,2.07 €,2.04 €
 31,71 Avenue de l'Isle,SAINT-GAUDENS,31800,,,1.97 €,1.91 €
@@ -102,20 +101,20 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,228 Avenue de Castres,Toulouse,31500,1.83 €,,1.88 €,1.91 €
 31,ZONE COMMERCIALE STE ANNE AVE DU CIMETIERE,SAINT-SULPICE-SUR-LèZE,31410,1.77 €,,1.99 €,1.94 €
 31,A64 aire du comminges,Clarac,31210,2.05 €,,2.15 €,2.08 €
-31,2 Avenue de Lavaur,VERFEIL,31590,1.95 €,,2.06 €,2.02 €
-31,ROUTE DE PARIS,FENOUILLET,31150,1.89 €,0.96 €,,1.95 €
+31,2 Avenue de Lavaur,VERFEIL,31590,1.98 €,,2.09 €,2.04 €
+31,ROUTE DE PARIS,FENOUILLET,31150,1.92 €,0.96 €,,1.96 €
 31,Route de l'Arize,Carbonne,31390,1.78 €,,1.87 €,1.92 €
 31,A64 Sortie N°24      Lieu dit Catalan,Lavelanet-de-Comminges,31220,,,1.97 €,1.95 €
 31,103 BOULEVARD DE SUISSE,TOULOUSE,31200,1.88 €,0.86 €,1.99 €,1.99 €
-31,Rue de la Croix de l'Olivier,CAZèRES,31220,1.80 €,,1.96 €,1.90 €
+31,Rue de la Croix de l'Olivier,CAZèRES,31220,1.87 €,,1.96 €,1.95 €
 31,Grand'Rue,Longages,31410,,,,1.99 €
 31,ZI LES PELISSIERES,Bouloc,31620,1.81 €,,1.99 €,1.94 €
 31,CHEMIN DE LA CAMAVE,Villefranche-de-Lauragais,31290,1.94 €,0.85 €,2.00 €,1.92 €
 31,Allée des Champs Pinsons,SAINT-ORENS-DE-GAMEVILLE,31650,1.79 €,,1.89 €,1.85 €
 31,Lieu dit La Pichette - 1 place Campariol,FONTENILLES,31470,,,1.92 €,1.90 €
 31,10 Boulevard de Thibaud,TOULOUSE,31084,,,,1.99 €
-31,3 avenue Jean Monnet - Lieu-dit Millet,CARBONNE,31390,1.77 €,0.90 €,1.93 €,1.92 €
-31,12 chemin de la garrigue - RN20,Castelnau-d'Estrétefonds,31620,1.81 €,0.85 €,,1.89 €
+31,3 avenue Jean Monnet - Lieu-dit Millet,CARBONNE,31390,1.90 €,0.90 €,1.99 €,1.95 €
+31,12 chemin de la garrigue - RN20,Castelnau-d'Estrétefonds,31620,1.81 €,0.85 €,,1.91 €
 31,LIEUDIT CABOURDY - RN20,Saint-Jory,31790,,,1.97 €,1.92 €
 31, Rue de la Gravette,GRATENTOUR,31150,1.94 €,0.88 €,2.04 €,1.96 €
 31,Route de Béssières,Fonbeauzard,31140,2.05 €,,2.10 €,2.04 €
@@ -124,13 +123,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,Chemin de la Croisette,PINS-JUSTARET,31860,,,,1.99 €
 31,ZAC DES LANDES 10 AVENUE DU CAGIRE,ESTANCARBON,31800,1.84 €,,1.97 €,1.91 €
 31,ROUTE DE ST GAUDENS,Boulogne-sur-Gesse,31350,1.83 €,,1.93 €,1.97 €
-31,route Salies,Mane,31260,1.69 €,,1.92 €,1.83 €
+31,route Salies,Mane,31260,1.78 €,,1.99 €,1.94 €
 31,2111 route du Plantaurel,Labarthe-sur-Lèze,31860,1.80 €,0.88 €,2.02 €,1.90 €
 31,Avenue Dewoitine,Cornebarrieu,31700,1.82 €,,,1.96 €
 31,6 rue claudius Rougenet,Toulouse,31500,,,2.00 €,1.97 €
 31,AVENUE DU GOUPE MORHANGE,TOULOUSE,31300,1.79 €,,1.90 €,1.87 €
 31,ZA DE LA BALME,BELBERAUD,31450,1.80 €,0.86 €,1.95 €,1.92 €
-31,6 AVENUE DU GOUPE MORHANGE,TOULOUSE,31300,1.81 €,0.85 €,1.92 €,1.87 €
+31,6 AVENUE DU GOUPE MORHANGE,TOULOUSE,31300,1.85 €,0.85 €,1.96 €,1.89 €
 31,68 Route de Revel,TOULOUSE,31400,1.98 €,0.97 €,2.02 €,2.03 €
 31,106 ROUTE D'ESPAGNE,Portet-sur-Garonne,31120,1.91 €,0.86 €,2.02 €,1.99 €
 31,28 RD817,Estancarbon,31800,1.96 €,,2.07 €,2.00 €
@@ -143,7 +142,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,Avenue Rémy Comet,Bagnères-de-Luchon,31110,2.00 €,0.95 €,2.26 €,2.08 €
 31,Avenue de Garossos,Beauzelle,31700,1.85 €,0.85 €,1.95 €,1.90 €
 31,341 Avenue des États-Unis,Toulouse,31200,,0.92 €,,2.13 €
-31,PLACE EDOUARD BOUILLIERES,Toulouse,31100,1.96 €,,,1.99 €
+31,PLACE EDOUARD BOUILLIERES,Toulouse,31100,1.95 €,,,1.98 €
 31,Avenue du Château d'Eau,FONSORBES,31470,1.72 €,0.85 €,1.83 €,1.88 €
 31,Chemin des Bordes,REVEL,31250,1.92 €,,2.04 €,1.98 €
 31, Route de Caraman,LANTA,31570,1.97 €,,,2.00 €
@@ -160,15 +159,16 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 31,AUT A 64  AIRE DE VOLVESTRE,CAPENS,31410,1.97 €,,2.09 €,2.03 €
 31,144 Avenue Jean Chaubet,Toulouse,31500,1.83 €,,1.88 €,1.91 €
 31,31 Rue Pierre Marchet,VILLEMUR-SUR-TARN,31340,,,2.07 €,2.00 €
-31,AVENUE KENNEDY,Grenade,31330,1.84 €,0.82 €,1.93 €,1.89 €
+31,AVENUE KENNEDY,Grenade,31330,1.84 €,0.82 €,1.94 €,1.92 €
 31,Centre Commercial LABEGE 2,LABèGE,31670,1.76 €,0.86 €,1.88 €,1.88 €
 31,RTE DE LA CROIX FALGARDE,PORTET-SUR-GARONNE,31120,1.91 €,,2.02 €,1.99 €
+31,615 route de Toulouse,SAINT LYS,31470,1.89 €,0.88 €,1.99 €,1.95 €
 31,Route de Toulouse,Noé,31410,1.82 €,1.15 €,1.91 €,1.95 €
 31,AUTOROUTE A61AIRE DE TOULOUSE SUD SUD,DEYME,31450,2.06 €,,2.17 €,2.08 €
 31,1 Avenue de Gascogne,GRENADE,31330,1.84 €,0.85 €,1.94 €,1.92 €
 31,Chemin de Buffebiau,CASTELGINEST,31780,1.86 €,0.85 €,,1.93 €
 31,40 Avenue de Saint-Gaudens,Montréjeau,31210,,,,1.96 €
-31,Les Trêtes Moustajon,Moustajon,31110,1.76 €,,1.86 €,1.90 €
+31,Les Trêtes Moustajon,Moustajon,31110,1.80 €,,1.90 €,1.96 €
 31,58 Route de Narbonne,TOULOUSE,31400,1.98 €,0.97 €,2.02 €,2.03 €
 31,aire du Frontonnais Sud  A62,Castelnau-d'Estrétefonds,31620,1.98 €,,2.08 €,1.99 €
 31,1 BIS BOULEVARD JOFFRERY,Muret,31600,1.90 €,,,1.92 €
