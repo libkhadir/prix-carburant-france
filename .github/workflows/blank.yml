@@ -25,8 +25,9 @@ jobs:
       - name: Clean data
         run: |
           ls -lrt data*.csv
-          echo "deleting old data"
-          rm -rf data*.csv
+          echo "saving old data"
+          mkdir $(date)
+          mv data*.csv $(date)
           echo "check old data"
           ls -lrt
           mv data.xml price-explorer/.
