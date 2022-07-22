@@ -1,36 +1,36 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 11,928  Boulevard Général de Gaulle,PORT-LA-NOUVELLE,11210,1.85 €,0.90 €,1.91 €,1.96 €
-11,1  rue Georges Guynemer,Limoux,11300,1.91 €,,2.02 €,1.96 €
-11,29 ZAE du Peyrou,SIGEAN,11130,1.82 €,0.85 €,1.92 €,1.97 €
 11,LIEUDIT CAP DE FRONTAVENUE DES ROSEAUX,PORT LEUCATE,11370,1.87 €,,1.95 €,1.96 €
 11,Route de Quillan,Espéraza,11260,1.96 €,,,1.97 €
+11,1  rue Georges Guynemer,Limoux,11300,,,2.02 €,1.96 €
+11,29 ZAE du Peyrou,SIGEAN,11130,1.78 €,0.85 €,1.91 €,1.89 €
 11,13 Allée d'Iéna,Carcassonne,11000,1.86 €,,2.04 €,1.91 €
-11,ROUTE DE LIMOUX RN 118,CARCASSONNE,11000,1.84 €,0.87 €,1.94 €,1.91 €
+11,ROUTE DE LIMOUX RN 118,CARCASSONNE,11000,1.81 €,0.87 €,1.91 €,1.89 €
 11,14 Avenue Carnot,NARBONNE,11100,,0.99 €,,1.99 €
 11,108 Avenue de Bordeaux,NARBONNE,11100,,0.99 €,2.03 €,1.99 €
-11,40 Boulevard Frédéric Mistral,Narbonne,11100,1.83 €,0.88 €,1.98 €,1.89 €
-11,AVENUE CROIX SUD,Narbonne,11100,1.83 €,,1.94 €,1.89 €
-11,Avenue de la Croix Sud - PL uniquement,Narbonne,11100,,,,1.88 €
+11,40 Boulevard Frédéric Mistral,Narbonne,11100,1.81 €,0.88 €,1.98 €,1.87 €
+11,AVENUE CROIX SUD,Narbonne,11100,1.80 €,,1.90 €,1.87 €
+11,Avenue de la Croix Sud - PL uniquement,Narbonne,11100,,,,1.86 €
 11,La Madeleine,PEZENS,11170,,,,
 11,RD6113,LéZIGNAN-CORBIèRES,11200,,0.99 €,,1.98 €
 11,Avenue Charles Palauqui,PORT-LA-NOUVELLE,11210,,,,
 11,23 AVENUE CAMILLE BOUCHE,Limoux,11300,1.92 €,0.89 €,2.00 €,1.97 €
 11,88 Avenue Monseigneur de Langle,Castelnaudary,11400,,0.99 €,2.12 €,2.05 €
 11,A61 Aire d'Arzens Sud,ARZENS,11290,2.06 €,0.99 €,2.17 €,2.08 €
-11,RN 113 - 2 AVENUE DU MARECHAL F,LEZIGNAN CORBIERES,11200,1.82 €,,1.94 €,1.90 €
+11,RN 113 - 2 AVENUE DU MARECHAL F,LEZIGNAN CORBIERES,11200,1.79 €,,1.91 €,1.88 €
+11,AVENUE DU 3ème RPIMA,Carcassonne,11000,1.88 €,,1.99 €,1.99 €
 11,zae avenue de la preuilhe,BRAM,11150,,,2.00 €,2.00 €
 11,AVENUE DES CORBIERES,LéZIGNAN-CORBIèRES,11200,1.79 €,,1.89 €,1.89 €
 11,Route de Coursan,Salles-d'Aude,11110,1.99 €,0.88 €,2.00 €,1.96 €
-11,Avenue d'Espagne,NARBONNE,11100,1.91 €,,2.02 €,1.98 €
+11,Avenue d'Espagne,NARBONNE,11100,1.88 €,,2.00 €,1.96 €
 11,RN 113,TRèBES,11800,1.90 €,0.75 €,2.00 €,1.93 €
 11,Avenue du Souvenir Français,CARCASSONNE,11000,,,,
 11,1033 Avenue Martin dauch,CASTELNAUDARY,11400,,,,2.07 €
 11,Boulevard du Minervois,Trèbes,11800,1.78 €,0.85 €,1.88 €,1.90 €
-11,route départementale 6009,La Palme,11480,1.98 €,0.90 €,2.08 €,2.05 €
+11,route départementale 6009,La Palme,11480,1.98 €,0.86 €,2.08 €,2.05 €
 11,Avenue Ernest Ferroul,Peyriac-Minervois,11160,,,1.97 €,1.95 €
 11,Lieu dit La Viala,VILLEMOUSTAUSSOU,11620,,0.99 €,2.09 €,2.04 €
 11,ZA DE MATEILLE,GRUISSAN,11430,1.79 €,0.85 €,1.93 €,1.91 €
-11,AVENUE DU 3ème RPIMA,Carcassonne,11000,1.91 €,,2.02 €,2.00 €
 11,8 Avenue du Président Franklin Roosevelt,CARCASSONNE,11000,,,,
 11,RD 620 Lieu dit la pièce,VILLEGLY,11600,2.00 €,,,2.04 €
 11,4 Avenue du Minervois,LA REDORTE,11700,1.94 €,0.88 €,1.97 €,1.95 €
@@ -39,27 +39,27 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 11,418 Route d'Ouveillan,Sallèles-d'Aude,11590,2.00 €,,2.10 €,2.03 €
 11,RN113,CAPENDU,11700,1.93 €,,1.99 €,2.02 €
 11,AIRE DE NARBONNE VINASSAN NORD - A9,SALLES D'AUDE,11110,1.95 €,1.00 €,2.06 €,2.01 €
-11,2 ZONE ARTISANALE LA GARRIGUE,Argeliers,11120,1.93 €,,2.00 €,1.97 €
+11,2 ZONE ARTISANALE LA GARRIGUE,Argeliers,11120,1.88 €,,2.00 €,1.95 €
 11,69 Allée d'Iéna,CARCASSONNE,11000,,0.99 €,2.10 €,2.05 €
 11,ld croix de l'ourmet  RN 113,VILLEPINTE,11150,,,2.07 €,2.00 €
 11,route de Leucate plage,LEUCATE,11370,1.86 €,,1.95 €,1.96 €
 11,ROUTE DE CARCASSONNE,Castelnaudary,11400,1.98 €,0.87 €,2.09 €,2.03 €
-11,AVENUE HUBERT MOULY,NARBONNE,11100,1.81 €,,1.94 €,1.90 €
+11,AVENUE HUBERT MOULY,NARBONNE,11100,1.79 €,,1.91 €,1.90 €
 11,1  impasse des Corbières,MOUTHOUMET,11330,,0.92 €,,2.23 €
 11,Aire de service de La Palme Ouest - Sens France Espagne,La Palme,11480,1.96 €,0.94 €,2.05 €,2.00 €
 11,ROUTE DEPARTEMENTALE 610,HOMPS,11200,,,,1.98 €
 11,Avenue de Narbonne,GRUISSAN,11430,,0.99 €,2.04 €,2.00 €
 11,ROUTE NATIONALE 9,ROQUEFORT-DES-CORBIèRES,11540,1.86 €,0.86 €,1.98 €,1.99 €
-11,STATION PIERRE LYS,Quillan,11500,2.01 €,,,2.03 €
+11,STATION PIERRE LYS,Quillan,11500,1.90 €,,,2.03 €
 11,Place de la Liberté,Quillan,11500,,1.08 €,,1.99 €
-11,Z.I. la Bouriette,CARCASSONNE,11000,1.97 €,,,2.01 €
+11,Z.I. la Bouriette,CARCASSONNE,11000,1.98 €,,,2.02 €
 11,82 AVENUE CARNOT,NARBONNE,11100,,,,2.10 €
-11,A61 Aire des Corbières Nord,Capendu,11700,2.06 €,1.00 €,2.16 €,2.08 €
+11,A61 Aire des Corbières Nord,Capendu,11700,2.04 €,1.00 €,2.14 €,2.06 €
 11,16  avenue Camille Bouché,Limoux,11300,,1.08 €,,2.19 €
 11,167 Avenue P Brossolette,Saint-Pierre-la-Mer,11560,,,2.29 €,2.32 €
 11,Route de Toulouse,Carcassonne,11000,1.92 €,,2.01 €,1.96 €
 11,A61 Aire d'Arzens Nord,ARZENS,11290,2.06 €,0.99 €,2.17 €,2.08 €
-11,60AVENUE DU GENERAL LECLERC,NARBONNE,11100,1.83 €,0.86 €,1.93 €,1.89 €
+11,60AVENUE DU GENERAL LECLERC,NARBONNE,11100,1.80 €,0.86 €,1.90 €,1.87 €
 11,69  avenue de Narbonne,SAINT-LAURENT-DE-LA-CABRERISSE,11220,,,2.05 €,2.06 €
 11,Lieu dit Le GOUTAL - Route d'ALAIRAC - D211,LAVALETTE,11290,1.98 €,,2.13 €,2.09 €
 11,59 avenue de Catalogne,LIMOUX,11300,,,2.01 €,1.97 €
@@ -68,19 +68,19 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 11,Cap de la Pla - RN113,NARBONNE,11100,,0.99 €,,1.94 €
 11,Aire des corbières SUD A61,Capendu,11700,2.02 €,1.00 €,2.12 €,2.05 €
 11,698 rue Bernard Marty lot las fountetos,Saissac,11310,,,1.98 €,1.97 €
-11, Avenue de Saint-Pons,Saint-Marcel-sur-Aude,11120,1.93 €,,2.00 €,1.97 €
-11,AUTOROUTE A9 - AIRE DE NARBONNE VINASSAN SUD,Salles-d'Aude,11110,1.92 €,0.87 €,2.03 €,1.96 €
+11, Avenue de Saint-Pons,Saint-Marcel-sur-Aude,11120,1.88 €,,2.00 €,1.95 €
+11,AUTOROUTE A9 - AIRE DE NARBONNE VINASSAN SUD,Salles-d'Aude,11110,1.89 €,0.87 €,2.00 €,1.94 €
 11,129 AVENUE MONSEIGNEUR DELANGLE,Castelnaudary,11400,1.89 €,,,1.95 €
-11,28 AVENUE DU LAURAGAIS,MONTREAL,11290,1.93 €,,2.04 €,2.00 €
+11,28 AVENUE DU LAURAGAIS,MONTREAL,11290,1.90 €,,2.00 €,1.99 €
 11,6 Avenue F.Mitterrand,QUILLAN,11500,2.07 €,,2.15 €,2.00 €
-11,ZI PONT ROUGE,CARCASSONNE,11000,1.91 €,0.86 €,2.00 €,1.95 €
+11,ZI PONT ROUGE,CARCASSONNE,11000,1.68 €,0.86 €,1.78 €,1.81 €
 11,AVENUE DE TOULOUSE,ALZONNE,11170,1.86 €,0.85 €,2.00 €,1.96 €
 11,RUE DE MARECHAL JUIN,Narbonne,11100,1.78 €,0.85 €,1.91 €,1.88 €
 11,RN 113 AVENUE MARECHAL GALLIENI,Lézignan-Corbières,11200,2.06 €,,2.17 €,2.12 €
 11,AIRE DE LAPALME EST,La Palme,11480,2.00 €,,2.08 €,2.08 €
 11,Lieu Dit La Condomine,AXAT,11140,1.95 €,,,2.01 €
 11,42 Boulevard Jean Jaurès,Carcassonne,11000,,1.16 €,2.13 €,2.11 €
-11,199 avenue de Bordeaux,NARBONNE,11100,1.83 €,,1.94 €,1.90 €
+11,199 avenue de Bordeaux,NARBONNE,11100,1.79 €,,1.89 €,1.90 €
 11,Rue Claude Chappe,Carcassonne,11000,1.85 €,,1.92 €,1.95 €
 11,Place du Portail,Sallèles-d'Aude,11590,,,2.12 €,2.03 €
 11,Rue de L'Estagnol,LéZIGNAN-CORBIèRES,11200,1.82 €,0.85 €,,1.90 €

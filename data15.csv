@@ -2,10 +2,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 15,route de murat  station-service BAR,Riom-es-Montagnes,15400,,,2.13 €,2.09 €
 15,AVENUE DU DOCTEUR MALLET,Chaudes-Aigues,15110,,,,
 15,Route de Riom Es Montagne,Murat,15300,,,,
-15,87 Avenue Charles de Gaulle,AURILLAC,15000,1.93 €,,2.04 €,1.98 €
+15,87 Avenue Charles de Gaulle,AURILLAC,15000,1.89 €,,2.00 €,1.96 €
 15,Rue de la République,Ydes,15210,1.93 €,0.82 €,2.04 €,1.96 €
 15,15 Grand'Rue,Thiézac,15800,,,,2.02 €
-15,ROUTE DE SANSAC,AURILLAC,15000,1.86 €,,1.97 €,1.91 €
+15,ROUTE DE SANSAC,AURILLAC,15000,1.82 €,,1.93 €,1.89 €
 15,29 Avenue des Estourocs,PLEAUX,15700,2.06 €,,2.17 €,2.14 €
 15,35 bis Avenue du 15 Septembre 1945,Le Rouget,15290,2.00 €,,2.10 €,1.99 €
 15,le bourg,Saint-Cernin,15310,,,2.19 €,2.07 €
@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 15,31 avenue de la republique,Saint-Flour,15100,1.94 €,,2.16 €,1.99 €
 15,1 route de brive,Saint-Paul-des-Landes,15250,,,2.12 €,2.04 €
 15,Route d'Aurillac,SAINT-FLOUR,15100,1.92 €,0.80 €,2.14 €,1.97 €
-15,Avenue de la Gare,Mauriac,15200,1.92 €,,2.03 €,1.96 €
+15,Avenue de la Gare,Mauriac,15200,1.82 €,,2.00 €,1.92 €
 15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,2.00 €
 15,Avenue du Docteur Louis Mallet,Chaudes-Aigues,15110,,,,2.07 €
 15,Avenue du Général de Gaulle,MASSIAC,15500,1.95 €,,,1.99 €
@@ -30,7 +30,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 15,LE BOURG,Ruynes-en-Margeride,15320,,,2.16 €,1.99 €
 15,Le Bourg,Ussel,15300,,,,2.09 €
 15,66 Rue de Firminy,AURILLAC,15000,1.87 €,0.88 €,2.12 €,1.92 €
-15,16 Avenue du 4 Septembre 1870,AURILLAC,15000,,,2.08 €,2.02 €
+15,16 Avenue du 4 Septembre 1870,AURILLAC,15000,,,2.05 €,2.00 €
 15,1 rue germain prat,LAFEUILLADE-EN-VéZIE,15130,2.11 €,,2.16 €,2.15 €
 15,Route d'Aurillac,Saint-Paul-des-Landes,15250,,,,
 15,Rue de la Jordanne,AURILLAC,15000,1.87 €,0.78 €,,1.92 €
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 15,ZAC de la Sablière,Aurillac,15000,1.85 €,0.77 €,1.96 €,1.91 €
 15,41 Avenue de la République,SAINT-FLOUR,15100,,,,
 15,AVENUE HECTOR PESCHAUD,Murat,15300,,,,2.10 €
-15,34 avenue de Verdun,Saint-Flour,15100,,,,2.02 €
+15,34 avenue de Verdun,Saint-Flour,15100,,,,2.00 €
 15,10  Avenue de la Fontlong,SAINT-FLOUR,15100,,0.99 €,,1.99 €
 15,120 Avenue du Général Leclerc,Aurillac,15000,1.87 €,,,1.92 €
 15,5 RUE DE VEZOU,PIERREFORT,15230,,,2.16 €,2.07 €

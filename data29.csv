@@ -1,44 +1,44 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29,Vern Deredec,DAOULAS,29460,1.93 €,,2.00 €,1.93 €
-29,Route de Bénodet,Quimper,29000,1.95 €,,2.04 €,1.95 €
-29,195 Boulevard de l'Europe,BREST,29200,1.82 €,0.88 €,1.97 €,1.90 €
+29,Route de Bénodet,Quimper,29000,1.93 €,,2.03 €,1.94 €
 29,LE ROUILLEN - La Salle Verte,Ergué-Gabéric,29500,,,1.96 €,1.96 €
 29,route de cadol,MELGVEN,29140,,,,
 29,142 Rue Général Paulet,Brest,29200,,,,
 29,KERNEVEZ,Le Folgoët,29260,,,,
 29, Rue Louis Pasteur,SCAER,29390,,,,
 29,DOUAR NEVEZ,Plouguerneau,29880,,,,
-29,Route de Concarneau,TRéGUNC,29910,1.97 €,,2.08 €,2.02 €
+29,Route de Concarneau,TRéGUNC,29910,1.92 €,,2.04 €,2.00 €
 29,CENTRE COMMERCIAL BRETAGNIA,MORLAIX,29600,1.90 €,,2.00 €,1.97 €
 29,ZONE DE QUIELLA,LE FAOU,29590,,,1.92 €,1.94 €
-29,57 ROUTE DE BREST,QUIMPER,29000,1.88 €,,1.96 €,1.89 €
+29,57 ROUTE DE BREST,QUIMPER,29000,1.85 €,,1.93 €,1.87 €
+29,195 Boulevard de l'Europe,BREST,29200,1.79 €,0.88 €,1.94 €,1.88 €
 29,KERGUENNEC,ROSCOFF,29680,2.05 €,,,2.02 €
-29,2 Avenue de Ty Bos,QUIMPER,29000,1.95 €,,2.06 €,1.97 €
-29,150 Route de Brest,Quimper,29000,1.88 €,,1.96 €,1.89 €
+29,2 Avenue de Ty Bos,QUIMPER,29000,1.94 €,,2.04 €,1.97 €
+29,150 Route de Brest,Quimper,29000,1.85 €,,1.93 €,1.87 €
 29,137 Avenue Maréchal Foch,Landivisiau,29400,1.91 €,,2.02 €,1.98 €
 29,1 rue du moulin,le guilvinec,29730,,,2.02 €,1.99 €
 29,16 Route de Quimper,FOUESNANT,29170,2.08 €,,2.19 €,2.08 €
 29,Rue de Lesconil,PLOBANNALEC-LESCONIL,29740,,,1.96 €,1.94 €
 29,Place Léon Cheminant,Saint-Renan,29290,1.96 €,0.90 €,2.04 €,2.04 €
-29,126 Boulevard de Plymouth,Brest,29200,1.83 €,,2.09 €,1.91 €
 29,rue du Pont de bois,Locmaria-Plouzané,29280,,,2.04 €,1.97 €
+29,126 Boulevard de Plymouth,Brest,29200,1.82 €,,2.09 €,1.90 €
 29,12 RUE LOUIS MEHU,PLOMEUR,29120,,,2.00 €,1.92 €
 29,9 ROUTE DE CHATEAULIN,Crozon,29160,1.96 €,,2.10 €,2.05 €
 29,Rue de Brest,PLOUDALMéZEAU,29830,2.10 €,,,2.10 €
-29,RN 165 - VOIE EXPRESS,Saint-Yvi,29140,1.88 €,,1.97 €,1.91 €
+29,RN 165 - VOIE EXPRESS,Saint-Yvi,29140,1.85 €,,1.94 €,1.89 €
 29,ZA du Pont Bleu,Sizun,29450,,,2.08 €,2.06 €
 29,AVENUE DU MARECHAL LECLERC,PLOUIGNEAU,29610,1.99 €,,,2.04 €
 29,Rue du Petit Train,PONT-L'ABBé,29120,2.01 €,,2.12 €,2.00 €
+29,Kerchapalain,PLOUESCAT,29430,1.85 €,,1.94 €,1.89 €
 29,Rue d'Armorique,Plouguerneau,29880,,,2.08 €,1.99 €
-29,Kerchapalain,PLOUESCAT,29430,1.85 €,,1.94 €,1.93 €
 29,RUE DES SARDINIERS,Camaret-sur-Mer,29570,,,2.04 €,1.90 €
 29,97 Rue Paul Masson,Brest,29200,1.90 €,0.85 €,1.99 €,1.96 €
 29,Boulevard des frères Lumière,LESNEVEN,29260,1.91 €,,2.08 €,2.02 €
-29,Rue Anne de Bretagne,GUIPAVAS,29490,1.86 €,0.90 €,,1.94 €
-29,Rue de Gouesnou,BREST,29200,1.89 €,,2.04 €,1.96 €
+29,Rue Anne de Bretagne,GUIPAVAS,29490,1.85 €,0.90 €,,1.93 €
+29,Rue de Gouesnou,BREST,29200,1.88 €,,2.02 €,1.94 €
 29,Rte de quimper pôle commercial Quai 29,FOUESNANT,29170,1.84 €,0.76 €,1.95 €,1.89 €
 29,Toubalan,Douarnenez,29100,,,2.00 €,1.91 €
-29,Clos Saint-Fiacre,Plourin-lès-Morlaix,29600,1.90 €,,,1.94 €
+29,Clos Saint-Fiacre,Plourin-lès-Morlaix,29600,1.83 €,,,1.91 €
 29,2 rue du Faouët,Tréméven,29300,,,2.16 €,2.03 €
 29,LE LOCH,PRIMELIN,29770,,,1.99 €,1.90 €
 29,kerivoas,AUDIERNE,29770,1.84 €,,1.90 €,1.90 €
@@ -48,8 +48,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29,RUE DES ECOLES,LANDUDEC,29710,,,1.95 €,1.94 €
 29,12 Rue de la République,ESQUIBIEN,29770,1.92 €,,2.03 €,1.98 €
 29,ROUTE DE BREST,Plabennec,29860,1.86 €,0.85 €,2.00 €,1.94 €
-29,Lieu-Dit Lannechuen,BRIEC,29510,1.88 €,0.85 €,1.96 €,1.89 €
-29,ROUTE DU VIEUX ST.MARC,BREST,29200,1.86 €,0.85 €,1.97 €,1.90 €
+29,Lieu-Dit Lannechuen,BRIEC,29510,1.85 €,0.85 €,1.93 €,1.89 €
+29,ROUTE DU VIEUX ST.MARC,BREST,29200,1.83 €,0.85 €,1.94 €,1.88 €
 29,KERUSCAT,PLOUDALMéZEAU,29830,1.85 €,0.80 €,2.00 €,1.92 €
 29, Rue de Trégunc,CONCARNEAU,29900,1.85 €,,1.97 €,1.93 €
 29,2 RUE DU PARC COZ,CARANTEC,29660,1.96 €,,,1.97 €
@@ -59,7 +59,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29,PLACE DE L'EVECHE,SAINT-POL-DE-LéON,29250,,0.74 €,1.99 €,1.94 €
 29,Route de St-Renan,GUILERS,29820,1.83 €,0.80 €,1.98 €,1.92 €
 29,19 Avenue 1ère Dfl,Brest,29200,1.83 €,,1.98 €,1.91 €
-29,57 Route de Quimper,LANDERNEAU,29800,1.94 €,,2.05 €,2.00 €
+29,57 Route de Quimper,LANDERNEAU,29800,1.91 €,,2.02 €,1.96 €
 29,Domaine de Penfoul Bihan,BENODET,29950,1.88 €,,1.98 €,1.93 €
 29,8 rue de la Gare,PLOMODIERN,29550,1.83 €,0.85 €,,1.91 €
 29,14 Rue Marcel Bouguen,PLABENNEC,29860,,,2.00 €,1.94 €
@@ -70,60 +70,60 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29,Maison blanche,CONCARNEAU,29900,1.84 €,,1.95 €,1.92 €
 29,1 rue Brizeux,PLOUHINEC,29780,,,2.01 €,1.96 €
 29,63 RUE DU GENERAL DE GAULLE,LANDIVISIAU,29400,,0.89 €,1.98 €,1.95 €
-29,RN 165 - ZAC Kervidanou 3,MELLAC,29300,1.82 €,,1.95 €,1.92 €
-29,Rue du Pont Aven,Quimperlé,29300,1.82 €,,1.95 €,1.92 €
+29,RN 165 - ZAC Kervidanou 3,MELLAC,29300,1.81 €,,1.94 €,1.90 €
+29,Rue du Pont Aven,Quimperlé,29300,1.81 €,,1.94 €,1.90 €
 29,2 rue Charles Le Goff,Carhaix-Plouguer,29270,1.84 €,0.85 €,,1.94 €
 29,Rue de Bel Air,Plouénan,29420,,,2.15 €,2.05 €
-29,18 rue Bout du Pont-Kernevel,ROSPORDEN,29140,1.93 €,,2.04 €,2.01 €
+29,18 rue Bout du Pont-Kernevel,ROSPORDEN,29140,1.90 €,,2.01 €,1.99 €
 29,Allée Verte,LANNILIS,29870,,,,
-29,11 RUE DE STANG BIHAN,QUIMPER,29000,,,1.96 €,1.89 €
+29,11 RUE DE STANG BIHAN,QUIMPER,29000,,,1.93 €,1.87 €
 29,place kerjean,CHâTEAULIN,29150,1.83 €,,1.92 €,1.91 €
 29,4 Route de Quimper,DAOULAS,29460,2.17 €,,,2.22 €
 29,Rte de Tal Ar Groas,Lanvéoc,29160,,,1.98 €,1.98 €
 29,Route de Quimper,Rosporden,29140,1.93 €,,2.02 €,1.94 €
 29,24 Route de Saint-Pol de Léon,CLEDER,29233,,,1.96 €,1.96 €
-29,Boulevard de la République,LANDIVISIAU,29400,1.90 €,0.85 €,1.98 €,1.95 €
+29,Boulevard de la République,LANDIVISIAU,29400,1.86 €,0.85 €,1.97 €,1.92 €
 29,RUE DU PONT DE BOIS,Saint-Renan,29290,,0.79 €,2.00 €,1.92 €
-29,45 RUE VICTOR HUGO RN 785,Pont-l'Abbé,29120,1.86 €,0.91 €,1.96 €,1.89 €
+29,45 RUE VICTOR HUGO RN 785,Pont-l'Abbé,29120,1.83 €,0.91 €,1.93 €,1.87 €
 29,Hent Kergoff,PLOMELIN,29700,,,2.01 €,2.04 €
 29,ZA DE QUILLIHUEC,ERGUE GABERIC,29500,,,2.24 €,2.16 €
-29,Route de Lanarvily,LE FOLGOëT,29260,1.83 €,,,1.94 €
-29,zac ty ar menez,PLOUGASTEL-DAOULAS,29470,1.83 €,0.80 €,1.90 €,1.92 €
+29,Route de Lanarvily,LE FOLGOëT,29260,1.83 €,,,1.90 €
+29,zac ty ar menez,PLOUGASTEL-DAOULAS,29470,1.82 €,0.80 €,1.90 €,1.88 €
 29,RUE DES MYOSOTIS,Plouzané,29280,,0.80 €,2.00 €,1.92 €
-29,ROUTE DE ROSCOFF CD.19,Saint-Martin-des-Champs,29600,1.95 €,,,2.01 €
-29,42 BOULEVARD DE L'EUROPE,BREST,29200,1.82 €,,1.97 €,1.90 €
-29,Lieu-dit Kerfily,Plozévet,29710,,,1.97 €,1.95 €
+29,ROUTE DE ROSCOFF CD.19,Saint-Martin-des-Champs,29600,1.92 €,,,1.99 €
+29,42 BOULEVARD DE L'EUROPE,BREST,29200,1.79 €,,1.94 €,1.88 €
+29,Lieu-dit Kerfily,Plozévet,29710,,,1.94 €,1.94 €
 29,LE LANNOU,Combrit,29120,1.87 €,0.77 €,1.97 €,1.93 €
-29,52 AVENUE DE LA LIBERATION,QUIMPER,29000,1.95 €,,2.06 €,2.01 €
+29,52 AVENUE DE LA LIBERATION,QUIMPER,29000,1.92 €,,2.03 €,1.99 €
 29,zone du DREVERS,Douarnenez,29100,1.92 €,,2.01 €,1.93 €
 29,Z.A. de Croas-ar-Nézic,SAINT-THONAN,29800,1.83 €,,,1.90 €
 29,14 rue de la Gare,Riec-sur-Belon,29340,,,2.17 €,2.07 €
 29,Rue Émile Bernard,Pont-Aven,29930,,,2.20 €,2.00 €
 29,Route du Leck,Landerneau,29800,1.82 €,,1.98 €,1.90 €
 29,Mescanton,Plouzévédé,29440,,,1.98 €,1.95 €
-29,BLD FLANDRE DUNKERQUE,QUIMPER,29000,1.86 €,,1.96 €,1.89 €
-29,1 place du fournil,Plouguerneau,29880,1.90 €,0.88 €,1.95 €,1.94 €
+29,BLD FLANDRE DUNKERQUE,QUIMPER,29000,1.83 €,,1.93 €,1.87 €
+29,1 place du fournil,Plouguerneau,29880,1.83 €,0.88 €,1.93 €,1.91 €
 29,25 RUE DE BREST,Gouesnou,29850,,,,2.15 €
-29,209 Rue de Trégunc,Concarneau,29900,1.96 €,,2.07 €,2.00 €
+29,209 Rue de Trégunc,Concarneau,29900,1.91 €,,2.02 €,1.98 €
 29,ZA LA JUSTICE,PLEYBER-CHRIST,29410,,,2.04 €,1.93 €
-29,4 RUE ETIENNE KERNOURS,DOUARNENEZ,29100,1.90 €,0.87 €,1.99 €,1.91 €
+29,4 RUE ETIENNE KERNOURS,DOUARNENEZ,29100,1.87 €,0.87 €,1.96 €,1.89 €
 29, Avenue Charles de Gaulle,PLOUGASTEL-DAOULAS,29470,1.83 €,,1.99 €,1.90 €
 29,POULBRAOU ROUTE DE MORLAIX,Plougasnou,29630,,,,1.99 €
 29,RUE DE LORIENT RD 224,Clohars-Carnoët,29360,,,2.00 €,1.94 €
 29,Rue de Kergollot,PLOUGONVEN,29640,2.00 €,,,1.99 €
 29,1 route de quimperle,Riec-sur-Belon,29340,1.82 €,,,1.92 €
-29,119 Rue du Couëdic,QUIMPERLE,29300,1.82 €,0.88 €,,1.92 €
+29,119 Rue du Couëdic,QUIMPERLE,29300,1.81 €,0.88 €,,1.90 €
 29,Ar Roudour,Guerlesquin,29650,,,1.93 €,1.94 €
 29,256 Route de Rosporden,QUIMPER,29000,,,,
 29,10 RUE DE LA LIBERTE,Pont-Croix,29790,,,1.90 €,1.90 €
 29,18 RUE D'YS,Cast,29150,,,,2.03 €
 29,RUE DU STADE,PLOUGONVELIN,29217,1.84 €,0.85 €,2.00 €,1.92 €
 29,ZAC DE CASTEL NEVEZ,PLOUZANE,29280,1.89 €,,,1.93 €
-29,ZA La Boissière,MORLAIX,29600,1.85 €,0.74 €,1.95 €,1.93 €
+29,ZA La Boissière,MORLAIX,29600,1.83 €,0.74 €,1.94 €,1.91 €
 29,118 Route de Quimper,BREST,29200,,,2.02 €,1.92 €
 29,Rue de la Presqu'Île,Plogonnec,29180,,,1.93 €,1.93 €
-29,BOULEVARD DE L'EUROPE,BREST,29200,1.82 €,0.88 €,1.97 €,1.90 €
-29,rue de brest,SAINT-POL-DE-LéON,29250,1.85 €,,1.94 €,1.89 €
+29,BOULEVARD DE L'EUROPE,BREST,29200,1.79 €,0.88 €,1.94 €,1.88 €
+29,rue de brest,SAINT-POL-DE-LéON,29250,1.81 €,,1.94 €,1.89 €
 29,PLACE DU CHAMP DE FOIRE,CARHAIX-PLOUGUER,29270,2.06 €,,,2.10 €
 29,Grand Rue,CHâTEAULIN,29150,1.83 €,,1.92 €,1.91 €
 29,3 Rue des Ajoncs d'Or,Plouvorn,29420,,,2.06 €,1.99 €
@@ -133,15 +133,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 29, Rue de Callac,CARHAIX-PLOUGUER,29270,1.84 €,,2.00 €,1.94 €
 29,26 rue Henri Lautrédou,PLONéOUR-LANVERN,29720,1.95 €,,2.14 €,2.02 €
 29,Rue de Pouldreuzic,PLUGUFFAN,29700,1.88 €,,1.96 €,1.92 €
-29,Penandreff,CROZON,29160,1.85 €,0.78 €,,1.90 €
-29,14 rue Alsace-Lorraine,Lannilis,29870,1.94 €,,2.05 €,2.00 €
+29,Penandreff,CROZON,29160,1.84 €,0.78 €,,1.90 €
+29,14 rue Alsace-Lorraine,Lannilis,29870,1.91 €,,2.02 €,1.98 €
 29,Trolimon,PONT-L'ABBé,29120,1.86 €,0.76 €,1.96 €,1.92 €
-29,TAL AR GROAS,CROZON,29160,1.85 €,0.78 €,,1.90 €
 29,ZA de Kerganet,Plonéour-Lanvern,29720,1.86 €,0.76 €,1.96 €,1.92 €
+29,TAL AR GROAS,CROZON,29160,1.84 €,0.78 €,,1.90 €
 29,Rue du Poher,QUIMPER,29000,1.86 €,,1.96 €,1.89 €
 29,Route de Morlaix,CHâTEAUNEUF-DU-FAOU,29520,1.90 €,,2.00 €,1.97 €
-29,Prat al lann,Plouigneau,29610,1.96 €,,2.07 €,2.01 €
-29,LIEU DIT MANER KER ELO,FOUESNANT,29170,,,2.18 €,2.00 €
+29,Prat al lann,Plouigneau,29610,1.91 €,,2.02 €,1.99 €
+29,LIEU DIT MANER KER ELO,FOUESNANT,29170,,,2.10 €,2.00 €
 29,Rue Paul Gauguin,HUELGOAT,29690,1.84 €,,,1.92 €
 29,Rue Eugène Lorec,BANNALEC,29380,1.88 €,,2.00 €,1.94 €
 29,Rue du Général de Gaulle,Loctudy,29750,,,2.02 €,1.94 €

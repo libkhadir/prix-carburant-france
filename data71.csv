@@ -5,23 +5,23 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,710 Route de Cluny,CHARNAY-LèS-MâCON,71850,1.96 €,,2.08 €,2.06 €
 71,Allée de la Balme,SAINT-GERMAIN-DU-BOIS,71330,1.86 €,,1.95 €,1.97 €
 71,26 Place Roger Salengro,SAINT-VALLIER,71230,2.07 €,,,2.13 €
-71,Rue du Pranet,Ouroux-sur-Saône,71370,,,1.89 €,1.93 €
+71,Rue du Pranet,Ouroux-sur-Saône,71370,,,1.84 €,1.88 €
 71,Carrefour de l'Europe,Mâcon,71000,,,,
 71,37 AV NICEPHORE NIEPCE,Chalon-sur-Saône,71100,1.93 €,,2.06 €,2.01 €
 71,22 Avenue Monnot,Chalon-sur-Saône,71100,1.94 €,,2.04 €,2.00 €
-71,52 RTE DE LYON,Saint-Remy,71100,1.93 €,,2.04 €,2.03 €
+71,52 RTE DE LYON,Saint-Remy,71100,1.89 €,,2.00 €,2.01 €
 71,75 ROUTE DE MONTCENIS,LE CREUSOT,71200,1.95 €,,2.05 €,2.00 €
 71,Route de Tournus,Cuisery,71290,1.93 €,,,1.94 €
 71,ZI de la Saule,SAINT-VALLIER,71230,1.83 €,,1.96 €,1.95 €
-71,15  AVENUE DE LA REPUBLIQUE,AUTUN,71400,1.85 €,0.88 €,1.95 €,1.91 €
-71,AVENUE DU 2 EME DRAGON RD 978,AUTUN,71400,1.85 €,,,1.91 €
+71,15  AVENUE DE LA REPUBLIQUE,AUTUN,71400,1.81 €,0.88 €,1.91 €,1.89 €
+71,AVENUE DU 2 EME DRAGON RD 978,AUTUN,71400,1.81 €,,,1.89 €
 71,47 Rue du Guidon,Louhans,71500,,,,
 71,ZA RD 69,Givry,71640,1.90 €,,,1.96 €
-71,RN 79,Sainte-Cécile,71250,1.93 €,,2.04 €,2.03 €
+71,RN 79,Sainte-Cécile,71250,1.89 €,,2.00 €,2.01 €
 71,55 Rue du Château,Sennecé-lès-Mâcon,71000,1.95 €,,2.07 €,1.96 €
-71,3-5 RUE NICEPHORE NIEPCE,AUTUN,71400,1.87 €,0.80 €,1.98 €,1.92 €
 71,1  AVENUE VAN DE WALLE,Chauffailles,71170,,,1.98 €,1.98 €
-71,AUTOROUTE A6 - AIRE DE MACON LA SALLE,Saint-Albain,71260,1.90 €,0.87 €,2.01 €,2.00 €
+71,3-5 RUE NICEPHORE NIEPCE,AUTUN,71400,1.83 €,0.80 €,1.98 €,1.91 €
+71,AUTOROUTE A6 - AIRE DE MACON LA SALLE,Saint-Albain,71260,1.87 €,0.87 €,1.98 €,1.98 €
 71,22 avenue du Clos Mouron,TOURNUS,71700,1.84 €,,1.94 €,1.89 €
 71,ROUTE DE LA MADELEINE,SAINT-MARTIN-EN-BRESSE,71620,,,2.15 €,2.17 €
 71,Aire de Mâcon St Albain - A6,SAINT-ALBAIN,71260,1.41 €,,1.52 €,1.36 €
@@ -35,7 +35,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,14 Quai du Commerce,Paray-le-Monial,71600,,,,1.99 €
 71,Route de Dommartin,CUISEAUX,71480,2.04 €,,2.09 €,2.02 €
 71,Route Nationale 6,Mâcon,71000,1.95 €,,2.07 €,2.08 €
-71,RN 80 ROND POINT J. ROSE,MONTCHANIN,71210,1.85 €,0.87 €,1.97 €,1.95 €
+71,RN 80 ROND POINT J. ROSE,MONTCHANIN,71210,1.81 €,0.87 €,1.93 €,1.93 €
 71,AVENUE DU MARECHAL LECLERC,Montceau-les-Mines,71300,1.93 €,0.81 €,,1.99 €
 71, Rue de la Chapelle,CHARNAY-LèS-MâCON,71850,1.84 €,,,2.00 €
 71,RN6,LUX,71100,2.15 €,0.90 €,2.20 €,2.09 €
@@ -51,9 +51,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,22 route de Luzy,Issy-l'Évêque,71760,,1.04 €,2.21 €,2.28 €
 71,Route de Charlieu,Chauffailles,71170,1.90 €,,1.98 €,1.94 €
 71,7 Route de Sornay,LOUHANS,71500,1.90 €,,2.01 €,2.00 €
-71,RTE EXPRESSE RN 70,Montceau-les-Mines,71300,1.93 €,,2.04 €,2.03 €
+71,RTE EXPRESSE RN 70,Montceau-les-Mines,71300,1.89 €,,2.00 €,2.01 €
 71,Route de Fretterans,PIERRE-DE-BRESSE,71270,,,,1.98 €
-71,RN 6 - AVENUE DU CLOS MOURON,TOURNUS,71700,1.84 €,,1.95 €,1.91 €
+71,RN 6 - AVENUE DU CLOS MOURON,TOURNUS,71700,1.80 €,,1.91 €,1.89 €
 71,Rue du Curtil Canot,SAINT-MARCEL,71380,,,2.02 €,2.00 €
 71,LIEU DIT CHASSAGNE,Saint-Martin-belle-Roche,71118,1.79 €,,1.88 €,1.92 €
 71,le mont,Vitry-en-Charollais,71600,1.85 €,0.85 €,1.99 €,1.94 €
@@ -63,12 +63,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,47 Avenue Claude et Émile Puzenat,Bourbon-Lancy,71140,1.87 €,,,2.01 €
 71,Route de Toulojn sur Arroux,Gueugnon,71130,1.90 €,,1.97 €,1.95 €
 71,Route de Lons-le-Saunier,PIERRE-DE-BRESSE,71270,,,2.12 €,2.00 €
-71,LIEU DIT LE ROMPAY,VITRY EN CHAROLLAIS,71600,,,,2.17 €
+71,LIEU DIT LE ROMPAY,VITRY EN CHAROLLAIS,71600,,,,2.16 €
 71,180 Rue Louise Michel,Mâcon,71000,1.77 €,,1.85 €,1.90 €
-71,70 rue des lieutenants chauveau,Chalon-sur-Saône,71100,1.79 €,,1.89 €,1.97 €
+71,70 rue des lieutenants chauveau,Chalon-sur-Saône,71100,1.75 €,,1.82 €,1.88 €
 71,GRANDE RUE,Germagny,71460,,,,2.14 €
 71,Espace commercial Les deux roches ZA du Pré de Lit,PRISSé,71960,1.80 €,0.87 €,1.95 €,1.94 €
-71,RN6,Crêches-sur-Saône,71680,1.87 €,0.87 €,2.14 €,2.03 €
+71,RN6,Crêches-sur-Saône,71680,1.83 €,0.87 €,2.01 €,2.03 €
 71,AUTOROUTE A6,Saint-Albain,71260,2.00 €,,2.12 €,2.06 €
 71,99 RUE DU GUIDON,Louhans,71500,2.10 €,,2.13 €,2.03 €
 71,2 route,Clux villeneuve,71270,2.05 €,1.46 €,2.03 €,2.00 €
@@ -79,16 +79,16 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,540 route des CHARMETTES,Varennes-Saint-Sauveur,71480,,,2.13 €,2.03 €
 71,RUE DE LA GARE,SAINT-LéGER-SUR-DHEUNE,71510,,,2.20 €,2.04 €
 71,Avenue du 8 Juin 1944,CHAROLLES,71120,1.80 €,0.85 €,1.88 €,1.93 €
-71,le pré des grandes terres,LA CHAPELLE-DE-GUINCHAY,71570,,,2.06 €,2.04 €
-71,AVENUE DE LA RESISTANCE,TOURNUS,71700,1.92 €,,,1.95 €
+71,le pré des grandes terres,LA CHAPELLE-DE-GUINCHAY,71570,,,2.03 €,2.00 €
+71,AVENUE DE LA RESISTANCE,TOURNUS,71700,1.78 €,,,1.90 €
 71,RUE DES COMMUNAUTES,BLANZY,71450,,,2.20 €,2.10 €
 71,Centre commercial CARREFOUR des Bouchardes,CRêCHES-SUR-SAôNE,71680,1.73 €,0.87 €,1.82 €,1.87 €
 71,centre commercial de l arche,Le Creusot,71200,,,1.96 €,1.95 €
 71,Parc d'activités de Champ Bossu,PARAY-LE-MONIAL,71600,1.85 €,,1.99 €,1.94 €
-71,ROUTE NATIONALE 79,MAZILLE,71250,1.93 €,0.90 €,2.04 €,2.03 €
-71,7 Rue Thomas Dumorey,Chalon-sur-Saône,71100,1.79 €,0.85 €,1.89 €,1.92 €
+71,ROUTE NATIONALE 79,MAZILLE,71250,1.89 €,0.90 €,2.00 €,2.01 €
+71,7 Rue Thomas Dumorey,Chalon-sur-Saône,71100,1.75 €,0.85 €,1.84 €,1.88 €
 71,ROUTE DE GUEUGNON,TOULON-SUR-ARROUX,71320,,,2.18 €,2.05 €
-71,Route de Martigny,GENELARD,71420,,,2.02 €,2.00 €
+71,Route de Martigny,GENELARD,71420,,,2.00 €,1.98 €
 71,ZA DU CHEMIN FERRE,SENNECEY-LE-GRAND,71240,,,2.01 €,1.97 €
 71,Au Village de la Croix Bouthier,VARENNES-SOUS-DUN,71800,1.80 €,,1.88 €,1.93 €
 71,19-21 route de Chassagne  RN6,Chagny,71150,1.90 €,,2.00 €,1.99 €
@@ -97,14 +97,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,Les nièvres,LUGNY,71260,,,,2.09 €
 71,Rue de la Faïencerie,DIGOIN,71160,1.87 €,,1.97 €,1.92 €
 71,Route de Château-Chinon,Autun,71400,1.83 €,,1.93 €,1.91 €
-71,97 ROUTE DE LYON RN 6,MACON,71000,1.82 €,0.87 €,1.95 €,1.90 €
-71,LIEU DIT LA CONDEMAINE,SAINT DESERT,71390,1.83 €,0.85 €,1.90 €,1.96 €
-71,31 RUE DU 8 MAI 1945,Gueugnon,71130,,,,2.03 €
-71,BOULEVARD DE LATTRE DE TASSIGNY,MONTCEAU-LES-MINES,71300,1.98 €,,2.08 €,2.04 €
-71,RUE RAYMOND ARNAL,Chalon-sur-Saône,71100,1.84 €,0.87 €,1.95 €,1.92 €
-71,Lieu-dit Les Renauds,SAINT-BONNET-DE-JOUX,71220,,0.80 €,,1.97 €
-71,ROUTE DE DIGOIN,GUEUGNON,71130,,,2.00 €,1.98 €
+71,97 ROUTE DE LYON RN 6,MACON,71000,1.79 €,0.87 €,1.91 €,1.88 €
+71,LIEU DIT LA CONDEMAINE,SAINT DESERT,71390,1.78 €,0.85 €,1.87 €,1.90 €
+71,31 RUE DU 8 MAI 1945,Gueugnon,71130,,,,2.01 €
+71,BOULEVARD DE LATTRE DE TASSIGNY,MONTCEAU-LES-MINES,71300,1.99 €,,2.08 €,2.05 €
+71,RUE RAYMOND ARNAL,Chalon-sur-Saône,71100,1.81 €,0.87 €,1.91 €,1.90 €
+71,Lieu-dit Les Renauds,SAINT-BONNET-DE-JOUX,71220,,0.80 €,,1.94 €
 71,ZAC CHAMP CHASSY RTE DE DOLE,CHâTENOY-EN-BRESSE,71380,1.92 €,0.85 €,2.02 €,1.94 €
+71,ROUTE DE DIGOIN,GUEUGNON,71130,,,1.97 €,1.93 €
 71,Rue du 19 Mars 1962,EPINAC,71360,1.94 €,,,1.95 €
 71,4413 Route du Morvan,Saint-Symphorien-de-Marmagne,71710,,,,2.10 €
 71,venière,Boyer,71700,,,,1.49 €
@@ -113,7 +113,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,6 route de Digoin,Bourbon-Lancy,71140,,,1.97 €,1.96 €
 71,715 ROUTE NATIONALE 6,VARENNES LES MACON,71000,1.97 €,,2.08 €,2.04 €
 71,Route de Chalon,SAINT-GENGOUX-LE-NATIONAL,71460,,,2.11 €,1.99 €
-71,62 RTE DE MACON,CHAROLLES,71120,,,,2.06 €
+71,62 RTE DE MACON,CHAROLLES,71120,,,,2.04 €
 71,Avenue Francis Pautonnier,Perrecy-les-Forges,71420,1.90 €,0.81 €,,1.99 €
 71,Rue de Wissen,CHAGNY,71150,1.90 €,,1.99 €,1.98 €
 71,AV DE CHAMBREUIL,LE BREUIL,71670,1.79 €,,1.96 €,1.93 €
@@ -121,26 +121,26 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 71,60 Grande Rue de la Coupée,Charnay-lès-Mâcon,71850,,,2.03 €,2.00 €
 71,47 rue Gabriel Bouthiere,Étang-sur-Arroux,71190,,,2.08 €,2.04 €
 71,LE CHAMP FLEURY,BUXY,71390,,,2.10 €,2.07 €
-71,Route de Saint-Ambreuil,Saint-Ambreuil,71240,1.98 €,,2.10 €,2.09 €
-71,route des forges,LA CLAYETTE,71800,,,2.06 €,2.00 €
+71,Route de Saint-Ambreuil,Saint-Ambreuil,71240,1.95 €,,2.07 €,2.07 €
+71,route des forges,LA CLAYETTE,71800,,,2.04 €,2.00 €
 71,Lieu-Dit Beauregard,GOURDON,71300,1.83 €,,,1.95 €
-71,AVENUE EDOUARD HERRIOT,MACON,71000,1.86 €,0.87 €,1.98 €,1.92 €
+71,AVENUE EDOUARD HERRIOT,MACON,71000,1.80 €,0.87 €,1.92 €,1.89 €
 71,2 Route de Beaune,AUTUN,71400,,0.90 €,2.20 €,2.09 €
 71,ROUTE DE MOULINS,BOURBON-LANCY,71140,,,2.17 €,2.03 €
 71,ZAC DU MAUPAS AVENUE GENERAL DE GAULLE,CHATENOY LE ROYAL,71880,,,1.89 €,1.97 €
 71,Le Bourg,IGORNAY,71540,1.99 €,,2.19 €,2.14 €
 71,Rue de Saône,Tournus,71700,1.78 €,0.75 €,1.85 €,1.92 €
-71,92 Rue des Bordes,LOUHANS,71500,1.81 €,,1.91 €,1.92 €
-71,ZONE ARTISANALE,MARCIGNY,71110,,,2.06 €,2.00 €
-71,Route de Beaufort,LOUHANS,71500,,,2.00 €,1.96 €
+71,92 Rue des Bordes,LOUHANS,71500,1.77 €,,1.87 €,1.89 €
+71,ZONE ARTISANALE,MARCIGNY,71110,,,2.04 €,2.00 €
 71,Autoroute A6,Saint-Ambreuil,71240,1.90 €,,1.96 €,1.99 €
-71,27 rue charles dumoulin,LUX,71100,1.79 €,,1.96 €,1.97 €
+71,Route de Beaufort,LOUHANS,71500,,,2.00 €,1.96 €
+71,27 rue charles dumoulin,LUX,71100,1.77 €,,1.86 €,1.94 €
 71,Avenue des Mouettes,MONTCHANIN,71210,1.93 €,,2.03 €,1.98 €
-71,Avenue du 8 Mai 1945,TORCY,71210,1.83 €,,2.01 €,1.98 €
+71,Avenue du 8 Mai 1945,TORCY,71210,1.84 €,,2.02 €,1.99 €
 71,A39 AIRE DU POULET DE BRESSE,Dommartin-lès-Cuiseaux,71480,2.12 €,1.10 €,2.20 €,2.14 €
+71,route de marcigny,Saint-Yan,71600,1.90 €,,2.01 €,2.01 €
 71,CC LIGERVAL-ZAC DES CHARMES-AVENUE DE L' EUROPE,DIGOIN,71160,1.85 €,0.85 €,1.87 €,1.93 €
 71,rue de la grande bruyère,Paray-le-Monial,71600,1.85 €,,1.94 €,1.94 €
-71,route de marcigny,Saint-Yan,71600,1.93 €,,2.04 €,2.03 €
 71,RN 6,MâCON,71000,1.79 €,,2.00 €,1.93 €
-71,RD 906,Fleurville,71260,1.84 €,0.86 €,1.95 €,1.91 €
+71,RD 906,Fleurville,71260,1.80 €,0.86 €,1.91 €,1.89 €
 71,19 Avenue des Platanes,DIGOIN,71160,1.90 €,,2.01 €,2.01 €

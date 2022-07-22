@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 32,AVENUE DANIATE,NOGARO,32110,2.05 €,0.95 €,2.16 €,1.99 €
-32,8 rue du Pin,Plaisance,32160,1.89 €,,1.99 €,1.96 €
+32,8 rue du Pin,Plaisance,32160,1.89 €,,1.99 €,1.93 €
 32,Avenue de Cahuzac,Gimont,32200,,,,2.10 €
 32,RTE D'AUCH,Dému,32190,1.93 €,,2.04 €,2.01 €
 32,Las Arribères RN21,Preignan,32810,,,,2.10 €
@@ -9,10 +9,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 32,Avenue Jean Mermoz,MIRANDE,32300,,1.05 €,,2.07 €
 32,RUE MARGUERITE DURAS,AUCH,32000,2.00 €,0.85 €,2.15 €,1.99 €
 32,Avenue Jean Philip,MAUVEZIN,32120,,,,2.05 €
-32,23 AV. DU GENERAL DE GAULLE,FLEURANCE,32500,1.96 €,,2.07 €,2.00 €
+32,23 AV. DU GENERAL DE GAULLE,FLEURANCE,32500,1.93 €,,2.04 €,1.98 €
 32,U EXPRESS,MARCIAC,32230,1.91 €,,1.98 €,1.99 €
 32,Avenue Ernest Aimé Touyarou,Eauze,32800,1.94 €,0.81 €,2.00 €,1.92 €
-32,ROCADE SUD,VIC-FEZENSAC,32190,,,2.06 €,2.00 €
+32,ROCADE SUD,VIC-FEZENSAC,32190,,,2.02 €,1.97 €
 32,ALLEE JEAN CAHUZAC,SAMATAN,32130,,,2.00 €,1.98 €
 32,1 Avenue du Corps Franc Pommiès,Fleurance,32500,,,,2.12 €
 32,3 rue Jean Moulin,L'Isle-Jourdain,32600,1.83 €,,2.00 €,1.93 €
@@ -30,18 +30,18 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE
 32,lieu dit hontaut,Condom,32100,1.86 €,,2.05 €,2.00 €
 32,203 Rue Victor Hugo,AUCH,32000,1.98 €,,2.04 €,1.99 €
 32,Place du Foirail,MIRADOUX,32340,,,2.14 €,1.99 €
-32,Avenue Maquis Meilhan,Lombez,32220,1.90 €,,2.02 €,1.96 €
+32,Avenue Maquis Meilhan,Lombez,32220,1.90 €,,2.00 €,1.94 €
 32,17 Avenue de la Marne,AUCH,32000,,,2.15 €,2.00 €
 32,Boulevard des Pyrénées,MIRANDE,32300,1.95 €,,2.08 €,2.00 €
 32,RUE DU VISCONTE,Seissan,32260,2.00 €,,,1.99 €
 32,Route d'Auch,MAUVEZIN,32120,1.86 €,1.00 €,1.99 €,1.97 €
 32,A CLARAC,AUCH,32000,2.00 €,0.81 €,2.15 €,1.99 €
-32,rue Bonnemaison,Condom,32100,1.84 €,,,1.93 €
+32,rue Bonnemaison,Condom,32100,1.83 €,,,1.90 €
 32,Route deTarbes,PAVIE,32550,,,,2.01 €
 32,ROUTE D'ESTANG,Toujouse,32240,,,2.14 €,1.99 €
 32,450 ROUTE D'AQUITAINE,Riscle,32400,,,,2.05 €
-32,Route de Fleurance,LECTOURE,32700,,,2.17 €,2.12 €
-32,Route de Lectoure,FLEURANCE,32500,1.90 €,0.88 €,2.05 €,1.99 €
+32,Route de Fleurance,LECTOURE,32700,,,2.14 €,2.09 €
+32,Route de Lectoure,FLEURANCE,32500,1.90 €,0.86 €,2.00 €,1.96 €
 32,MARAMBAT,VIC-FEZENSAC,32190,2.00 €,,2.08 €,1.98 €
 32,Boulevard du Nord,GIMONT,32200,1.89 €,1.00 €,2.06 €,2.00 €
 32,ROUTE DE TARBES,Auch,32000,2.00 €,,2.15 €,1.99 €
