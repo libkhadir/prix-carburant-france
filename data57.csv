@@ -12,7 +12,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 57,192 Avenue de Strasbourg,Metz,57070,1.87 €,0.87 €,2.04 €,1.93 €,4910600,620900
 57,ROND POINT MERLIN,THIONVILLE,57100,1.96 €,,2.07 €,2.02 €,4935207.54629,616012.471512
 57,28 Route de Metz,AMANVILLERS,57865,,,,,4916784,605043
-57,3 Rue du Barrois,Creutzwald,57150,1.81 €,,2.01 €,1.97 €,4920200,670800
+57,3 Rue du Barrois,Creutzwald,57150,1.81 €,,2.01 €,1.95 €,4920200,670800
 57,RUE DU BOIS LE PRETRE,Ars-sur-Moselle,57130,1.87 €,,1.98 €,1.94 €,4907300,607400
 57,1 Rue Costes et Bellonte,Marly,57155,1.87 €,,2.08 €,1.93 €,4908700,615100
 57,29 RUE DE METZ,Château-Salins,57170,1.94 €,,2.02 €,2.01 €,4882400,650700
@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 57,20 -22 Rue de Metz,HAGONDANGE,57300,,,,,4925391,617003
 57,16 Route Sarrebruck,Montoy-Flanville,57645,,,,2.00 €,4911688,627859
 57,15 Avenue de France,Sarrebourg,57400,1.97 €,,2.05 €,2.00 €,4873500,704600
-57,1 RUE DE SARREBOURG,Phalsbourg,57370,1.86 €,,1.94 €,1.91 €,4876800,724800
+57,1 RUE DE SARREBOURG,Phalsbourg,57370,1.84 €,,1.92 €,1.88 €,4876800,724800
 57,75 A RUE DE BITCHE,MONTBRONN,57415,,,,,4899780.23519,732991.755217
 57,55 B Rue de Carling,L'Hôpital,57490,,,,,4916091,672453
 57,37  GRAND RUE,FARéBERSVILLER,57450,1.90 €,,2.00 €,1.96 €,4911800,687600
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 57,Parc Unicom,Basse-Ham,57970,1.86 €,0.85 €,1.99 €,1.96 €,4937500,622900
 57,AUTOROUTE A4 - AIRE DE LONGEVILLE SUD,Longeville-lès-Saint-Avold,57740,1.97 €,,2.07 €,2.03 €,4913264.61,666061.65
 57,de l'Arc Mosellan,Metzervisse,57940,2.02 €,,2.12 €,2.04 €,4931206,627669
-57,rue lavoisier,Morhange,57340,1.80 €,0.88 €,1.90 €,1.95 €,4893400,665200
+57,rue lavoisier,Morhange,57340,1.78 €,0.88 €,1.89 €,1.95 €,4893400,665200
 57,19 Route de Lunéville,SARREBOURG,57400,1.89 €,,2.00 €,1.95 €,4873200,704600
 57,41 ROUTE DE METZ,Jouy-aux-Arches,57130,1.96 €,,2.07 €,2.02 €,4907000,608600
 57,1 RUE DU FORT,VERNY,57420,,,2.04 €,2.00 €,4901200,620400
@@ -96,13 +96,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 57,35 Rue du Barrois,Creutzwald,57150,1.80 €,,1.91 €,1.94 €,4919543,670652
 57,Rue de Forbach,PUTTELANGE-AUX-LACS,57510,1.90 €,,,1.96 €,4905900,692100
 57,174 AVE DE STRASBOURG,METZ,57070,1.94 €,,2.05 €,2.01 €,4910800,620600
-57,Rue de Sarreguemines,OETING,57600,1.93 €,,2.05 €,1.96 €,4917700,692700
+57,Rue de Sarreguemines,OETING,57600,1.90 €,,2.00 €,1.94 €,4917700,692700
 57,AUTOROUTE A31,LA MAXE,57140,1.91 €,,2.00 €,1.99 €,4914700,618400
 57,8 Rue de Strasbourg,SARREBOURG,57400,,,2.20 €,2.06 €,4874200,707800
 57,20 Route d'Arlon - Linkling 3,THIONVILLE,57100,1.87 €,,1.92 €,1.94 €,4936300,611800
 57, Boulevard de la Tournaille,GUéNANGE,57310,1.98 €,,2.01 €,1.97 €,4929965,620930
 57,route de Metz,RéMILLY,57580,1.93 €,0.85 €,1.97 €,2.00 €,4901700,638400
-57,rue de Strasbourg Zac Louvois,Phalsbourg,57370,1.88 €,0.85 €,2.00 €,1.92 €,4877400,724400
+57,rue de Strasbourg Zac Louvois,Phalsbourg,57370,1.86 €,0.85 €,1.96 €,1.90 €,4877400,724400
 57,route de Phalsbourg,SARREBOURG,57400,1.96 €,,2.09 €,1.99 €,4873981,707009
 57,2 Rue de la Paix,BITCHE,57230,1.86 €,,1.96 €,1.96 €,4904800,742700
 57,Rue Poincarré,Sarreguemines,57200,1.86 €,0.85 €,1.90 €,1.98 €,4910655,707164

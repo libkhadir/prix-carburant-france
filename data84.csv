@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,4 impasse Louis Astic  Zone artisanale Les Meillères,Cadenet,84160,,0.89 €,2.01 €,1.95 €,4373600,537400
-84,Boulevard Naquet,Carpentras,84200,1.80 €,0.80 €,,1.93 €,4405145,504122
+84,Boulevard Naquet,Carpentras,84200,1.80 €,,,1.93 €,4405145,504122
 84,80 chemin de la Lègue,Carpentras,84200,1.80 €,0.80 €,1.90 €,1.93 €,4405500,505400
 84,417 bis avenue du Mont Ventoux,Carpentras,84200,,0.94 €,,2.14 €,4405700,505800
 84,778 Route d'Avignon,Châteauneuf-de-Gadagne,84470,1.98 €,,2.12 €,1.99 €,4392849,493805
@@ -24,8 +24,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,2875 Route de malaucene,Carpentras,84200,,0.90 €,2.00 €,1.98 €,4408000,506700
 84,Autoroute A7,Sorgues,84700,1.93 €,,2.01 €,1.99 €,4402300,489000
 84,ROUTE D'AVIGNON,Cavaillon,84300,1.90 €,,,2.01 €,4385600,501800
+84,28 Avenue des Taillades,CAVAILLON,84300,1.78 €,,1.88 €,1.89 €,4383650.87192,505044.595196
 84,2 Rond Point des Remparts,MALAUCENE,84340,,,1.97 €,1.99 €,4417600,512900
-84,28 Avenue des Taillades,CAVAILLON,84300,1.78 €,,1.88 €,1.90 €,4383650.87192,505044.595196
 84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.77 €,0.85 €,2.06 €,1.88 €,4400918,505110
 84,Route d'Orange,Valréas,84600,1.80 €,0.85 €,1.90 €,1.95 €,4437318,498125
 84,130 allée Roch Pape,CAVAILLON,84300,1.79 €,0.85 €,1.88 €,1.87 €,4382900,503500
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,250 route de pertuis,CAVAILLON,84300,,0.90 €,,1.90 €,4383519.894804,504422.03664398
 84,65 route de Gadagne,Caumont-sur-Durance,84510,1.80 €,,,1.92 €,4390600,494800
 84,RN 7 Gourd du Bidon,Mondragon,84430,2.00 €,,2.12 €,2.04 €,4423524.26,471123.04307052
-84,1050 Chemin du Castellas Route de Mazan,CARPENTRAS,84200,1.93 €,,2.00 €,1.93 €,4405991.5395231,507042.85376765
+84,1050 Chemin du Castellas Route de Mazan,CARPENTRAS,84200,1.85 €,,1.90 €,1.93 €,4405991.5395231,507042.85376765
 84,avenue Majoral Jouve,aubignan,84810,2.07 €,,,2.05 €,4409204.53,502966.13
 84,80 route de travaillan,ste cécile les vignes,84290,1.83 €,,1.86 €,1.94 €,4423200,488300
 84,Avenue Philippe de Girard,LAURIS,84360,,0.98 €,2.16 €,2.05 €,4374700,531200
@@ -83,7 +83,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,ROUTE DE CHATEAUNEUF DU PAPE,COURTHEZON,84350,1.90 €,,1.99 €,1.98 €,4407971.07,487885.74
 84,417 Avenue du Mont Ventoux,CARPENTRAS,84200,,,,,4405653,505803
 84,QUARTIER DE MOUGNE,Sault,84390,1.84 €,0.88 €,1.99 €,1.93 €,4410150,541452
-84,Avenue du Tourail,Maubec,84660,1.76 €,0.85 €,1.90 €,1.89 €,4386696,514881.99999999
+84,Avenue du Tourail,Maubec,84660,1.77 €,0.85 €,1.84 €,1.88 €,4386696,514881.99999999
 84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.78 €,,1.90 €,1.88 €,4392800,478900
 84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.83 €,,1.86 €,1.94 €,4415676,487061
 84, Route de Cavaillon,MAUBEC,84660,,,2.15 €,2.09 €,4386584,514004

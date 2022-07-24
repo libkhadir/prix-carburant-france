@@ -14,7 +14,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22, Rue Chanoine le Texier,MERDRIGNAC,22230,1.90 €,,1.93 €,1.88 €,4819538,-241743
 22,route de dol de bretagne,LANVALLAY,22100,2.06 €,,2.20 €,2.05 €,4846069.7292594,-201518.60910311
 22,ROUTE DE LANVOLLON,Paimpol,22500,1.83 €,,1.93 €,1.89 €,4877100,-304000
-22,Route de Perros Guirec,Lannion,22300,1.88 €,,2.00 €,1.99 €,4874768,-345904
+22,Route de Perros Guirec,Lannion,22300,1.88 €,,1.99 €,1.95 €,4874768,-345904
 22,Rue de l'Argentaie,Quessoy,22120,2.03 €,,2.16 €,2.02 €,4842200,-265600
 22,Route de Corlay,GUINGAMP,22200,1.85 €,,1.99 €,1.91 €,4855300,-314900
 22,RUE DE L'AVENIR,PLéHéDEL,22290,1.90 €,,2.01 €,1.99 €,4870500,-302200
@@ -27,9 +27,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22,22 Boulevard de la Marne,GUINGAMP,22200,1.97 €,,2.07 €,2.04 €,4855800,-314100
 22,72 RUE NOTRE DAME,LOUDEAC,22600,2.07 €,0.87 €,,2.15 €,4817700.2732873,-274700.21593615
 22,24 Rue de l'Armor,PLEUBIAN,22610,,,2.06 €,2.00 €,4884400,-313700
-22,Rue du Pilaga,BROONS,22250,,,1.99 €,1.94 €,4831500,-225000
+22,Rue du Pilaga,BROONS,22250,,,1.97 €,1.88 €,4831500,-225000
 22,ZONE DE KERIBET,Pordic,22590,1.83 €,0.88 €,1.92 €,1.89 €,4857200,-282200
-22,5 ROUTE DE PONTIVY,Mûr-de-Bretagne,22530,1.86 €,,1.97 €,1.96 €,4819800,-298700
+22,5 ROUTE DE PONTIVY,Mûr-de-Bretagne,22530,1.83 €,,1.94 €,1.89 €,4819800,-298700
 22,Route de Tréguier,Landebaëron,22140,,,,1.98 €,4863087,-318864
 22,BL JEAN GUEHENNO,TREGUIER,22220,,0.80 €,1.95 €,1.88 €,4877800,-323200
 22,33 Rue de l'Éperonnerie,Pontrieux,22260,1.85 €,,,1.95 €,4869621,-316593
@@ -73,7 +73,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22,Le Pré des Landes,Taden,22100,1.85 €,0.88 €,1.97 €,1.93 €,4847100,-204400
 22,Rue Raymond Pellier,PAIMPOL,22500,,0.95 €,2.23 €,2.17 €,4876900,-304100
 22,Rue Paul SalaunParc Activités Izellan,PLOUBEZRE,22300,1.94 €,0.88 €,1.96 €,1.93 €,4871400,-345400
-22,Route de Lézardrieux,Paimpol,22500,1.85 €,,1.93 €,1.92 €,4877800,-305700
+22,Route de Lézardrieux,Paimpol,22500,1.83 €,,1.92 €,1.89 €,4877800,-305700
 22,LE CAP VERT,Rostrenen,22110,1.82 €,,1.92 €,1.89 €,4823682,-331209
 22,KERLOUIS,Plouguernevel,22110,,,1.92 €,1.89 €,4824221.6194891,-329616.6474018
 22,Route de Plancoet,Ploubalay,22650,,,2.09 €,1.98 €,4858000,-213600
@@ -114,10 +114,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22,RUE POUL PALUD,TRéGASTEL,22730,,0.85 €,1.90 €,1.89 €,4882400,-349800
 22,Route de Tréguier / RD 767Centre commercial Le Lion de Saint-Marc,LANNION,22300,1.80 €,0.85 €,1.90 €,1.89 €,4873431.822,-343779.114
 22,PARC ACTIVITÉS DE KER D'HERVÉ,Loudéac,22600,1.85 €,0.88 €,,1.90 €,4819337.648347,-275740.3878098
-22,Centre commercial des promenades,MATIGNON,22550,1.86 €,0.85 €,1.94 €,1.94 €,4860000,-228700
+22,Centre commercial des promenades,MATIGNON,22550,1.84 €,0.85 €,1.94 €,1.93 €,4860000,-228700
 22,19 Route de Saint Brieuc,Plouézec,22470,1.89 €,,1.95 €,1.94 €,4874789.2,-298463.5
-22,Route de Guingamp,LANNION,22300,1.83 €,,1.91 €,1.90 €,4871900,-341600
+22,Route de Guingamp,LANNION,22300,1.80 €,,1.91 €,1.83 €,4871900,-341600
 22,KERJEAN / RD 790,Saint-Nicolas-du-Pélem,22480,1.89 €,,2.00 €,1.99 €,4831000,-315600
 22,la ville neuve,Saint-Brandan,22800,1.78 €,,1.92 €,1.86 €,4840000,-290000
-22,ZA DU CHALET,BROONS,22250,,0.85 €,1.97 €,1.88 €,4831875,-225597
 22,Rue de Kerbuannec,Callac,22160,1.87 €,0.85 €,2.06 €,1.95 €,4840700,-343400
+22,ZA DU CHALET,BROONS,22250,,0.85 €,1.97 €,1.88 €,4831875,-225597

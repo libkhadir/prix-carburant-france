@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 86,Rue des Ecoles,BUXEROLLES,86180,1.78 €,,,1.85 €,4659700,35100
 86,71 AVENUE DE CHATELLERAULT,Migné-Auxances,86440,1.81 €,,1.92 €,1.87 €,4663200,35600
 86,RN10 - LONGEVE,Dissay,86130,,,2.05 €,1.99 €,4671900,42000
-86,Beaulieu - 2 Avenue de Lafayette,POITIERS,86000,1.89 €,,1.99 €,1.93 €,4657600,37500
+86,Beaulieu - 2 Avenue de Lafayette,POITIERS,86000,1.89 €,,2.00 €,1.93 €,4657600,37500
 86,AIRE DE CHATELLERAULT-ANTRAN,Antran,86100,2.19 €,,2.30 €,2.22 €,4690600,52400
 86,autoroute a10,Jaunay-Clan,86130,,,,,4670238,37181
 86,1 Avenue de l'Europe,Montmorillon,86500,,,,,4642092,86076
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 86,avenue Loge,Migné-Auxances,86440,1.90 €,,2.01 €,1.97 €,4661409,31557
 86,SENS POITIERS TOURS,Jaunay-Marigny,86130,2.08 €,,2.19 €,2.12 €,4670100,37100
 86,RN10,DANGE-SAINT-ROMAIN,86220,,,2.05 €,2.00 €,4693511,60576
-86,Route de Poitiers,Chauvigny,86300,1.81 €,,1.91 €,1.95 €,4657100,63700
+86,Route de Poitiers,Chauvigny,86300,1.81 €,,1.91 €,1.94 €,4657100,63700
 86,23 Rue Saint-Exupéry,LENCLOîTRE,86140,,,,1.99 €,4681700,33200
 86,43 RUE ALPHONSE PLAUT,Neuville-de-Poitou,86170,1.91 €,,2.02 €,1.98 €,4668464.6715168,25469.738440082
 86,10 Boulevard Jeanne d'Arc,Poitiers,86000,1.92 €,,2.06 €,2.04 €,4658900,34000

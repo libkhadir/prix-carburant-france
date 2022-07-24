@@ -4,8 +4,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,Rue du Docteur Edmond Morelle,COMMERCY,55200,,,,,4875735,559035
 55,28 Rue de Saint-Mihiel,Vigneulles-lès-Hattonchâtel,55210,1.90 €,,,1.97 €,4897600,570100
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS NORD,HAUDIOMONT,55160,1.98 €,,2.09 €,2.06 €,4912032.6,550839.83
-55,Route de Longeville,SAVONNIèRES-DEVANT-BAR,55000,1.86 €,,2.01 €,1.95 €,4875400,517900
 55,6 RUE DU FORT,Saint-Mihiel,55300,1.94 €,0.88 €,2.05 €,2.02 €,4888800,554000
+55,Route de Longeville,SAVONNIèRES-DEVANT-BAR,55000,1.86 €,,2.01 €,1.95 €,4875400,517900
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS SUD,HAUDIOMONT,55160,1.98 €,,2.09 €,2.06 €,4911834.37,550846.34
 55,4 IMPASSE DE LA VARENNE,Fains-Véel,55000,1.88 €,,2.03 €,1.96 €,4878700,514000
 55,6 Rue du Général de Gaulle,Belleville-sur-Meuse,55430,1.87 €,,1.98 €,1.94 €,4916200,564900
@@ -34,5 +34,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,15 rue de VERDUN,FRESNES EN WOEVRE,55160,1.93 €,,2.00 €,1.99 €,4910000,562400
 55,106 Route Nationale,Lérouville,55200,,,,2.12 €,4879000,554900
 55,Route de Bar le Duc,Chauvoncourt,55300,1.85 €,0.85 €,1.96 €,1.91 €,4890246,551499
-55,Porte de Cheppy,Varennes-en-Argonne,55270,,,2.21 €,2.10 €,4922900,504200
+55,Porte de Cheppy,Varennes-en-Argonne,55270,,,2.00 €,1.97 €,4922900,504200
 55,11 Avenue de Verdun,Montmédy,55600,,,2.00 €,1.98 €,4951300,537500
