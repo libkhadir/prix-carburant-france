@@ -19,14 +19,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,ROUTE DU STADE,Condat,15190,,,2.24 €,2.05 €,4533826,276036
 15, Avenue de Bagnac,MAURS,15600,1.85 €,,1.96 €,1.99 €,4470650,219514
 15,31 avenue de la republique,Saint-Flour,15100,1.90 €,,1.94 €,1.91 €,4503354.63,309315.4
-15,Route d'Aurillac,SAINT-FLOUR,15100,1.73 €,0.68 €,1.90 €,1.83 €,4503800,306500
+15,Route d'Aurillac,SAINT-FLOUR,15100,1.75 €,0.77 €,1.90 €,1.87 €,4503800,306500
 15,Avenue de la Gare,Mauriac,15200,1.82 €,,1.92 €,1.87 €,4522200,234000
 15,1 route de brive,Saint-Paul-des-Landes,15250,,,1.93 €,1.95 €,4494448.371,231132.819
 15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,1.96 €,4492297.528,242765.388
 15,Avenue du Docteur Louis Mallet,Chaudes-Aigues,15110,,,,1.99 €,4485700,300800
 15,Avenue du Général de Gaulle,MASSIAC,15500,1.82 €,,,1.92 €,4525800,319900
 15,La Croix Jolie,Murat,15300,,,2.16 €,1.93 €,4510616,286291
-15,ZAC du Crozatier,Saint Georges,15100,1.67 €,0.68 €,,1.78 €,4503203.5,313041.2
+15,ZAC du Crozatier,Saint Georges,15100,1.75 €,0.77 €,,1.87 €,4503203.5,313041.2
 15,LE BOURG,Ruynes-en-Margeride,15320,,,1.94 €,1.91 €,4500148.03,322367.76
 15,Le Bourg,Ussel,15300,,,,2.09 €,4507900,293700
 15,66 Rue de Firminy,AURILLAC,15000,1.79 €,0.88 €,1.96 €,1.87 €,4491572,243189
@@ -52,7 +52,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,AV.DE LA PRADE,Jussac,15250,,,,2.10 €,4498584,241672
 15,6  avenue Léon Bélard,SAINT-FLOUR,15100,,,1.90 €,1.81 €,4503500,308900
 15, Avenue de Conthe,AURILLAC,15000,,0.85 €,2.12 €,1.99 €,4491394,242741
-15,zac du crozatier,Saint-Georges,15100,1.67 €,,,1.78 €,4503200,313500
+15,zac du crozatier,Saint-Georges,15100,1.75 €,,,1.87 €,4503200,313500
 15,LA SOUCHAYRE,Condat,15190,,,2.06 €,2.00 €,4533928,276682
 15,AV. DU MALLET,Chaudes-Aigues,15110,,,,2.06 €,4485600,300700
 15,zi du Sedour,Riom-Ès-Montagnes,15400,1.82 €,,1.92 €,1.89 €,4528800,266900
