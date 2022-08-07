@@ -40,7 +40,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 03,168 ROUTE DE GANNAT,Saint-Pourçain-sur-Sioule,03500,1.74 €,,1.84 €,1.79 €,4629000,329300
 03,Avenue du General de Gaulle,BELLERIVE-SUR-ALLIER,03700,1.75 €,0.76 €,1.84 €,1.81 €,4611400,341800
 03,route de longeville,Deux-Chaises,03240,1.82 €,,1.93 €,1.88 €,4638000,304000
-03,48 Avenue de Gramont,VICHY,03200,1.86 €,,1.97 €,1.92 €,4613100,343400
+03,48 Avenue de Gramont,VICHY,03200,1.82 €,,1.93 €,1.88 €,4613100,343400
 03,Avenue Jean Jaurès,Cérilly,03350,,,,1.95 €,4661658.854,282206.505
 03,AVENUE JEAN MASSE,Lapalisse,03120,1.71 €,0.80 €,1.82 €,1.77 €,4624944,362760
 03,ROUTE DE MOULINS,Lurcy-Lévis,03320,,,1.99 €,1.88 €,4673100,293800
@@ -71,7 +71,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 03,8 RUE PIERRE SEMARD,Saint-Germain-des-Fossés,03260,1.78 €,0.80 €,,1.85 €,4620500,343200
 03,22 avenue de la République,BELLERIVE-SUR-ALLIER,03700,1.82 €,0.85 €,1.93 €,1.88 €,4611763.18824,341182.476871
 03,Avenue Pierre Villon,MONTLUçON,03100,,,1.85 €,1.81 €,4635300,258700
-03,Avenue Emile Guillaumin,BOURBON-L'ARCHAMBAULT,03160,,,1.87 €,1.82 €,4658333,306336
+03,Avenue Emile Guillaumin,BOURBON-L'ARCHAMBAULT,03160,,,1.87 €,1.85 €,4658333,306336
 03,24 Rue de la République,CUSSET,03300,1.82 €,0.85 €,1.93 €,1.88 €,4613400,344900
 03,Quartier Tivoli,SAINT-POURCAIN-SUR-SIOULE,03500,1.81 €,,1.92 €,1.88 €,4630650.562,329404.326
 03,1 Avenue du 8 Mai 1945,Lapalisse,03120,1.97 €,,2.05 €,1.92 €,4624800,362900

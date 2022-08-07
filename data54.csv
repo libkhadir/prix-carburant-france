@@ -9,21 +9,21 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,Avenue Albert de Briey,BRIEY,54150,,,,1.95 €,4925400,593700
 54,2 Rue Paul Keller,TOUL,54200,1.94 €,,2.05 €,1.96 €,4867302,588646
 54,10 AVENUE DE LA RESISTANCE,LAXOU,54520,1.77 €,,1.89 €,1.80 €,4869400,613300
-54,47 Boulevard Jean Jaurès,Nancy,54000,1.82 €,,1.99 €,1.86 €,4868100,617900
-54,40 Avenue de la Libération,Nancy,54000,1.80 €,,1.93 €,1.86 €,4869200,616800
-54,69 Rue Gabriel Péri,Dombasle-sur-Meurthe,54110,1.86 €,,1.94 €,1.94 €,4862300,634900
+54,47 Boulevard Jean Jaurès,Nancy,54000,1.81 €,,1.99 €,1.85 €,4868100,617900
+54,40 Avenue de la Libération,Nancy,54000,1.77 €,,1.93 €,1.83 €,4869200,616800
+54,69 Rue Gabriel Péri,Dombasle-sur-Meurthe,54110,1.84 €,,1.93 €,1.92 €,4862300,634900
 54,5 BOULEVARD LOBAU,NANCY,54000,1.89 €,0.86 €,2.00 €,1.96 €,4869081,619331
 54,97 Rue Carnot,COLOMBEY-LES-BELLES,54170,,,,1.98 €,4852333,589412
 54,96 Rue de Franchepré,Joeuf,54240,1.87 €,,1.95 €,1.94 €,4922500,601400
 54,49 Rue du Colonel Driant,Malzéville,54220,1.82 €,,1.96 €,1.85 €,4870500,619200
-54,46 Rue du Capitaine Caillon,Neuves-Maisons,54230,1.81 €,,1.99 €,1.85 €,4861500,610400
+54,46 Rue du Capitaine Caillon,Neuves-Maisons,54230,1.81 €,,1.91 €,1.84 €,4861500,610400
 54,83 rue Franchepré,JOEUF,54240,,,,,4922573,601531
-54,55 Avenue du 69ème Régiment d'Infanterie,Essey-lès-Nancy,54270,1.81 €,,1.95 €,1.86 €,4870800,623500
+54,55 Avenue du 69ème Régiment d'Infanterie,Essey-lès-Nancy,54270,1.80 €,,1.95 €,1.86 €,4870800,623500
 54,2 rue de Virecourt,BAYON,54290,,,2.07 €,1.93 €,4847017.85367,631258.506253
 54,16 AVENUE DE GERBEVILLER,LUNEVILLE,54300,,,,,4858440,648198
 54,AUTOROUTE A 31,Dommartin-lès-Toul,54200,2.08 €,,2.20 €,2.13 €,4866400,591200
 54,AUTOROUTE A 330,Richardménil,54630,1.93 €,,2.03 €,1.98 €,4860700,617400
-54,22 Avenue Jeanne d'Arc,Vandoeuvre-lès-Nancy,54500,1.82 €,0.87 €,1.99 €,1.86 €,4866000,618300
+54,22 Avenue Jeanne d'Arc,Vandoeuvre-lès-Nancy,54500,1.81 €,0.86 €,1.99 €,1.85 €,4866000,618300
 54,CENTRE COMMERCIAL LA CASCADE,Laxou,54520,,,,,4867947.5141,611971.749249
 54,R.N.57 LE DERNIER SOU,Vandœuvre-lès-Nancy,54500,1.81 €,0.84 €,1.92 €,1.85 €,4865457.19983,618581.501692
 54,41 RUE DU GAL LECLERC,CUSTINES,54670,1.87 €,0.88 €,1.98 €,1.94 €,4879284.5,614503.3
@@ -45,12 +45,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,18-32  rue de Metz,JARNY,54800,1.87 €,,1.98 €,1.94 €,4915400,589200
 54,8 route de strasbourg,OGEVILLER,54450,,,,1.97 €,4855000,672500
 54,60 Boulevard Georges Pompidou,LUNéVILLE,54300,1.90 €,,2.00 €,1.95 €,4859664,647738
-54,1 Avenue du Général DE GAULLE,DIEULOUARD,54380,,,1.88 €,1.83 €,4884400,607000
-54,2 Rue Bernard Palissy,VANDOEUVRE-LèS-NANCY,54500,1.81 €,,1.92 €,1.85 €,4865400,617700
+54,1 Avenue du Général DE GAULLE,DIEULOUARD,54380,,,1.87 €,1.80 €,4884400,607000
+54,2 Rue Bernard Palissy,VANDOEUVRE-LèS-NANCY,54500,1.88 €,,1.99 €,1.93 €,4865400,617700
 54,AUTOROUTE A31AIRE DE LOISY,LOISY,54700,1.90 €,,2.01 €,1.97 €,4886058.8172143,609169.35288608
 54,RUE JEAN MOULIN,Homécourt,54310,1.86 €,,1.95 €,1.93 €,4922448,599863
-54,Rue de la Croix Saint-Nicolas,Gondreville,54840,,,1.89 €,1.85 €,4869100,596900
-54,25 Avenue Pierre Semard,Blainville-sur-l'Eau,54360,,,1.90 €,1.90 €,4855609.81,639785.39
+54,Rue de la Croix Saint-Nicolas,Gondreville,54840,,,1.87 €,1.85 €,4869100,596900
+54,25 Avenue Pierre Semard,Blainville-sur-l'Eau,54360,,,1.89 €,1.90 €,4855609.81,639785.39
 54,AUTOROUTE A31 - AIRE L'OBRION,LOISY,54700,1.81 €,0.86 €,1.92 €,1.87 €,4885585.63022,608777.352389
 54,153 Avenue du 15ème Génie,Écrouves,54200,1.83 €,0.80 €,1.94 €,1.86 €,4868000,587200
 54,RN 333,VITRIMONT,54300,1.89 €,,1.99 €,1.96 €,4859100,642600
@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,37 Rue de Verdun,Landres,54970,1.86 €,0.80 €,1.98 €,1.89 €,4931900,579900
 54,Route de Frouard,CHAMPIGNEULLES,54250,1.81 €,,1.92 €,1.90 €,4871500,608800
 54,Rue de la République,Jarville-la-Malgrange,54140,1.84 €,0.80 €,1.93 €,1.89 €,4867000,620700
-54,18 Rue du Général Leclerc,Gerbéviller,54830,,,2.11 €,2.04 €,4849700,651400
+54,18 Rue du Général Leclerc,Gerbéviller,54830,,,1.93 €,1.96 €,4849700,651400
 54,6 Avenue de Boufflers,Nancy,54000,,,1.97 €,1.91 €,4868939.2259323,616175.66153138
 54,POLE COMMERCIAL JEANNE D'ARC,DOMMARTIN-LèS-TOUL,54200,1.83 €,0.76 €,1.94 €,1.86 €,4867400,592500
 54,Le Pré Latour,PONT-à-MOUSSON,54700,1.81 €,,1.90 €,1.88 €,4891700,606500

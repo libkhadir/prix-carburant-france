@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 53,248 RUE DE BRETAGNE,LAVAL,53000,1.77 €,0.82 €,1.88 €,1.78 €,4807000,-79400
 53,ROUTE DE PARIS - BLD PAUL LINTIE,MAYENNE,53100,1.76 €,0.91 €,1.84 €,1.77 €,4831400,-63900
 53,ROUTE DU MANS,Villaines-la-Juhel,53700,1.85 €,,1.92 €,1.87 €,4834056.1388988,-26950.407978172
-53,46 avenue de lattre de tassigny,LAVAL,53000,1.76 €,0.82 €,1.87 €,1.79 €,4807900,-79900
+53,46 avenue de lattre de tassigny,LAVAL,53000,1.76 €,0.82 €,1.87 €,1.77 €,4807900,-79900
 53,Rue de Couterne,LASSAY-LES-CHâTEAUX,53110,1.80 €,,1.90 €,1.84 €,4844400,-48100
 53,26 avenue de mayenne de Mayenne,Laval,53000,1.83 €,,1.94 €,1.85 €,4806834,-76828
 53,RUE DES TILLEULS,Meslay-du-Maine,53170,,,1.93 €,1.86 €,4795400,-56100
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 53, Rue du Bois-Hedin,BONCHAMP-LèS-LAVAL,53960,,,1.90 €,1.80 €,4807229,-69214
 53,195 AVENUE DE CHANZY,LAVAL,53000,1.77 €,,1.88 €,1.78 €,4806952,-75080
 53,550 Boulevard Jean Monnet,MAYENNE,53100,1.76 €,0.78 €,1.86 €,1.78 €,4828900,-62000
-53,140 Avenue de Fougères,Laval,53000,1.86 €,,1.97 €,1.89 €,4807959,-79216
+53,140 Avenue de Fougères,Laval,53000,1.83 €,,1.94 €,1.85 €,4807959,-79216
 53,RN 178 BIS,Cossé-le-Vivien,53230,1.83 €,,1.94 €,1.85 €,4793900,-91500
 53,route de Sillé,Evron,53600,,0.87 €,,1.79 €,4815600,-40300
 53,60  avenue de la Comm. Européenne,LAVAL,53000,1.76 €,0.83 €,1.87 €,1.77 €,4805600,-73600

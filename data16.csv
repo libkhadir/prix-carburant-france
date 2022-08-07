@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ROUTE DE GENAC,ROUILLAC,16170,1.77 €,0.73 €,1.83 €,1.78 €,4577700,-6100
 16,RN 10,Reignac,16360,,,,1.79 €,4542582.0487558,-17272.59261077
 16,43 PLACE DE LA CORDERIE,COGNAC,16100,1.83 €,0.85 €,1.94 €,,4569309,-32722
-16,ave du general de gaulle,SOYAUX,16800,1.76 €,0.73 €,1.85 €,1.78 €,4563900,21900
+16,ave du general de gaulle,SOYAUX,16800,1.76 €,0.69 €,1.83 €,1.76 €,4563900,21900
 16,105 Rue Basse Saint-Martin,COGNAC,16100,1.74 €,,1.81 €,1.76 €,4568600,-33800
 16,RN10 LES GRANDES CHAUMES,CHAMPNIERS,16430,1.83 €,,,1.86 €,4571478,20692
 16,250 Avenue de la République,L'ISLE-D'ESPAGNAC,16340,1.81 €,,1.91 €,1.87 €,4566500,20100
@@ -26,7 +26,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,Route de Barbezieux CD 14,Baignes-Sainte-Radegonde,16360,1.91 €,,2.00 €,1.89 €,4538500,-23000
 16,RN 10,RUFFEC,16700,1.97 €,,2.09 €,1.98 €,4601900,18400
 16,Route d'Angoulême,Chasseneuil-sur-Bonnieure,16260,1.88 €,,1.99 €,1.87 €,4581500,44300
-16,Avenue de l'Europe,JARNAC,16200,1.75 €,0.78 €,1.83 €,1.78 €,4568581.065,-16473.549
+16,Avenue de l'Europe,JARNAC,16200,1.74 €,0.78 €,1.82 €,1.78 €,4568581.065,-16473.549
 16,RN 141,CHABANAIS,16150,,,,1.93 €,4587600,71900
 16,122 Rue Nationale,Roumazières-Loubert,16270,1.76 €,0.80 €,1.84 €,1.82 €,4588434,57522
 16,Route de Bordeaux,LA COURONNE,16400,1.76 €,,1.85 €,1.76 €,4562011.8,10582.2
@@ -39,7 +39,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ROUTE DE COGNAC,SEGONZAC,16130,1.92 €,,1.99 €,1.94 €,4561787,-21934
 16,2 Clos Chabot,Villejésus,16140,,,1.93 €,1.87 €,4589992.0641752,1484.617568
 16,15 route des Boisdons,LINARS,16730,1.84 €,,1.93 €,1.89 €,4565500,8500
-16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.75 €,,1.84 €,1.76 €,4558884.8804688,-4798.4026188222
+16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.76 €,,1.84 €,1.78 €,4558884.8804688,-4798.4026188222
 16,Avenue d'Ecosse,JARNAC,16200,1.82 €,,1.91 €,1.90 €,4569096.0364153,-17360.081481934
 16,Rue des Paleines,ROUMAZIERES-LOUBERT,16270,1.80 €,,1.86 €,1.82 €,4588248,58262
 16,Avenue de l'Europe,BARBEZIEUX-SAINT-HILAIRE,16300,1.80 €,0.80 €,1.90 €,1.81 €,4546704,-16519
@@ -61,5 +61,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,220 Avenue Victor Hugo,COGNAC,16100,,,1.88 €,1.82 €,4568800,-31300
 16,Route de Paris,GOND-PONTOUVRE,16160,,,1.91 €,1.85 €,4568267.1292637,17728.895022
 16,40 rue de l'Annisserie,Châteaubernard,16100,1.75 €,,1.84 €,1.80 €,4568397,-30463
-16,70 Rue de l'Échassier,COGNAC,16100,1.82 €,,1.92 €,1.88 €,4569200,-30900
+16,70 Rue de l'Échassier,COGNAC,16100,1.83 €,,1.92 €,1.88 €,4569200,-30900
 16,5 avenue Paul Desfarges,Angoulême,16000,,0.69 €,1.83 €,1.76 €,4565800,18100

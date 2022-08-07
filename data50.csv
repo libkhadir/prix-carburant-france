@@ -1,19 +1,19 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-50,4 charrière du commerce,Agon-Coutainville,50230,1.79 €,,1.87 €,1.80 €,4904900,-159300
+50,4 charrière du commerce,Agon-Coutainville,50230,1.79 €,,1.86 €,1.80 €,4904900,-159300
 50,25  rue de l'hotel saint denis,GAVRAY,50450,,,1.89 €,1.83 €,4891277,-135262
-50,ZA DE L ETRIER,SAINT-SYMPHORIEN-LE-VALOIS,50250,1.75 €,,,1.80 €,4928400,-156700
 50,rue de l'oratoire  parc de l'odyssée,Agneaux,50180,1.77 €,0.80 €,1.88 €,1.80 €,4910762.8700786,-113383.4250679
 50,2F Route de DENNEVILLE,DIGOSVILLE,50110,,,1.98 €,1.90 €,4965345.9148478,-154932.46887909
 50,Route de Montebourg - La Victoire,VALOGNES,50700,1.78 €,,1.89 €,1.80 €,4950200,-145600
 50,Chemin amour ZA les landelles,BLAINVILLE-SUR-MER,50560,,,1.86 €,1.84 €,4906500,-159500
 50,ZONE DE BEAUFOUR,Saint-James,50240,,,1.86 €,1.79 €,4852100,-133900
-50,Avenue de Normandie,Cherbourg-Octeville,50130,1.91 €,,2.11 €,1.86 €,4962600,-162800
-50,ZI PORTUAIRE DES MIELLES,Tourlaville,50110,1.85 €,,2.04 €,1.83 €,4964500,-159900
+50,Avenue de Normandie,Cherbourg-Octeville,50130,1.79 €,,1.95 €,1.82 €,4962600,-162800
+50,ZI PORTUAIRE DES MIELLES,Tourlaville,50110,1.85 €,,2.04 €,1.81 €,4964500,-159900
 50,10 Avenue Amiral Lemonnier,Cherbourg-Octeville,50100,,,,,4963442,-161233
 50,1 Rue Jules Labiche,SOURDEVAL,50150,,,,,4872613,-91975
 50,2  AVENUE DE VERDUN,COUTANCES,50200,1.76 €,0.83 €,1.88 €,1.79 €,4903827,-144603
 50,Parc Mairie Gardin,Beaumont-Hague,50440,1.81 €,,,1.85 €,4966203,-183636
 50,ROUTE NATIONALE 13,Les Veys,50500,1.91 €,,2.05 €,1.93 €,4930500,-115600
+50,ZA DE L ETRIER,SAINT-SYMPHORIEN-LE-VALOIS,50250,1.75 €,,,1.80 €,4928400,-156700
 50,1214 Avenue de Paris,Saint-Lô,50000,1.83 €,0.88 €,1.94 €,1.87 €,4911630.1972112,-105833.12301737
 50,41b Rue des Frères Fremine,Bricquebec-en-Cotentin,50260,1.87 €,,1.98 €,1.86 €,4947300,-162800
 50,Avenue de la division Leclerc,Coutances,50200,1.80 €,0.80 €,1.91 €,1.81 €,4906200,-143700
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Chemin de la Minoterie,Tessy-sur-Vire,50420,,,,1.93 €,4897000,-105900
 50,RUE DE LA SALINE,Cherbourg-octeville,50100,1.76 €,0.81 €,1.88 €,1.78 €,4963500,-161500
 50,132 RUE ST THOMAS,Barfleur,50760,1.83 €,,,1.87 €,4966600,-127000
-50,113 RUE DU HAUT CHEMIN,CREANCES,50710,,,1.93 €,1.89 €,4919900,-156800
+50,113 RUE DU HAUT CHEMIN,CREANCES,50710,,,1.87 €,1.85 €,4919900,-156800
 50,route de la poste,BRéHAL,50290,1.82 €,,1.92 €,1.87 €,4889981,-151309
 50,RUE DU GENERAL DE GAULLE,AVRANCHES,50300,,,,1.98 €,4868647,-136356
 50,12 rue Général Legentilhomme,VALOGNES,50700,1.78 €,0.80 €,1.89 €,1.80 €,4950000,-146900

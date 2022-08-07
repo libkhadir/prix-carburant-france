@@ -2,15 +2,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,ZAC ILE DE FRANCE,LAON,02000,1.82 €,,1.92 €,1.85 €,4954800,361600
 02,14 ROUTE DE MONTCORNET,LISLET,02340,,,1.94 €,1.90 €,4968900,402200
 02,A26 - Aire du Champ Roland,Guignicourt,02190,1.83 €,0.93 €,1.91 €,1.90 €,4944872,392652
-02,183 ROUTE DE PARIS,Vauxbuin,02200,1.80 €,,1.91 €,1.80 €,4936400,330400
+02,183 ROUTE DE PARIS,Vauxbuin,02200,1.78 €,,1.91 €,1.79 €,4936400,330400
 02,AUT A 26- AIRE DU MONT NIZY,Juvincourt-et-Damary,02190,1.83 €,,1.91 €,1.90 €,4944508.4070022,392761.87076699
 02,50 BIS ROUTE DE CHATEAU THIERRY,SOISSONS,02200,1.84 €,0.86 €,1.96 €,1.88 €,4936800,332900
 02,87 rue de st quentin,Bohain-en-Vermandois,02110,,,,,4998291.82,345337.16
-02,46 Avenue Faidherbe,Saint-Quentin,02100,1.82 €,,1.94 €,1.83 €,4984400,327900
-02,16 Boulevard Pierre Brossolette,Laon,02000,1.85 €,0.87 €,1.94 €,1.89 €,4957000,362100
+02,46 Avenue Faidherbe,Saint-Quentin,02100,1.81 €,,1.93 €,1.82 €,4984400,327900
+02,16 Boulevard Pierre Brossolette,Laon,02000,1.85 €,0.87 €,1.94 €,1.87 €,4957000,362100
 02,ZI l'Ecorcherie,La Ferté-Milon,02460,,,,,4918562,312480
 02,102 RUE CHARLES DE GAULLE,HIRSON,02500,1.74 €,,1.85 €,1.79 €,4992100,408400
-02,1 Place de Laon,Soissons,02200,1.79 €,,2.00 €,1.79 €,4938600,333300
+02,1 Place de Laon,Soissons,02200,1.77 €,,2.00 €,1.78 €,4938600,333300
 02,3 Avenue Raymonde Fiolet,Soissons,02200,1.84 €,0.86 €,1.95 €,1.86 €,4936994,331490
 02,RUE SADI CARNOT,GUISE,02120,,,1.92 €,1.85 €,4990316,362899
 02,73 chaussee de fontaine,Fontaine-lès-Vervins,02140,1.78 €,,1.90 €,1.81 €,4984300,390500
@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,autoroute A4 aire de tardenois sud,Fresnes-en-Tardenois,02130,1.91 €,,1.99 €,1.97 €,4907771,337046
 02,89 Grand Rue,Dizy-le-Gros,02340,2.01 €,,,1.94 €,4963000,402500
 02,85 rue du général Leclerc,Villers-Cotterêts,02600,1.88 €,,,1.89 €,4925500,308300
-02,Boulevard de l'Europe,Chauny,02300,1.79 €,0.80 €,1.88 €,1.87 €,4962645,321575
+02,Boulevard de l'Europe,Chauny,02300,1.77 €,0.80 €,1.86 €,1.83 €,4962645,321575
 02,16 RUE DU 2 SEPTEMBRE 1944,La Neuville-lès-Dorengt,02450,,,1.98 €,1.94 €,4997729.68,367681.51
 02,13 Avenue Jules Lefèbvre,Château-Thierry,02400,1.99 €,,2.00 €,2.00 €,4904318,339518
 02,Avenue de Compiègne,MERCIN-ET-VAUX,02200,,,1.91 €,1.81 €,4938127,330822
