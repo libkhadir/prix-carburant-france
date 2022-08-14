@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,245 AVENUE DES TILLEULS,CHAURAY,79180,,,1.84 €,1.79 €,4635267.338431,-38636.642185398
 79,Route de Saint-Maixent,La Mothe-Saint-Héray,79800,,,1.83 €,1.79 €,4636873.2283435,-11752.827458271
-79,RUE DE LA SABLIERE,ÉCHIRé,79410,1.69 €,0.69 €,1.79 €,1.72 €,4638889.661,-42539.277
+79,RUE DE LA SABLIERE,ÉCHIRé,79410,1.71 €,0.69 €,1.79 €,1.74 €,4638889.661,-42539.277
 79,39 rue rené gaillard,Mougon,79370,,,2.11 €,1.98 €,4629288,-29062
 79,1 Avenue François Mitterrand,Parthenay,79200,1.70 €,,1.80 €,1.73 €,4664500,-25300
 79,226 Avenue de la Rochelle,Niort,79000,,,,,4631087,-48038
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,Boulevard de l'Atlantique,NIORT,79000,,,1.76 €,1.73 €,4631700,-48100
 79,16 ROUTE DE NIORT,COULONGES-SUR-L'AUTIZE,79160,1.71 €,,1.78 €,1.74 €,4647783.0335256,-59004.859828945
 79,Avenue Clément Pineau,SAINT-LéGER-DE-LA-MARTINIèRE,79500,1.69 €,0.67 €,1.80 €,1.72 €,4622700,-12700
-79,Route de Montalembert,SAUZé-VAUSSAIS,79190,1.70 €,,1.80 €,1.73 €,4613300,12000
+79,Route de Montalembert,SAUZé-VAUSSAIS,79190,1.71 €,,1.80 €,1.74 €,4613300,12000
 79,Avenue des Platanes,SAINT-VARENT,79330,1.74 €,,1.79 €,1.75 €,4689400,-23400
 79,22 rue des Acacias,Celles-sur-Belle,79370,1.75 €,,1.88 €,1.78 €,4626800,-22400
 79,Route de Poitiers,Airvault,79600,1.73 €,,1.82 €,1.76 €,4682500,-12900

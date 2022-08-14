@@ -2,6 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 42,19 Bis avenue Berthelot,L'Horme,42152,1.85 €,0.87 €,1.94 €,1.90 €,4549030,455150
 42,603 rue du caporal Goutandier,Renaison,42370,1.86 €,,1.96 €,1.87 €,4605700,392800
 42,RUE DES ABATTOIRS,FIRMINY,42700,1.84 €,,1.94 €,1.93 €,4539591.8115193,429109.70468295
+42,10 RUE DE PRESIDENT KENNEDY,UNIEUX,42240,,,1.82 €,1.79 €,4540000,425900
 42,444 route de Saint Etienne,MONTROND-LES-BAINS,42210,2.08 €,1.04 €,,2.00 €,4563477,423902
 42,Rue de Chazeau,FIRMINY,42700,1.76 €,,1.90 €,1.86 €,4537500,427700
 42,793 Avenue des Farges,Bellegarde-en-Forez,42210,,,,1.97 €,4564700,429700
@@ -10,12 +11,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 42,Route de Montbrison,Saint-Just-Saint-Rambert,42170,1.71 €,,1.86 €,1.85 €,4550600,424619
 42,Richelande,SAINT-GALMIER,42330,1.71 €,,1.81 €,1.87 €,4558585.81618,431195.404804
 42,11 AV DE VERDUN,Saint-Étienne,42000,1.64 €,0.87 €,1.75 €,1.77 €,4546519,437809
-42,55 rue de Corbines,BOëN,42130,,,1.85 €,1.79 €,4575315.42943,398710.39686
+42,55 rue de Corbines,BOëN,42130,,,1.83 €,1.79 €,4575315.42943,398710.39686
 42,36 Rue de Terrenoire,Saint-Étienne,42100,1.68 €,,1.82 €,1.78 €,4543300,441500
 42,142 Rue Mulsant,ROANNE,42300,,,,,4603973,405404
 42,Route de Charlieu,Roanne,42300,,,,,4605684,408682
 42,Avenue Jean Moulin,Sury-le-Comtal,42450,,,,1.90 €,4554196,418553
-42,10 RUE DE PRESIDENT KENNEDY,UNIEUX,42240,,,1.82 €,1.79 €,4540000,425900
 42,52 Boulevard Charles de Gaulle,LE COTEAU,42120,,0.99 €,,1.85 €,4601100,409700
 42,BIORANGE ROUTE DE ST VICTOR,ST VICTOR SUR LOIRE,42230,,,2.17 €,2.12 €,4543200,430600
 42,Route de Roanne RN 82,CIVENS - FEURS,42110,1.64 €,0.80 €,1.72 €,1.77 €,4575338.7108442,421969.76236342
@@ -119,7 +119,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 42,rue de la croix de mission,Saint-Just-en-Chevalet,42430,,0.77 €,,1.80 €,4591483.246,384406.014
 42,8 route de St Etienne,Montbrison,42600,1.74 €,,,1.84 €,4559938.5953082,407329.87546921
 42,ZAC NOTRE DAME,Pélussin,42410,1.68 €,,1.79 €,1.72 €,4541800,468200
-42,Route de Tarare,Panissières,42360,,,,2.02 €,4579200,435400
+42,Route de Tarare,Panissières,42360,,,,1.92 €,4579200,435400
 42,217 Chemin des Serrots,Les Salles,42440,1.96 €,,2.08 €,2.07 €,4585600,381400
 42,Rue du Plat du Gier,L'HORME,42152,,,,,4549103,455833
 42,ROUTE DE LYON,Savigneux,42600,1.67 €,0.80 €,1.75 €,1.77 €,4560844,408929

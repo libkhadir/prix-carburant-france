@@ -16,8 +16,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,RTE DE CAEN,VIRE,14500,1.81 €,,1.92 €,1.85 €,4885800,-89300
 14,Rue G CLEMENCEAU  zone industrielle,PONT L EVEQUE,14130,1.79 €,,1.90 €,1.84 €,4928865,19554
 14,ROUTE DE VILLERS BOCAGE,Aunay-sur-Odon,14260,1.74 €,,1.98 €,1.74 €,4902600,-63200
-14,Avenue des Résistants,DIVES-SUR-MER,14160,1.74 €,,1.83 €,1.75 €,4928100,-10000
 14,ROUTE DE CAEN,COURSEULLES-SUR-MER,14470,1.82 €,,,1.85 €,4932371,-45698
+14,Avenue des Résistants,DIVES-SUR-MER,14160,1.75 €,,1.84 €,1.79 €,4928100,-10000
 14,Zone Industrielle Portuaire,Honfleur,14600,1.70 €,,1.82 €,1.76 €,4941657,25936
 14,AUTOROUTE A13 AIRE DE GIBERVILLE SUD,Giberville,14730,1.95 €,,2.05 €,2.02 €,4916600,-27600
 14,40 Rue du Docteur Fontaine,SAINT-SEVER-CALVADOS,14380,,,1.88 €,1.84 €,4884000,-105200
@@ -66,15 +66,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,61 Boulevard Sainte-Anne,Lisieux,14100,1.85 €,0.83 €,1.99 €,1.93 €,4914400,22200
 14, Boulevard Paul Doumer,LION-SUR-MER,14780,,,1.83 €,1.88 €,4930174,-31818
 14,190 Rue de Rocquancourt,IFS,14123,1.70 €,,1.81 €,1.74 €,4914200,-33800
-14,Route Anglaise,COURSEULLES-SUR-MER,14470,1.73 €,,1.79 €,1.76 €,4932300,-45200
+14,Route Anglaise,COURSEULLES-SUR-MER,14470,,,1.79 €,1.76 €,4932300,-45200
 14,Route de Livarot,SAINT-PIERRE-SUR-DIVES,14170,1.82 €,,1.93 €,1.87 €,4902470,-2358
 14,Route de Paris,TOUQUES,14800,1.71 €,,1.81 €,1.75 €,4935023,9044
 14,Route d'Argentan,FALAISE,14700,1.89 €,,2.02 €,1.93 €,4888700,-19100
 14,ROUTE DE DEAUVILLE,Auberville,14640,,,2.07 €,1.93 €,4930700,-2700
 14,3 Rue Ambroise Croizat,Mondeville,14120,1.70 €,,1.81 €,1.74 €,4916300,-29800
 14,Lieu-dit La Barbairie,Vassy,14410,1.79 €,,,1.79 €,4884251,-71187
-14,59 Rue Georges Clemenceau,Villers-Bocage,14310,1.79 €,,1.90 €,1.84 €,4908100,-65000
-14,Boulevard Maurice Thorez,DIVES-SUR-MER,14160,1.74 €,,1.82 €,1.80 €,4928400,-10300
+14,59 Rue Georges Clemenceau,Villers-Bocage,14310,1.79 €,,1.90 €,1.86 €,4908100,-65000
+14,Boulevard Maurice Thorez,DIVES-SUR-MER,14160,1.75 €,,1.84 €,1.80 €,4928400,-10300
 14,1 Boulevard du 21e siecle les Sauts casris,Villers-Bocage,14310,,,1.80 €,1.74 €,4907800,-64500
 14,PARC COMMERCIAL DE LA DOUITEE,VIRE,14500,1.89 €,,1.86 €,1.79 €,4884700,-88700
 14,route de Ouistreham,Saint-Aubin-d'Arquenay,14970,,,,,4926294.216,-28047.954

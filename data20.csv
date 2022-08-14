@@ -1,10 +1,10 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Arconchello,OLMETO,20113,,,,1.91 €,4171600,891500
 20,RN 193 PISCINA,LUCCIANA,20290,,,,1.92 €,4254300,944200
+20,Lieu-Dit Migliacciaro,PRUNELLI-DI-FIUMORBO,20243,,,,1.89 €,4199868.57757,940286
 20,L'Arinella - RN 193,Bastia,20600,,,,1.90 €,4267300,944400
 20,Station TOTAL - BP 35 - RN 198,Ghisonaccia,20240,,,,1.89 €,4202100,940900
 20,BODICCIONE,Ajaccio,20090,,,,1.86 €,4193484,874775
-20,Lieu-Dit Migliacciaro,PRUNELLI-DI-FIUMORBO,20243,,,,1.88 €,4199868.57757,940286
 20,Boulevard Louis Campi,Ajaccio,20090,,,,1.89 €,4194385,875484
 20,Quartier St Joseph,Ajaccio,20090,,,,1.88 €,4193331.973,875493.22
 20,Hotel des Calanches,Piana,20115,,,,1.94 €,4223728.0621206,863583.71530654
@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Station TOTAL - RN 198 - FOLELLI,Penta-di-Casinca,20213,,,,1.90 €,4244600,950800
 20,route de bastia,Porto-Vecchio,20137,,,,1.92 €,4161400,928000
 20,Trajinu,Serriera,20147,,,,1.90 €,4228900,870000
-20,RN:193/T10 Crucetta,LUCCIANA,20290,,,,1.95 €,4255000,944200
+20,RN:193/T10 Crucetta,LUCCIANA,20290,,,,1.92 €,4255000,944200
 20,Station TOTAL - Relais du Rupione,PIETROSELLA,20166,,,,1.92 €,4183500,877900
 20,Station TOTAL La Trinité - RN 198 - Pitrera,PORTO-VECCHIO,20137,,,,2.19 €,4163489.5582317,929420.40547291
 20,Rue de la République,CARGESE,20130,,,,1.94 €,4213400,859800
@@ -69,7 +69,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.90 €,4184900,940000
 20,gare de Mezzana,Sarrola-carcopino,20167,,,,1.86 €,4203035.28537,884469.299783
 20,Les Marines de Porticcio - Commune de Grosseto-Prugna,PORTICCIO,20166,,,,1.88 €,4188730,880770
-20,sennola,BONIFACIO,20169,,,,1.92 €,4139100,916500
+20,sennola,BONIFACIO,20169,,,,1.90 €,4139100,916500
 20,RN 193,FURIANI,20600,,,,1.90 €,4265800,941600
 20,109 Cours Napoleon,Ajaccio,20000,,,,1.90 €,4192800,873900
 20,Ponte Novu,Castello-di-Rostino,20235,,,,1.96 €,4248820,928306

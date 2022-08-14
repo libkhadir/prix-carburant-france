@@ -32,7 +32,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.66 €,0.76 €,2.06 €,1.77 €,4400918,505110
 84,130 allée Roch Pape,CAVAILLON,84300,1.64 €,0.76 €,1.72 €,1.75 €,4382900,503500
 84,Route d'Orange,Valréas,84600,1.69 €,0.80 €,1.83 €,1.79 €,4437318,498125
-84,CD 225 RTE DES BORDS DU RHONE,LE PONTET,84130,1.63 €,,,1.75 €,4396500,485700
+84,CD 225 RTE DES BORDS DU RHONE,LE PONTET,84130,,,,1.75 €,4396500,485700
 84,ROUTE D'AVIGNON,Cavaillon,84300,1.74 €,,,1.84 €,4385600,501800
 84,Av. du 8 Mai,PERTUIS,84120,,,1.97 €,1.84 €,4368679.46809,550243.35676
 84,24 AVENUE JEAN JAURES,VILLES-SUR-AUZON,84570,,,,2.18 €,4405779.2672929,523142.68211487
@@ -40,11 +40,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,199 route de Carpentras,CAROMB,84330,,,1.88 €,1.84 €,4410063.83645,510198.685925
 84,Route de Suze la Rousse,BOLLèNE,84500,,,1.92 €,1.89 €,4428083.9173,480217.41693
 84,AVENUE PIERRE DE COUBERTIN,Vedène,84270,1.65 €,,1.73 €,1.79 €,4397813.675,490811.60674379
-84,Route de Valréas . Quartier les Mouilieres,Grillon,84600,1.77 €,0.92 €,1.83 €,1.80 €,4439423.1137862,494206.81799926
+84,Route de Valréas . Quartier les Mouilieres,Grillon,84600,1.77 €,0.92 €,1.83 €,1.82 €,4439423.1137862,494206.81799926
 84,Quartier de l' Argensol,Orange,84100,1.89 €,0.90 €,,1.97 €,4413399,481726
 84,Avenue Louis Pasteur,Châteauneuf-du-Pape,84230,1.71 €,,1.83 €,1.78 €,4405800,483500
 84,250 route de pertuis,CAVAILLON,84300,,0.80 €,,1.75 €,4383519.894804,504422.03664398
-84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.58 €,0.65 €,,1.69 €,4432200,474500
+84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.65 €,0.75 €,,1.77 €,4432200,474500
 84,65 route de Gadagne,Caumont-sur-Durance,84510,1.65 €,,,1.78 €,4390600,494800
 84,1050 Chemin du Castellas Route de Mazan,CARPENTRAS,84200,1.67 €,,1.80 €,1.76 €,4405991.5395231,507042.85376765
 84,80 route de travaillan,ste cécile les vignes,84290,1.64 €,,1.76 €,1.78 €,4423200,488300
@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,417 Avenue du Mont Ventoux,CARPENTRAS,84200,,,,,4405653,505803
 84,QUARTIER DE MOUGNE,Sault,84390,1.67 €,0.80 €,1.78 €,1.78 €,4410150,541452
 84,Avenue du Tourail,Maubec,84660,1.66 €,0.80 €,1.73 €,1.78 €,4386696,514881.99999999
-84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.64 €,,1.76 €,1.74 €,4392800,478900
+84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.64 €,,1.76 €,1.76 €,4392800,478900
 84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.73 €,,1.82 €,1.78 €,4415676,487061
 84, Route de Cavaillon,MAUBEC,84660,,,1.88 €,1.84 €,4386584,514004
 84,route d'aix en provence - lot. les prés verts,Pertuis,84120,1.63 €,0.81 €,1.79 €,1.77 €,4367900,549700

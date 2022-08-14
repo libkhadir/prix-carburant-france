@@ -64,14 +64,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,1 AVENUE DU HECQUEUX,PORNICHET,44380,,,1.81 €,1.76 €,4725800,-231800
 44,D17 - ROUTE DE COUERON,Saint-Étienne-de-Montluc,44360,1.80 €,,1.91 €,1.86 €,4727432.4138225,-178013.37480546
 44,11 bis rue charles perron,Plessé,44630,,,1.95 €,1.90 €,4754254.28,-188270.17
-44,Avenue des Visitandines,LEGE,44650,1.69 €,0.69 €,1.80 €,1.73 €,4688860,-159155
+44,Avenue des Visitandines,LEGE,44650,1.69 €,0.69 €,1.77 €,1.73 €,4688860,-159155
 44,BD CHARLES DE GAULLE - CD 17,Saint-Herblain,44800,1.71 €,,1.80 €,1.76 €,4724100,-159400
 44,BOULEVARD BAD BRUCKENAU,ANCENIS,44150,1.75 €,,1.84 €,1.74 €,4737300,-118500
 44,27 Route de l'Isac,BLAIN,44130,1.68 €,,1.79 €,1.70 €,4747306.1839157,-174698.07605743
 44,15 Rue de Sucé,La Chapelle-sur-Erdre,44240,1.71 €,,1.80 €,1.74 €,4730200,-154800
 44,ROUTE BLEUE - LA HAUTIERE,Saint-Brevin-les-Pins,44250,1.71 €,0.86 €,1.80 €,1.76 €,4722914,-215541
 44,Rue des Malifestes,Clisson,44190,1.69 €,0.65 €,1.81 €,1.73 €,4709900,-128200
-44,48 Rue Châteaubriant,DERVAL,44590,1.68 €,,1.77 €,1.70 €,4766800,-166300
+44,48 Rue Châteaubriant,DERVAL,44590,1.70 €,,1.80 €,1.77 €,4766800,-166300
 44, Rue du Stade,DONGES,44480,1.72 €,,1.80 €,1.77 €,4732906,-208771
 44,22 Rue de la Galarnière,Rezé,44400,1.71 €,,1.80 €,1.73 €,4717700,-155900
 44,Rue de Villejames,Guérande,44350,1.70 €,,1.78 €,1.72 €,4732944,-241115
@@ -89,7 +89,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,AUTOROUTE A11 - AIRE VARADES LA BÉDOIRE,VARADES,44370,1.78 €,0.89 €,1.89 €,1.86 €,4741800,-101800
 44,Zone Atlantis,Saint-Herblain,44800,1.68 €,0.68 €,1.79 €,1.70 €,4722600,-163500
 44,Rue de Cornen,LE POULIGUEN,44510,1.74 €,,1.80 €,1.77 €,4727503,-244083
-44,6 Rue des Ardillets,COUëRON,44220,,,,1.94 €,4721344,-171900
+44,6 Rue des Ardillets,COUëRON,44220,,,,1.85 €,4721344,-171900
 44,Parc comemrcial de la Colleraye,SAVENAY,44260,1.70 €,0.68 €,1.79 €,1.73 €,4736862.194,-196231.179
 44,54 Rue Léon Bourgeois,SAINT-NAZAIRE,44600,1.70 €,,1.78 €,1.72 €,4728000,-222800
 44,11 Rue du 8 Mai,Blain,44130,1.81 €,,1.92 €,1.83 €,4747700,-176200
@@ -106,8 +106,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,205 ROUTE DE VANNES,Saint-Herblain,44800,1.80 €,,1.91 €,1.85 €,4724121.79839,-159335.907484
 44,RUE DES SPORTS ZA DE BELLEVUE,Grandchamp-des-Fontaines,44119,1.76 €,,1.86 €,1.83 €,4735705.0659966,-160162.96214264
 44,78 BD ROBERT SCHUMAN,NANTES,44300,1.81 €,0.84 €,1.92 €,1.87 €,4723770,-156947
-44,rue emmanuel provost,LE CROISIC,44490,1.70 €,0.80 €,1.82 €,1.77 €,4728600,-250700
 44,1 Rue de la Conraie,Orvault,44700,1.70 €,,1.79 €,1.70 €,4726200,-158800
+44,rue emmanuel provost,LE CROISIC,44490,1.70 €,0.80 €,1.80 €,1.77 €,4728600,-250700
 44,Canton de la Haute Landelle  Routes de Nantes,Loroux-Bottereau,44430,1.70 €,0.70 €,1.79 €,1.71 €,4723378.83,-136691.72
 44,BOULEVARD DE L'EUROPE,VERTOU,44120,1.73 €,0.85 €,1.83 €,1.78 €,4717300,-147400
 44,55 Boulevard Jules Verne,Nantes,44300,,,,1.99 €,4723769,-153264
@@ -138,7 +138,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,10 Rond Point de la Corbinerie,REZé,44400,1.71 €,,1.80 €,1.73 €,4716000,-154500
 44,140 Route des Sorinières,Rezé,44400,1.73 €,,1.83 €,1.77 €,4715479,-153707
 44,route de St Nazaire,CHâTEAUBRIANT,44110,1.73 €,,1.80 €,1.73 €,4770581,-138756
-44,Boulevard de Linz,PORNIC,44210,1.68 €,0.80 €,1.79 €,1.73 €,4712229,-211717
+44,Boulevard de Linz,PORNIC,44210,1.68 €,0.76 €,1.79 €,1.73 €,4712229,-211717
 44,BOULEVARD ALEXANDRE FLEMING,La Chapelle-sur-Erdre,44240,1.71 €,0.84 €,1.80 €,1.76 €,4725675.9,-154601.5
 44,173  route de Saint Joseph,Nantes,44300,1.69 €,0.76 €,1.78 €,1.74 €,4724459,-153364
 44,28 Route de clisson,Vallet,44330,1.70 €,0.70 €,1.81 €,1.73 €,4715822.9280939,-127479.20508981
@@ -148,14 +148,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,48 Boulevard de la Libération,Couëron,44220,1.70 €,,1.79 €,1.73 €,4721500,-168500
 44,BOULEVARD BRANLY,Savenay,44260,1.70 €,0.76 €,1.80 €,1.74 €,4736151.837,-195614.892
 44,Boulevard de la Baule,SAINT-HERBLAIN,44800,1.70 €,,1.80 €,1.73 €,4722200,-160600
-44,RUE GAETAN RONDEAU,NANTES,44200,1.69 €,0.76 €,1.78 €,1.73 €,4720600,-153500
+44,RUE GAETAN RONDEAU,NANTES,44200,1.69 €,0.76 €,1.78 €,1.72 €,4720600,-153500
 44,RTE DE CHATEAUBRIANT,SAINT-MARS-LA-JAILLE,44540,,,1.81 €,1.72 €,4752977.48799,-118620.212627
 44,Route d'Ancenis,Vallet,44330,,,1.81 €,1.73 €,4717000,-126700
 44,Recouvrance,GéTIGNé,44190,1.81 €,0.84 €,1.92 €,1.86 €,4707800,-124000
 44,4 LES LEVEES MIRAUD,LA CHAPELLE-DES-MARAIS,44410,1.75 €,,1.89 €,1.78 €,4744500,-225000
 44,6  rue de Quarteron,VIEILLEVIGNE,44116,1.77 €,0.80 €,1.86 €,1.77 €,4697100,-143400
 44,1 Avenue de la Vendée,Geneston,44140,1.71 €,0.80 €,1.80 €,1.73 €,4705500,-151100
-44,80 Boulevard des Pas Enchantés,Saint-Sébastien-sur-Loire,44230,1.73 €,,1.83 €,1.75 €,4720900,-151000
+44,80 Boulevard des Pas Enchantés,Saint-Sébastien-sur-Loire,44230,1.69 €,,1.80 €,1.75 €,4720900,-151000
 44, Boulevard Paul Langevin,COUERON,44220,1.80 €,,,1.86 €,4721363,-172222
 44,ROUTE DE SAINT AUBIN DES CHATEAUX,Châteaubriant,44110,1.73 €,,,1.73 €,4771600,-139200
 44,20 Rue de Nantes,SAUTRON,44880,1.79 €,0.69 €,,1.77 €,4726000,-165500
@@ -170,7 +170,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,75 Boulevard Joliot Curie,NANTES,44200,,,1.86 €,1.75 €,4719400,-153000
 44,Avenue de Nantes ZA le Haut Coin,Aigrefeuille-sur-Maine,44140,1.71 €,,1.80 €,1.75 €,4708200,-141200
 44,2 Rue Pierre Mendès France,Saint-Sébastien-sur-Loire,44230,1.73 €,,1.91 €,1.75 €,4719200,-149200
-44,Rue de Rennes,TREILLIèRES,44119,1.70 €,0.68 €,1.79 €,1.70 €,4733200,-161800
+44,Rue de Rennes,TREILLIèRES,44119,1.68 €,0.68 €,1.79 €,1.70 €,4733200,-161800
 44,C.C. DE LA BERNUAIS,MONTOIR-DE-BRETAGNE,44550,1.70 €,0.71 €,1.78 €,1.71 €,4732700,-215200
 44,Rue de la Frégate,LA TURBALLE,44420,1.81 €,,1.92 €,1.86 €,4734946,-250026
 44,RUE DE LA MALNOUE,Thouaré-sur-Loire,44470,1.71 €,,1.83 €,1.75 €,4726200,-144700

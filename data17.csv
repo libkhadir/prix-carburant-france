@@ -10,7 +10,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,44 Rue Audry de Puyravault,Surgères,17700,,,,1.87 €,4610900,-75400
 17,AVENUE DE SAINTONGES,SAINTES,17100,1.71 €,0.84 €,1.79 €,1.76 €,4574100,-62500
 17,RN. 11 / SENS NIORT - LA ROCHELL,PUILBOREAU,17138,1.71 €,,1.79 €,1.76 €,4617700,-110300
-17,Avenue Charles de Gaulle,SAINT-PALAIS-SUR-MER,17420,1.74 €,,1.79 €,1.76 €,4565100,-108500
+17,Avenue Charles de Gaulle,SAINT-PALAIS-SUR-MER,17420,1.73 €,,1.79 €,1.76 €,4565100,-108500
 17,69 route COTE DE BEAUTE,BOUTENAC TOUVENT,17120,,,2.10 €,2.07 €,4550600,-75700
 17,1 Avenue d'Aunis,ROCHEFORT,17300,1.75 €,,1.85 €,1.82 €,4594800,-97600
 17,A10 AIRE CHARENTES EST,Saint-Léger,17800,1.97 €,,2.11 €,2.00 €,4560900,-59700
@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,Rue Nicolas Gargot,AYTRé,17440,,,1.80 €,1.76 €,4613860,-113925
 17,Rue de la République,MARENNES,17320,,,1.80 €,1.75 €,4582300,-110300
 17,6 rue des Ecoles,La Jarrie,17220,1.70 €,0.76 €,1.78 €,1.75 €,4612900,-100700
-17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.68 €,,1.77 €,1.72 €,4615054.29,-107654.119
+17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.70 €,,1.79 €,1.74 €,4615054.29,-107654.119
 17,Avenue de la République,Montendre,17130,1.79 €,,1.84 €,1.78 €,4528400,-40300
 17,7 RN,VILLENEUVE-LA-COMTESSE,17330,,,,2.19 €,4609855,-50192
 17,Autoroute A10 Aire de Saint-Léger,Saint-Léger,17800,2.17 €,,2.29 €,2.19 €,4561300,-60400
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,109 AVENUE D'AUNIS,Tonnay-Charente,17430,1.72 €,0.84 €,1.80 €,1.76 €,4594998.06704,-92644.2213693
 17,17 avenue de la presqu'ile,ARVERT,17530,,,1.80 €,1.75 €,4574200,-112100
 17,4 AVENUE ROYAN,LES MATHES,17570,,,2.01 €,1.94 €,4568700,-117100
-17,ZA du Tonneau,Archiac,17520,,,2.00 €,1.93 €,4552800,-30400
+17,ZA du Tonneau,Archiac,17520,,,1.88 €,1.82 €,4552800,-30400
 17,2 Route des Mirouelles,SAINT-PIERRE-D'OLéRON,17310,,0.65 €,1.78 €,1.74 €,4594300,-132100
 17,Route de la Flotte,SAINT-MARTIN-DE-Ré,17410,1.69 €,,1.78 €,1.73 €,4619800,-135500
 17,37 BIS PLACE DE LA REPUBLIQUE,AIGREFEUILLE-D'AUNIS,17290,,,,1.99 €,4611700,-93400
@@ -89,7 +89,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,Rue de la Sacristinerie,SAINT-JEAN-D'ANGéLY,17400,1.78 €,,1.88 €,1.76 €,4594400,-50500
 17, Place de la Renaissance,AIGREFEUILLE-D'AUNIS,17290,1.70 €,0.80 €,1.79 €,1.74 €,4611624,-93553
 17,Avenue Monseigneur Chauvin,JONZAC,17500,1.70 €,0.76 €,1.79 €,1.74 €,4545300,-43900
-17,Espace Jean-Philippe Rameau,SURGERES,17700,1.69 €,0.75 €,1.78 €,1.73 €,4611100,-73900
+17,Espace Jean-Philippe Rameau,SURGERES,17700,1.70 €,0.75 €,1.79 €,1.74 €,4611100,-73900
 17,68 Avenue du Maréchal Juin,SAINT-GEORGES-DE-DIDONNE,17110,1.71 €,0.77 €,1.79 €,1.75 €,4561200,-99100
 17,4 Avenue des Corsaires,Saint-Martin-de-Ré,17410,1.69 €,0.76 €,1.78 €,1.73 €,4619834,-135416
 17,36 rue Marc Jeanjean,Matha,17160,1.73 €,,1.82 €,1.76 €,4586706,-31160
@@ -97,7 +97,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,Rue Alexandre Dumas,Saint-Jean-d'Angély,17400,1.78 €,,1.88 €,1.76 €,4595287,-52991
 17,20 BD GOULEBENEZE,Burie,17770,,,1.82 €,1.75 €,4577508.1037514,-42216.137321515
 17,8 Avenue du Maréchal Leclerc,SAINT-AIGULIN,17360,1.70 €,,2.09 €,1.75 €,4515900,-1900
-17,5 rue Jacques Yves Cousteau,Vaux-sur-Mer,17640,1.74 €,0.76 €,,1.76 €,4564700,-104900
+17,5 rue Jacques Yves Cousteau,Vaux-sur-Mer,17640,1.73 €,0.76 €,,1.76 €,4564700,-104900
 17,RUE MAXIME BOURDEAU,Matha,17160,1.78 €,,1.85 €,1.78 €,4587435,-31139
 17,114 Avenue du Général de Gaulle,Marans,17230,1.70 €,,1.78 €,1.74 €,4630300,-98500
 17, Rue de Béthencourt,LA ROCHELLE,17000,1.76 €,0.91 €,1.85 €,1.86 €,4617075,-120379
@@ -106,14 +106,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,LA CHAINADE,Marennes,17320,,0.80 €,1.80 €,1.75 €,4583164.173,-112359.33
 17,47 RUE DE L'EGLISE,MESCHERS-SUR-GIRONDE,17132,1.70 €,,1.79 €,1.74 €,4555900,-95400
 17,Le Moulin des Justices,ARVERT,17530,1.71 €,,1.80 €,1.75 €,4575657.46367,-114008.33175
-17,Zone commerciale de clairvent,MONTGUYON,17270,1.66 €,,1.74 €,1.70 €,4521213.97979,-17719.7722832
+17,Zone commerciale de clairvent,MONTGUYON,17270,1.72 €,,1.82 €,1.76 €,4521213.97979,-17719.7722832
 17,Avenue du Fief Rose ,LAGORD,17140,1.70 €,,1.79 €,1.74 €,4617394.27831,-116766.879889
 17,176 Avenue de Rochefort,ROYAN,17200,,,1.93 €,1.84 €,4564756.29563,-102447.404804
 17,Avenue François Mitterrand,Surgères,17700,1.71 €,,1.79 €,1.74 €,4610868,-76826.999999999
 17,Route de Coudenne,PONS,17800,1.70 €,0.80 €,1.79 €,1.74 €,4557900,-55800
 17,Route Départementale 735,Ars-en-Ré,17590,,,1.81 €,1.76 €,4620400,-151200
 17,PARC COMMERCIAL DE LA SOURCE,Jonzac,17500,1.70 €,0.76 €,1.79 €,1.74 €,4544800,-44000
-17,31 Cours Lemercier,SAINTES,17100,1.78 €,,1.89 €,1.81 €,4574748.62192,-63963.1423467
+17,31 Cours Lemercier,SAINTES,17100,1.79 €,,1.90 €,1.84 €,4574748.62192,-63963.1423467
 17,Route de Rochefort,ANGOULINS,17690,1.70 €,0.78 €,1.79 €,1.72 €,4611100,-110300
 17,RUE DE L'ADJUDANT GALLAND,DOMPIERRE-SUR-MER,17139,,,1.78 €,1.73 €,4618933.169,-106930.786
 17,rue du 14 juillet,PUILBOREAU,17138,1.70 €,0.78 €,1.79 €,1.74 €,4617364.60061,-111758.831845
