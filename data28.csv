@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,8 BD DU 8 MAI,Châteaudun,28200,1.81 €,,1.92 €,1.87 €,4806166,133489
 28,Rue de Dolmont,Saint-Georges-sur-Eure,28190,1.77 €,,1.87 €,1.79 €,4842440,136158
-28,AUTOROUTE A11 OCEANE,Dampierre-sous-Brou,28160,1.82 €,,1.93 €,1.89 €,4824000,108300
+28,AUTOROUTE A11 OCEANE,Dampierre-sous-Brou,28160,1.82 €,,1.93 €,1.91 €,4824000,108300
 28,ROUTE D'OULINS,ANET,28260,,,,,4885987.1629,144818.033753
 28,Route d'Alençon,Nogent-le-Rotrou,28400,1.85 €,,1.97 €,1.92 €,4832767,80313
 28,2 Rue Louis Fauvel,Vernouillet,28500,,,,,4873200,134100
@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,1 Impasse de la Cerisaie,La Loupe,28240,1.72 €,,1.82 €,1.76 €,4847500,102600
 28,Rue Denis Papin,Voves,28150,1.70 €,0.76 €,1.79 €,1.74 €,4827900,162300
 28,LA HAUTE BORNE,Toury,28310,1.70 €,0.80 €,1.80 €,1.74 €,4819625.25,193678.45626935
-28,Rue de Beauce,BAILLEAU-LE-PIN,28120,1.80 €,,1.90 €,1.82 €,4836400,133000
+28,Rue de Beauce,BAILLEAU-LE-PIN,28120,1.79 €,,1.90 €,1.80 €,4836400,133000
 28,Route d'Anet,Saussay,28260,,,1.83 €,1.79 €,4885967,142303
 28,Rue Bautzen,DREUX,28100,1.75 €,,1.85 €,1.76 €,4873700,135100
 28,Route de Patay,CHARTRES,28000,1.70 €,0.76 €,1.78 €,1.74 €,4843240.14794,149271.484815
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,route de romilly,Cloyes-sur-le-Loir,28220,,,1.83 €,1.75 €,4799000,125600
 28,Route du Mans RN23,Nogent-le-Rotrou,28400,1.82 €,,1.93 €,1.87 €,4830636.693,80848.721
 28,14 Avenue du Général de Gaulle,Janville,28310,1.71 €,,1.79 €,1.74 €,4819700,189200
-28,54 route de la Ferté Vidame,Senonches,28250,1.70 €,,1.80 €,1.76 €,4857000,102400
+28,54 route de la Ferté Vidame,Senonches,28250,1.72 €,,1.82 €,1.76 €,4857000,102400
 28,Rue des Bas Buissons,DREUX,28100,1.76 €,,2.02 €,1.85 €,4874805.779,134353.933
 28,RUE DU MOULIN,PIERRES,28130,1.76 €,0.80 €,1.89 €,1.78 €,4858726,157307
 28,AV FRANCOIS ARAGO,CHARTRES,28000,1.83 €,0.84 €,1.94 €,1.87 €,4844600,149700
@@ -51,8 +51,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Route de Chartres,BROU,28160,1.72 €,0.76 €,1.82 €,1.76 €,4821500,118000
 28,56 Rue de Paris,BREZOLLES,28270,,,2.00 €,1.86 €,4869002.15643,107867.353187
 28,ROUTE D'EPERNON,GALLARDON,28320,,,1.77 €,1.76 €,4853229.5396,168398.622791
-28,2 rue denis papin za de la louveterie,BONNEVAL,28800,1.79 €,,1.85 €,1.77 €,4818700,139100
 28,CHEMIN DEPARTEMENTAL 9,LA BAZOCHE-GOUET,28330,1.72 €,,1.80 €,1.77 €,4814400,97200
+28,2 rue denis papin za de la louveterie,BONNEVAL,28800,1.79 €,,1.85 €,1.77 €,4818700,139100
 28,7 rue de l'étang,Thiron-Gardais,28480,,,2.06 €,1.95 €,4831300,99100
 28,126 AV DU GAL LECLERC,DREUX,28100,1.76 €,0.85 €,1.87 €,1.80 €,4874300,139000
 28,Zac du Pays Alnelois,AUNEAU,28700,1.72 €,0.70 €,1.86 €,1.75 €,4847828.31809,176803.811395

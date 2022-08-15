@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-39,16 Route de Lyon,Saint-Claude,39200,1.68 €,0.83 €,1.81 €,1.78 €,4637945,583946
 39,Lieu-dit Champs Bouvier,Beaufort,39190,,,1.85 €,1.90 €,4657600,543700
+39,16 Route de Lyon,Saint-Claude,39200,1.68 €,0.83 €,1.81 €,1.78 €,4637945,583946
 39,Rue des Salines,LONS-LE-SAUNIER,39000,1.96 €,,2.06 €,1.83 €,4667404.13018,553981.363906
 39,14 Avenue du Maréchal Juin,Dole,39100,1.68 €,,1.81 €,1.78 €,4708600,549600
 39,BOULEVARD DE L EUROPE,Lons-le-Saunier,39000,1.74 €,0.85 €,1.82 €,1.78 €,4667995,557214
@@ -60,7 +60,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,Boulevard des frères Lumière,Dole,39100,,0.90 €,,1.84 €,4709800,550000
 39,RN 83 MONTCHAUVROT,MANTRY,39230,,0.90 €,1.90 €,1.90 €,4680800,558200
 39,ROUTE DU GENIE,LES ROUSSES,39220,1.68 €,0.76 €,1.73 €,1.78 €,4648600,605500
-39,6 Rue du Jura,SAINT-LUPICIN,39170,,,,1.97 €,4640300,579300
+39,6 Rue du Jura,SAINT-LUPICIN,39170,,,,1.80 €,4640300,579300
 39,Rue du Général Bethouart,DOLE,39100,1.62 €,,1.75 €,1.75 €,4708600,549000
 39,2 RUE DU PARTERRE,Clairvaux-les-Lacs,39130,,,1.88 €,1.87 €,4657500,575100
 39,2 avenue de Franche-Comté,SAINT-AMOUR,39160,1.72 €,,1.80 €,1.78 €,4644200,534300

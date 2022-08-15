@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,7 RUE ROBERT KASKOREFF,Caen,14000,1.72 €,,,1.74 €,4918300,-40300
 14,73-75  AVENUE G. CLEMENCEAU,CAEN,14000,1.82 €,,1.93 €,1.86 €,4918856,-35025
 14,83 BOULEVARD YVES GUILLOU,CAEN,14000,1.71 €,0.82 €,1.81 €,1.76 €,4917276.481677,-38971.0297385
-14,84 Route de Caen,Ouistreham,14150,1.71 €,,1.80 €,1.74 €,4927100,-26100
+14,84 Route de Caen,Ouistreham,14150,1.72 €,,1.80 €,1.75 €,4927100,-26100
 14,RN 158 RTE DE FALAISE,IFS,14123,1.71 €,,1.82 €,1.76 €,4914210,-33738.5
 14,389  ROUTE DE CAEN - RN 158,IFS,14123,1.83 €,0.84 €,1.94 €,1.87 €,4915400.414,-34387.914
 14,33 RUE AMIRAL HAMELIN,Pont-l'Évêque,14130,1.71 €,0.82 €,1.80 €,1.76 €,4928849,18887.000000001
@@ -60,7 +60,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,22 Rue Émile Zola,Mondeville,14120,1.74 €,,1.84 €,1.76 €,4917356,-32807
 14,Rue des Frères Lumière,Cormelles-le-Royal,14123,1.70 €,,1.81 €,1.74 €,4915400,-31400
 14,9 Rue du 19 Mars 1962,Saint-Martin-des-Besaces,14350,1.79 €,,1.90 €,1.86 €,4901100,-85200
-14,Impasse des Goélands,Port-en-Bessin-Huppain,14520,1.70 €,,1.83 €,1.76 €,4934231,-75209.000000004
+14,Impasse des Goélands,Port-en-Bessin-Huppain,14520,,,,1.76 €,4934231,-75209.000000004
 14,16 Boulevard Sadi-Carnot,BAYEUX,14400,1.75 €,0.83 €,1.87 €,1.79 €,4927100,-69900
 14,Route de Torigni,CAUMONT-L'ÉVENTé,14240,1.79 €,,1.86 €,1.80 €,4908893,-81360
 14,61 Boulevard Sainte-Anne,Lisieux,14100,1.85 €,0.83 €,1.99 €,1.93 €,4914400,22200
@@ -83,7 +83,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,COURS JEAN DE VIENNE,HONFLEUR,14600,1.71 €,0.83 €,1.82 €,1.76 €,4941308.548,25017.303
 14,Place de l'hôtel de ville,Isigny-sur-Mer,14230,,,1.90 €,1.86 €,4931862.92,-110089.57
 14,Boulevard du 6 Juin,BAYEUX,14400,1.69 €,,1.81 €,1.73 €,4927700,-71900
-14,Avenue de la République,TOURGéVILLE,14800,1.95 €,0.84 €,1.99 €,1.99 €,4935600,7100
+14,Avenue de la République,TOURGéVILLE,14800,,0.84 €,1.99 €,1.99 €,4935600,7100
 14,LA VALLEE,Ouilly-le-Vicomte,14100,1.75 €,,1.81 €,1.77 €,4917100,21700
 14,Longue Vue des Photographes,Louvigny,14111,1.73 €,0.80 €,1.83 €,1.75 €,4916100,-40000
 14,Route de Trouville,Équemauville,14600,1.73 €,,1.82 €,1.77 €,4939700,21100
@@ -111,7 +111,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,Route Nationale,TOUQUES,14800,,,1.81 €,1.75 €,4934700,9500
 14,PARC DU GRIEU - ROUTE DE LISIEUX,Pont-l'Évêque,14130,1.70 €,0.76 €,1.79 €,1.75 €,4928540.59,20427.899
 14,LA CROIX VAUTIER,ROTS,14980,1.80 €,,1.89 €,1.84 €,4920000,-45900
-14,RUE DE LITTRY,ISIGNY-SUR-MER,14230,1.76 €,0.80 €,1.86 €,1.80 €,4931300,-109900
+14,RUE DE LITTRY,ISIGNY-SUR-MER,14230,1.77 €,0.80 €,1.86 €,1.83 €,4931300,-109900
 14,RUE ST JACQUES,condé en normandie,14110,1.71 €,,1.81 €,1.77 €,4885503.4234699,-54190.441915746
 14,1 rue du grand clos,Creully sur seulles,14480,1.76 €,,1.84 €,1.82 €,4928500,-54000
 14,1 ROND POINT ROYAL NORFOLK,Blainville-sur-Orne,14550,1.70 €,0.75 €,1.77 €,1.73 €,4923200,-29300

@@ -3,14 +3,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,Route d'Heyrieux,Saint-Pierre-de-Chandieu,69780,1.75 €,,1.85 €,1.83 €,4564700,502500
 69,RN 383 BRD PIERRE SEMARD,ST FONS,69190,1.73 €,,1.85 €,1.84 €,4570696.856547,484324.75330867
 69,890 rue centrale,LAMURE-SUR-AZERGUES,69870,1.75 €,,1.86 €,1.88 €,4606000,449000
-69,RN 86 La Maladière,CONDRIEU,69420,,,1.79 €,1.76 €,4545700,475700
 69,91 route de Grenoble,St Priest,69800,1.76 €,,1.87 €,1.86 €,4569700,494400
 69,97 RUE DENFERT ROCHEREAU,LYON,69004,1.81 €,,1.89 €,1.92 €,4577900,482800
 69,LES SEPT CHEMINS RN.86,Vourles,69390,,,,1.86 €,4565803,475131
 69,AUTOROUTE A7 - AIRE DE SOLAIZE,Saint-Symphorien-d'Ozon,69360,1.73 €,0.89 €,1.84 €,1.86 €,4565169.6523741,483596.33109272
 69,1880 route de strasbourg,Rillieux-la-Pape,69140,1.86 €,,1.97 €,1.96 €,4581300,488800
-69,633 route de villefranche,Anse,69480,,,1.99 €,1.92 €,4594300,471500
+69,RN 86 La Maladière,CONDRIEU,69420,,,1.79 €,1.76 €,4545700,475700
 69,100 AVENUE BARTHELEMY BUYER,LYON,69009,1.66 €,,1.79 €,1.77 €,4576200,480300
+69,633 route de villefranche,Anse,69480,,,1.86 €,1.87 €,4594300,471500
 69,Rue du Chateau d'Yvours,Irigny,69540,,,1.73 €,1.75 €,4568800,482500
 69,7 Avenue Édouard Herriot,Tarare,69170,1.68 €,,1.78 €,1.76 €,4589200,444200
 69,LA CHEVALIERE,Beaujeu,69430,1.75 €,,1.82 €,1.89 €,4614600,459900
@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,Avenue du Bon Pasteur,ÉCULLY,69130,1.63 €,0.84 €,1.70 €,1.74 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.66 €,,1.76 €,1.78 €,4577900,477900
 69,328 Avenue Jean Jaurès,Décines-Charpieu,69150,1.65 €,,1.74 €,1.77 €,4577200,497000
-69,50 Avenue du 11 Novembre 1918,Tassin-la-Demi-Lune,69160,1.66 €,0.87 €,1.78 €,1.75 €,4576400,475900
+69,50 Avenue du 11 Novembre 1918,Tassin-la-Demi-Lune,69160,1.66 €,0.87 €,1.79 €,1.77 €,4576400,475900
 69,47 COURS EMILE ZOLA,VILLEURBANNE,69100,1.80 €,,1.92 €,1.89 €,4577100.87,486666.777
 69,110 BD DU 11 NOVEMBRE 1918,VILLEURBANNE,69100,1.78 €,,1.90 €,1.88 €,4577900,487100
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.81 €,0.87 €,1.92 €,1.88 €,4570337.53,484993.11
@@ -38,8 +38,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,145 Boulevard de l'Europe,Pierre-Bénite,69310,1.67 €,,1.80 €,1.78 €,4569600,482600
 69,42 Avenue du Chater,Francheville,69340,1.66 €,,1.79 €,1.77 €,4574400,477100
 69,66 RUE STEPHANE DECHANT,LA MULATIERE,69350,1.75 €,,1.86 €,1.87 €,4572600,481500
-69,705 Rue d'Anse,Villefranche-sur-Saône,69400,1.73 €,,1.78 €,1.83 €,4597900,471800
-69,145 Boulevard Roger Salengro,Villefranche-sur-Saône,69400,1.73 €,,1.78 €,1.83 €,4599800,471600
+69,705 Rue d'Anse,Villefranche-sur-Saône,69400,1.73 €,,1.78 €,1.81 €,4597900,471800
+69,145 Boulevard Roger Salengro,Villefranche-sur-Saône,69400,1.74 €,,1.78 €,1.82 €,4599800,471600
 69,3 AVE GENERAL DE GAULLE,CHAMPAGNE-AU-MONT-D'OR,69410,1.86 €,,1.92 €,1.86 €,4580042.47,478673.23
 69,La Croisette,Pontcharra-sur-Turdine,69490,1.76 €,,1.75 €,1.80 €,4587792,451130
 69,16 AV F ROOSEVELT,BRON,69500,1.64 €,,1.75 €,1.76 €,4573833,489414
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,32 ROUTE DE LYON,Saint-Priest,69800,1.64 €,0.85 €,1.76 €,1.76 €,4570126.6767444,491889.23985421
 69,403 Route de Bellevue,LIMONEST,69760,,,,2.23 €,4584300,477000
 69,19 avenue Edouard Hérriot,Limas,69651,1.74 €,0.84 €,1.85 €,1.87 €,4597900,473300
-69,27 route de la taquière,Ampuis,69420,1.67 €,0.87 €,,1.75 €,4548751,480054
+69,27 route de la taquière,Ampuis,69420,1.67 €,0.87 €,,1.78 €,4548751,480054
 69,La Croix Blanche,Saint-Laurent-de-Chamousset,69930,,,,1.99 €,4573800,446700
 69,1 Rue de la république,Quincieux,69650,1.81 €,,1.92 €,1.89 €,4591700,477500
 69,AVENUE TONY GARNIER,LYON,69007,1.66 €,0.85 €,1.77 €,1.77 €,4572665,482857
@@ -67,8 +67,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,28 Avenue Maurice JARROSSON,SAINTE-FOY-LèS-LYON,69110,1.71 €,,1.80 €,1.82 €,4574205,479769
 69,38 Rue de l'Abbaye,Villefranche-sur-Saône,69400,,,,,4601100,472600
 69,44 AVENUE LECLERC,LYON 7,69007,,,1.87 €,1.87 €,4573700,482400
-69,A6 Aire des Cheres Est,Les Cheres,69380,1.79 €,0.89 €,1.88 €,1.89 €,4590300,473000
-69,A6 Aire des Cheres Ouest,Les Cheres,69380,1.80 €,,1.89 €,1.89 €,4589500,473200
+69,A6 Aire des Cheres Est,Les Cheres,69380,1.79 €,0.89 €,1.88 €,1.91 €,4590300,473000
+69,A6 Aire des Cheres Ouest,Les Cheres,69380,1.81 €,,1.90 €,1.91 €,4589500,473200
 69,Route de Roanne,Amplepuis,69550,1.65 €,0.80 €,1.75 €,1.79 €,4597868,432020
 69,3710 ROUTE DE SAINT VINCENT,Quincié-en-Beaujolais,69430,,0.94 €,1.98 €,2.06 €,4613965.793122,460822.098476
 69,Avenue de la Gare,Saint-Romain-en-Gal,69560,1.64 €,,1.74 €,1.76 €,4552844,486499

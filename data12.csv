@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,33 AVENUE DU LAC,VILLEFRANCHE-DE-PANAT,12430,,,,1.90 €,4409000,270100
 12,15 route du rouergue,La Fouillade,12270,,,1.92 €,1.89 €,4422926.327,203836.845
 12,ZA les Pradades - Salles la Source,MARCILLAC-VALLON,12330,1.72 €,,1.78 €,1.79 €,4445500,247300
-12,Route de Rodez,Rieupeyroux,12240,1.69 €,,1.80 €,1.76 €,4430600,224900
+12,Route de Rodez,Rieupeyroux,12240,1.68 €,,1.80 €,1.76 €,4430600,224900
 12,AVENUE DU ROUERGUE,Villeneuve,12260,,,2.00 €,1.95 €,4443191.9246165,203145.65531871
 12,Avenue de Rodez,Pont-de-Salars,12290,,,,1.90 €,4428900,271400
 12, Avenue Marie Curie,SéVéRAC-LE-CHâTEAU,12150,1.68 €,,1.78 €,1.79 €,4432524,306544
@@ -68,8 +68,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,le fargal haut,Montbazens,12220,,0.89 €,,1.87 €,4446138.9568938,222235.07921239
 12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,1.96 €,1.87 €,4483700,266300
 12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.77 €,,1.88 €,1.87 €,4395700,287500
+12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.84 €,1.78 €,4409065,307745
 12,30 Avenue du Rouergue,BERTHOLèNE,12310,,,1.93 €,1.87 €,4439367,277776
-12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.84 €,1.80 €,4409065,307745
 12,Avenue de Rodez,PONT-DE-SALARS,12290,1.70 €,,1.80 €,1.80 €,4428800,271500
 12,Z.A. PLAISANCE,Cassagnes-Bégonhès,12120,1.79 €,,,1.83 €,4417642.425,252119.462
 12,ZA le Plâ d'Aveyron RN88,Recoules-Prévinquières,12150,,0.90 €,,1.85 €,4435100,297200

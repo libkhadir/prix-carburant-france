@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-03,Route des Ferrières,Le Mayet-de-Montagne,03250,1.66 €,,1.74 €,1.78 €,4606849,366341
+03,Route des Ferrières,Le Mayet-de-Montagne,03250,1.66 €,,1.74 €,1.77 €,4606849,366341
 03,11 Avenue Préveraud,Le Donjon,03130,,,1.94 €,1.92 €,4634868,379313
 03,6 Avenue P.Mendes france,GANNAT,03800,,0.84 €,1.89 €,1.88 €,4609963.00266,321174.619218
 03,Route de Gannat,Saint-Pourçain-sur-Sioule,03500,1.71 €,1.00 €,,1.77 €,4629800,329600
@@ -10,12 +10,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 03,4 RUE ARMAND QUEROY,SAULCET,03500,,,2.08 €,2.03 €,4633800,328500
 03,Allée des ailes,VICHY,03200,1.69 €,,1.79 €,1.81 €,4614300,341500
 03,Route de Montmarault,SAINT-POURçAIN-SUR-SIOULE,03500,,,1.86 €,1.77 €,4631156,328058
-03,ROUTE DE MOULINS,MONTMARAULT,03390,,,1.76 €,1.80 €,4632100,296100
+03,ROUTE DE MOULINS,MONTMARAULT,03390,,,1.79 €,1.83 €,4632100,296100
 03,28  route de Lyon,YZEURE,03400,1.77 €,0.84 €,1.88 €,1.88 €,4655800,333500
 03,ZAC les portes de l'Allier,Avermes,03000,1.70 €,,1.70 €,1.75 €,4658900,331100
 03,28 Rue Bergeron-Vebret,Yzeure,03400,,,2.00 €,2.00 €,4656300,335500
 03,2 Rue Alphonse Daudet,Avermes,03000,,0.73 €,,1.75 €,4658700,331500
-03,12 avenue des Portes Occitanes,Gannat,03800,1.67 €,0.80 €,1.75 €,1.79 €,4608000,320100
+03,12 avenue des Portes Occitanes,Gannat,03800,1.69 €,0.80 €,1.75 €,1.82 €,4608000,320100
 03,16 Route de Montilly,MOULINS,03000,1.63 €,0.76 €,1.71 €,1.76 €,4656200,332000
 03,11 AV DE CHAZEUIL,VARENNES-SUR-ALLIER,03150,,,2.08 €,2.03 €,4632800,338800
 03,Lieu-dit La Loue,Saint-Victor,03410,1.70 €,0.80 €,,1.76 €,4637713,259264
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 03,Avenue du General de Gaulle,BELLERIVE-SUR-ALLIER,03700,1.69 €,0.76 €,1.79 €,1.78 €,4611400,341800
 03,route de longeville,Deux-Chaises,03240,1.78 €,,1.89 €,1.88 €,4638000,304000
 03,48 Avenue de Gramont,VICHY,03200,1.78 €,,1.89 €,1.86 €,4613100,343400
-03,Avenue Jean Jaurès,Cérilly,03350,,,,1.95 €,4661658.854,282206.505
+03,Avenue Jean Jaurès,Cérilly,03350,,,,1.84 €,4661658.854,282206.505
 03,AVENUE JEAN MASSE,Lapalisse,03120,1.67 €,0.76 €,1.77 €,1.76 €,4624944,362760
 03,ROUTE DE MOULINS,Lurcy-Lévis,03320,,,1.85 €,1.80 €,4673100,293800
 03,12 RUE AMBROISE CROIZAT,DESERTINES,03630,1.69 €,,1.79 €,1.79 €,4634500,261900
