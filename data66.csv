@@ -13,9 +13,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 66,Avenue du Roussillon,LE BARCARèS,66420,1.71 €,0.82 €,1.79 €,1.81 €,4282400,303500
 66,ZAC DES ASPRES,LATOURBASELNE,66200,,,1.82 €,1.92 €,4261198.9137723,300201.49910677
 66,Avenue de Perpignan,SALEILLES,66280,1.74 €,,1.84 €,1.85 €,4265800,295200
-66,route de canet,PERPIGNAN,66000,1.65 €,0.76 €,1.71 €,1.80 €,4270100,294400
+66,route de canet,PERPIGNAN,66000,1.65 €,0.76 €,1.74 €,1.83 €,4270100,294400
 66,5 ROUTE DU LITTORAL,Argelès-sur-Mer,66700,1.74 €,0.86 €,,1.92 €,4257500,303500
-66,Avenue Victor Dalbiez,Perpignan,66000,,0.90 €,1.70 €,1.78 €,4268600,288300
+66,Avenue Victor Dalbiez,Perpignan,66000,,0.90 €,1.70 €,1.80 €,4268600,288300
 66,Avenue Clemenceau,VERNET-LES-BAINS,66820,1.68 €,,1.79 €,1.80 €,4255700,238400
 66,avenue de Saint Cyprien,Latour-Bas-Elne,66200,1.67 €,,1.75 €,1.84 €,4260951.7496565,300950.01852417
 66,ROUTE D ESPAGNE,PERPIGNAN,66000,1.67 €,0.82 €,1.75 €,1.85 €,4267777.1792859,289062.60773838
@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 66,chemin de Camalens av de la padrouze,THUIR,66300,1.65 €,0.77 €,1.75 €,1.81 €,4264000,275700
 66,Grande Rue,Bolquère,66210,1.78 €,,1.86 €,1.91 €,4250278,207801
 66,BOULEVARD DU 14 JUILLET,LE BARCARèS,66420,1.68 €,,1.75 €,1.83 €,4278737,303490
-66,2130 avenue du Languedoc,Perpignan,66962,,0.90 €,1.70 €,1.78 €,4274200,289200
+66,2130 avenue du Languedoc,Perpignan,66962,,0.90 €,1.70 €,1.80 €,4274200,289200
 66,Rue Paul Barthez,Perpignan,66100,,,,,4266700,289200
 66,14 rue des grillons,Saint-Estève,66240,,0.83 €,1.89 €,1.92 €,4271600,284400
 66,Impasse Jacques de Noëll,PERPIGNAN,66000,1.66 €,0.86 €,1.75 €,1.85 €,4272662.2344591,289921.96288361

@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,8 AVENUE MARYSE BASTIE,ROYAN,17200,1.72 €,,1.80 €,1.85 €,4562472.81492,-101645.691284
 17,1  AV DE LA LIBERATION,ROYAN,17200,1.72 €,0.83 €,1.80 €,1.85 €,4562357,-101317
 17,route de la rochelle,ROCHEFORT,17300,1.70 €,0.80 €,1.78 €,1.81 €,4595675.89967,-97777.6716334
-17,ZA des Grossines,Marennes,17320,1.71 €,,1.80 €,1.82 €,4582747,-109838
+17,ZA des Grossines,Marennes,17320,1.74 €,,1.80 €,1.82 €,4582747,-109838
 17,Rue de la Sacristinerie,SAINT-JEAN-D'ANGéLY,17400,1.78 €,,1.88 €,1.82 €,4594400,-50500
 17,44 Rue Audry de Puyravault,Surgères,17700,,,,1.96 €,4610900,-75400
 17,RN. 11 / SENS NIORT - LA ROCHELL,PUILBOREAU,17138,1.71 €,,1.79 €,1.84 €,4617700,-110300
@@ -41,15 +41,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,204 route de Royan,Medis,17600,1.70 €,,,1.81 €,4566563.17,-94339.2
 17,43 rue des sports,Saint-Xandre,17138,,,2.18 €,2.30 €,4620600,-109500
 17,Lieu dit la Beaucousière,Le Château-d'Oléron,17480,1.70 €,,1.78 €,1.80 €,4588600,-119500
-17,14/16 Cours Forbin,LA ROCHELLE,17000,1.76 €,,1.86 €,1.89 €,4616600,-117800
-17,6 Boulevard Maréchal Lyautey,LA ROCHELLE,17000,1.76 €,,1.86 €,1.87 €,4616200,-120300
+17,14/16 Cours Forbin,LA ROCHELLE,17000,1.78 €,,1.88 €,1.93 €,4616600,-117800
+17,6 Boulevard Maréchal Lyautey,LA ROCHELLE,17000,1.78 €,,1.88 €,1.92 €,4616200,-120300
 17,Rue Nicolas Gargot,AYTRé,17440,,,1.79 €,1.81 €,4613860,-113925
 17,Rue de la République,MARENNES,17320,,,1.80 €,1.83 €,4582300,-110300
 17,6 rue des Ecoles,La Jarrie,17220,1.72 €,0.76 €,1.79 €,1.78 €,4612900,-100700
 17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.69 €,,1.78 €,1.82 €,4615054.29,-107654.119
 17,Avenue de la République,Montendre,17130,1.79 €,,1.84 €,1.78 €,4528400,-40300
 17,7 RN,VILLENEUVE-LA-COMTESSE,17330,,,,2.19 €,4609855,-50192
-17,Autoroute A10 Aire de Saint-Léger,Saint-Léger,17800,2.13 €,,2.25 €,2.15 €,4561300,-60400
+17,Autoroute A10 Aire de Saint-Léger,Saint-Léger,17800,2.16 €,,2.28 €,2.18 €,4561300,-60400
 17,ZA Les Touzelleries,Saujon,17600,1.70 €,,1.79 €,1.80 €,4567400,-94400
 17,1 ZA LE PRE CHARDON,SEMUSSAC,17120,1.72 €,,1.80 €,1.83 €,4560400,-91400
 17,RTE DE MONTLIEU,Montendre,17130,1.80 €,,1.87 €,1.81 €,4528100,-39400
@@ -89,7 +89,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,Route de Bordeaux,LES GONDS,17100,1.79 €,,1.90 €,1.94 €,4571907,-63643
 17, Place de la Renaissance,AIGREFEUILLE-D'AUNIS,17290,1.70 €,0.80 €,1.78 €,1.81 €,4611624,-93553
 17,Avenue Monseigneur Chauvin,JONZAC,17500,1.69 €,0.76 €,1.77 €,1.81 €,4545300,-43900
-17,Espace Jean-Philippe Rameau,SURGERES,17700,1.69 €,0.75 €,1.78 €,1.80 €,4611100,-73900
+17,Espace Jean-Philippe Rameau,SURGERES,17700,1.70 €,0.75 €,1.79 €,1.82 €,4611100,-73900
 17,68 Avenue du Maréchal Juin,SAINT-GEORGES-DE-DIDONNE,17110,1.73 €,0.77 €,1.80 €,1.83 €,4561200,-99100
 17,4 Avenue des Corsaires,Saint-Martin-de-Ré,17410,1.69 €,0.76 €,1.78 €,1.80 €,4619834,-135416
 17,36 rue Marc Jeanjean,Matha,17160,1.70 €,,1.78 €,1.79 €,4586706,-31160

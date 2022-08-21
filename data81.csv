@@ -10,7 +10,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 81,9 Av de Carmaux,Mirandol-Bourgnounac,81190,,,,,4413775,216595
 81, Chemin de Castres Ã  Brassac,BRASSAC,81260,,,,,4362471,247854
 81,11 BIS ROUTE DE TOULOUSE,SAIX,81710,1.68 €,0.83 €,1.78 €,1.86 €,4358591,217207
-81,ROUTE DE SAINT SULPICE,LAVAUR,81500,1.61 €,0.69 €,1.66 €,1.77 €,4370400,180000
+81,ROUTE DE SAINT SULPICE,LAVAUR,81500,1.66 €,0.76 €,1.74 €,1.82 €,4370400,180000
 81,Route de Carmaux,Lescure-d'Albigeois,81380,1.64 €,0.75 €,1.74 €,1.82 €,4395500,215600
 81,Route de l'Aéroport,Labruguière,81290,1.70 €,0.80 €,,1.84 €,4354830,227344
 81,Le Bourg,Lalbarède,81220,,,2.15 €,2.07 €,4364323,204636
@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 81,Rue de la Sigalarie,Cagnac-les-Mines,81130,1.64 €,,1.76 €,1.82 €,4398900,213900
 81,ROND POINT RHIN ET DANUBE,GRAULHET,81300,1.65 €,0.76 €,1.73 €,1.79 €,4376100,197000
 81,boulevard du thoré,aussillon,81200,,,,1.90 €,4350834.6675675,234978.6556333
-81,254 Avenue des Terres Noires,SAINT-SULPICE-LA-POINTE,81370,1.65 €,0.75 €,1.73 €,1.80 €,4377000,167300
+81,254 Avenue des Terres Noires,SAINT-SULPICE-LA-POINTE,81370,1.70 €,0.80 €,1.80 €,1.85 €,4377000,167300
 81,Chemin de Cap Long,Le Sequestre,81990,1.64 €,0.76 €,1.74 €,1.82 €,4391200,212700
 81,1 rue d'al causse,PUYGOUZON,81990,,0.74 €,1.74 €,1.82 €,4389247.503,216522.366
 81,PLACE RENE CASSIN,LAVAUR,81500,1.83 €,0.80 €,1.93 €,1.93 €,4369600,181700
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 81,LIEU DIT L'HERMITAGE,Rabastens,81800,1.65 €,0.88 €,1.78 €,1.80 €,4383000,173800
 81,Route d'Albi,Rabastens,81800,,1.15 €,,1.76 €,4382975,174016
 81,ZA de la Prade,SOUAL,81580,1.69 €,0.90 €,1.79 €,1.78 €,4356600,213000
-81,LIEU DIT LES ROBERTES,Lisle-sur-Tarn,81310,1.61 €,,1.73 €,1.78 €,4386400,181800
+81,LIEU DIT LES ROBERTES,Lisle-sur-Tarn,81310,1.64 €,,1.76 €,1.80 €,4386400,181800
 81,120 Avenue François Verdier,Albi,81000,1.82 €,,1.89 €,2.01 €,4392000,213200
 81,Route de Millau,Villefranche-d'Albigeois,81430,,,,1.95 €,4389489,234154
 81,RouTE DE Saint JUERY LA RENAUDIE,Albi,81000,1.79 €,,1.87 €,1.89 €,4393800,218300
@@ -64,7 +64,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 81,ROUTE DE TOULOUSE,Lisle-sur-Tarn,81310,1.83 €,,1.94 €,1.92 €,4385000,179700
 81,Lieu-Dit Plombières,CASTRES,81100,1.64 €,0.86 €,1.76 €,1.81 €,4362200,221500
 81,10  Rue Albert Calmette,Castres,81100,1.67 €,,1.79 €,1.82 €,4358900,218600
-81,Avenue Jacques Besse,Lavaur,81500,1.61 €,0.76 €,1.68 €,1.77 €,4370855,181727
+81,Avenue Jacques Besse,Lavaur,81500,1.64 €,0.76 €,1.74 €,1.81 €,4370855,181727
 81,154 Avenue Charles de Gaulle,CASTRES,81100,1.82 €,,1.93 €,1.88 €,4359700,226000
 81,2 passage du verrier,Sorèze,81540,2.06 €,0.81 €,2.14 €,2.12 €,4345028.155,206440.871
 81,lieu dit ginestous,Alban,81250,1.70 €,,1.79 €,1.86 €,4388905.345,246155.885
