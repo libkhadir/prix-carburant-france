@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-23,Avenue Jean Jaures,La Souterraine,23300,1.74 €,0.80 €,,1.87 €,4623767.95,147930.62
+23,Avenue Jean Jaures,La Souterraine,23300,1.77 €,0.86 €,,1.87 €,4623767.95,147930.62
 23,Rue François Durand,LA SOUTERRAINE,23300,,,1.87 €,1.87 €,4623400,148300
 23,8 route de la souterraine,Saint-Pierre-de-Fursac,23290,1.77 €,,1.87 €,1.92 €,4615009.06,151048.16
 23,Route de Bénévent,BOURGANEUF,23400,,,1.85 €,1.81 €,4595971,175988
@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 23,4 avenue du limousin,Bénévent l Abbaye,23210,,,,1.84 €,4611600,162400
 23,ZA LA PRADE,LA SOUTERRAINE,23300,1.76 €,0.93 €,1.87 €,1.92 €,4623118.37261,150502.590635
 23,10 ROUTE D'AUBUSSON,AUZANCES,23700,,,,,4602700,249600
-23,RTE DE LA BRIONNE,Saint-Vaury,23320,1.77 €,,,1.85 €,4620000,176000
+23,RTE DE LA BRIONNE,Saint-Vaury,23320,1.78 €,,,1.87 €,4620000,176000
 23,ZA les bois verts,Le Grand-Bourg,23240,,0.91 €,,1.84 €,4616634.48197,164844.994641
 23,55 Avenue de la République,Évaux-les-Bains,23110,1.67 €,,,1.87 €,4616913,248273
 23,16 AVENUE PIERRE MENDES FRANCE,Guéret,23000,1.77 €,,,1.89 €,4616800,187200
@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 23,38 avenue de la marche,Bonnat,23220,1.75 €,0.76 €,1.86 €,1.86 €,4631600,191600
 23,Nouallet,Sardent,23250,1.74 €,1.00 €,,1.85 €,4604300,187800
 23,Le Verger Sainte Feyre,GUéRET,23000,1.77 €,,,1.89 €,4617672.8050278,189791.91984534
-23,10 Route d'Aubusson,Auzances,23700,1.76 €,0.80 €,1.85 €,1.80 €,4602700,249700
+23,10 Route d'Aubusson,Auzances,23700,1.76 €,0.76 €,1.85 €,1.86 €,4602700,249700
 23,ROUTE D'EVAUX LES BAINS,Chambon-sur-Voueize,23170,1.78 €,,1.87 €,1.83 €,4618500,243100
 23,46 Avenue d'Auvergne,Guéret,23000,1.77 €,,1.86 €,1.89 €,4616800,188800
 23,Avenue Pierre Leroux,BOUSSAC,23600,,,1.87 €,1.85 €,4634900,221700
