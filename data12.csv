@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Boulevard de Guizard,ESPALION,12500,,,,1.86 €,4452400,276500
 12,Avenue du rouergue,LANUEJOULS,12350,1.80 €,,1.87 €,1.93 €,4442400,215600
 12,41ter Avenue Adam Grange,Viviez,12110,1.78 €,,1.88 €,1.99 €,4456086,223115
-12,LE BOURG,Saint-Laurent d'Olt,12560,,,,1.87 €,4444500,310900
+12,LE BOURG,Saint-Laurent d'Olt,12560,,,,1.94 €,4444500,310900
 12,28 Avenue de la Vallée du Tarn,REQUISTA,12170,1.71 €,,,1.96 €,4402900,253400
 12,144 Avenue Jean Jaurès,Millau,12100,1.77 €,,1.88 €,2.06 €,4411000,308200
 12,10 bis Avenue de la Gineste,Rodez,12000,,,1.78 €,1.94 €,4436200,257200
@@ -42,8 +42,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,33 AVENUE DU LAC,VILLEFRANCHE-DE-PANAT,12430,,,,2.09 €,4409000,270100
 12,15 route du rouergue,La Fouillade,12270,,,1.89 €,2.00 €,4422926.327,203836.845
 12,ZA les Pradades - Salles la Source,MARCILLAC-VALLON,12330,1.72 €,,1.81 €,1.97 €,4445500,247300
+12,AVENUE DU ROUERGUE,Villeneuve,12260,,,1.88 €,1.96 €,4443191.9246165,203145.65531871
 12,Route de Rodez,Rieupeyroux,12240,1.68 €,,1.78 €,1.93 €,4430600,224900
-12,AVENUE DU ROUERGUE,Villeneuve,12260,,,1.88 €,1.94 €,4443191.9246165,203145.65531871
 12,Avenue de Rodez,Pont-de-Salars,12290,,,,2.05 €,4428900,271400
 12,ROUTE D'ESPALION,RODEZ,12000,1.78 €,0.87 €,1.89 €,2.00 €,4437700,259300
 12, Avenue Marie Curie,SéVéRAC-LE-CHâTEAU,12150,1.77 €,,1.86 €,1.99 €,4432524,306544

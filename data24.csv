@@ -1,4 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+24,Route de Bordeaux,Bergerac,24100,1.73 €,0.70 €,1.81 €,1.91 €,4483492.4988994,44823.906051395
 24,Zone des Reaux,Vélines,24230,,,1.82 €,1.90 €,4485201.45,10365.84
 24, Boulevard Auguste Comte,BERGERAC,24100,,,2.19 €,1.98 €,4484832,49248
 24, Avenue de Monpazier,BEAUMONT-DU-PéRIGORD,24440,,,1.86 €,1.96 €,4475917,77159
@@ -7,7 +8,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,740 avenue des jardins,TERRASSON,24120,1.75 €,,1.82 €,1.97 €,4512400,132100
 24,94 Avenue de la Beauronne,Agonac,24460,,,,1.96 €,4529276.92,75169.24
 24,5 Avenue du Commandant Pinson,LA FORCE,24130,,,1.92 €,1.97 €,4487000,37700
-24,Route de Bordeaux,Bergerac,24100,1.73 €,0.70 €,1.81 €,1.91 €,4483492.4988994,44823.906051395
 24,18/20 Cours Fénelon,PERIGUEUX,24000,1.75 €,,1.85 €,2.02 €,4518200,72100
 24,101  Avenue Pasteur,Bergerac,24100,1.73 €,,1.81 €,1.91 €,4486262,49793
 24,Avenue du 8 mai 1945,Brantôme,24310,,,1.84 €,1.88 €,4535705,65291.4
@@ -18,13 +18,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,8 Avenue de Selves,SARLAT LA CANEDA,24200,1.81 €,,1.92 €,2.05 €,4490000,121200
 24,57 rue d'Aquitaine,Savignac-Lédrier,24270,,,1.99 €,1.94 €,4539600,120900
 24,Route de Limoges,TRéLISSAC,24750,1.73 €,0.78 €,1.83 €,1.94 €,4520000,78500
-24,le bourg,SIGOULèS,24240,,,1.90 €,1.82 €,4475824.863,40956.144
+24,le bourg,SIGOULèS,24240,,,1.90 €,1.90 €,4475824.863,40956.144
 24,Avenue Winston Churchill,COULOUNIEIX-CHAMIERS,24660,,,1.87 €,1.97 €,4517100,68900
 24,plaine de bretou,EYMET,24500,,,1.89 €,1.98 €,4467400,40500
 24,Autoroute A89 - Aire de Manoire,Saint-Laurent-sur-Manoire,24330,1.73 €,0.80 €,1.82 €,1.86 €,4515100,79900
 24,16  Rue des Fleurs,Chancelade,24650,1.73 €,,1.83 €,1.94 €,4520000,66800
 24,Route de Sainte Alvère,BERGERAC,24100,,,1.87 €,1.91 €,4485335.52754,51377.9259572
-24,Avenue de Périgueux,LA COQUILLE,24450,,,1.85 €,1.90 €,4553900,97600
+24,Avenue de Périgueux,LA COQUILLE,24450,,,1.85 €,1.94 €,4553900,97600
 24,CD 91,Piégut-Pluviers,24360,1.78 €,,1.86 €,1.99 €,4562000,69900
 24,14 rue Durou,Bergerac,24100,1.72 €,0.76 €,1.80 €,1.88 €,4485800,48200
 24,RN 89 au 50 rue de la paix,SAINT-MÉDARD-DE-MUSSIDAN,24400,,,,1.89 €,4503300,32100

@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,LE FIEF ARNAUD,Nieul-sur-Mer,17137,1.71 €,,1.79 €,1.93 €,4620265,-117434
 17,quai des sabliers,Royan,17200,,,1.91 €,1.94 €,4561900,-102800
 17,Rue Laurent-Antoine de Lavoisier,ROYAN,17200,1.71 €,,1.80 €,1.94 €,4563165.8119,-99245.4955339
-17,30 Boulevard des Dandonneaux,COZES,17120,1.74 €,0.79 €,1.82 €,1.94 €,4558500,-83500
+17,30 Boulevard des Dandonneaux,COZES,17120,1.74 €,0.79 €,1.82 €,1.96 €,4558500,-83500
 17,28 Avenue Jean Moulin,SOUBISE,17780,1.73 €,,,1.97 €,4592130,-100288
 17,109 AVENUE DE LA REPUBLIQUE,Mirambeau,17150,1.73 €,0.76 €,1.81 €,1.95 €,4537800,-57000
 17,cours du Maréchal Leclerc,SAINTES,17100,1.70 €,0.80 €,1.78 €,1.94 €,4575624.74472,-65210.476871
@@ -37,7 +37,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,43 RUE DES SPORTS,Saint-Xandre,17138,,,1.95 €,1.89 €,4620596.2241386,-109382.74463894
 17,1 RUE D'ALIGRE,MARANS,17230,1.73 €,,1.84 €,1.93 €,4631131.13409,-99182.5951956
 17,Rue de l'Écuissière,DOLUS-D'OLéRON,17550,1.75 €,,1.84 €,1.97 €,4590461.54635,-125889.144133
-17,29 Rue Claire Pertus,PONT-L'ABBE-D'ARNOULT,17250,,,1.83 €,1.85 €,4583000,-87700
+17,29 Rue Claire Pertus,PONT-L'ABBE-D'ARNOULT,17250,,,1.81 €,1.90 €,4583000,-87700
 17,204 route de Royan,Medis,17600,1.71 €,,,1.94 €,4566563.17,-94339.2
 17,43 rue des sports,Saint-Xandre,17138,,,2.18 €,2.30 €,4620600,-109500
 17,Lieu dit la Beaucousière,Le Château-d'Oléron,17480,1.73 €,,1.80 €,1.92 €,4588600,-119500
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,Rue Nicolas Gargot,AYTRé,17440,,,1.79 €,1.95 €,4613860,-113925
 17,Rue de la République,MARENNES,17320,,,1.80 €,1.98 €,4582300,-110300
 17,6 rue des Ecoles,La Jarrie,17220,1.73 €,0.76 €,1.82 €,1.96 €,4612900,-100700
-17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.73 €,,1.80 €,1.93 €,4615054.29,-107654.119
+17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.73 €,,1.82 €,1.95 €,4615054.29,-107654.119
 17,Avenue de la République,Montendre,17130,1.79 €,,1.84 €,1.78 €,4528400,-40300
 17,7 RN,VILLENEUVE-LA-COMTESSE,17330,,,,2.19 €,4609855,-50192
 17,Autoroute A10 Aire de Saint-Léger,Saint-Léger,17800,2.13 €,,2.25 €,2.24 €,4561300,-60400
@@ -97,7 +97,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,Rue Alexandre Dumas,Saint-Jean-d'Angély,17400,1.76 €,,1.85 €,1.97 €,4595287,-52991
 17,20 BD GOULEBENEZE,Burie,17770,,,1.82 €,1.85 €,4577508.1037514,-42216.137321515
 17,8 Avenue du Maréchal Leclerc,SAINT-AIGULIN,17360,1.72 €,,,1.94 €,4515900,-1900
-17,5 rue Jacques Yves Cousteau,Vaux-sur-Mer,17640,1.76 €,0.76 €,,1.98 €,4564700,-104900
+17,5 rue Jacques Yves Cousteau,Vaux-sur-Mer,17640,1.73 €,0.76 €,,1.98 €,4564700,-104900
 17,RUE MAXIME BOURDEAU,Matha,17160,1.76 €,,1.85 €,1.95 €,4587435,-31139
 17, Rue de Béthencourt,LA ROCHELLE,17000,1.75 €,0.91 €,1.85 €,2.05 €,4617075,-120379
 17,114 Avenue du Général de Gaulle,Marans,17230,1.72 €,,1.82 €,1.95 €,4630300,-98500

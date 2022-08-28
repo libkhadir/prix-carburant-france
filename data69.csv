@@ -11,7 +11,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,633 route de villefranche,Anse,69480,,,1.86 €,1.87 €,4594300,471500
 69,129 Rue de la Mûre,CHARLY,69390,,,,2.06 €,4565400,479300
 69,Rue du Chateau d'Yvours,Irigny,69540,,,1.77 €,1.92 €,4568800,482500
-69,Les Vernailles  110 rue de l'industrie,Saint-Georges-de-Reneins,69830,1.63 €,,1.72 €,1.89 €,4606000,472100
 69,141 Boulevard Émile Zola,Oullins,69600,1.66 €,,1.74 €,1.96 €,4572100,479500
 69,7 Avenue Édouard Herriot,Tarare,69170,1.67 €,,1.77 €,1.92 €,4589200,444200
 69,28 Avenue Maurice JARROSSON,SAINTE-FOY-LèS-LYON,69110,1.69 €,,1.80 €,2.02 €,4574205,479769
@@ -21,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,69 AVENUE DU 25EME RTS,Lyon,69009,1.65 €,,1.78 €,1.95 €,4578100,480100
 69,111 RUE MARIETTON,LYON,69009,1.75 €,,1.86 €,2.06 €,4577498.5870102,479428.00542449
 69,283 RTE DE GENAS,VILLEURBANNE,69100,1.63 €,,1.76 €,1.95 €,4574977,491257
-69,Avenue du Bon Pasteur,ÉCULLY,69130,1.63 €,0.84 €,1.72 €,1.96 €,4578700,477700
+69,Avenue du Bon Pasteur,ÉCULLY,69130,1.64 €,0.84 €,1.72 €,1.95 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.66 €,,1.75 €,1.97 €,4577900,477900
 69,328 Avenue Jean Jaurès,Décines-Charpieu,69150,1.66 €,,1.75 €,1.96 €,4577200,497000
 69,50 Avenue du 11 Novembre 1918,Tassin-la-Demi-Lune,69160,1.65 €,0.87 €,1.78 €,1.95 €,4576400,475900
@@ -30,11 +29,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.79 €,0.87 €,1.89 €,2.00 €,4570337.53,484993.11
 69,112 Boulevard Irène Joliot-Curie,Vénissieux,69200,1.64 €,,1.78 €,1.97 €,4571000,488300
 69,RTE DE CORBAS - RD 57,VENISSIEUX,69200,1.76 €,,1.87 €,2.07 €,4568972,489109
-69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.68 €,0.89 €,1.76 €,1.92 €,4581200,460100
+69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.66 €,0.89 €,1.74 €,1.92 €,4581200,460100
 69,Route de Lyon,Fleurieu-sur-Saône,69250,1.80 €,,1.91 €,2.00 €,4585511.0976539,483986.80314607
 69,66 RUE GEORGES CLEMENCEAU,Saint-Genis-Laval,69230,1.84 €,0.91 €,1.96 €,2.08 €,4570200,479600
 69,61 Avenue de la République,VéNISSIEUX,69200,1.79 €,,1.91 €,2.08 €,4570543,487794
-69,15 Avenue Édouard Millaud,Craponne,69290,1.66 €,,1.74 €,2.00 €,4574700,474100
+69,15 Avenue Édouard Millaud,Craponne,69290,1.67 €,,1.75 €,2.00 €,4574700,474100
 69,49 Avenue de Verdun,Meyzieu,69330,1.67 €,,1.76 €,1.98 €,4577600,499100
 69,145 Boulevard de l'Europe,Pierre-Bénite,69310,1.68 €,,1.79 €,1.97 €,4569600,482600
 69,42 Avenue du Chater,Francheville,69340,1.65 €,,1.78 €,1.95 €,4574400,477100
@@ -65,6 +64,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,72 COURS TOLSTOI,VILLEURBANNE,69100,1.82 €,,1.94 €,2.09 €,4576299.05,487675.86
 69,131 RUE MARIUS BERLIET,LYON,69008,1.62 €,0.85 €,1.76 €,1.95 €,4573700,486900
 69,33 RUE DE PARIS  RN7,L'Arbresle,69210,1.75 €,0.84 €,,2.04 €,4583800,461100
+69,Les Vernailles  110 rue de l'industrie,Saint-Georges-de-Reneins,69830,,,,1.89 €,4606000,472100
 69,19 avenue Edouard Hérriot,Limas,69651,1.76 €,0.84 €,1.87 €,2.05 €,4597900,473300
 69,Route d'Heyrieux,Saint-Pierre-de-Chandieu,69780,1.74 €,,1.83 €,1.96 €,4564700,502500
 69,Z.i. la Gaité,AMPLEPUIS,69550,1.86 €,,1.97 €,1.98 €,4598100,433400
@@ -154,11 +154,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,Route de Roanne ,BOURG-DE-THIZY,69240,1.75 €,,1.88 €,1.90 €,4603486,429911
 69,BP 132,LYON ST EXUPERY AEROPORT,69125,1.80 €,0.82 €,1.91 €,2.11 €,4572329,507109
 69,49 AVENUE VICTOR HUGO,TASSIN LA DEMI LUNE,69160,,1.00 €,1.90 €,1.98 €,4576600,478400
-69,AVENUE DU CHATER,FRANCHEVILLE,69340,1.63 €,,1.74 €,1.96 €,4573500,477500
+69,AVENUE DU CHATER,FRANCHEVILLE,69340,1.64 €,,1.72 €,1.95 €,4573500,477500
 69,126 BOULEVARD DE L EUROPE,Pierre-Bénite,69310,1.76 €,0.83 €,1.87 €,2.07 €,4569935,482364
 69,44 Route de Genas,CHASSIEU,69680,,,1.75 €,1.98 €,4573704,497295
 69,50-51 ROUTE DE PARIS,CHARBONNIERES,69260,1.87 €,,1.94 €,2.01 €,4578400,475000
-69,140 Rue du Companet,Rillieux-la-Pape,69140,1.64 €,,,1.90 €,4581200,488100
+69,140 Rue du Companet,Rillieux-la-Pape,69140,1.64 €,,,1.92 €,4581200,488100
 69,Z.i. la Gaité,Amplepuis,69550,1.69 €,,1.79 €,1.89 €,4598163,433531
 69,35 AVENUE GENERAL BROSSET,TASSIN-LA-DEMI-LUNE,69160,1.62 €,,1.72 €,1.91 €,4575700,478100
 69,36 Rue Paul Cézanne,Meyzieu,69330,1.64 €,,,1.92 €,4576875,498716.3
@@ -173,7 +173,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,80 ROUTE DE PARIS,Charbonnières-les-Bains,69260,1.87 €,,1.94 €,2.01 €,4577900,475100
 69,Centre Commercial du Jayon,GRIGNY,69520,1.66 €,0.76 €,,1.98 €,4560500,478200
 69,Place Maréchal Foch - Montée des soldats,Caluire-et-Cuire,69300,1.75 €,,1.86 €,2.06 €,4579700,485200
-69,les plaines,Saint-Laurent-d'Oingt,69620,1.78 €,,1.88 €,1.92 €,4594400,456600
+69,les plaines,Saint-Laurent-d'Oingt,69620,1.78 €,,1.88 €,1.95 €,4594400,456600
 69,Les basses barolles,SAINT-GENIS-LAVAL,69230,1.65 €,,1.75 €,1.94 €,4567900,479200
 69,AUTOROUTE A6 - AIRE DE BRUYÈRES PAISY,DARDILLY,69570,1.74 €,,1.85 €,2.01 €,4580876.8531846,476959.29893495
 69,Le Bourg  Rue du Commerce,Le Perréon,69460,,,1.76 €,1.88 €,4606180.0691225,459994.99003082

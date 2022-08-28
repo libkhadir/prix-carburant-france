@@ -18,7 +18,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,ROUTE NATIONALE 21,Cancon,47290,,,,2.03 €,4453298.3178404,62524.992450745
 47,ZONE DU BOSCLA,Saint-Vite,47500,1.78 €,0.76 €,1.86 €,1.93 €,4447600,95100
 47,Quai Gambetta,CLAIRAC,47320,1.74 €,,1.83 €,1.95 €,4435700,38200
-47,route de mezin,lavardac,47230,,0.78 €,1.83 €,1.93 €,4417400,30500
+47,route de mezin,lavardac,47230,,0.78 €,1.83 €,1.95 €,4417400,30500
 47,Bassin du Canal,Damazan,47160,1.92 €,,,1.92 €,4429000,28200
 47,190 Avenue des Landes,brax,47310,1.74 €,,1.81 €,1.90 €,4420000,55400
 47,Au Caillou,Villeréal,47210,,,,1.96 €,4462400,74100
@@ -34,7 +34,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,Route de Layrac,Boé,47550,1.79 €,,1.89 €,2.00 €,4417800,63300
 47,ZA Les portes du Quercy,MONTAYRAL,47500,1.78 €,,1.86 €,1.93 €,4448578.57762,97865.5098255
 47,118 Avenue Jean Jaurès,Marmande,47200,1.76 €,,1.83 €,1.92 €,4450800,14700
-47,RTE DE MIRAMONT,Marmande,47200,1.84 €,,1.95 €,2.05 €,4450818,19074
+47,RTE DE MIRAMONT,Marmande,47200,1.83 €,,1.94 €,2.07 €,4450818,19074
 47,3 rue henri iv,Casteljaloux,47700,1.71 €,0.87 €,1.82 €,1.97 €,4431400,8100
 47,La Ville,LE PASSAGE,47520,1.76 €,0.76 €,1.85 €,1.95 €,4419000,60500
 47,Rue Fernand Aude RD8,Houeillès,47420,1.88 €,0.95 €,,1.94 €,4419478.6,3529.79
@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,LE BOURG,PRAYSSAS,47360,,,1.95 €,1.96 €,4428700,50900
 47,92 Avenue Henri BARBUSSE,VILLENEUVE-SUR-LOT,47300,,,,2.00 €,4439800,72900
 47,Lotissement la Tuine,ASTAFFORT,47220,1.72 €,,1.80 €,1.90 €,4405900,65300
-47,15 Route d'Agen,Laplume,47310,1.73 €,,1.82 €,1.90 €,4411400,53200
+47,15 Route d'Agen,Laplume,47310,1.75 €,,1.84 €,1.93 €,4411400,53200
 47,ROUTE DE SAINTE FOY LA GRANDE,DURAS,47120,,,1.85 €,1.99 €,4468000,19200
 47,45 Route d'Agen,Estillac,47310,,,1.99 €,1.96 €,4418400,57600
 47,1 rue BELJOUAN,LAROQUE TIMBAUT,47340,,,1.84 €,1.96 €,4428600,76000

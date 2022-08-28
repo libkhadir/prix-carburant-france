@@ -17,8 +17,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,28 Rue d'Alençon,Condé-sur-Sarthe,61250,1.78 €,,1.89 €,2.04 €,4843500,5400
 61,ROUTE DE PARIS,TINCHEBRAY,61800,,,1.87 €,1.96 €,4876653.00919,-72290.5356341
 61,ROUTE D'ALENCON,GACE,61230,1.82 €,,1.91 €,2.03 €,4879500,29500
-61,ZA Les Fourmis,La Chapelle-d'Andaine,61140,,,1.93 €,1.89 €,4853000,-47200
-61,38 Route de Fresnay,SAINT-GERMAIN-DU-CORBéIS,61000,,,1.82 €,1.93 €,4841808,7633
+61,ZA Les Fourmis,La Chapelle-d'Andaine,61140,,,1.93 €,1.99 €,4853000,-47200
+61,38 Route de Fresnay,SAINT-GERMAIN-DU-CORBéIS,61000,,,1.82 €,1.98 €,4841808,7633
 61,avenue du général de Gaulle,Écouche les Vallées,61150,,,,1.98 €,4871448.9872243,-12194.789740829
 61,Le Tremblay,Flers,61100,,,1.87 €,1.98 €,4875200,-57500
 61,rond Point de Queux - Mâle,VAL AU PERCHE,61260,1.78 €,,1.80 €,1.90 €,4825510.0237309,69489.927116392
@@ -42,7 +42,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,111 rue du maréchal Foch,Domfront,61700,1.80 €,,1.91 €,2.01 €,4858900,-63500
 61,204 rue DE PARIS,Flers,61100,,,2.30 €,2.20 €,4875100,-55600
 61,93 Rue de la Chaussée,FLERS,61100,1.69 €,0.73 €,,1.95 €,4874200,-56300
-61,Rue Guillaume SEZNEC,SAINT-MARTIN-DU-VIEUX-BELLEME,61130,,,1.86 €,1.91 €,4837500,54200
+61,Rue Guillaume SEZNEC,SAINT-MARTIN-DU-VIEUX-BELLEME,61130,,,1.86 €,1.96 €,4837500,54200
 61,Route de Remalard,MORTAGNE-AU-PERCHE,61400,1.75 €,0.76 €,1.82 €,1.90 €,4850800,56100
 61,16 Rue du Mont Margantin,Domfront,61700,,,1.82 €,1.78 €,4858543,-64673.000000005
 61,24 Avenue de Paris,Argentan,61200,1.78 €,,1.89 €,2.05 €,4874900,-1100
@@ -57,6 +57,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,Avenue de la Cavée d'Auge,Trun,61160,,,1.90 €,1.99 €,4885412,5155.0000000002
 61,Route de bretagne,CONDE SUR SARTHE,61250,1.73 €,,1.82 €,1.98 €,4843300,6300
 61,Route de Bagnoles,LA FERTé-MACé,61600,1.73 €,0.72 €,1.81 €,1.96 €,4857500,-37000
-61,RUE DU MARECHAL FOCH,Domfront,61700,1.72 €,0.76 €,1.81 €,1.90 €,4858822,-63429
+61,RUE DU MARECHAL FOCH,Domfront,61700,1.72 €,0.76 €,1.81 €,1.96 €,4858822,-63429
 61,1 rue de Champagne,ARGENTAN,61200,,,1.80 €,1.93 €,4874900,-2700
 61,Lieu-dit Les Fermes,Fontenai-sur-Orne,61200,1.99 €,0.99 €,2.09 €,2.02 €,4872221.6324002,-5692.1417848999

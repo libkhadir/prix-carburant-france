@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,80 chemin de la Lègue,Carpentras,84200,1.67 €,0.76 €,1.77 €,1.93 €,4405500,505400
 84,Boulevard Naquet,Carpentras,84200,1.67 €,0.79 €,,1.93 €,4405145,504122
 84,4 impasse Louis Astic  Zone artisanale Les Meillères,Cadenet,84160,,0.77 €,1.79 €,1.93 €,4373600,537400
-84,85 Avenue de la Libération,JONQUIERES,84150,1.76 €,,1.83 €,1.91 €,4411569,489531
+84,85 Avenue de la Libération,JONQUIERES,84150,1.76 €,,1.83 €,1.94 €,4411569,489531
 84,417 bis avenue du Mont Ventoux,Carpentras,84200,,0.94 €,,1.94 €,4405700,505800
 84,778 Route d'Avignon,Châteauneuf-de-Gadagne,84470,1.79 €,,1.89 €,2.04 €,4392849,493805
 84,Route de Carpentras,Sarrians,84260,1.72 €,0.76 €,1.82 €,2.00 €,4408120,498365
@@ -40,10 +40,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,1.77 €,,1.88 €,2.06 €,4372100,554200
 84,2 Rond Point des Remparts,MALAUCENE,84340,,,1.87 €,1.99 €,4417600,512900
 84,Route de Valréas . Quartier les Mouilieres,Grillon,84600,1.72 €,0.92 €,1.82 €,1.95 €,4439423.1137862,494206.81799926
-84,Quartier de l' Argensol,Orange,84100,1.81 €,0.90 €,,1.93 €,4413399,481726
+84,Quartier de l' Argensol,Orange,84100,1.81 €,0.90 €,,1.97 €,4413399,481726
 84,Avenue Louis Pasteur,Châteauneuf-du-Pape,84230,1.74 €,,1.84 €,1.90 €,4405800,483500
 84,250 route de pertuis,CAVAILLON,84300,,0.70 €,,1.90 €,4383519.894804,504422.03664398
-84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.65 €,0.80 €,,1.93 €,4432200,474500
+84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.65 €,0.80 €,,1.96 €,4432200,474500
 84,65 route de Gadagne,Caumont-sur-Durance,84510,1.66 €,,,1.94 €,4390600,494800
 84,1050 Chemin du Castellas Route de Mazan,CARPENTRAS,84200,1.67 €,,1.77 €,1.93 €,4405991.5395231,507042.85376765
 84,80 route de travaillan,ste cécile les vignes,84290,1.71 €,,1.78 €,1.97 €,4423200,488300

@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,RN10 LES GRANDES CHAUMES,CHAMPNIERS,16430,1.74 €,,,1.94 €,4571478,20692
 16,122 Rue Nationale,Roumazières-Loubert,16270,1.73 €,0.76 €,1.82 €,1.97 €,4588434,57522
 16,105 Rue Basse Saint-Martin,COGNAC,16100,1.70 €,,1.78 €,1.94 €,4568600,-33800
-16,ave du general de gaulle,SOYAUX,16800,1.71 €,0.70 €,1.79 €,1.94 €,4563900,21900
+16,ave du general de gaulle,SOYAUX,16800,1.73 €,0.70 €,1.79 €,1.95 €,4563900,21900
 16,250 Avenue de la République,L'ISLE-D'ESPAGNAC,16340,1.78 €,,1.88 €,2.01 €,4566500,20100
 16,Rue de la Tude,Chalais,16210,1.74 €,0.76 €,1.82 €,1.93 €,4527300,4200
 16,144 route de Saint Jean d'Angély,Saint-Yrieix-sur-Charente,16710,1.73 €,,1.95 €,1.91 €,4569000,11500
@@ -39,7 +39,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ROUTE DE COGNAC,SEGONZAC,16130,1.78 €,,1.88 €,1.88 €,4561787,-21934
 16,2 Clos Chabot,Villejésus,16140,,,1.85 €,1.89 €,4589992.0641752,1484.617568
 16,15 route des Boisdons,LINARS,16730,1.74 €,,1.82 €,1.90 €,4565500,8500
-16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.74 €,,1.82 €,1.91 €,4558884.8804688,-4798.4026188222
+16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.74 €,,1.82 €,1.92 €,4558884.8804688,-4798.4026188222
 16,Avenue d'Ecosse,JARNAC,16200,1.75 €,,1.83 €,1.93 €,4569096.0364153,-17360.081481934
 16,Rue des Paleines,ROUMAZIERES-LOUBERT,16270,1.75 €,,1.82 €,1.89 €,4588248,58262
 16,Avenue de l'Europe,BARBEZIEUX-SAINT-HILAIRE,16300,1.76 €,0.80 €,1.87 €,1.94 €,4546704,-16519

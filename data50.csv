@@ -14,8 +14,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,41b Rue des Frères Fremine,Bricquebec-en-Cotentin,50260,1.81 €,,1.92 €,2.06 €,4947300,-162800
 50,Avenue de la division Leclerc,Coutances,50200,1.74 €,0.76 €,1.85 €,1.96 €,4906200,-143700
 50,LA CROIX A LA MAIN,Saint Martin de bonfossé,50750,,,,2.05 €,4902900,-114200
-50,Rue de Carentan,PéRIERS,50190,,,1.83 €,1.89 €,4918900,-140400
 50,1214 Avenue de Paris,Saint-Lô,50000,1.74 €,0.83 €,1.84 €,1.99 €,4911630.1972112,-105833.12301737
+50,Rue de Carentan,PéRIERS,50190,,,1.84 €,1.99 €,4918900,-140400
 50,Chemin amour ZA les landelles,BLAINVILLE-SUR-MER,50560,,,1.84 €,1.90 €,4906500,-159500
 50,10 RUE ARGANCHY,CONDé-SUR-VIRE,50890,,,1.85 €,1.92 €,4905800,-103000
 50,ZA DES CLOS DES MARES,BREHAL,50290,,0.78 €,1.88 €,1.93 €,4890238.7822164,-151415.85110863
@@ -115,7 +115,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Centre Commercial du Cotentin,La Glacerie,50470,1.75 €,,1.90 €,1.95 €,4960340,-160199
 50,ZI RN 24 BIS,Granville,50400,1.83 €,,1.94 €,2.03 €,4884100,-157700
 50,5  rue des Claires,QUERQUEVILLE,50460,1.73 €,0.74 €,1.85 €,1.95 €,4966000,-168600
-50,1251 route de coutances,Agneaux,50180,1.79 €,,1.91 €,1.99 €,4911300,-112500
+50,1251 route de coutances,Agneaux,50180,1.80 €,,1.92 €,2.00 €,4911300,-112500
 50,1 Rue du Grand Pré,Tourlaville,50110,1.75 €,0.76 €,1.90 €,1.95 €,4963700,-159600
 50,RUE DE LA GUINGUETTE,CARENTAN,50500,1.72 €,0.76 €,1.84 €,1.99 €,4929683,-125461
 50,39 Boulevard de l'Est,Tourlaville,50110,1.75 €,0.80 €,1.90 €,1.95 €,4963500,-159100
