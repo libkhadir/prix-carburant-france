@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 32,ZA Bellevue,SAINT-CLAR,32380,1.79 €,,1.88 €,1.99 €,4388600,76100
 32,45  Avenue du Général De Gaulle,Fleurance,32500,,,,2.03 €,4384200,66100
 32,60 Z.A. LA PARADE,RISCLE,32400,1.78 €,,,1.96 €,4365600,-7400
-32,3 rue Jean Moulin,L'Isle-Jourdain,32600,1.68 €,,1.79 €,1.98 €,4361400,108900
+32,3 rue Jean Moulin,L'Isle-Jourdain,32600,1.67 €,,1.75 €,1.97 €,4361400,108900
 32,Route de Mont-de-Marsan,LE HOUGA,32460,,0.89 €,,2.03 €,4377800,-19100
 32,33 Avenue des Pyrénées,Condom,32100,1.83 €,,1.94 €,2.07 €,4394800,37200
 32,Avenue de Gascogne,Villecomtal-sur-Arros,32730,,0.95 €,,1.99 €,4340200,20200
@@ -30,10 +30,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 32,lieu dit hontaut,Condom,32100,1.72 €,,1.90 €,1.98 €,4396500,36700
 32,Place du Foirail,MIRADOUX,32340,,,1.92 €,2.03 €,4399800,75700
 32,17 Avenue de la Marne,AUCH,32000,,,1.99 €,1.95 €,4364879,59470
-32,Rue Juliot Curie,FLEURANCE,32500,1.85 €,,1.94 €,1.95 €,4385100,66100
-32,ROUTE DE TOULOUSE,Samatan,32130,1.76 €,,1.87 €,2.06 €,4348800,93600
+32,Rue Juliot Curie,FLEURANCE,32500,1.79 €,,1.91 €,2.04 €,4385100,66100
+32,ROUTE DE TOULOUSE,Samatan,32130,1.74 €,,1.85 €,2.07 €,4348800,93600
 32,Avenue Maquis Meilhan,Lombez,32220,1.77 €,,1.86 €,2.00 €,4347068,92231
-32,RUE DU VISCONTE,Seissan,32260,1.80 €,,,1.97 €,4349441.518,59442.002
+32,RUE DU VISCONTE,Seissan,32260,1.80 €,,,1.96 €,4349441.518,59442.002
 32,Route d'Auch,MAUVEZIN,32120,1.70 €,0.86 €,1.77 €,1.98 €,4373100,88100
 32,A CLARAC,AUCH,32000,1.81 €,0.80 €,1.90 €,1.97 €,4366418.27846,59127.5479495
 32,rue Bonnemaison,Condom,32100,1.72 €,,,1.96 €,4395976,37835
