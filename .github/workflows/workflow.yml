@@ -20,20 +20,15 @@ jobs:
         run: |
           curl https://donnees.roulez-eco.fr/opendata/instantane --output data.zip
           unzip -v
+          rm -rf data*.csv
           ls
           unzip data.zip
           ls
           cp PrixCarburants_instantane.xml data.xml
+          rm -rf PrixCarburants_instantane.xml
+          rm -rf data.zip
       - name: Clean data
         run: |
-          ls -lrt data*.csv
-          echo "saving old data"
-          now=$(date +%F_%H-%M-%S)
-          yday=$(date  --date="yesterday" +"%Y-%m-%d")
-          mkdir archive-$yday
-          mv data*.csv archive-$yday/.
-          echo "check old data"
-          ls -lrt
           mv data.xml price-explorer/.
           cd price-explorer/
           ./gradlew bootRun
@@ -45,6 +40,5 @@ jobs:
          git config --global user.email "tkhadir.dev@gmail.com"
          git config --global user.name "tkhadir"
          git add data*.csv
-         git add archive-*
          git commit -m "feat: add results"
          git push origin
