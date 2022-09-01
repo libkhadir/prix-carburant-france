@@ -19,7 +19,9 @@ jobs:
       - name: Download data
         run: |
           curl https://donnees.roulez-eco.fr/opendata/instantane --output data.zip
+          unzip --version
           unzip data.zip
+          ls -lrt
           mv PrixCarburants_instantane.xml data.xml
       - name: Clean data
         run: |
