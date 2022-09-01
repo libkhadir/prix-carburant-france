@@ -22,7 +22,8 @@ jobs:
           unzip -v
           ls
           unzip data.zip
-          mv PrixCarburants_instantane.xml data.xml
+          ls
+          cp PrixCarburants_instantane.xml data.xml
       - name: Clean data
         run: |
           ls -lrt data*.csv
