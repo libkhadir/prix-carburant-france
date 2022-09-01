@@ -19,7 +19,6 @@ jobs:
       - name: Download data
         run: |
           curl https://donnees.roulez-eco.fr/opendata/instantane --output data.zip
-          unzip -v
           rm -rf data*.csv
           ls
           sudo apt-get install p7zip-full
