@@ -18,7 +18,6 @@ jobs:
           git config --global user.email "tkhadir.dev@gmail.com"
           git config --global user.name "tkhadir"
           git add archive-*
-          git add backup-*
           git commit -m "feat: cleanup results"
           git push origin
           echo "ok"
