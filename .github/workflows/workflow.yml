@@ -19,9 +19,13 @@ jobs:
       - name: Download data
         run: |
           curl https://donnees.roulez-eco.fr/opendata/instantane --output data.zip
+          ls -lrt
           unzip data.zip
+          ls -lrt
           rm -rf data.zip
+          ls -lrt
           mv *.xml data.xml
+          ls -lrt
       - name: Clean data
         run: |
           ls -lrt data*.csv
