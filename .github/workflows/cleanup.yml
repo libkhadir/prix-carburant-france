@@ -12,7 +12,6 @@ jobs:
       - uses: actions/checkout@v3
       - name: Cleanup directories
         run: |
-          rm -rf backup-*
           rm -rf archive-*
       - name: Update repo
         run: |
