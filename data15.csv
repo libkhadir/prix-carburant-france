@@ -17,9 +17,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,87 Avenue Charles de Gaulle,AURILLAC,15000,1.53 €,,1.68 €,1.72 €,4490915.21744,242441.831845
 15,149 Avenue du Général Leclerc,AURILLAC,15000,,,1.79 €,1.94 €,4490940,244629
 15,Rue de la République,Ydes,15210,1.55 €,0.80 €,1.65 €,1.79 €,4534000,243400
-15,ROUTE DU STADE,Condat,15190,,,2.02 €,1.93 €,4533826,276036
-15,8 AVENUE D'AURILLAC,Saint-Étienne-de-Maurs,15600,1.48 €,0.64 €,1.64 €,1.75 €,4471400,220300
-15, Avenue de Bagnac,MAURS,15600,1.40 €,,1.49 €,1.69 €,4470650,219514
+15,ROUTE DU STADE,Condat,15190,,,1.73 €,1.88 €,4533826,276036
+15,8 AVENUE D'AURILLAC,Saint-Étienne-de-Maurs,15600,1.45 €,0.64 €,1.60 €,1.70 €,4471400,220300
+15, Avenue de Bagnac,MAURS,15600,,,,1.69 €,4470650,219514
 15,1 route de brive,Saint-Paul-des-Landes,15250,,,1.99 €,1.98 €,4494448.371,231132.819
 15,Avenue de la Gare,Mauriac,15200,1.63 €,,1.70 €,1.80 €,4522200,234000
 15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,,4492297.528,242765.388
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,Allée des Tilleuls,Vic-sur-Cère,15800,,,,,4498100,262800
 15,PRE CHAMBON,MASSIAC,15500,,,1.63 €,1.82 €,4526200,319900
 15,RN122 La Croix Blanche,Saint-Mamet-la-Salvetat,15220,,,1.60 €,1.79 €,4485900,229200
-15,ZAC de la Sablière,Aurillac,15000,1.48 €,0.60 €,1.76 €,1.83 €,4492821.246828,244352.43209313
+15,ZAC de la Sablière,Aurillac,15000,1.48 €,0.60 €,1.67 €,1.71 €,4492821.246828,244352.43209313
 15,41 Avenue de la République,SAINT-FLOUR,15100,,,,,4503400,310700
 15,AVENUE HECTOR PESCHAUD,Murat,15300,,,,1.74 €,4510800,286300
 15,Chemin de la Croix Jolie,Murat,15300,,,,1.94 €,4510704,286345
