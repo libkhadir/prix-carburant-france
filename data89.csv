@@ -1,12 +1,12 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 89,1 rue Guillaume des Barres,VILLENEUVE-LA-GUYARD,89340,1.53 €,0.64 €,1.61 €,1.78 €,4833500,306500
+89,7 boulevard du pont neuf,Sens,89100,,0.70 €,,,4820387.5189763,327130.6496774
 89,31 Avenue Jean Hémery,JOIGNY,89300,,,,,4797800,341100
 89,Route de Lyon,SENS,89100,1.44 €,,1.55 €,1.69 €,4818400,328700
 89,Avenue de la Morlande,AVALLON,89200,1.68 €,,,1.88 €,4748900,390100
 89,16 Boulevard Vaulabelle,Auxerre,89000,1.47 €,,1.58 €,1.67 €,4779300,357500
 89,ROUTE D HERY,SEIGNELAY,89250,,,1.70 €,1.80 €,4790300,360800
 89,ROUTE DES BEDETS,CHEROY,89690,1.52 €,0.64 €,1.61 €,1.77 €,4820000,299200
-89,7 boulevard du pont neuf,Sens,89100,1.44 €,0.70 €,1.56 €,1.66 €,4820387.5189763,327130.6496774
 89,Boulevard Gallieni,Auxerre,89000,1.63 €,,1.70 €,1.85 €,4779900,355300
 89,AUTOROUTE A6 - AIRE DE LA COULINE,Précy-sur-Vrin,89116,1.47 €,0.75 €,1.58 €,1.73 €,4797408,319921
 89, Route de Sens,SAINT-VALERIEN,89150,,,,,4817808,310960
@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 89,Aire de Villeneuve l'Archevêque autoroute A5 Sens PARIS TROYES,Villeneuve-l'Archevêque,89190,1.80 €,,1.96 €,1.95 €,4824299.6678371,355440.17645264
 89,Route d'Avrolles,Saint-Florentin,89600,1.65 €,0.76 €,1.74 €,1.79 €,4799973,371494
 89,8 Route de Voulx,SENS,89100,,,1.65 €,1.78 €,4819700,326600
-89,97-99 Avenue de Saint-Georges,Auxerre,89000,,,1.63 €,1.78 €,4779700,354700
+89,97-99 Avenue de Saint-Georges,Auxerre,89000,,,1.63 €,1.75 €,4779700,354700
 89,135 RN 6,VILLEBLEVIN,89340,,,,1.66 €,4833700,307800
 89,ROUTE DE TONNERRE,AVALLON,89200,1.65 €,,1.70 €,1.80 €,4749900,390800
 89,Rue des Entrepreneurs,Joigny,89300,1.57 €,0.64 €,1.67 €,1.79 €,4797970,338167

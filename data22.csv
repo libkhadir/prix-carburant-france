@@ -30,7 +30,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22,le vivier rond point du volozen,Quintin,22800,1.53 €,,1.62 €,1.79 €,4840807.360198,-291867.82083897
 22,33 Rue de l'Éperonnerie,Pontrieux,22260,1.57 €,,,1.76 €,4869621,-316593
 22,21 Boulevard de la Gare,LOUDEAC,22600,1.52 €,,1.60 €,1.76 €,4817800,-276000
-22,RN12 - LA MARE MELEE,PLERNEUF,22170,,,1.51 €,,4852500,-288900
+22,RN12 - LA MARE MELEE,PLERNEUF,22170,,,,,4852500,-288900
 22,24 Rue de l'Armor,PLEUBIAN,22610,,,1.67 €,1.80 €,4884400,-313700
 22,KERGOUET,SAINT JOUAN DE L'ISLE,22350,1.60 €,,1.70 €,1.84 €,4827402.585,-218648.75602089
 22,LA NOE,Plurien,22240,,,1.47 €,,4862700,-240500
@@ -119,5 +119,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22,Route de Guingamp,LANNION,22300,1.39 €,,1.51 €,1.62 €,4871900,-341600
 22,KERJEAN / RD 790,Saint-Nicolas-du-Pélem,22480,1.38 €,,1.49 €,1.66 €,4831000,-315600
 22,la ville neuve,Saint-Brandan,22800,1.48 €,,1.58 €,1.73 €,4840000,-290000
-22,Rue de Kerbuannec,Callac,22160,1.52 €,0.64 €,1.65 €,1.73 €,4840700,-343400
+22,Rue de Kerbuannec,Callac,22160,1.53 €,0.64 €,1.65 €,1.75 €,4840700,-343400
 22,ZA DU CHALET,BROONS,22250,,0.76 €,1.62 €,1.74 €,4832425.292055,-225081.24626471
