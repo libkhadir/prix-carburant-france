@@ -28,7 +28,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,28 Avenue de la Vallée du Tarn,REQUISTA,12170,1.46 €,,,1.67 €,4402900,253400
 12,Place Frédéric Mistral,NAUCELLE,12800,,,1.56 €,1.77 €,4419842,234030
 12,241 Avenue de Marengo,Baraqueville,12160,,,,1.57 €,4427800,243000
-12,144 Avenue Jean Jaurès,Millau,12100,1.40 €,,1.51 €,1.56 €,4411000,308200
+12,144 Avenue Jean Jaurès,Millau,12100,,,1.51 €,,4411000,308200
 12,ZA LE LAC,La Fouillade,12270,1.48 €,,1.57 €,1.73 €,4424024.1001506,203283.20468272
 12,25 AV EDOUARD ALFRED MARTEL,MILLAU,12100,,,1.59 €,1.75 €,4411354,308262
 12,RUE ANTOINE FANGUIN,ESPALION,12500,1.46 €,,1.60 €,1.70 €,4452400,276600
@@ -66,7 +66,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,37 AVENUE DE PARIS,Sévérac d'Aveyron,12150,,,,1.90 €,4432932.8023609,306931.6338544
 12,37 Boulevard Paul Ramadier,CAPDENAC-GARE,12700,1.49 €,,1.57 €,1.70 €,4457100,207500
 12,le fargal haut,Montbazens,12220,,0.79 €,,1.70 €,4446138.9568938,222235.07921239
-12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,1.70 €,1.87 €,4483700,266300
+12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,1.70 €,1.80 €,4483700,266300
 12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.50 €,1.61 €,4409065,307745
 12,9 Avenue des Croates,VILLEFRANCHE-DE-ROUERGUE,12200,1.36 €,,,1.54 €,4436100,204100
 12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.37 €,,1.48 €,1.50 €,4395700,287500
@@ -76,7 +76,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,ZA le Plâ d'Aveyron RN88,Recoules-Prévinquières,12150,,0.84 €,,1.76 €,4435100,297200
 12,PARC ARTISANAL COMMUNAL ST FERREOL,Saint-Rome-de-Tarn,12490,,,1.61 €,1.77 €,4404300,290500
 12,l'Estréniol - Pôle Comtal Sud,Onet-le-Château,12850,1.41 €,,,1.73 €,4439400,260300
-12,FOISSAC,Villeneuve,12260,,,,1.69 €,4443900,202800
+12,FOISSAC,Villeneuve,12260,,,,,4443900,202800
 12,Zone de Laubarède,Viviez,12110,1.48 €,0.64 €,,1.75 €,4456000,222400
 12,Avenue de Bamberg,Rodez,12000,1.43 €,0.64 €,,1.65 €,4436135.1370221,258846.17569915
 12,Route de Rodez,BOZOULS,12340,1.46 €,,1.60 €,1.73 €,4446300,272700

@@ -26,9 +26,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,14 rue Durou,Bergerac,24100,1.52 €,0.64 €,1.60 €,1.69 €,4485800,48200
 24,RN 89 au 50 rue de la paix,SAINT-MÉDARD-DE-MUSSIDAN,24400,,,,1.74 €,4503300,32100
 24,154 avenue de la roque,CREYSSE,24100,1.50 €,0.64 €,1.60 €,1.69 €,4484900,53800
-24,740 avenue des jardins,TERRASSON,24120,1.43 €,,1.53 €,1.51 €,4512400,132100
+24,740 avenue des jardins,TERRASSON,24120,1.43 €,,1.53 €,,4512400,132100
 24,94 Avenue de la Beauronne,Agonac,24460,,,,1.71 €,4529276.92,75169.24
-24,8 Avenue de Selves,SARLAT LA CANEDA,24200,1.43 €,,1.54 €,1.50 €,4490000,121200
+24,8 Avenue de Selves,SARLAT LA CANEDA,24200,1.43 €,,1.54 €,1.60 €,4490000,121200
 24,ROUTE DE BORDEAUX,Neuvic,24190,,,1.57 €,1.67 €,4509700,47500
 24,32 AVENUE CHARLES DE GAULLE,THIVIERS,24800,,,1.61 €,1.70 €,4542456.1452651,92805.331392518
 24,27  Avenue André Maurois,BRANTôME,24310,,,,1.56 €,4536400,65300
@@ -56,7 +56,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Avenue Victor Hugo,Terrasson-Lavilledieu,24120,1.53 €,,1.61 €,1.75 €,4513100,129700
 24,route de Périgueux,LA FEUILLADE,24120,1.54 €,0.64 €,1.61 €,1.73 €,4512400,140800
 24,LES PLATEAUX DE GRAULET,Rouffignac-Saint-Cernin-de-Reilhac,24580,,,1.71 €,1.84 €,4504300,98100
-24,Puy Laurent,BRANTôME,24310,1.56 €,0.71 €,,1.78 €,4538100,64600
+24,Puy Laurent,BRANTôME,24310,1.56 €,0.71 €,,1.72 €,4538100,64600
 24,Avenue Georges Pompidou,Montpon-Ménestérol,24700,1.52 €,,1.60 €,1.66 €,4500900,15200
 24,Lieu-dit Grands Champs de Baunac,Tocane-Saint-Apre,24350,,,,1.86 €,4525805,50632
 24,Lieu-dit Le Bout de la Côte,Siorac-en-Périgord,24170,,,1.67 €,1.80 €,4481019,98906.999999998
@@ -76,8 +76,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,LIEU DIT LA FOUGERE  ROUTE DE CAHORS,Villefranche-du-Périgord,24550,,,1.71 €,1.79 €,4463855.2720827,106084.09067322
 24,les guichoux,Saint-Pierre-de-Chignac,24330,,,1.97 €,2.05 €,4511100,87000
 24,1 place mianne,Le Buisson-de-Cadouin,24480,,,1.60 €,1.74 €,4484600,91100
+24,Avenue du 8 mai 1945,Brantôme,24310,,,1.63 €,1.72 €,4535705,65291.4
 24,2161 ROUTE DE LA VALLEE,Tursac,24620,,,,1.72 €,4496983.9919715,104392.13201236
-24,Avenue du 8 mai 1945,Brantôme,24310,,,1.63 €,1.78 €,4535705,65291.4
 24,Route de Mauzac,LALINDE,24150,1.54 €,0.64 €,1.62 €,1.69 €,4483700,74600
 24,Route des Eyzies,Montignac,24290,1.58 €,0.64 €,1.69 €,1.73 €,4505862,115415
 24,59 Avenue d'Aquitaine,La Roche-Chalais,24490,1.52 €,0.64 €,1.78 €,1.76 €,4514600,500

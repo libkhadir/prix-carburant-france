@@ -26,7 +26,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 18,Route de Saint Pierre Le Moutier,SANCOINS,18600,,,1.65 €,1.72 €,4683300,293800
 18,Rue de Beaumont,Belleville-sur-Loire,18240,1.58 €,,1.69 €,1.74 €,4750500,285200
 18,110 Avenue Marcel Haegelen,BOURGES,18000,,,1.66 €,1.78 €,4707082,237747
-18,114 Avenue de Dun-sur-Auron,Bourges,18000,1.54 €,,1.66 €,1.74 €,4706700,241600
+18,114 Avenue de Dun-sur-Auron,Bourges,18000,1.51 €,,1.63 €,1.73 €,4706700,241600
 18,Route de Blet,NéRONDES,18350,1.55 €,,1.69 €,1.80 €,4699750.6992,281838.622791
 18,Route de Bourges,SAINT-AMAND-MONTROND,18200,1.53 €,,1.60 €,1.76 €,4673600,249100
 18,Z.A. les Noix Brulées,Orval,18200,1.53 €,0.64 €,,1.76 €,4672400,246100
@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 18,14 route de Bourges,DUN-SUR-AURON,18130,1.53 €,,1.67 €,1.77 €,4688900,256900
 18,AVENUE JEAN CHATELET,Mehun-sur-Yèvre,18500,,,1.59 €,1.70 €,4715016.13,221537.35
 18,93 Avenue du Général de Gaulle,SAINT-AMAND-MONTROND,18200,,,1.75 €,1.76 €,4673756.80823,246095.792922
-18,ROUTE DE BOURGES,MEHUN-SUR-YèVRE,18500,1.49 €,0.64 €,1.59 €,1.72 €,4714200,224300
+18,ROUTE DE BOURGES,MEHUN-SUR-YèVRE,18500,1.48 €,0.64 €,1.59 €,1.72 €,4714200,224300
 18,ROUTE DE BOURGES,SANCOINS,18600,,,1.69 €,1.79 €,4683600,291400
 18,RUE DE L'ERMITAGE,DUN-SUR-AURON,18130,,,1.70 €,1.83 €,4688500,256900
 18,ROUTE DE CHARENTON,Saint-Amand-Montrond,18200,,,1.60 €,1.76 €,4672200,253200
@@ -60,4 +60,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 18,43 Rue de Juranville,Saint-Amand-Montrond,18200,,,,1.56 €,4672600,250300
 18,Avenue de Lattre de Tassigny,Vierzon,18100,1.55 €,0.64 €,,1.69 €,4720500,207200
 18,ZAC DE LA VIGONNIERE LES BROSSES,Saint-Florent-sur-Cher,18400,1.47 €,0.64 €,1.74 €,1.69 €,4700500,226700
-18,191 les Terres du fénestrelay,Saint-Germain-du-Puy,18390,,,1.58 €,1.73 €,4709558.9154531,244073.17790985
+18,191 les Terres du fénestrelay,Saint-Germain-du-Puy,18390,,,1.59 €,1.59 €,4709558.9154531,244073.17790985
