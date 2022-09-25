@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-50,4 charrière du commerce,Agon-Coutainville,50230,1.50 €,,1.60 €,1.74 €,4904900,-159300
+50,4 charrière du commerce,Agon-Coutainville,50230,1.50 €,,1.60 €,1.70 €,4904900,-159300
+50,9 Route des Isles,PIERREVILLE,50340,1.70 €,,1.81 €,1.87 €,4947400,-178700
 50,25  rue de l'hotel saint denis,GAVRAY,50450,,,1.63 €,1.69 €,4891277,-135262
-50,9 Route des Isles,PIERREVILLE,50340,1.67 €,,1.77 €,1.91 €,4947400,-178700
 50,2F Route de DENNEVILLE,DIGOSVILLE,50110,,,1.65 €,1.76 €,4965345.9148478,-154932.46887909
 50,1214 Avenue de Paris,Saint-Lô,50000,1.55 €,0.70 €,1.65 €,1.70 €,4911630.1972112,-105833.12301737
 50,AUTOROUTE A84 - AIRE DU MONT SAINT MICHEL,Saint-Aubin-de-Terregatte,50240,1.50 €,0.76 €,1.61 €,1.69 €,4858491,-132638
@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,ZA DES CLOS DES MARES,BREHAL,50290,,0.70 €,1.63 €,1.68 €,4890238.7822164,-151415.85110863
 50,147 RUE JOSEPH CUGNOT,Saint-Lô,50000,1.55 €,,,1.70 €,4911200,-105100
 50,139 Rue du Général de Gaulle,SAINT-PIERRE-ÉGLISE,50330,,,1.73 €,1.84 €,4966700,-139100
-50,Route de Vire,VILLEDIEU-LES-POêLES,50800,,,1.77 €,1.81 €,4883500,-121900
+50,Route de Vire,VILLEDIEU-LES-POêLES,50800,,,1.76 €,1.81 €,4883500,-121900
 50,Avenue de la division Leclerc,Coutances,50200,1.51 €,0.64 €,1.59 €,1.65 €,4906200,-143700
 50,Rue Jean le Couturier,PERCY,50410,,,,1.70 €,4891400,-119300
 50,LA CROIX A LA MAIN,Saint Martin de bonfossé,50750,,,,1.64 €,4902900,-114200
@@ -47,7 +47,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.52 €,,,1.68 €,4930400,-121200
 50,6 rue de la liberation,Brécey,50370,1.59 €,0.80 €,,1.70 €,4872600,-116600
 50,LA VERTE CAMPAGNE,SAINT-HILAIRE-DU-HARCOUëT,50600,,,1.61 €,1.63 €,4857600,-108800
-50,Route des Fourches,CHERBOURG-OCTEVILLE,50100,1.50 €,0.64 €,1.61 €,1.69 €,4963906.9,-164776.2
+50,Route des Fourches,CHERBOURG-OCTEVILLE,50100,1.50 €,0.64 €,1.60 €,1.69 €,4963906.9,-164776.2
 50,23 RUE DU PERE ALBERT,PORTBAIL,50580,,,1.85 €,1.83 €,4933500,-169300
 50,ZONE DE BEAUFOUR,Saint-James,50240,,,1.76 €,1.66 €,4852100,-133900
 50,17 RUE DE NORMANDIE,Coutances,50200,,,1.65 €,1.80 €,4904393.76,-144322.98
@@ -70,13 +70,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,TANIS RN 175 LIEU DIT BREE,TANIS,50170,,,,1.55 €,4857600,-145100
 50,rue du hameau laisney,Gouville-sur-Mer,50560,1.57 €,,,1.75 €,4909700,-158500
 50,42 Rue de la Libération,Pontorson,50170,1.42 €,,1.53 €,1.58 €,4855400,-150100
-50, Rue de la Gare,RAMPAN,50000,,,,1.79 €,4916281,-112662
+50, Rue de la Gare,RAMPAN,50000,,,,1.73 €,4916281,-112662
 50,ZI le Saussey,Guilberville,50160,1.69 €,,1.87 €,1.73 €,4898413.6,-94629.69
 50,240 Rue Bitouzé d'Auxmesnil,Bricquebec,50260,1.54 €,,1.62 €,1.70 €,4946800,-164000
 50,Chemin de Pommenauque,CARENTAN,50500,,,1.80 €,1.70 €,4930700,-125300
 50,Rue de la Libération,La Haye-Pesnel,50320,1.49 €,,1.59 €,1.68 €,4879700,-139800
 50,39 Boulevard de l'Est,Tourlaville,50110,,,1.54 €,,4963500,-158700
-50,1 Boulevard de Verdun,Valognes,50700,1.42 €,,1.53 €,1.59 €,4950664,-146499
+50,1 Boulevard de Verdun,Valognes,50700,1.42 €,,1.53 €,,4950664,-146499
 50,1 rue Tanguiers ,LESSAY,50430,1.52 €,0.64 €,,1.66 €,4921231,-152758
 50,ZA DE L ETRIER,SAINT-SYMPHORIEN-LE-VALOIS,50250,1.52 €,,,1.66 €,4928400,-156700
 50,Route de Baudre,SAINT-Lô,50000,1.54 €,,,1.67 €,4909800,-107700
@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,3 ROUTE DES MARAIS - ST SYMPHORIEN LE VALOIS,La Haye-du-Puits,50250,1.42 €,,1.53 €,1.59 €,4929700,-154400
 50,Les Crutelles,SAINTE-MèRE-ÉGLISE,50480,,,1.60 €,1.63 €,4940500,-132200
 50,route de vire,Saint-Lô,50000,,,1.66 €,1.69 €,4910800,-107100
-50,RUE DE LA SALINE,Cherbourg-octeville,50100,,0.64 €,1.54 €,1.59 €,4963500,-161500
+50,RUE DE LA SALINE,Cherbourg-octeville,50100,1.43 €,0.64 €,1.54 €,1.59 €,4963500,-161500
 50,1 rue marcel pignot,Saint-Vaast-la-Hougue,50550,1.55 €,,1.63 €,1.65 €,4958908.15,-128036.27
 50,2 route du Mont Saint Michel,PONTORSON,50170,,,1.65 €,1.74 €,4856000,-150900
 50,Boulevard Félix-Buhot,VALOGNES,50700,,,1.65 €,1.74 €,4951200,-147800

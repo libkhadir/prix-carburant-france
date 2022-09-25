@@ -13,7 +13,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,1 ROUTE DE MAISONS BLANCHES,Buchères,10800,1.57 €,,1.66 €,1.76 €,4823700,410900
 10,25 Rue du Pont,Les Riceys,10340,,,1.70 €,1.80 €,4799651,436718
 10,AVENUE DE LA REPUBLIQUE,ESTISSAC,10190,,,,1.70 €,4827400,380400
-10,42  Route de Brienne (5 minutes A26 Sortie 21),ARCIS-SUR-AUBE,10700,1.57 €,0.70 €,1.65 €,1.70 €,4853400,415600
+10,42  Route de Brienne (5 minutes A26 Sortie 21),ARCIS-SUR-AUBE,10700,1.57 €,0.70 €,1.65 €,1.72 €,4853400,415600
 10,71 rue Victor Hugo,Rosières,10430,1.52 €,0.66 €,1.61 €,1.69 €,4826650.8041454,406117.27612853
 10,208 Route d'Auxerre,ROSIèRES-PRèS-TROYES,10430,1.57 €,,1.65 €,1.72 €,4826200,403700
 10,Boulevard de l'Ouest,Sainte-Savine,10300,1.56 €,,1.65 €,1.72 €,4830500,402700
@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,Rue Jean Moulin,VILLENAUXE-LA-GRANDE,10370,1.53 €,,,1.67 €,4858500,356100
 10,Rue Louis Desprez,BAR-SUR-AUBE,10200,,,1.70 €,1.72 €,4822800,471000
 10,AUTOROUTE A5 - AIRE TROYES-LE-PLESSIS,Fresnoy-le-Château,10270,1.51 €,0.76 €,1.62 €,1.70 €,4821415.5554748,424098.06284308
-10, Rue du Général de Gaulle,SAINT-LYE,10180,1.52 €,0.64 €,1.60 €,1.66 €,4836673,399672
+10, Rue du Général de Gaulle,SAINT-LYE,10180,1.53 €,0.64 €,1.60 €,1.67 €,4836673,399672
 10,103 avenue du Général de Gaulle,SAINT PARRES AUX TERTRES,10410,1.52 €,0.66 €,1.61 €,1.69 €,4829795.1133716,413363.64178579
 10,14 rue du bocage,essoyes,10360,,,1.78 €,1.95 €,4806063.95,453803.32
 10,Avenue du Général Leclerc,Bar-sur-Aube,10200,1.56 €,0.70 €,,1.72 €,4823800,470100
@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,Rue du Général P.decouz,Brienne-le-Château,10500,1.54 €,,1.65 €,1.70 €,4839900,451800
 10,47 Route de Bray,Nogent-sur-Seine,10400,1.53 €,,1.61 €,1.67 €,4848593,349118
 10,RD185 LES GRANDES FOSSES,VAUDES,10260,,,1.65 €,1.72 €,4818100,418900
-10,123 Rue Aristide Briand,Romilly-sur-Seine,10100,,,1.55 €,,4850900,373200
+10,123 Rue Aristide Briand,Romilly-sur-Seine,10100,1.44 €,,1.55 €,1.61 €,4850900,373200
 10,Centre Commercial La Belle Idée - RN 19,ROMILLY-SUR-SEINE,10100,1.53 €,0.66 €,1.59 €,1.68 €,4850400,376300
 10,13 Route Départementale 671,Mussy-sur-Seine,10250,,,1.70 €,1.80 €,4798300,449600
 10,AVENUE DIDEROT,Romilly-sur-Seine,10100,,,1.62 €,1.75 €,4851018,371443
@@ -52,7 +52,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,40  AVENUE CHOMEDEY DE MAISONNEU,TROYES,10000,1.49 €,0.69 €,1.59 €,1.65 €,4830440,407270
 10,13 route de Troyes,CHAOURCE,10210,,,1.81 €,1.77 €,4805800,414100
 10,20 Avenue du Général Leclerc,Bar-sur-Seine,10110,1.55 €,,1.64 €,1.74 €,4811577,438129
-10,1 CHAUSSEE DU VOULDY,TROYES,10000,1.51 €,,1.62 €,1.64 €,4829400,408300
+10,1 CHAUSSEE DU VOULDY,TROYES,10000,1.51 €,,1.62 €,,4829400,408300
 10,RN 7,Mailly-le-Camp,10230,,,,1.59 €,4867465,419126
 10,RN 19,Barberey-Saint-Sulpice,10600,1.60 €,0.69 €,,1.78 €,4833300,402300
 10,130 Avenue Michel Baroin,SAINT-JULIEN-LES-VILLAS,10800,1.56 €,0.64 €,1.65 €,1.71 €,4828100,409500
