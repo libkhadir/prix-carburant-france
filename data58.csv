@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-58,10 Boulevard Pierre de Coubertin,NEVERS,58000,1.57 €,,1.67 €,1.73 €,4698700,316200
-58,43 Route de Nevers,FOURCHAMBAULT,58600,1.57 €,,1.67 €,1.74 €,4701300,308700
+58,10 Boulevard Pierre de Coubertin,NEVERS,58000,1.59 €,,1.69 €,1.75 €,4698700,316200
+58,43 Route de Nevers,FOURCHAMBAULT,58600,1.59 €,,1.69 €,1.76 €,4701300,308700
 58,103 rue du Maréchal Leclerc,Cosne-Cours-sur-Loire,58200,1.43 €,,1.54 €,1.57 €,4741200,292700
 58,ROUTE DE DECIZE,LA MACHINE,58260,1.51 €,0.64 €,1.68 €,1.69 €,4688100,346400
 58,58 Rue du Maréchal Leclerc,COSNE-COURS-SUR-LOIRE,58200,,,1.69 €,1.77 €,4741412.51216,292602.785587
@@ -9,9 +9,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 58,9 route de l’aerodrome,Cosne cours sur Loire,58200,,0.70 €,,,4737800,292300
 58,RUE LEDRU ROLLIN,LUZY,58170,1.65 €,,1.70 €,1.75 €,4679000,396600
 58,Boulevard Beauregard,Coulanges-lès-Nevers,58660,1.55 €,0.66 €,1.66 €,1.72 €,4701133,317801
-58,Route de Cosne,Saint-Amand-en-Puisaye,58310,,0.64 €,,1.74 €,4752885,307024
 58,Vanne du Gour,CLAMECY,58500,,,1.68 €,1.74 €,4746000,352400
 58,4 FAUBOURG DU GRAND MOUESSE,NEVERS,58000,1.45 €,0.67 €,1.56 €,1.61 €,4699000,318700
+58,Route de Cosne,Saint-Amand-en-Puisaye,58310,,0.64 €,,1.74 €,4752885,307024
 58,BOULEVARD SAINT EXUPERY,Nevers,58000,,,2.25 €,1.89 €,4700400,316400
 58,Route de Champvert,DECIZE,58300,1.51 €,,1.70 €,1.69 €,4683800,347900
 58,4 ROUTE NATIONALE,Saint-Léger-des-Vignes,58300,1.59 €,,,1.82 €,4683700,346500

@@ -64,7 +64,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,4 charrière du commerce,Agon-Coutainville,50230,1.54 €,,1.64 €,1.69 €,4904900,-159300
 50,17 RUE DE NORMANDIE,Coutances,50200,,,1.65 €,1.73 €,4904393.76,-144322.98
 50,9 Route des Isles,PIERREVILLE,50340,1.70 €,,1.81 €,1.87 €,4947400,-178700
-50,25  rue de l'hotel saint denis,GAVRAY,50450,,,1.63 €,1.69 €,4891277,-135262
+50,25  rue de l'hotel saint denis,GAVRAY,50450,,,1.65 €,1.71 €,4891277,-135262
 50,1214 Avenue de Paris,Saint-Lô,50000,1.60 €,0.70 €,1.70 €,1.75 €,4911630.1972112,-105833.12301737
 50,Route de Montebourg - La Victoire,VALOGNES,50700,1.51 €,,1.61 €,1.71 €,4950200,-145600
 50,Avenue de Normandie,Cherbourg-Octeville,50130,1.62 €,,1.70 €,1.80 €,4962600,-162800
@@ -73,7 +73,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,1 Rue Jules Labiche,SOURDEVAL,50150,,,,,4872613,-91975
 50,2  AVENUE DE VERDUN,COUTANCES,50200,1.47 €,0.66 €,1.57 €,1.61 €,4903827,-144603
 50,Parc Mairie Gardin,Beaumont-Hague,50440,1.52 €,,,1.71 €,4966203,-183636
-50,Route de Paris,Saint-Hilaire-du-Harcouët,50600,1.55 €,,1.65 €,1.73 €,4857375,-108262
+50,Route de Paris,Saint-Hilaire-du-Harcouët,50600,,,1.65 €,1.73 €,4857375,-108262
 50,Route de Villedieu,GRANVILLE,50400,1.50 €,0.64 €,,1.67 €,4883800,-155300
 50,5 ZA ROUTE TOURISTIQUE D650,Les Moitiers-d'Allonne,50270,,,,,4940700,-178300
 50,3 rue du clos,Montmartin-sur-Mer,50590,,,1.65 €,1.73 €,4898800,-151900
@@ -96,8 +96,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,10 rue Val de Saire,Quettehou,50630,1.51 €,0.64 €,1.61 €,1.71 €,4959838,-129949
 50,14 Rue de Carneville,PICAUVILLE,50360,1.60 €,,1.72 €,1.74 €,4937900,-142300
 50,22 Le Bourg Robert,Ponts,50300,,,,,4870900,-131900
-50,ROUTE DE VILLEDIEU,SAINT-Lô,50000,1.46 €,0.63 €,1.57 €,1.61 €,4910200,-111600
-50,62 RUE DE LA PAIX,CHERBOURG EN COTENTIN,50120,1.50 €,,1.61 €,1.69 €,4964981.95,-165049.88
+50,ROUTE DE VILLEDIEU,SAINT-Lô,50000,,,,,4910200,-111600
+50,62 RUE DE LA PAIX,CHERBOURG EN COTENTIN,50120,1.54 €,,1.66 €,1.71 €,4964981.95,-165049.88
 50,Chemin de la Chuque,CARENTAN,50500,,,1.62 €,1.70 €,4930200,-123100
 50,route de carolles,SARTILLY,50530,1.50 €,0.65 €,1.60 €,1.67 €,4875200,-145700
 50,85  route de Saint Lô,Saint-Amand,50160,,,,1.60 €,4904798,-99375
@@ -115,7 +115,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Centre Commercial du Cotentin,La Glacerie,50470,1.54 €,,1.66 €,1.71 €,4960340,-160199
 50,ZI RN 24 BIS,Granville,50400,,,1.57 €,,4884100,-157700
 50,26 Rue de l'Europe,Créances,50710,,,1.60 €,1.75 €,4919753.92,-154360.47
-50,5  rue des Claires,QUERQUEVILLE,50460,1.52 €,0.65 €,1.63 €,1.71 €,4966000,-168600
+50,5  rue des Claires,QUERQUEVILLE,50460,1.54 €,0.65 €,1.66 €,1.71 €,4966000,-168600
 50,1251 route de coutances,Agneaux,50180,1.60 €,,1.72 €,1.74 €,4911300,-112500
 50,1 Rue du Grand Pré,Tourlaville,50110,1.54 €,0.64 €,1.66 €,1.71 €,4963700,-159600
 50,39 Boulevard de l'Est,Tourlaville,50110,1.54 €,0.60 €,1.66 €,1.71 €,4963500,-159100

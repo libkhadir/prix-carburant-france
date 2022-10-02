@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Rond Point de Furiani,Furiani,20600,,,,1.68 €,4266306,943007
 20,RTE N 198,Porto-Vecchio,20137,,,,1.65 €,4160400,927700
 20,ACHIARELLO ROUTE DE PORTO,GALERIA,20245,,,,1.83 €,4241000,868700
-20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.63 €,4263200,894500
+20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.66 €,4263200,894500
 20,RN 197,ALGAJOLA,20220,,,,1.66 €,4260900,887500
 20,Route de bonifacio BP115,Porto-Vecchio,20137,,,,1.65 €,4157844.2439722,927469.32854278
 20,Station TOTAL La Trinité - RN 198 - Pitrera,PORTO-VECCHIO,20137,,,,1.72 €,4163489.5582317,929420.40547291
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Les Marines de Porticcio - Commune de Grosseto-Prugna,PORTICCIO,20166,,,,1.61 €,4188730,880770
 20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.58 €,4184900,940000
 20,sennola,BONIFACIO,20169,,,,1.64 €,4139100,916500
-20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.56 €,4192900,876200
+20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.58 €,4192900,876200
 20,RTE N 196,Petreto-Bicchisano,20140,,,,1.65 €,4178547,897933
 20,Route de Sagone,ALATA,20167,,,,1.57 €,4196500,878200
 20,Veta Porticcio,PORTICCIO,20166,,,,1.58 €,4189800,881000
@@ -53,9 +53,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Noce,COZZANO,20148,,,,2.22 €,4193500,915800
 20,Mezzavia,Ajaccio,20167,,,,1.81 €,4194805.43,876499.84
 20,CTRE COMMERCIAL BENISTA,GROSSETO-PRUGNA,20166,,,,1.58 €,4188700,880800
-20,Station TOTAL,Calacuccia,20224,,,,1.65 €,4233399,900872
+20,Station TOTAL,Calacuccia,20224,,,,1.67 €,4233399,900872
 20,RN T 10,Solenzara,20145,,,,1.60 €,4185788.64,936422.22
-20,Lieu-Dit Migliacciaro,PRUNELLI-DI-FIUMORBO,20243,,,,1.64 €,4199868.57757,940286
+20,Lieu-Dit Migliacciaro,PRUNELLI-DI-FIUMORBO,20243,,,,1.60 €,4199868.57757,940286
 20,CASAMOZZA,LUCCIANA,20290,,,,1.65 €,4254700,941800
 20,rond point du fango avenue jean zuccarelli,Bastia,20200,,,,1.64 €,4270358.1401618,944219.35452675
 20,mezzavia centre rn 194,AJACCIO,20090,,,,1.68 €,4195300,878200
@@ -75,7 +75,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,37 ROUTE DU CAP,SAN-MARTINO-DI-LOTA,20200,,,,1.66 €,4272858.526,945947.796
 20,1680 avenue du 9 Septembre - Lotissement Feminiccia - RN 198,GHISONACCIA,20240,,,,1.66 €,4202200,941100
 20,N194 Route de Mezzavia,Ajaccio,20167,,,,1.60 €,4195000,876900
-20,San Giuseppu,Propriano,20110,,,,1.56 €,4167100,891300
+20,San Giuseppu,Propriano,20110,,,,1.61 €,4167100,891300
 20,Cours Joseph Colonna,vico,20160,,,,1.79 €,4216700,879900
 20,CAMPINCA,Brando,20222,,,,1.86 €,4276500,946900
 20,Marinca - RD 157,Olmeto,20113,,,,1.62 €,4169741,889670
@@ -110,11 +110,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Avenue Christophe Colomb,Calvi,20260,,,,1.79 €,4256100,875500
 20,Casamozza - RN 193,Lucciana,20290,,,,1.65 €,4252490,944070
 20,14 route du cap,Ville-di-Pietrabugno,20200,,,,1.57 €,4250239.5368601,937830.99000001
-20,Station TOTAL - relais de la balagne ,CALVI,20260,,,,1.64 €,4256429,875541
+20,Station TOTAL - relais de la balagne ,CALVI,20260,,,,1.70 €,4256429,875541
 20,Cala Longa,Bonifacio,20169,,,,1.63 €,4139200,916600
 20,RN 198,Ghisonaccia,20240,,,,1.61 €,4201703,940606
+20,Centre Ville,SAINT-FLORENT,20217,,,,1.63 €,4268100,930400
 20,Route Calvi,Saint-Florent,20217,,,,1.63 €,4267287.4388789,930196.04991978
-20,Centre Ville,SAINT-FLORENT,20217,,,,1.61 €,4268100,930400
 20,TRAVO,Ventiseri,20240,,,,1.61 €,4191600,939300
 20,Ld bellagamba,SARTENE,20100,,,,1.63 €,4162100,897300
 20,10 faubourg saint Antoine,Corte,20250,,,,2.11 €,4230122.61,915054.31
@@ -124,7 +124,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Avenue du Président Kennedy - HLM Bat P,Ajaccio,20090,,,,1.79 €,4193100,873500
 20,ZI RIZZANESE,Sartène,20100,,,,1.63 €,4164900,894500
 20,36 Avenue Paul Doumer,L'Île-Rousse,20220,,,,1.62 €,4263200,894500
-20,65 COURS LUCIEN BONAPARTE,AJACCIO,20000,,,,1.58 €,4191078.61872,872151.667262
+20,65 COURS LUCIEN BONAPARTE,AJACCIO,20000,,,,1.64 €,4191078.61872,872151.667262
 20,Route de Bonifacio,Porto-Vecchio,20137,,,,1.65 €,4157100,927300
 20,rond point de ponte leccia,Ponte-Leccia,20218,,,,1.62 €,4246274,920667
 20,RN 193,FURIANI,20600,,,,1.68 €,4265300,944000

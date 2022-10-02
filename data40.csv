@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,Centre Commercial Intermarché,HAGETMAU,40700,1.56 €,0.67 €,1.66 €,1.70 €,4363700,-61400
 40,RUE CHANZY,TARTAS,40400,,,1.59 €,,4382900,-80400
 40,2 Avenue de Mont de Marsan,Grenade-sur-l'Adour,40270,,,1.64 €,1.70 €,4377400,-43200
-40,384 avenue des Martyrs de la Résistance,MONT-DE-MARSAN,40000,1.58 €,,1.70 €,1.69 €,4388700,-51300
+40,384 avenue des Martyrs de la Résistance,MONT-DE-MARSAN,40000,1.60 €,,1.72 €,1.71 €,4388700,-51300
 40,200 boulevard oscar niemeyer,Saint-Pierre-du-Mont,40280,1.53 €,0.68 €,,1.71 €,4388298.1,-51997.589
 40,A64 - Aire d'Hastingues,HASTINGUES,40300,1.72 €,,1.82 €,1.91 €,4352943.573,-115155.841
 40,Route des Lacs,LIT-ET-MIXE,40170,1.51 €,,1.63 €,1.70 €,4402500,-125900
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,RUE JEAN DE NASSE,CASTETS,40260,1.51 €,,,1.66 €,4387700,-114300
 40,Route de Bayonne,PEYREHORADE,40300,,,1.62 €,1.74 €,4355030,-112342
 40,Aire Portes Landes Ouest,Saugnacq-et-Muret,40410,1.77 €,,1.87 €,1.94 €,4436286.0807475,-85169.803376746
-40,ROUTE DE ST SEVER,HAGETMAU,40700,,,,1.61 €,4365853.88198,-59109.674408
+40,ROUTE DE ST SEVER,HAGETMAU,40700,,,,,4365853.88198,-59109.674408
 40,1941 ROUTE DE TERCIS,OEYRELUY,40180,,,,1.63 €,4368000,-109300
 40,560 route de bordeaux,Villeneuve-de-Marsan,40190,,,,1.89 €,4391300,-30400
 40,FOCH,Dax,40100,,,,,4370959,-105552
@@ -85,7 +85,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,77 route de Bayonne,Peyrehorade,40300,,,,,4354700,-111300
 40,355  avenue de l'Océan,AMOU,40330,1.55 €,,1.65 €,1.69 €,4359311,-75456
 40,302 Avenue du Corps Franc Pommies,Saint-Pierre-du-Mont,40280,1.80 €,0.90 €,,1.90 €,4388600,-52000
-40,Route de la Plage,BISCARROSSE,40600,1.53 €,,1.62 €,1.70 €,4441100,-116900
+40,Route de la Plage,BISCARROSSE,40600,1.56 €,,1.65 €,1.72 €,4441100,-116900
 40,Avenue des Grands Lacs,SANGUINET,40460,1.58 €,0.64 €,,1.73 €,4448127.212,-107975.102
 40,2401 AVENUE DES LACS,Moliets-et-Maa,40660,1.51 €,,1.61 €,1.70 €,4385074.046,-135495.785
 40,route de tarbes,Aire-sur-l'Adour,40800,1.62 €,,1.73 €,1.75 €,4373203,-26679
@@ -95,7 +95,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40, Route de la Parcelle,Dax,40100,1.52 €,0.64 €,1.65 €,1.71 €,4369283,-105422
 40,C/C CD 54,SAINT-MARTIN-DE-SEIGNANX,40390,1.51 €,,1.62 €,1.70 €,4354300,-138700
 40,za LAMARRAQUE,Gabarret,40310,,,1.68 €,1.70 €,4398646,999.000000001
-40,boulevard des cigales,CAPBRETON,40130,1.52 €,,1.60 €,1.70 €,4363862.89453,-142594.959368
+40,boulevard des cigales,CAPBRETON,40130,1.55 €,,1.64 €,1.71 €,4363862.89453,-142594.959368
 40,67 allée de Genets,Labouheyre,40210,1.52 €,,,1.70 €,4420200,-92900
 40,170 Route de Sabres,LABRIT,40420,1.60 €,,1.80 €,1.70 €,4410600,-54700
 40,AVENUE JEAN JAURES,VILLENEUVE-DE-MARSAN,40190,,,1.65 €,1.73 €,4388500,-30700
