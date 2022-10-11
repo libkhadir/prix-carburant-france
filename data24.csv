@@ -6,15 +6,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Bld De Lattre De Tassigny,SAINT-ASTIER,24110,1.69 €,,,1.95 €,4514600,52500
 24,57 rue d'Aquitaine,Savignac-Lédrier,24270,,,1.84 €,1.99 €,4539600,120900
 24,18/20 Cours Fénelon,PERIGUEUX,24000,1.75 €,,1.87 €,1.98 €,4518200,72100
-24,rue du 11 juin 1944,Saint-Médard-de-Mussidan,24400,1.63 €,,1.73 €,,4504100,35200
 24,LA PLANCHE,LANOUAILLE,24270,1.70 €,,1.80 €,1.90 €,4538621.3921837,113595.242501
 24,Avenue Winston Churchill,COULOUNIEIX-CHAMIERS,24660,,,1.78 €,1.95 €,4517100,68900
 24,Route de Mussidan,RIBéRAC,24600,1.66 €,,1.75 €,1.88 €,4523800,34800
 24,Route de Limoges,TRéLISSAC,24750,1.69 €,0.80 €,1.76 €,1.95 €,4520000,78500
-24,plaine de bretou,EYMET,24500,,,1.68 €,1.77 €,4467400,40500
+24,plaine de bretou,EYMET,24500,,,1.84 €,2.00 €,4467400,40500
 24,127 Rue du Limousin,LANOUAILLE,24270,,,,,4539400,114000
 24,Autoroute A89 - Aire de Manoire,Saint-Laurent-sur-Manoire,24330,1.59 €,0.75 €,1.69 €,1.76 €,4515100,79900
 24,Avenue de Périgueux,LA COQUILLE,24450,,,1.78 €,1.90 €,4553900,97600
+24,rue du 11 juin 1944,Saint-Médard-de-Mussidan,24400,1.63 €,,1.73 €,,4504100,35200
 24,Zone des Reaux,Vélines,24230,,,1.63 €,1.80 €,4485201.45,10365.84
 24,GAILLARDOU,LA ROQUE GAGEAC,24250,1.56 €,,,1.79 €,4481400,121200
 24,CD 91,Piégut-Pluviers,24360,1.66 €,,1.63 €,1.89 €,4562000,69900
@@ -52,7 +52,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,138 RUE PIERRE SEMARD LE TOULON,PERIGUEUX,24000,,,,,4519700,70100
 24,2 route de Nontron,Saint-Martial-de-Valette,24300,,0.70 €,,,4552000,65500
 24,101  Avenue Pasteur,Bergerac,24100,1.68 €,,1.76 €,1.92 €,4486262,49793
-24,229 les grand champs,saint aulaye puymangou,24410,,,1.78 €,1.86 €,4516800,8100
+24,229 les grand champs,saint aulaye puymangou,24410,,,1.85 €,2.03 €,4516800,8100
 24,2 Route de la Maladrerie,Nontron,24300,1.67 €,,1.76 €,1.89 €,4554059,66713
 24,Avenue Victor Hugo,Terrasson-Lavilledieu,24120,1.70 €,,1.70 €,1.90 €,4513100,129700
 24,route de Périgueux,LA FEUILLADE,24120,1.68 €,0.64 €,1.78 €,1.95 €,4512400,140800
@@ -82,7 +82,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,59 Avenue d'Aquitaine,La Roche-Chalais,24490,1.66 €,0.64 €,1.78 €,1.88 €,4514600,500
 24,VOIE DE LA VALLEE,SAINT-CYPRIEN,24220,,,1.82 €,1.95 €,4486213.37672,103980.008932
 24,RN 21 ZAC DU CERF (SORTIE :15 - A89),NOTRE DAME DE SANILHAC,24660,,,1.72 €,1.95 €,4513600,70100
-24,RN.21,Sarliac-sur-l'Isle,24420,1.56 €,,1.68 €,1.84 €,4523500,87300
+24,RN.21,Sarliac-sur-l'Isle,24420,1.56 €,,1.68 €,,4523500,87300
 24,avenue Georges Pompidou,Trélissac,24750,1.69 €,,1.78 €,1.94 €,4519834,74134
 24,Av LOUIS SUDER,MARSAC-SUR-L'ISLE,24430,1.69 €,,1.76 €,1.95 €,4519393.99377,66008.1921776
 24,allée Jacques Duclos,BOULAZAC,24750,1.69 €,0.80 €,1.76 €,1.95 €,4518600,77500

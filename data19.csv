@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 19,56 Avenue du Général Leclerc,USSEL,19200,,0.73 €,,1.97 €,4555700,230200
 19,14 rue louis taurisson,BRIVE-LA-GAILLARDE,19100,,,1.79 €,1.94 €,4514500,148300
 19,Les Alleux,FAVARS,19330,,,1.85 €,1.92 €,4526712,167930
-19,Avenue Charles de Gaulle,ÉGLETONS,19300,1.64 €,,,,4540200,204200
+19,Avenue Charles de Gaulle,ÉGLETONS,19300,1.68 €,,1.79 €,1.96 €,4540200,204200
 19,84 Avenue Limousine,Meymac,19250,,,,1.65 €,4553400,214800
 19,Impasse du Pilou,BRIVE-LA-GAILLARDE,19100,1.69 €,0.64 €,,1.90 €,4515800,156300
 19,La Bitarelle,Gimel-les-Cascades,19800,,,2.19 €,2.12 €,4531800,183900
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 19,12 Rue du Commerce,Eygurande,19340,,,,,4566357,245215
 19,CHAULAUDRE,Égletons,19300,1.55 €,0.70 €,1.67 €,,4539800,203600
 19,BOULEVARD DU PENDANT,Neuvic,19160,1.70 €,,1.79 €,1.92 €,4538400,226900
-19,Route de Brive,OBJAT,19130,1.57 €,,1.66 €,1.78 €,4524400,141500
+19,Route de Brive,OBJAT,19130,1.59 €,,1.68 €,1.84 €,4524400,141500
 19,RUE PASTEUR,Malemort-sur-Corrèze,19360,1.74 €,,1.83 €,1.91 €,4516800,156100
 19,6 rue Douvisis,ARGENTAT,19400,1.73 €,,1.83 €,1.93 €,4509400,193700
 19,LE VEYROU,Altillac,19120,1.70 €,,,1.96 €,4497300,184900

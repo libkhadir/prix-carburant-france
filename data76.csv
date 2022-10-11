@@ -59,7 +59,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,34 Route de Neufchâtel-en-Bray,LONDINIERES,76660,,,,1.94 €,4983000,140400
 76,38 PLACE DE LA MAIRIE,Gaillefontaine,76870,1.67 €,,1.75 €,1.89 €,4965400,161500
 76,Rue de la Résistance,Saint-Aubin-lès-Elbeuf,76410,,,,1.95 €,4930300,103500
-76,Route de Pont-de-l'Arche,Saint-Pierre-lès-Elbeuf,76320,1.65 €,0.71 €,1.77 €,1.88 €,4929000,104000
+76,Route de Pont-de-l'Arche,Saint-Pierre-lès-Elbeuf,76320,1.68 €,0.73 €,1.77 €,1.90 €,4929000,104000
 76,9 Rue Bellavoine,Valmont,76540,,,1.83 €,1.97 €,4974500,51300
 76,73 RUE DU GENERAL DE GAULLE,LE HOULME,76770,,,,,4950200,104300
 76,Centre Commercial la LEZARDE,MONTIVILLIERS,76290,,,,1.93 €,4952500,19000
@@ -97,15 +97,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,ROUTE DE TOURVILLE,Cléon,76410,1.53 €,,1.64 €,1.77 €,4930700,102900
 76,20 rue de la libération,Auffay,76720,,,1.85 €,2.00 €,4971500,109800
 76,Rue de la République,LUNERAY,76810,,,1.73 €,1.91 €,4983200,91600
-76,23 RUE DU VAL LAURENT,LA FEUILLIE,76220,1.65 €,0.76 €,,,4946100,152000
+76,23 RUE DU VAL LAURENT,LA FEUILLIE,76220,1.65 €,0.76 €,1.82 €,1.98 €,4946100,152000
 76, Avenue Georges Clemenceau,YVETOT,76190,,,1.76 €,2.23 €,4962113,76692
 76,AVENUE DU COMMANDANT BICHERAY,Rouen,76000,1.61 €,,1.69 €,1.78 €,4945000,104900
 76,42 Rue Sadi Carnot,Darnétal,76160,1.61 €,,1.69 €,1.76 €,4944100,114800
-76,AUTOROUTE A 15,Saint-Jean-du-Cardonnay,76150,1.65 €,,1.74 €,1.84 €,4949500,99800
+76,AUTOROUTE A 15,Saint-Jean-du-Cardonnay,76150,1.66 €,,1.75 €,1.92 €,4949500,99800
 76,24 Avenue du Mont aux Malades,Mont-Saint-Aignan,76130,1.63 €,,1.71 €,1.77 €,4946100,108200
 76,209 Rue Gustave Couturier,FéCAMP,76400,,,,,4975119,40223
-76,BOULEVARD LENINGRAD,LE HAVRE,76600,1.55 €,,,,4949878,15925
-76,Rue Raymond Brétéché,LE TRAIT,76580,1.67 €,,1.75 €,1.81 €,4948800,80400
+76,BOULEVARD LENINGRAD,LE HAVRE,76600,,,,,4949878,15925
+76,Rue Raymond Brétéché,LE TRAIT,76580,1.63 €,,1.71 €,1.81 €,4948800,80400
 76,RN 138 LES ESSARTS,Grand-Couronne,76530,1.65 €,0.73 €,1.74 €,1.79 €,4935400,103000
 76,8 Rue Béranger,Le Havre,76600,1.63 €,,1.71 €,1.86 €,4949400,9700
 76,253 Rue du Bois au Coq,Le Havre,76620,1.61 €,,1.69 €,1.78 €,4951200,12700
@@ -123,17 +123,17 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,Avenue Aristide Briand,ROUEN,76000,,,,,4943500,110500
 76,Rue Gaston Contremoulins,SOTTEVILLE-LèS-ROUEN,76300,,,,,4942100,109600
 76,566 Route de Gournay,Servaville-Salmonville,76116,,,,,4946200,125700
-76,7 rue du Neubourg,ELBEUF,76500,,,,1.97 €,4928600,100900
+76,7 rue du Neubourg,ELBEUF,76500,,,,1.99 €,4928600,100900
 76,Rue du Maréchal de Lattre de Tassigny,BIHOREL,76420,1.76 €,,,2.00 €,4945900,112600
 76,RD 925 ETALONDES,ETALONDES,76260,1.67 €,0.80 €,,1.91 €,5003200,139900
 76,69 avenue de la première armée française,Gournay-en-Bray,76220,,0.80 €,,,4947300,172600
-76,Avenue Emmanuel Brion,SAINT-SAëNS,76680,,,,1.99 €,4967000,128400
+76,Avenue Emmanuel Brion,SAINT-SAëNS,76680,,,,,4967000,128400
 76,Place Gaston Sanson,FAUVILLE-EN-CAUX,76640,,,1.80 €,1.86 €,4965100,59100
 76,EtranMartin Eglise,DIEPPE,76370,1.55 €,,1.60 €,2.00 €,4990900,110800
 76,Rue Jérôme Cardan,Notre-Dame-de-Gravenchon,76330,,,,,4948189,58305
 76,975 Rue Robert Lefranc,Saint-Nicolas-d'Aliermont,76510,,0.64 €,,,4987600,123400
 76,2 ROUTE DE PARIS,Le Mesnil-Esnard,76240,,,,,4941200,113700
-76,RN 182,Gonfreville-l'Orcher,76700,,0.83 €,1.79 €,2.30 €,4950300,20900
+76,RN 182,Gonfreville-l'Orcher,76700,,0.83 €,,,4950300,20900
 76,40 Rue du Canal,CANTELEU,76380,1.69 €,,1.74 €,1.93 €,4945879,104473
 76,CENTRE COMMERCIAL SAINT JEAN,NEUVILLE-FERRIERES,76270,1.74 €,0.90 €,1.84 €,1.99 €,4971667.61,145624.69
 76,2 RUE EUGENE MOPIN,LE HAVRE,76610,,,,,4951800,15800
@@ -152,10 +152,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,CHEMIN DU ROY,LA MAILLERAYE-SUR-SEINE,76940,,,,,4947910.71533,76809.4546353
 76,1 ROUTE NATIONALE,FOUCARMONT,76340,,,,,4984700,156500
 76,AVENUE JEAN JAURES,Sotteville-lès-Rouen,76300,1.68 €,,,1.88 €,4941400,109100
-76,17 Rue Jacques Fauquet,BOLBEC,76210,1.79 €,,1.87 €,1.92 €,4957300,46800
+76,17 Rue Jacques Fauquet,BOLBEC,76210,,,,,4957300,46800
 76,Route du Havre,Saint-Valery-en-Caux,76460,,,,2.02 €,4985825,69319
 76,Route de la Gare,BUCHY,76750,,,,,4959800,134200
-76,Avenue Maximiliansau,Cany-Barville,76450,,,,1.91 €,4979179,63439
+76,Avenue Maximiliansau,Cany-Barville,76450,,,,,4979179,63439
 76,Rue Jean Moulin,YVETOT,76190,,0.70 €,,1.93 €,4961200,77500
 76,Boulevard de Lattre de Tassigny,LILLEBONNE,76170,,0.64 €,1.77 €,1.92 €,4951600,53200
 76,RUE DES ACACIAS,Pavilly,76570,,,1.68 €,1.96 €,4956400,95200
@@ -163,7 +163,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,Avenue du Maréchal Juin,BIHOREL,76420,,,,1.94 €,4946334,112358
 76,Départemental RD 6014,Boos,76520,,,,,4938700,119900
 76,Rue de la Myre,YERVILLE,76760,1.62 €,,1.70 €,1.97 €,4966700,89800
-76,Zone d'activités du Bois de l'Arc,YERVILLE,76760,1.62 €,0.70 €,1.70 €,1.84 €,4966100,88000
+76,Zone d'activités du Bois de l'Arc,YERVILLE,76760,1.62 €,0.70 €,1.70 €,1.97 €,4966100,88000
 76,9 avenue du 51 eme highland division,SAINT-VALERY-EN-CAUX,76460,,,,,4986400,70800
 76,10 Boulevard Industriel,Sotteville-lès-Rouen,76300,,,,,4942100,110700
 76,52 Avenue de la Libération,Dieppe,76370,,,,,4992600,111500

@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ZA Les Montagnes Les Plantes Neuves,Champniers,16430,1.70 €,,,1.90 €,4568300,17900
 16,40 Avenue Général Leclerc,Jarnac,16200,,,,,4568095,-16268
 16,ZA DE CHASSAT,CHABANAIS,16150,1.72 €,0.67 €,1.80 €,1.96 €,4587800,72600
-16,Route de Barbezieux CD 14,Baignes-Sainte-Radegonde,16360,1.63 €,,1.72 €,1.74 €,4538500,-23000
+16,Route de Barbezieux CD 14,Baignes-Sainte-Radegonde,16360,1.75 €,,1.85 €,1.98 €,4538500,-23000
 16,RN 10,RUFFEC,16700,1.88 €,,2.00 €,2.07 €,4601900,18400
 16,RN 141,CHABANAIS,16150,,,,1.88 €,4587221.560482,68209.246867894
 16,AUX NAULETS PEREUIL,Blanzac-Porcheresse,16250,1.60 €,,1.70 €,1.76 €,4547271.338,4810.332
@@ -29,7 +29,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,Avenue de l'Europe,JARNAC,16200,1.68 €,,1.77 €,1.93 €,4568581.065,-16473.549
 16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.69 €,,1.78 €,1.93 €,4558884.8804688,-4798.4026188222
 16,Avenue de l'Europe,BARBEZIEUX-SAINT-HILAIRE,16300,1.63 €,0.64 €,1.74 €,1.90 €,4546704,-16519
-16,Avenue de l'Europe,Barbezieux-Saint-Hilaire,16300,1.63 €,0.75 €,1.74 €,1.90 €,4546600,-16400
+16,Avenue de l'Europe,Barbezieux-Saint-Hilaire,16300,1.63 €,0.75 €,1.74 €,1.93 €,4546600,-16400
 16,52 RUE DE LA REPUBLIQUE,BARBEZIEUX-SAINT-HILAIRE,16300,,,,,4546900,-15900
 16,186 Rue de Saintes,Angoulême,16000,1.64 €,,1.73 €,1.85 €,4566100,14000
 16,2 Rue de la Gare,CHASSENEUIL-SUR-BONNIEURE,16260,1.80 €,,1.90 €,2.00 €,4582700,45400
@@ -52,7 +52,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,58 Avenue de l Augoumois,Montmoreau-Saint-Cybard,16190,1.66 €,,1.73 €,1.88 €,4540063,13040
 16,Avenue Foch,RUELLE-SUR-TOUVRE,16600,,,1.76 €,1.88 €,4568019,21081
 16,2 Clos Chabot,Villejésus,16140,,,1.74 €,1.83 €,4589992.0641752,1484.617568
-16,20 avenue des Saintes,Cognac,16100,1.68 €,,1.74 €,1.93 €,4569892.4520397,-34408.751817818
+16,20 avenue des Saintes,Cognac,16100,1.68 €,,1.74 €,,4569892.4520397,-34408.751817818
 16,Avenue du Professeur Girard,RUFFEC,16700,1.65 €,,1.69 €,,4603115.60425,20408.8594397
 16,Rue Grange du Chapître,Mansle,16230,1.71 €,,,1.95 €,4587400,18100
 16,LA FORET RTE DE PERIGUEUX,EDON,16320,1.74 €,,1.76 €,1.87 €,4548900,36300
@@ -62,5 +62,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,220 Avenue Victor Hugo,COGNAC,16100,,,1.75 €,1.87 €,4568800,-31300
 16,Route de Paris,GOND-PONTOUVRE,16160,,,1.78 €,1.91 €,4568267.1292637,17728.895022
 16,40 rue de l'Annisserie,Châteaubernard,16100,1.68 €,,1.76 €,1.92 €,4568397,-30463
-16,70 Rue de l'Échassier,COGNAC,16100,1.62 €,,1.71 €,1.81 €,4569200,-30900
+16,70 Rue de l'Échassier,COGNAC,16100,1.74 €,,1.69 €,1.94 €,4569200,-30900
 16,5 avenue Paul Desfarges,Angoulême,16000,,0.84 €,1.74 €,1.90 €,4565800,18100

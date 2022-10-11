@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,Z.A.E.de Cantegals,COLOMBIERS,34440,2.01 €,,,2.08 €,4330900,316800
 34,Avenue de la Promenade,CERS,34420,1.57 €,0.64 €,1.56 €,1.93 €,4331900,330200
 34,ROUTE DE MONTPELLIER,LODèVE,34700,2.20 €,1.19 €,2.26 €,1.90 €,4372279.323,332299.427
-34,LIEUDIT LE GRANEVAS,VIAS,34450,1.57 €,,1.68 €,1.90 €,4331200,341900
+34,LIEUDIT LE GRANEVAS,VIAS,34450,1.57 €,,1.68 €,,4331200,341900
 34,CS 50003,PEROLS,34475,1.59 €,,1.67 €,1.91 €,4356400,394700
 34,180 chemin des esparrieres,BOUZIGUES,34140,,0.74 €,,1.97 €,4344800,364300
 34,38 Avenue de Verdun,PéZENAS,34120,,,,,4345202.9065112,341786.89993915
@@ -37,7 +37,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,12 Avenue de la gare,Saint-Pons-de-Thomières,34220,,0.74 €,,2.15 €,4348800,276400
 34,AUTOROUTE A75 - AIRE DU CAYLAR,LE CAYLAR,34520,1.61 €,0.78 €,1.72 €,1.92 €,4386449,331188
 34,LES 4 CANAUX,PALAVAS-LES-FLOTS,34250,,,,,4353500,391100
-34,Avenue Villeneuve d'Angoulême,MONTPELLIER,34070,1.56 €,,1.67 €,1.79 €,4359200,386700
+34,Avenue Villeneuve d'Angoulême,MONTPELLIER,34070,1.63 €,,1.76 €,2.02 €,4359200,386700
 34,ZA de la Liquière,Saint-Martin-de-Londres,34380,,,,,4378300,373700
 34,ZAE L'AUDACIEUSE,MAGALAS,34480,,,,1.94 €,4346800,320900
 34,Ancienne Route de Sérignan,Villeneuve-lès-Béziers,34420,,,,,4332200,329100
@@ -53,8 +53,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,Route St Thibéry,BESSAN,34550,,,,1.96 €,4337200,342200
 34,AVENUE PAUL VIDAL,Sauvian,34410,,0.80 €,,2.07 €,4329600,325600
 34,A9 - AIRE DE FABREGUES NORD,FABREGUES,34690,1.61 €,,1.72 €,1.90 €,4354817.5937549,379560.14943175
+34,10 rue Alphonse Daudet,MARSILLARGUES,34590,1.64 €,,,1.96 €,4366200,417800
 34,Rue de la Carrièrasse,Thézan-lès-Béziers,34490,,,,1.90 €,4342100,316400
-34,10 rue Alphonse Daudet,MARSILLARGUES,34590,1.64 €,,1.70 €,1.96 €,4366200,417800
 34,55 Avenue de Béziers,CESSENON-SUR-ORB,34460,1.65 €,,1.73 €,2.00 €,4344814,305598
 34,Avenue du Mas Argelliers,Montpellier,34070,1.61 €,,1.71 €,1.94 €,4358700,388900
 34,ZAC VIA EUROPA BEZIERS OUEST A9 SORTIE 36,Vendres,34350,1.89 €,,,2.13 €,4329595.01369,321755.178874
@@ -70,7 +70,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,1030 Avenue Théo Luce,Mauguio,34130,,,,,4361800,398900
 34,RN 108 14 AVENUE DES VIGNERONS,FRONTIGNAN,34110,,,,,4344570,375207
 34,Route de Montpellier,PRADES-LE-LEZ,34730,,,,,4369000,386300
-34,AVENUE BELLA ISLA,Agde,34300,,0.71 €,,,4328481.55698,350286.260671
+34,AVENUE BELLA ISLA,Agde,34300,1.49 €,0.71 €,1.60 €,1.84 €,4328481.55698,350286.260671
 34,47  avenue de Béziers,Gigean,34770,1.53 €,,1.62 €,1.84 €,4349400,370900
 34,18 AVENUE DE VERDUN,PEZENAS,34120,1.70 €,0.67 €,1.70 €,1.87 €,4345500,342300
 34,Station Service de BEL AIR,FAUGERES,34600,,,,2.15 €,4356200,318100
@@ -93,7 +93,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,1 RUE DE L'ABRIVADO,MONTPELLIER,34070,,,,,4358950,388887
 34,RN 113,MèZE,34140,1.86 €,,1.86 €,2.00 €,4342807.45215,360615.111179
 34,115  avenue de la République,Saint-Mathieu-de-Tréviers,34270,1.66 €,,1.74 €,1.99 €,4376059,386538
-34,287 Avenue du Maréchal de Lattre de Tassigny,Lunel,34400,1.48 €,,1.56 €,1.74 €,4367600,412800
+34,287 Avenue du Maréchal de Lattre de Tassigny,Lunel,34400,1.49 €,,1.57 €,1.84 €,4367600,412800
 34,Allée du Plagnol,La Salvetat-sur-Agout,34330,,,1.68 €,1.83 €,4359984,269757
 34,avenue rhin et danube,BEZIERS,34500,1.87 €,,1.87 €,2.00 €,4335800,324300
 34,43 AVENUE RHIN ET DANUBE,BEZIERS,34500,,,,,4335426.0237735,322915.35224152
@@ -103,7 +103,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,MONTS RAMUS C.D. 13,Bessan,34550,1.61 €,,1.69 €,1.98 €,4338000,342000
 34,Avenue de Béziers,Gigean,34770,,,,,4349526,370944
 34,132 Avenue de Palavas,Montpellier,34070,1.62 €,,1.70 €,1.95 €,4359500,388800
-34,ROUTE D'ALES,Vendargues,34740,1.49 €,,1.57 €,1.97 €,4365600,396200
+34,ROUTE D'ALES,Vendargues,34740,1.51 €,,1.59 €,1.97 €,4365600,396200
 34,RN 113,VENDARGUES,34740,1.51 €,0.67 €,1.60 €,1.83 €,4365375,396608
 34,Avenue de la Gare,SAINT-PONS-DE-THOMIèRES,34220,,,,,4348700,277100
 34,Avenue de Nissan,CAPESTANG,34310,,,,1.89 €,4332600,305100
@@ -113,7 +113,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,429 Avenue du Marché Gare,MONTPELLIER,34000,,,,,4358547,388183
 34,A9 Sens Espagne Paris,Fabrègues,34690,1.72 €,0.81 €,1.82 €,2.09 €,4354400,379200
 34,Rue des Artisans,La Grande-Motte,34280,,,,,4356100,407600
-34,aérodrome Montpellier Méditerranée,Mauguio,34130,,0.67 €,,1.96 €,4358000,395300
+34,aérodrome Montpellier Méditerranée,Mauguio,34130,,,,1.96 €,4358000,395300
 34,zae la barthe bp6 la carnuse,paulhan,34230,2.11 €,,1.67 €,2.27 €,4353477.6440183,345325
 34,39 Avenue de Cassan,Roujan,34320,,,1.75 €,1.80 €,4350555,330844
 34,31 rue Sauta Roch,Villeveyrac,34560,,,,2.14 €,4349900,359200
@@ -132,7 +132,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,812 route de Ganges,MONTPELLIER,34090,1.67 €,,1.80 €,2.00 €,4364430,384361
 34,168 Avenue de la Mer,Mauguio,34130,,,,,4361242,400629
 34,Avenue de Béziers,VIAS,34450,1.49 €,0.71 €,1.60 €,1.83 €,4331400,341700
-34,Route de Lodève,La Tour-sur-Orb,34260,1.60 €,,1.70 €,1.90 €,4365700,315000
+34,Route de Lodève,La Tour-sur-Orb,34260,1.60 €,,2.12 €,,4365700,315000
 34,128 Avenue Capitaine Pierre Azema,MONTAGNAC,34530,1.76 €,,1.77 €,1.90 €,4348007,348534
 34,Z.A.C. la Louvade,Mauguio,34130,,,,,4362700,401000
 34,2 rue du servent,Clermont-l'Hérault,34800,,,,,4361800,345200
@@ -146,7 +146,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,Avenue de Montpellier,MèZE,34140,,,,,4343000,360900
 34,26 AVENUE DE VERDUN,Pézenas,34120,,,,1.73 €,4345400,342100
 34,55 Avenue du Général de Gaulle,LODèVE,34700,,,,1.90 €,4372400,332400
-34,Zac du Pradas,Montarnaud,34570,,,1.85 €,2.10 €,4364279.54,369559.828
+34,Zac du Pradas,Montarnaud,34570,1.66 €,0.89 €,1.85 €,2.10 €,4364279.54,369559.828
 34,4 AV DE LA VOIE DOMITIENNE,Béziers,34500,1.57 €,,1.65 €,1.93 €,4334733.3295735,324491.24091117
 34,Route de Bédarieux,VILLEMAGNE-L'ARGENTIèRE,34600,1.58 €,0.64 €,1.69 €,1.94 €,4359600,312900
 34,Route de Saint-Guilhem,ANIANE,34150,1.75 €,,,2.00 €,4368700,358500
@@ -158,4 +158,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 34,Avenue du pech de Valras,Béziers,34500,2.07 €,,2.09 €,2.20 €,4333800,323900
 34,ROUTE DE GANGES,SAINT-CLéMENT-DE-RIVIèRE,34980,1.56 €,0.64 €,1.68 €,1.92 €,4364430,384361
 34,CHEMIN DE PAYSSIEROU  CENTRE COMMERCIAL LE LIROU,MARAUSSAN,34370,,,,,4335964.8853961,316945.27990723
-34,79 boulevard camille,SETE,34200,,,,1.92 €,4340800,367000
+34,79 boulevard camille,SETE,34200,,,,2.00 €,4340800,367000

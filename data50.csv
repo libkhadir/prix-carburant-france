@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,ROUTE NATIONALE 13,Les Veys,50500,1.75 €,,1.84 €,1.86 €,4930500,-115600
-50,41b Rue des Frères Fremine,Bricquebec-en-Cotentin,50260,,,,,4947300,-162800
+50,41b Rue des Frères Fremine,Bricquebec-en-Cotentin,50260,,,,1.84 €,4947300,-162800
 50,2F Route de DENNEVILLE,DIGOSVILLE,50110,,,1.79 €,,4965345.9148478,-154932.46887909
 50,Chemin amour ZA les landelles,BLAINVILLE-SUR-MER,50560,,,1.67 €,1.76 €,4906500,-159500
 50,Route de Carentan,COUTANCES,50200,1.71 €,0.71 €,1.78 €,1.94 €,4906808.2654636,-143132.42825037
@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,29 Le Bourg,La Lande-d'Airou,50800,1.57 €,0.89 €,,1.75 €,4881600,-129000
 50,59 Avenue Émile Dehousse,DUCEY,50220,1.73 €,,,1.97 €,4861700,-128000
 50,Les 4 Vents,Mortain,50140,,,1.78 €,1.96 €,4865500,-93700
-50,Chemin de la Minoterie,Tessy-sur-Vire,50420,,,,1.95 €,4897000,-105900
+50,Chemin de la Minoterie,Tessy-sur-Vire,50420,,,,2.00 €,4897000,-105900
 50,route de la poste,BRéHAL,50290,1.62 €,,1.69 €,1.79 €,4889981,-151309
 50,RUE DU GENERAL DE GAULLE,AVRANCHES,50300,,,,2.00 €,4868647,-136356
 50,12 rue Général Legentilhomme,VALOGNES,50700,1.72 €,0.64 €,1.76 €,2.01 €,4950000,-146900
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,RUE DES PAVILLONS,Saint-Pierre-Église,50330,,,1.82 €,1.96 €,4966026,-141140
 50,Aire de la Vallée de la Vire - A84,Gouvets,50420,1.92 €,,2.04 €,2.12 €,4890900,-110400
 50,PARC D'ACTIVITE DE LA BAIE,Saint-Martin-des-Champs,50300,1.67 €,,1.81 €,1.94 €,4865285.8767159,-135003.0743481
-50,rue de l'avenir,Saint-Hilaire-Petitville,50500,,,,1.90 €,4930400,-121200
+50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.72 €,,,1.97 €,4930400,-121200
 50,RUE DE LA CHAPONIERE,MARIGNY,50570,,,1.79 €,1.96 €,4909916,-124241
 50,94 Rue Sainte-Croix,LESSAY,50430,,,,,4921300,-152900
 50,240 Rue Bitouzé d'Auxmesnil,Bricquebec,50260,1.65 €,,1.76 €,1.88 €,4946800,-164000
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Les Crutelles,SAINTE-MèRE-ÉGLISE,50480,,,1.70 €,1.93 €,4940500,-132200
 50,39 Boulevard de l'Est,Tourlaville,50110,,,,,4963500,-158700
 50,63 rue de liberation 63 rue de liberation,PONT HEBERT,50880,,,1.69 €,1.82 €,4916500,-112800
-50,2 Route de Flamanville,LES PIEUX,50340,1.64 €,0.63 €,1.75 €,,4951200,-181200
+50,2 Route de Flamanville,LES PIEUX,50340,,0.63 €,1.75 €,,4951200,-181200
 50,16 Le Bourg Neuf,COUVILLE,50690,,,1.65 €,,4955900,-166700
 50,BOULEVARD DU LUXEMBOURG,LE VAL-SAINT-PèRE,50300,1.55 €,,1.66 €,1.84 €,4867300,-135500
 50,LES FORGES,BLOSVILLE,50480,,,,,4938000,-129600
@@ -97,7 +97,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,22 Le Bourg Robert,Ponts,50300,,,,,4870900,-131900
 50,ROUTE DE VILLEDIEU,SAINT-Lô,50000,,,,1.84 €,4910200,-111600
 50,62 RUE DE LA PAIX,CHERBOURG EN COTENTIN,50120,1.71 €,,,1.99 €,4964981.95,-165049.88
-50,Chemin de la Chuque,CARENTAN,50500,,,1.62 €,1.90 €,4930200,-123100
+50,Chemin de la Chuque,CARENTAN,50500,,,1.62 €,1.97 €,4930200,-123100
 50,route de carolles,SARTILLY,50530,1.73 €,0.87 €,1.83 €,1.97 €,4875200,-145700
 50,85  route de Saint Lô,Saint-Amand,50160,,,,,4904798,-99375
 50,Route de Mortain,SOURDEVAL,50150,,0.92 €,1.82 €,1.95 €,4872000,-92200

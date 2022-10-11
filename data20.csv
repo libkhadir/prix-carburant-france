@@ -58,7 +58,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,RN T 10,Solenzara,20145,,,,1.61 €,4185788.64,936422.22
 20,Lieu-Dit Migliacciaro,PRUNELLI-DI-FIUMORBO,20243,,,,1.75 €,4199868.57757,940286
 20,CASAMOZZA,LUCCIANA,20290,,,,1.78 €,4254700,941800
-20,mezzavia centre rn 194,AJACCIO,20090,,,,1.75 €,4195300,878200
+20,mezzavia centre rn 194,AJACCIO,20090,,,,1.85 €,4195300,878200
 20,RN 197 LIEU-DIT LES PADULES,CALVI,20260,,,,1.69 €,4257200,875900
 20,Trajinu,Serriera,20147,,,,1.77 €,4228900,870000
 20,556 Avenue de la Libération,Bastia,20600,,,,1.87 €,4268100,944400
@@ -77,10 +77,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Les 4 Chemins BP115,Porto-Vecchio,20137,,,,1.74 €,4159800,927600
 20,1680 avenue du 9 Septembre - Lotissement Feminiccia - RN 198,GHISONACCIA,20240,,,,1.83 €,4202200,941100
 20,N194 Route de Mezzavia,Ajaccio,20167,,,,1.73 €,4195000,876900
-20,San Giuseppu,Propriano,20110,,,,1.65 €,4167100,891300
+20,San Giuseppu,Propriano,20110,,,,1.69 €,4167100,891300
 20,Cours Joseph Colonna,vico,20160,,,,2.03 €,4216700,879900
 20,CAMPINCA,Brando,20222,,,,1.98 €,4276500,946900
-20,Marinca - RD 157,Olmeto,20113,,,,1.69 €,4169741,889670
+20,Marinca - RD 157,Olmeto,20113,,,,1.71 €,4169741,889670
 20,Avenue Sampiero Corso - RN 193,Bastia,20600,,,,1.83 €,4267600,944500
 20,RTE N 196  LANCCIATO PADULELLI,PIANOTTOLI-CALDARELLO,20131,1.55 €,,,1.74 €,4149182.5740818,905520.46575316
 20,RN 193 PISCINA,LUCCIANA,20290,,,,1.89 €,4254300,944200
@@ -110,7 +110,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Avenue Christophe Colomb,Calvi,20260,,,,1.79 €,4256100,875500
 20,Casamozza - RN 193,Lucciana,20290,,,,1.78 €,4252490,944070
 20,14 route du cap,Ville-di-Pietrabugno,20200,,,,1.79 €,4250239.5368601,937830.99000001
-20,Cala Longa,Bonifacio,20169,,,,1.67 €,4139200,916600
+20,Cala Longa,Bonifacio,20169,,,,1.77 €,4139200,916600
 20,Station TOTAL - relais de la balagne ,CALVI,20260,,,,1.88 €,4256429,875541
 20,RN 198,Ghisonaccia,20240,,,,1.72 €,4201703,940606
 20,Centre Ville,SAINT-FLORENT,20217,,,,1.72 €,4268100,930400

@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,2 Avenue Paul Ramadier,DECAZEVILLE,12300,1.58 €,,1.69 €,1.90 €,4455500,225900
 12,route d#039;estaing,Espalion,12500,,,1.80 €,1.93 €,4452300,276300
 12,Boulevard de Guizard,ESPALION,12500,,,,,4452400,276500
-12,Route de Saint-Affrique,Vabres-l'Abbaye,12400,1.58 €,,,1.92 €,4395400,285000
+12,Route de Saint-Affrique,Vabres-l'Abbaye,12400,,,,1.92 €,4395400,285000
 12,Route de Rodez,Rieupeyroux,12240,1.55 €,,1.66 €,1.84 €,4430600,224900
 12,LE MOULIN DE GARY,Sévérac d'Aveyron,12150,,,,2.12 €,4432989.0067081,305290.5638624
 12,Z.A. Bel air,Camarès,12360,1.63 €,,,1.90 €,4383200,287300
@@ -29,7 +29,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,10 bis Avenue de la Gineste,Rodez,12000,,,,1.90 €,4436200,257200
 12,Avenue de Saint Affrique,CREISSELS,12100,1.63 €,,1.68 €,1.96 €,4408100,304200
 12,Avenue de l'Europe,Millau,12100,1.63 €,0.90 €,,1.96 €,4408900,305400
-12,241 Avenue de Marengo,Baraqueville,12160,,,,1.75 €,4427800,243000
+12,241 Avenue de Marengo,Baraqueville,12160,,,,1.80 €,4427800,243000
 12,Route d'Espalion,ONET-LE-CHâTEAU,12850,,,1.71 €,1.94 €,4437300,259200
 12,AVENUE D'ESPALION,Saint-Geniez-d'Olt,12130,,,,1.80 €,4446200,297000
 12,37 Boulevard Paul Ramadier,CAPDENAC-GARE,12700,1.57 €,,1.63 €,1.86 €,4457100,207500
@@ -54,7 +54,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,ROUTE D'ESPALION,RODEZ,12000,,,,,4437700,259300
 12, Avenue Marie Curie,SéVéRAC-LE-CHâTEAU,12150,1.58 €,,1.69 €,1.87 €,4432524,306544
 12,D840,NUCES,12330,,,,,4444100,244100
-12,Avenue du 19 Mars 1962,CRANSAC,12110,1.53 €,,,,4452600,226900
+12,Avenue du 19 Mars 1962,CRANSAC,12110,1.56 €,,1.66 €,1.86 €,4452600,226900
 12,45 route d' Argent,NAUCELLE,12800,,,,,4418300,236300
 12,33 Bd Paul ramadier,Rodez,12000,,,,,4435921.9211413,256985.24525378
 12,PARC D’ACTIVITÉ SAINT PIERRE,Rebourguil,12400,,,2.17 €,2.27 €,4387581.338,277828.401
@@ -79,12 +79,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Z.A. PLAISANCE,Cassagnes-Bégonhès,12120,,,,,4417642.425,252119.462
 12,ZA le Plâ d'Aveyron RN88,Recoules-Prévinquières,12150,,0.70 €,,2.10 €,4435100,297200
 12,PARC ARTISANAL COMMUNAL ST FERREOL,Saint-Rome-de-Tarn,12490,,,2.17 €,2.27 €,4404300,290500
-12,FOISSAC,Villeneuve,12260,,,1.49 €,1.72 €,4443900,202800
+12,FOISSAC,Villeneuve,12260,,,,,4443900,202800
 12,Zone de Laubarède,Viviez,12110,,0.64 €,,1.83 €,4456000,222400
 12,Route de Rodez,BOZOULS,12340,1.70 €,,1.81 €,1.94 €,4446300,272700
 12,24 Avenue de la Gineste,RODEZ,12000,2.22 €,,2.32 €,2.42 €,4436200,256700
 12,10 AV.DE TOULOUSE,Luc-la-Primaube,12450,,,,1.83 €,4429202,255855
-12,Lotissement de Vaxergues,SAINT-AFFRIQUE,12400,,,1.74 €,1.92 €,4395800,287000
+12,Lotissement de Vaxergues,SAINT-AFFRIQUE,12400,,,1.74 €,2.06 €,4395800,287000
 12,111 ROUTE DE RODEZ,BOZOULS,12340,,,,,4446900,272900
 12,le lachet,Olemps,12510,,,,1.94 €,4432500,255800
 12,Avenue de Toulouse,VILLEFRANCHE-DE-ROUERGUE,12200,1.57 €,,1.61 €,1.83 €,4436100,203400

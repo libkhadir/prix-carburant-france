@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,55 route de Niort,FONTENILLE-ST-MARTIN-D'ENTRAIGUE,79110,,,1.83 €,1.90 €,4612400,-13400
 79,2 passage du commerce,Ste Radegonde,79100,,,,1.80 €,4699600,-24800
 79,202 Avenue de la Rochelle,NIORT,79000,1.76 €,,1.88 €,1.99 €,4631300,-47700
-79,A83 - AIRE DE LA CANEPETIERE,Faye-sur-Ardin,79160,1.65 €,0.74 €,1.75 €,1.82 €,4643043,-50163
+79,A83 - AIRE DE LA CANEPETIERE,Faye-sur-Ardin,79160,1.72 €,0.82 €,1.81 €,1.93 €,4643043,-50163
 79,1675 Route de Niort,AIFFRES,79230,,,,1.97 €,4629801,-42635
 79,22 rue des Acacias,Celles-sur-Belle,79370,1.59 €,,1.67 €,,4626800,-22400
 79,11 route de Thouars,Saint-Jouin-de-Marnes,79600,,,,,4688500,-5946
@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,1 Avenue François Mitterrand,Parthenay,79200,1.71 €,,1.79 €,1.96 €,4664500,-25300
 79,23 route de Melle,LEZAY,79120,1.70 €,,1.80 €,1.95 €,4626500,-900
 79,Route de Saumur,THOUARS,79100,1.63 €,0.69 €,1.73 €,1.92 €,4699600,-20700
-79,659  RTE DE PARIS,CHAURAY,79180,1.54 €,0.70 €,1.64 €,1.83 €,4634047.54302,-39532.4252537
+79,659  RTE DE PARIS,CHAURAY,79180,1.54 €,0.70 €,1.64 €,,4634047.54302,-39532.4252537
 79,RUE DE LA SABLIERE,ÉCHIRé,79410,1.68 €,0.88 €,1.76 €,1.95 €,4638889.661,-42539.277
 79,5 Rue Jules Ferry,Niort,79000,,,,,4633000,-45900
 79,Rue de la Distillerie,Mauzé-sur-le-Mignon,79210,1.66 €,0.64 €,1.75 €,1.88 €,4619806,-66833

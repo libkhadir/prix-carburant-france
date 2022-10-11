@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,VARENDES,BRETTEVILLE-SUR-LAIZE,14680,1.69 €,0.70 €,,1.93 €,4904543,-32380
 14,33 RUE AMIRAL HAMELIN,Pont-l'Évêque,14130,,,,,4928800,18900
 14,BOULEVARD MONTGOMERY,Bayeux,14400,1.66 €,,1.74 €,1.74 €,4927100,-69400
-14,ROUTE DE DEAUVILLE,Auberville,14640,,,1.81 €,1.91 €,4930700,-2700
+14,ROUTE DE DEAUVILLE,Auberville,14640,,,,,4930700,-2700
 14,RTE DE BERNAY,ORBEC,14290,1.70 €,,1.74 €,1.80 €,4902400,41300
 14,9 Rue du 19 Mars 1962,Saint-Martin-des-Besaces,14350,,,1.66 €,,4901100,-85200
 14,40 Rue du Docteur Fontaine,SAINT-SEVER-CALVADOS,14380,,,,1.98 €,4884000,-105200
@@ -37,15 +37,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,22 Rue Émile Zola,Mondeville,14120,,,,,4917356,-32807
 14,Route de Caen,HERMANVILLE-SUR-MER,14880,,,,,4927700,-31800
 14,ROUTE DE PARIS,LISIEUX,14100,1.68 €,0.87 €,1.78 €,1.93 €,4914300,26600
-14,16 Boulevard Sadi-Carnot,BAYEUX,14400,,,,,4927100,-69900
-14,Route de Torigni,CAUMONT-L'ÉVENTé,14240,1.70 €,,1.79 €,1.94 €,4908893,-81360
+14,16 Boulevard Sadi-Carnot,BAYEUX,14400,1.55 €,,,1.84 €,4927100,-69900
+14,Route de Torigni,CAUMONT-L'ÉVENTé,14240,1.70 €,,1.79 €,1.97 €,4908893,-81360
 14,Rue de la Gare,Argences,14370,1.70 €,,1.77 €,1.92 €,4911920,-17523
 14,ROUTE DE VILLERS BOCAGE,Aunay-sur-Odon,14260,1.71 €,,1.81 €,1.95 €,4902600,-63200
 14,61 Boulevard Sainte-Anne,Lisieux,14100,,0.71 €,,1.93 €,4914400,22200
 14, Boulevard Paul Doumer,LION-SUR-MER,14780,,,,,4930174,-31818
 14,190 Rue de Rocquancourt,IFS,14123,,,,,4914200,-33800
 14,1 Boulevard du 21e siecle les Sauts casris,Villers-Bocage,14310,,,,,4907800,-64500
-14,PARC COMMERCIAL DE LA DOUITEE,VIRE,14500,,,,2.02 €,4884700,-88700
+14,PARC COMMERCIAL DE LA DOUITEE,VIRE,14500,,,,2.03 €,4884700,-88700
 14,69 Avenue du Capitaine Georges Guynemer,Caen,14000,,,,,4916905,-34422
 14,LA VALLEE,Ouilly-le-Vicomte,14100,1.70 €,,1.80 €,1.96 €,4917100,21700
 14,Boulevard Henri Becquerel,Hérouville-Saint-Clair,14200,,,,,4921100,-35400
@@ -100,7 +100,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,Avenue Georges Pompidou,LISIEUX,14100,1.68 €,,1.77 €,1.93 €,4913347,22452
 14,RUE HECTOR MALOT,Bretteville-l'Orgueilleuse THUE ET MUE,14740,,0.76 €,,,4921800,-50400
 14,Route de rouen,Troarn,14670,,,,,4918200,-18200
-14,RD 400,CABOURG,14390,,,,,4928814,-12678
+14,RD 400,CABOURG,14390,,,1.82 €,1.95 €,4928814,-12678
 14,VOIE DU DEBARQUEMENT,Bernières-sur-Mer,14990,,,1.75 €,1.88 €,4933400,-41300
 14,3 route de caen,PONT-FARCY,14380,,,,,4893800,-103300
 14,Route de Rouen,Pont-l'Évêque,14130,1.68 €,,1.73 €,1.92 €,4929235,19338
@@ -114,8 +114,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,1 ROND POINT ROYAL NORFOLK,Blainville-sur-Orne,14550,,0.94 €,1.80 €,1.96 €,4923200,-29300
 14,1 rue du grand clos,Creully sur seulles,14480,,,,,4928000,-53500
 14,Rue du Clos Barbey,Saint-Contest,14280,,,1.78 €,,4920072,-39910.000000001
-14,18 Grande Rue,DOZULé,14430,,,1.69 €,,4923100,-4400
 14,Avenue Jean Vilar - Boulevard Yitzhak Rabin ZAC du Hoguet,IFS,14123,,,,,4915000,-35200
+14,18 Grande Rue,DOZULé,14430,,,1.79 €,1.95 €,4923100,-4400
 14,CTRE CIAL EINDHOVEN RTE DE VAUX/AURE,Bayeux,14400,1.66 €,,,1.91 €,4928800,-70400
 14,rue de la gare,LE MOLAY-LITTRY,14330,1.69 €,0.75 €,1.79 €,1.94 €,4924800,-87800
 14,Lieu dit le plain chêne,Saint-Gatien-des-Bois,14130,,,,,4936978.8938573,20111.980321583

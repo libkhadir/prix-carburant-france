@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,Boulevard des Cigales,CAPBRETON,40130,1.70 €,0.90 €,1.81 €,2.00 €,4364500,-142600
 40,Lieudit Lamarque - Route d'Hagetmau,Samadet,40320,1.84 €,,,1.96 €,4363800,-50300
 40,Chemin de Perrot,Aire-sur-l'Adour,40800,1.79 €,0.79 €,1.93 €,2.05 €,4371700,-26900
-40,27 Avenue du Général de Gaulle,Tosse,40230,1.61 €,,1.70 €,1.90 €,4368911,-133287
+40,27 Avenue du Général de Gaulle,Tosse,40230,1.62 €,,1.70 €,1.92 €,4368911,-133287
 40,760 Avenue du Maréchal Juin,MONT-DE-MARSAN,40000,1.72 €,0.80 €,1.82 €,1.98 €,4390200,-48100
 40,627 route de Tyrosse,Angresse,40150,1.70 €,0.77 €,1.80 €,1.96 €,4365901.01,-136837.53
 40,RUE GEORGES CHAULET,DAX,40100,,,1.65 €,,4371700,-105100
@@ -60,10 +60,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,560 route de bordeaux,Villeneuve-de-Marsan,40190,,,,1.89 €,4391300,-30400
 40,FOCH,Dax,40100,,,,,4370959,-105552
 40,Av de cramat,Soustons,40140,,,,,4374715.177,-132168.31
-40,Rue Robert Dubaa,MAGESCQ,40140,,,,1.77 €,4377927,-121607
+40,Rue Robert Dubaa,MAGESCQ,40140,,,,1.91 €,4377927,-121607
 40,500 Rue de Gouveia,Labouheyre,40210,1.60 €,0.64 €,,1.87 €,4421000,-92500
-40,AUTOROUTE A63 COTE EST,Labenne,40530,1.71 €,,1.82 €,1.92 €,4358600,-142000
-40,AUTOROUTE A63 COTE OUEST,Labenne,40530,1.79 €,,1.90 €,1.96 €,4358700,-142000
+40,AUTOROUTE A63 COTE EST,Labenne,40530,1.71 €,,1.82 €,1.99 €,4358600,-142000
+40,AUTOROUTE A63 COTE OUEST,Labenne,40530,1.83 €,,1.94 €,2.00 €,4358700,-142000
 40,73 rue Frédéric Bastiat,Rion-des-Landes,40370,,,1.70 €,1.87 €,4393200,-92200
 40,Route de Mont-de-Marsan,SABRES,40630,,,,1.65 €,4414733.98051,-73781.9670456
 40,AUTOROUTE A65 - AIRE DE L'ADOUR,Aire-sur-l'Adour,40800,1.65 €,0.79 €,1.76 €,1.93 €,4373200,-23900
@@ -104,4 +104,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,AVENUE CHARLES DE GAULLE,Labenne,40530,1.69 €,,,1.96 €,4358800,-142900
 40,241 Avenue d'Albret,Rion-des-Landes,40370,1.63 €,0.74 €,1.70 €,1.80 €,4391800,-91600
 40,3 route de Baleste,MIMIZAN,40200,1.66 €,0.75 €,1.75 €,1.90 €,4419300,-122900
-40,RN 10,Saint-Vincent-de-Tyrosse,40230,1.61 €,0.75 €,1.70 €,1.90 €,4366698.9042,-128531.96366242
+40,RN 10,Saint-Vincent-de-Tyrosse,40230,1.62 €,0.75 €,1.70 €,1.92 €,4366698.9042,-128531.96366242
