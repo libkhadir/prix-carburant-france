@@ -22,7 +22,7 @@ jobs:
           rm -rf data*.csv
           ls
           sudo apt-get install p7zip-full
-          7z x data.zip
+          unzip data.zip
           ls
           cp PrixCarburants_instantane.xml data.xml
           rm -rf PrixCarburants_instantane.xml
