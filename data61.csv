@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,la coquerie,Athis-de-l'Orne,61430,,,,,4880600,-50000
 61,RN 138,NONANT-LE-PIN,61240,,,,,4870600,22300
 61,28 Rue d'Alençon,Condé-sur-Sarthe,61250,1.50 €,,1.61 €,1.74 €,4843500,5400
-61,174 avenue Quakenbruck,ALENçON,61000,,,,1.95 €,4843815,10224
+61,174 avenue Quakenbruck,ALENçON,61000,,,,,4843815,10224
 61,ZA Les Fourmis,La Chapelle-d'Andaine,61140,,,1.86 €,2.00 €,4853000,-47200
 61,Avenue de la 2ème D.B.,Argentan,61200,1.72 €,0.74 €,1.79 €,1.94 €,4873700,-3100
 61,Route d'Alençon,GACé,61230,,,,,4878400,29500
@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,Le Tremblay,Flers,61100,,,1.86 €,2.00 €,4875200,-57500
 61,38 Route de Fresnay,SAINT-GERMAIN-DU-CORBéIS,61000,,,,2.00 €,4841808,7633
 61,rond Point de Queux - Mâle,VAL AU PERCHE,61260,,,,2.20 €,4825510.0237309,69489.927116392
-61,ZA ST MARC,Rémalard,61110,,,1.77 €,1.92 €,4842400,77200
+61,ZA ST MARC,Rémalard,61110,,,,1.92 €,4842400,77200
 61,58 RUE DE PARIS,CHARENCEY,61190,,0.85 €,,,4865203.1214534,76099.30317664
 61,ROUTE DE PARIS,TINCHEBRAY,61800,,,1.83 €,2.00 €,4876653.00919,-72290.5356341
 61,rue de nogent- le champs des fosses  SERIGNY,serigny belforet en perche,61130,,,,1.75 €,4837191.3951194,58346.455736393
@@ -36,7 +36,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,Route de Paris,L'AIGLE,61300,,0.70 €,,1.87 €,4876223,65070
 61,71 Avenue de Quakenbruck,Alençon,61000,,,,,4844000,10500
 61,3 Avenue Comtesse de Ségur,L'Aigle,61300,,0.74 €,,1.87 €,4876400,61900
-61,RUE DU MARECHAL FOCH,Domfront,61700,1.72 €,,1.80 €,1.95 €,4858822,-63429
+61,RUE DU MARECHAL FOCH,Domfront,61700,1.74 €,,1.85 €,1.96 €,4858822,-63429
 61,La Féronnerie,SAINT-ANDRé-DE-MESSEI,61440,,,1.72 €,1.82 €,4867300,-52000
 61,BOULEVARD DENTU,VIMOUTIERS,61120,,,1.83 €,2.00 €,4893500,19800
 61,ZA LA REMAIZIERE,Saint-Pierre-du-Regard,61790,1.74 €,,1.80 €,1.92 €,4882800,-56200

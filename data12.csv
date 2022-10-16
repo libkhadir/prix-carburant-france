@@ -48,8 +48,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Avenue de Bamberg,Rodez,12000,1.64 €,,,1.90 €,4436135.1370221,258846.17569915
 12,ZA de l'Issart,NAUCELLE,12800,,,1.96 €,2.02 €,4418774.86215,236088.684937
 12,33 AVENUE DU LAC,VILLEFRANCHE-DE-PANAT,12430,,,,1.85 €,4409000,270100
-12,15 route du rouergue,La Fouillade,12270,,,1.60 €,1.86 €,4422926.327,203836.845
-12,ZA les Pradades - Salles la Source,MARCILLAC-VALLON,12330,1.59 €,,1.68 €,1.90 €,4445500,247300
+12,15 route du rouergue,La Fouillade,12270,,,1.69 €,1.88 €,4422926.327,203836.845
+12,ZA les Pradades - Salles la Source,MARCILLAC-VALLON,12330,,,1.68 €,1.90 €,4445500,247300
 12,Avenue de Rodez,Pont-de-Salars,12290,,,,1.78 €,4428900,271400
 12,ROUTE D'ESPALION,RODEZ,12000,,,,,4437700,259300
 12, Avenue Marie Curie,SéVéRAC-LE-CHâTEAU,12150,1.70 €,,1.69 €,1.95 €,4432524,306544
@@ -72,9 +72,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,le fargal haut,Montbazens,12220,,0.89 €,,2.29 €,4446138.9568938,222235.07921239
 12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,1.89 €,2.15 €,4483700,266300
 12,9 Avenue des Croates,VILLEFRANCHE-DE-ROUERGUE,12200,,,,,4436100,204100
-12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.53 €,,1.64 €,1.78 €,4395700,287500
-12,30 Avenue du Rouergue,BERTHOLèNE,12310,,,,,4439367,277776
 12,AVENUE DU PONT LEROUGE,Millau,12100,,,,,4409065,307745
+12,30 Avenue du Rouergue,BERTHOLèNE,12310,,,1.68 €,1.79 €,4439367,277776
+12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.53 €,,1.64 €,1.78 €,4395700,287500
 12,Avenue de Rodez,PONT-DE-SALARS,12290,1.57 €,,1.67 €,1.93 €,4428800,271500
 12,Z.A. PLAISANCE,Cassagnes-Bégonhès,12120,1.61 €,,,,4417642.425,252119.462
 12,ZA le Plâ d'Aveyron RN88,Recoules-Prévinquières,12150,,0.74 €,,2.28 €,4435100,297200

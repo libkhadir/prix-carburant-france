@@ -10,13 +10,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,18 Boulevard du 8 Mai,LA ROCHEFOUCAULD,16110,,,1.93 €,2.06 €,4574594,38625
 16,RN10 LES GRANDES CHAUMES,CHAMPNIERS,16430,1.74 €,,,1.92 €,4571478,20692
 16,Le cerisier de la Barre,Ansac-sur-Vienne,16500,,,,,4598927.3646187,61530.42573943
-16,144 route de Saint Jean d'Angély,Saint-Yrieix-sur-Charente,16710,1.69 €,,1.78 €,1.92 €,4569000,11500
+16,144 route de Saint Jean d'Angély,Saint-Yrieix-sur-Charente,16710,1.71 €,,1.78 €,1.92 €,4569000,11500
 16,RN10 Aire des Groies,Villegats,16700,1.87 €,0.61 €,1.99 €,2.02 €,4598546.3882983,20048.889066011
 16,40 avenue Général Leclerc,Jarnac,16200,1.66 €,,1.75 €,1.88 €,4568102,-16392
 16,250 Avenue de la République,L'ISLE-D'ESPAGNAC,16340,1.80 €,,1.92 €,1.99 €,4566500,20100
 16,1 ROUTE DE SIGALAUD,Villebois-Lavalette,16320,1.70 €,0.75 €,1.73 €,1.94 €,4548200,27800
 16,Place de l'Hôtel de Ville,Montbron,16220,1.70 €,,,1.96 €,4566500,50100
-16,ZA Les Montagnes Les Plantes Neuves,Champniers,16430,,,,1.90 €,4568300,17900
+16,ZA Les Montagnes Les Plantes Neuves,Champniers,16430,,,,,4568300,17900
 16,40 Avenue Général Leclerc,Jarnac,16200,,,,,4568095,-16268
 16,ZA DE CHASSAT,CHABANAIS,16150,1.72 €,0.67 €,1.80 €,1.96 €,4587800,72600
 16,Route de Barbezieux CD 14,Baignes-Sainte-Radegonde,16360,1.75 €,,1.85 €,1.98 €,4538500,-23000
@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,BD DU 8 MAI 1945,ANGOULEME,16000,1.56 €,,1.68 €,1.76 €,4566000,16500
 16,ROUTE DE COGNAC,SEGONZAC,16130,1.73 €,,1.82 €,1.97 €,4561787,-21934
 16,Route d'Angoulême,Chasseneuil-sur-Bonnieure,16260,1.63 €,,1.74 €,1.85 €,4581500,44300
-16,Avenue de l'Europe,JARNAC,16200,1.66 €,0.74 €,1.75 €,1.88 €,4568581.065,-16473.549
+16,Avenue de l'Europe,JARNAC,16200,1.66 €,,1.75 €,1.88 €,4568581.065,-16473.549
 16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.70 €,,1.75 €,1.92 €,4558884.8804688,-4798.4026188222
 16,Avenue de l'Europe,BARBEZIEUX-SAINT-HILAIRE,16300,1.66 €,0.74 €,1.76 €,1.92 €,4546704,-16519
 16,Avenue de l'Europe,Barbezieux-Saint-Hilaire,16300,1.68 €,0.88 €,1.78 €,1.94 €,4546600,-16400
