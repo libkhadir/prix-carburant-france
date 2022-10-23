@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,AUTOROUTE A 28,LE SAP-ANDRE,61230,1.83 €,,1.93 €,2.09 €,4884900,37300
 61,la coquerie,Athis-de-l'Orne,61430,,,,1.97 €,4880600,-50000
 61,RN 138,NONANT-LE-PIN,61240,,,,,4870600,22300
-61,28 Rue d'Alençon,Condé-sur-Sarthe,61250,1.48 €,,1.59 €,1.76 €,4843500,5400
+61,28 Rue d'Alençon,Condé-sur-Sarthe,61250,1.49 €,,1.60 €,1.76 €,4843500,5400
 61,174 avenue Quakenbruck,ALENçON,61000,,,1.80 €,1.96 €,4843815,10224
 61,ZA Les Fourmis,La Chapelle-d'Andaine,61140,,,1.86 €,2.00 €,4853000,-47200
 61,Avenue de la 2ème D.B.,Argentan,61200,1.65 €,0.74 €,,1.95 €,4873700,-3100
@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,Le Tremblay,Flers,61100,,,1.86 €,2.00 €,4875200,-57500
 61,38 Route de Fresnay,SAINT-GERMAIN-DU-CORBéIS,61000,,,1.83 €,1.99 €,4841808,7633
 61,rond Point de Queux - Mâle,VAL AU PERCHE,61260,1.97 €,,2.07 €,2.16 €,4825510.0237309,69489.927116392
-61,ZA ST MARC,Rémalard,61110,,,1.82 €,1.94 €,4842400,77200
+61,ZA ST MARC,Rémalard,61110,,,,1.94 €,4842400,77200
 61,58 RUE DE PARIS,CHARENCEY,61190,,0.85 €,,2.21 €,4865203.1214534,76099.30317664
 61,ROUTE DE PARIS,TINCHEBRAY,61800,,,1.85 €,2.00 €,4876653.00919,-72290.5356341
 61,rue de nogent- le champs des fosses  SERIGNY,serigny belforet en perche,61130,,,,1.75 €,4837191.3951194,58346.455736393
