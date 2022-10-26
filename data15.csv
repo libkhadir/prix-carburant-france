@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,35 bis Avenue du 15 Septembre 1945,Le Rouget,15290,1.78 €,,1.88 €,2.06 €,4485500,223300
-15,route de murat  station-service BAR,Riom-es-Montagnes,15400,,,1.77 €,1.90 €,4528000,266500
+15,route de murat  station-service BAR,Riom-es-Montagnes,15400,,,1.77 €,1.88 €,4528000,266500
 15,63 AVENUE GENERAL DE GAULLE,MASSIAC,15500,,,1.71 €,1.92 €,4525400,319700
-15,ZA DU COMBLAT,Vic-sur-Cère,15800,1.68 €,0.74 €,,1.94 €,4496700,260600
+15,ZA DU COMBLAT,Vic-sur-Cère,15800,1.68 €,0.74 €,1.75 €,1.94 €,4496700,260600
 15,le bourg,Saint-Cernin,15310,,,1.95 €,2.20 €,4505731.00874,242245.284693
 15,ROUTE DE SANSAC,AURILLAC,15000,,,,,4490800,242100
 15,29 Avenue des Estourocs,PLEAUX,15700,1.80 €,,1.92 €,2.06 €,4513300,222000
@@ -16,19 +16,19 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,ROUTE DU STADE,Condat,15190,,,1.93 €,2.14 €,4533826,276036
 15,Rue de la République,Ydes,15210,1.76 €,0.99 €,1.85 €,1.96 €,4534000,243400
 15,16 Avenue du 4 Septembre 1870,AURILLAC,15000,,,,,4492300,243500
-15, Avenue de Bagnac,MAURS,15600,,,1.60 €,,4470650,219514
+15, Avenue de Bagnac,MAURS,15600,,,,,4470650,219514
 15,149 Avenue du Général Leclerc,AURILLAC,15000,,,,,4490940,244629
 15,Avenue du Général de Gaulle,MASSIAC,15500,1.62 €,,,1.94 €,4525800,319900
 15,Avenue de la Gare,Mauriac,15200,1.68 €,,1.79 €,1.90 €,4522200,234000
 15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,,4492297.528,242765.388
-15,1 route de brive,Saint-Paul-des-Landes,15250,,,1.77 €,2.00 €,4494448.371,231132.819
-15,Avenue du Docteur Louis Mallet,Chaudes-Aigues,15110,,,,2.05 €,4485700,300800
+15,1 route de brive,Saint-Paul-des-Landes,15250,,,1.72 €,1.90 €,4494448.371,231132.819
+15,Avenue du Docteur Louis Mallet,Chaudes-Aigues,15110,,,,2.02 €,4485700,300800
 15,31 avenue de la republique,Saint-Flour,15100,1.62 €,,1.69 €,1.94 €,4503354.63,309315.4
 15,La Croix Jolie,Murat,15300,,,1.73 €,1.93 €,4510616,286291
 15,LE BOURG,Ruynes-en-Margeride,15320,,,1.69 €,1.94 €,4500148.03,322367.76
 15,Le Bourg,Ussel,15300,,,,2.19 €,4507900,293700
 15,15 Grand'Rue,Thiézac,15800,,,,2.12 €,4501600,266400
-15,10  Avenue de la Fontlong,SAINT-FLOUR,15100,,0.68 €,,1.99 €,4503800,308700
+15,10  Avenue de la Fontlong,SAINT-FLOUR,15100,,0.68 €,,1.94 €,4503800,308700
 15,RUE DU BOURNAT,PLEAUX,15700,1.68 €,,,1.96 €,4513346.491,222264.433
 15,AVENUE DU DOCTEUR MALLET,Chaudes-Aigues,15110,,,,,4485651,300700
 15,8 AVENUE D'AURILLAC,Saint-Étienne-de-Maurs,15600,1.60 €,,1.73 €,1.91 €,4471400,220300
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,AVENUE HECTOR PESCHAUD,Murat,15300,,,,,4510800,286300
 15,Chemin de la Croix Jolie,Murat,15300,,,,2.04 €,4510704,286345
 15,120 Avenue du Général Leclerc,Aurillac,15000,1.68 €,,,1.94 €,4490916,244627
-15,5 RUE DE VEZOU,PIERREFORT,15230,,,1.96 €,2.05 €,4492100,283900
+15,5 RUE DE VEZOU,PIERREFORT,15230,,,1.96 €,2.02 €,4492100,283900
 15,Rue de la Montade,AURILLAC,15000,1.68 €,,1.75 €,1.94 €,4491600,243700
 15,PLACE DU MONUMENT,Riom-Ès-Montagnes,15400,,,,2.13 €,4528327,265993
 15,2 rue Félix Daguerre,AURILLAC,15000,,0.79 €,1.87 €,2.04 €,4491033.9878759,245341.63077782
