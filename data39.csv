@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,ROUTE NATIONALE 73,ROCHEFORT SUR NENON,39700,1.47 €,,1.58 €,1.74 €,4711613.7241037,553852.15038275
 39,16 Route de Lyon,Saint-Claude,39200,,,,,4637945,583946
 39,38 Route de Lyon,Saint-Claude,39200,1.58 €,,,1.84 €,4638038,583492
-39,13 AVENUE ARISTIDE BRIAND,Salins-les-Bains,39110,,,,,4694900,587400
+39,13 AVENUE ARISTIDE BRIAND,Salins-les-Bains,39110,1.51 €,0.79 €,,1.74 €,4694900,587400
 39,Avenue de Franche Comté,Moirans-en-Montagne,39260,,,,1.97 €,4643900,572100
 39,1961 Rue de Franche-Comté,BOIS-D'AMONT,39220,1.90 €,,2.00 €,2.00 €,4653000,613500
 39,Route de Voiteur,DOMBLANS,39210,,,,,4676300,559900
@@ -42,7 +42,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,ROUTE DE DOLE,Arbois,39600,1.70 €,0.89 €,1.93 €,1.96 €,4691500,575700
 39,19A Rue de Lons,Saint-Aubin,39410,,,,1.96 €,4702500,533800
 39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.65 €,,,1.90 €,4657200,595600
-39,20 Rue de Paris,Saint-Laurent-en-Grandvaux,39150,,0.70 €,,2.10 €,4658000,595400
+39,20 Rue de Paris,Saint-Laurent-en-Grandvaux,39150,,0.70 €,,2.02 €,4658000,595400
 39,39 Rue Clemenceau,Champagnole,39300,1.55 €,,,1.90 €,4674600,592000
 39,14 Avenue du Maréchal Juin,Dole,39100,1.61 €,,1.69 €,1.89 €,4708600,549600
 39,BOULEVARD DE L EUROPE,Lons-le-Saunier,39000,1.46 €,,,1.74 €,4668000,557200

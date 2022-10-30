@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-16,ave du general de gaulle,SOYAUX,16800,1.59 €,0.90 €,1.68 €,1.85 €,4563900,21900
+16,ave du general de gaulle,SOYAUX,16800,1.59 €,0.90 €,1.67 €,1.85 €,4563900,21900
 16,Route d'Aigre ,Ruffec,16700,,0.85 €,1.71 €,1.85 €,4602138,18967
 16,BD DU 8 MAI 1945,ANGOULEME,16000,1.49 €,0.77 €,1.60 €,1.73 €,4566000,16500
 16,Route de Bordeaux,LA COURONNE,16400,1.58 €,,1.68 €,1.87 €,4562011.8,10582.2
@@ -12,7 +12,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,Le cerisier de la Barre,Ansac-sur-Vienne,16500,,,,,4598927.3646187,61530.42573943
 16,144 route de Saint Jean d'Angély,Saint-Yrieix-sur-Charente,16710,1.62 €,,1.76 €,1.90 €,4569000,11500
 16,RN10 Aire des Groies,Villegats,16700,1.81 €,0.72 €,1.93 €,2.03 €,4598546.3882983,20048.889066011
-16,43 PLACE DE LA CORDERIE,COGNAC,16100,1.49 €,,1.60 €,1.77 €,4569309,-32722
+16,43 PLACE DE LA CORDERIE,COGNAC,16100,1.49 €,,,,4569309,-32722
 16,250 Avenue de la République,L'ISLE-D'ESPAGNAC,16340,1.76 €,,1.88 €,1.95 €,4566500,20100
 16,1 ROUTE DE SIGALAUD,Villebois-Lavalette,16320,1.58 €,0.90 €,1.68 €,1.86 €,4548200,27800
 16,Place de l'Hôtel de Ville,Montbron,16220,1.67 €,,,1.94 €,4566500,50100
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,15 route des Boisdons,LINARS,16730,1.72 €,,1.77 €,1.93 €,4565500,8500
 16,122 Rue Nationale,Roumazières-Loubert,16270,1.65 €,0.74 €,1.72 €,1.89 €,4588434,57522
 16,Avenue du 8 Mai 1945,CONFOLENS,16500,1.65 €,0.74 €,1.75 €,1.89 €,4602100,65600
-16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.57 €,,1.68 €,2.00 €,4560000,-5500
+16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.56 €,,1.67 €,1.99 €,4560000,-5500
 16,Route de Mansle,Saint-Amant-de-Boixe,16330,1.73 €,,,1.90 €,4580400,14000
 16,Lieu-Dit Plaisance,BARBEZIEUX-SAINT-HILAIRE,16300,1.48 €,,1.59 €,1.69 €,4546000,-14300
 16,Avenue d'Ecosse,JARNAC,16200,1.70 €,,1.75 €,1.95 €,4569096.0364153,-17360.081481934
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ROUTE DE MANSLE,Rivières,16110,,,1.81 €,1.97 €,4574695,38339
 16,Boulevard Jean Moulin,Angoulême,16000,1.64 €,,1.76 €,1.91 €,4563200,15200
 16,2 Avenue des Plantes,FLéAC,16730,,,,2.11 €,4566495.44085,9163.80960888
-16,58 Avenue de l Augoumois,Montmoreau-Saint-Cybard,16190,1.71 €,,1.79 €,1.92 €,4540063,13040
+16,58 Avenue de l Augoumois,Montmoreau-Saint-Cybard,16190,1.57 €,,1.79 €,1.85 €,4540063,13040
 16,2 Clos Chabot,Villejésus,16140,,,1.82 €,1.98 €,4589992.0641752,1484.617568
 16,Avenue Foch,RUELLE-SUR-TOUVRE,16600,,,1.82 €,1.93 €,4568019,21081
 16,20 avenue des Saintes,Cognac,16100,1.57 €,,1.68 €,1.84 €,4569892.4520397,-34408.751817818
@@ -62,5 +62,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,220 Avenue Victor Hugo,COGNAC,16100,,,1.76 €,1.95 €,4568800,-31300
 16,Route de Paris,GOND-PONTOUVRE,16160,,,1.77 €,1.98 €,4568267.1292637,17728.895022
 16,40 rue de l'Annisserie,Châteaubernard,16100,1.58 €,,1.68 €,1.87 €,4568397,-30463
-16,70 Rue de l'Échassier,COGNAC,16100,1.65 €,,1.72 €,1.91 €,4569200,-30900
+16,70 Rue de l'Échassier,COGNAC,16100,1.62 €,,1.72 €,1.88 €,4569200,-30900
 16,5 avenue Paul Desfarges,Angoulême,16000,,0.90 €,1.67 €,1.83 €,4565800,18100

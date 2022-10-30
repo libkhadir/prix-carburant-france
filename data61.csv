@@ -12,7 +12,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,Avenue de la 2ème D.B.,Argentan,61200,1.63 €,0.74 €,1.70 €,1.91 €,4873700,-3100
 61,Route d'Alençon,GACé,61230,,,,,4878400,29500
 61,avenue du général de Gaulle,Écouche les Vallées,61150,,,,1.96 €,4871448.9872243,-12194.789740829
-61,Le Tremblay,Flers,61100,,,1.86 €,1.98 €,4875200,-57500
+61,Le Tremblay,Flers,61100,,,,1.98 €,4875200,-57500
 61,38 Route de Fresnay,SAINT-GERMAIN-DU-CORBéIS,61000,,,1.83 €,1.99 €,4841808,7633
 61,rond Point de Queux - Mâle,VAL AU PERCHE,61260,1.98 €,,1.84 €,2.07 €,4825510.0237309,69489.927116392
 61,ZA ST MARC,Rémalard,61110,,,,1.90 €,4842400,77200
@@ -36,7 +36,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,Route de Paris,L'AIGLE,61300,1.57 €,0.73 €,,1.84 €,4876223,65070
 61,71 Avenue de Quakenbruck,Alençon,61000,1.69 €,,1.77 €,1.96 €,4844000,10500
 61,3 Avenue Comtesse de Ségur,L'Aigle,61300,,0.74 €,,1.84 €,4876400,61900
-61,RUE DU MARECHAL FOCH,Domfront,61700,1.66 €,,1.75 €,1.90 €,4858822,-63429
+61,RUE DU MARECHAL FOCH,Domfront,61700,1.66 €,,1.75 €,1.83 €,4858822,-63429
 61,La Féronnerie,SAINT-ANDRé-DE-MESSEI,61440,,,1.92 €,2.27 €,4867300,-52000
 61,BOULEVARD DENTU,VIMOUTIERS,61120,,,1.83 €,2.00 €,4893500,19800
 61,ZA LA REMAIZIERE,Saint-Pierre-du-Regard,61790,1.62 €,,1.74 €,1.82 €,4882800,-56200
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 61,16 Rue du Mont Margantin,Domfront,61700,,,1.77 €,1.96 €,4858543,-64673.000000005
 61,24 Avenue de Paris,Argentan,61200,1.49 €,,1.60 €,1.76 €,4874900,-1100
 61,Boulevard de la Forêt d'Andaine,LA FERTé-MACé,61600,1.61 €,,1.72 €,1.90 €,4859138,-36619
-61,Lieu-Dit les Naudières,SAINT-JULIEN-SUR-SARTHE,61170,1.70 €,0.74 €,1.85 €,1.94 €,4850357.96113,35940.894107818
+61,Lieu-Dit les Naudières,SAINT-JULIEN-SUR-SARTHE,61170,1.70 €,0.74 €,,1.94 €,4850357.96113,35940.894107818
 61,AUTOROUTE A28 - AIRE DE LA DENTELLE D'ALENÇON,VALFRAMBERT,61250,1.58 €,0.85 €,1.69 €,1.85 €,4845673.8391763,12705.878900904
 61,Rue du général Leclerc,Sées,61500,,,,2.00 €,4860000,17100
 61,La Lointinière,Saint-Germain-de-la-Coudre,61130,,,,2.07 €,4826100,60400
