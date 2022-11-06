@@ -1,12 +1,12 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 70,12  avenue des Peupliers,Fresne-Saint-Mamès,70130,,,1.96 €,1.97 €,4755117,585614
-70,Avenue de Marnay la Ville,Marnay,70150,1.63 €,,1.78 €,1.95 €,4728800,576400
+70,Avenue de Marnay la Ville,Marnay,70150,1.63 €,,1.78 €,1.90 €,4728800,576400
 70,Rue des Cytises,Neuvelle-lès-Cromary,70190,1.69 €,,,1.90 €,4741800,607300
 70,Boulevard Kennedy,VESOUL,70000,1.64 €,,1.70 €,1.86 €,4762700,617200
 70,Rue Pasteur,Dampierre-sur-Salon,70180,,0.78 €,,1.91 €,4755180,568728
 70,ZA DE LA CHARRIERE,Rioz,70190,1.72 €,,1.81 €,1.98 €,4742081.249,607470.883
 70,Rue Charles Couyba,ARC-LèS-GRAY,70100,1.71 €,,1.80 €,1.91 €,4745410,558994
-70,27 Rue Pierre Curie,Navenne,70000,1.64 €,0.74 €,1.70 €,1.86 €,4761200,615800
+70,27 Rue Pierre Curie,Navenne,70000,1.64 €,,1.70 €,1.86 €,4761200,615800
 70,Rue Alfred Dornier,DAMPIERRE-SUR-SALON,70180,,,,1.91 €,4755600,567800
 70,Rue des frères Lumière,GRAY,70100,,,,1.97 €,4743800,560600
 70,Place du 15 Juin 1940,Combeaufontaine,70120,,,1.96 €,1.97 €,4771200,588800
@@ -54,7 +54,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 70,PLACE DES PROMENADES,PESMES,70140,,,2.12 €,2.00 €,4727939.9540994,556677.511346
 70, Avenue de Verdun,JUSSEY,70500,,,1.70 €,1.92 €,4782741,590571
 70,ZA GRAY SUD CARREFOUR DES HAUTS PRES,GRAY,70100,,,,1.97 €,4743804.02238,559935.915428
-70,28 Rue Édouard Herriot,Saint-Sauveur,70300,1.53 €,,,,4780500,638300
 70,8 HAMEAU DU SOLEIL LEVANT - RN19,MALVILLERS,70120,,,,1.69 €,4773700,578900
+70,28 Rue Édouard Herriot,Saint-Sauveur,70300,1.53 €,,,1.73 €,4780500,638300
 70,101 Route de Gray,CHAMPLITTE,70600,,,1.96 €,1.97 €,4760900,552100
 70,16 Rue de Belfort,LURE,70200,,,,,4767500,652100
