@@ -7,11 +7,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,30 Rue du 3ème RHC,ÉTAIN,55400,1.62 €,,1.71 €,1.88 €,4921700,564300
 55,Place Maurice Genevoix,VERDUN,55100,1.65 €,,1.73 €,1.90 €,4916500,538000
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS SUD,HAUDIOMONT,55160,1.71 €,,,1.88 €,4911834.37,550846.34
-55,6 Rue du Général de Gaulle,Belleville-sur-Meuse,55430,1.67 €,,,1.94 €,4916200,564900
+55,6 Rue du Général de Gaulle,Belleville-sur-Meuse,55430,1.65 €,,1.73 €,1.90 €,4916200,564900
 55,4 IMPASSE DE LA VARENNE,Fains-Véel,55000,1.64 €,,,1.87 €,4878700,514000
-55,1 rue Jean Moulin,Commercy,55200,1.63 €,0.74 €,,1.89 €,4875600,558500
+55,1 rue Jean Moulin,Commercy,55200,,0.74 €,,1.89 €,4875600,558500
 55,Route de Longeville,SAVONNIèRES-DEVANT-BAR,55000,1.59 €,,,1.86 €,4875400,517900
-55,30 rue de la tresse,REVIGNY-SUR-ORNAIN,55800,,,1.68 €,1.84 €,4882500,499300
+55,30 rue de la tresse,REVIGNY-SUR-ORNAIN,55800,,,,,4882500,499300
 55,10 Rue d'Abainville,Houdelaincourt,55130,,,,,4855000,548100
 55,4 AV DU GENERAL DE GAULLE,VERDUN,55100,,,,,4916500,538000
 55,6 rue des Gites,VAUCOULEURS,55140,1.67 €,,,1.90 €,4860362,566686
@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,RUE DU DOCTEUR THIERRY,Saint-Mihiel,55300,,,,1.91 €,4889000,555100
 55,RN 3,Clermont-en-Argonne,55120,1.66 €,,1.76 €,1.87 €,4910482.9792036,506845.36033295
 55,106 Route Nationale,Lérouville,55200,,,,1.75 €,4879000,554900
-55,ROUTE DÉPARTEMENTALE 36D,PAGNY SUR MEUSE,55190,1.50 €,,1.59 €,,4868600,572600
+55,ROUTE DÉPARTEMENTALE 36D,PAGNY SUR MEUSE,55190,1.51 €,,1.60 €,1.66 €,4868600,572600
 55,11 Avenue de Verdun,Montmédy,55600,,,1.76 €,1.80 €,4951300,537500
 55,ZAC des cailloux,STENAY,55700,1.62 €,,,1.81 €,4948300,520200
 55,63 Rue Raymond Poincaré,VIGNEULLES-LèS-HATTONCHâTEL,55210,1.56 €,0.80 €,1.67 €,1.79 €,4898000,571300
@@ -29,7 +29,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,Rue du Docteur Edmond Morelle,COMMERCY,55200,,,,,4875735,559035
 55,Avenue de la Grande Terre,BAR-LE-DUC,55000,1.59 €,0.86 €,1.70 €,1.85 €,4875700,519200
 55,Porte de Cheppy,Varennes-en-Argonne,55270,,,1.85 €,1.99 €,4922900,504200
-55,Rue de la Ballastière,Ligny-en-Barrois,55500,,,,1.89 €,4867700,532600
+55,Rue de la Ballastière,Ligny-en-Barrois,55500,,,,,4867700,532600
 55,Avenue de Metz,VERDUN,55100,1.66 €,,,1.93 €,4914300,540900
 55,91 rue de Ligny,Velaines,55500,,0.85 €,,1.99 €,4869900,530600
 55,32 RUE ERNEST BRADFER,Bar-le-Duc,55000,,,,,4876900,517200
