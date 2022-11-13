@@ -14,7 +14,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 32,3 rue Jean Moulin,L'Isle-Jourdain,32600,1.65 €,,1.70 €,1.80 €,4361400,108900
 32,Route de Mont-de-Marsan,LE HOUGA,32460,,0.87 €,,1.88 €,4377800,-19100
 32,8 rue du Pin,Plaisance,32160,1.68 €,,1.76 €,1.88 €,4360100,4200
-32,RUE MARGUERITE DURAS,AUCH,32000,,,1.75 €,1.83 €,4366400,61800
+32,RUE MARGUERITE DURAS,AUCH,32000,1.67 €,0.74 €,1.75 €,1.83 €,4366400,61800
 32,Place du Foirail,MIRADOUX,32340,,,1.84 €,1.88 €,4399800,75700
 32,lieu dit hontaut,Condom,32100,1.69 €,,1.78 €,1.91 €,4396500,36700
 32,Avenue Jean Mermoz,MIRANDE,32300,,0.90 €,,1.79 €,4351700,41400
@@ -29,11 +29,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 32,Las Arribères RN21,Preignan,32810,,,,1.83 €,4371200,62200
 32,Avenue de Gascogne,Villecomtal-sur-Arros,32730,,,,,4340200,20200
 32,23 AV. DU GENERAL DE GAULLE,FLEURANCE,32500,1.50 €,,1.61 €,1.61 €,4384400,66200
-32,Route de Tarbes,MIRANDE,32300,1.68 €,,1.77 €,1.92 €,4350100,39400
+32,Route de Tarbes,MIRANDE,32300,1.68 €,,1.74 €,1.84 €,4350100,39400
 32,Boulevard des Pyrénées,MIRANDE,32300,1.68 €,,1.77 €,1.92 €,4351500,39900
 32,60 Z.A. LA PARADE,RISCLE,32400,1.70 €,,,1.90 €,4365600,-7400
 32,203 Rue Victor Hugo,AUCH,32000,1.74 €,0.86 €,,1.89 €,4365500,56600
-32,Avenue Pierre De Montesquiou,AUCH,32000,,,,1.75 €,4363700,59000
+32,Avenue Pierre De Montesquiou,AUCH,32000,,,,,4363700,59000
 32,17 Avenue de la Marne,AUCH,32000,,,1.71 €,1.93 €,4364879,59470
 32,Avenue Maquis Meilhan,Lombez,32220,1.66 €,,1.76 €,1.88 €,4347068,92231
 32,ROUTE DE TOULOUSE,Samatan,32130,,,,,4348800,93600

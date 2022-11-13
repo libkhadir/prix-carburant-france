@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,RUE JEAN MOULIN,SELLIèRES,39230,,,,1.90 €,4682826,556786
 39,ROUTE NATIONALE 73,ROCHEFORT SUR NENON,39700,1.52 €,,1.64 €,1.61 €,4711613.7241037,553852.15038275
-39,16 Route de Lyon,Saint-Claude,39200,1.52 €,0.77 €,1.65 €,,4637945,583946
+39,16 Route de Lyon,Saint-Claude,39200,,0.77 €,,,4637945,583946
 39,38 Route de Lyon,Saint-Claude,39200,1.69 €,,,1.87 €,4638038,583492
 39,Rue des Salines,LONS-LE-SAUNIER,39000,1.86 €,,1.96 €,2.01 €,4667404.13018,553981.363906
 39,Avenue de Franche Comté,Moirans-en-Montagne,39260,,,,1.88 €,4643900,572100
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,19A Rue de Lons,Saint-Aubin,39410,,,,1.90 €,4702500,533800
 39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.83 €,,1.83 €,1.90 €,4657200,595600
 39,20 Rue de Paris,Saint-Laurent-en-Grandvaux,39150,,,,1.97 €,4658000,595400
-39,39 Rue Clemenceau,Champagnole,39300,1.65 €,,,1.87 €,4674600,592000
+39,39 Rue Clemenceau,Champagnole,39300,1.65 €,,,,4674600,592000
 39,BOULEVARD DE L EUROPE,Lons-le-Saunier,39000,,,1.62 €,,4668000,557200
 39,14 Avenue du Maréchal Juin,Dole,39100,1.65 €,,,1.90 €,4708600,549600
 39,AIRE DU JURA,Arlay,39140,1.89 €,,1.99 €,2.07 €,4677600,552300
@@ -53,7 +53,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,Rue de la Gare,Fraisans,39700,,,,1.89 €,4715200,576000
 39,Quartier Bel Air,MOUCHARD,39330,1.66 €,,,1.94 €,4698000,580900
 39,2 Grande Rue,CLAIRVAUX-LES-LACS,39130,,,,,4657700,575400
-39,ZI LES PRES SITOZ D467,SALINS-LES-BAINS,39110,1.70 €,,,1.96 €,4692428.073,588581.893
+39,ZI LES PRES SITOZ D467,SALINS-LES-BAINS,39110,,,,,4692428.073,588581.893
 39,1140 route blanche,Les Rousses,39220,,,,1.90 €,4647900,606400
 39,8 Route de Salins,MONT-SOUS-VAUDREY,39380,,,2.00 €,2.05 €,4698101,560756
 39,Route de Besançon,Arbois,39600,,,,1.97 €,4691100,577000

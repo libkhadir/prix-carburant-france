@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 41,341  route de Blois,MUR-DE-SOLOGNE,41230,,,,1.88 €,4741300,160500
 41,88 rue Nationale,châtres sur cher,41320,,,,1.99 €,4726759.1521387,188331.18791535
 41,16 Avenue du Général De Gaulle,Contres,41700,,,,,4742500,142800
-41,35  AVENUE GERARD YVON,VENDOME,41100,1.49 €,,1.58 €,,4779700,105900
+41,35  AVENUE GERARD YVON,VENDOME,41100,,,,,4779700,105900
 41,A10 - Aire de Blois-Villerbon,Villerbon,41000,1.94 €,,2.02 €,2.03 €,4766600,138800
 41,2 Bis Voie Romaine,BEAUCE LA ROMAINE,41240,,,,1.89 €,4790700,152100
 41,81 Avenue de Paris,ROMORANTIN-LANTHENAY,41200,,,1.70 €,1.88 €,4737800,173700
@@ -61,6 +61,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 41,45  rue des Morines,MONT-PRèS-CHAMBORD,41250,1.58 €,0.74 €,,1.79 €,4756200,145000
 41,avenue de la Paix,Montoire-sur-le-Loir,41800,1.66 €,0.75 €,1.79 €,1.90 €,4775900,87600
 41,1 rue de la Quinière,Blois,41000,1.69 €,0.70 €,,1.89 €,4758142.578404,129938.05014435
-41,ZI Les Gâts de Coeur,VINEUIL,41350,1.58 €,,1.68 €,1.79 €,4756900,137100
+41,ZI Les Gâts de Coeur,VINEUIL,41350,,,,,4756900,137100
 41,14 Boulevard Mermoz,Montoire sur le loir,41800,1.67 €,,,1.90 €,4775669.0219429,86109.404774622
 41,15 Rue du 8 Mai 1945,Binas,41240,,,,1.75 €,4790400,146600

@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-43,17 Avenue des Champs Élysées,Chadrac,43770,1.64 €,,1.72 €,1.90 €,4505300,390000
 43,Avenue de Firminy,AUREC-SUR-LOIRE,43110,1.71 €,,1.94 €,1.96 €,4536955,420235
+43,17 Avenue des Champs Élysées,Chadrac,43770,,,,1.90 €,4505300,390000
 43,106 Avenue Maréchal Foch,Le Puy-en-Velay,43000,,0.80 €,,,4503269,388591
 43,AIRE LAFAYETTE,Lorlanges,43360,1.95 €,,,2.09 €,4533778.4769877,327418.93643043
 43,AVENUE JEANNE D'ARC,VALS-PRèS-LE-PUY,43750,,,1.78 €,1.86 €,4502721.00503,388039.236649
@@ -18,7 +18,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 43,AVENUE JEAN JAURES,Brioude,43100,,,,1.61 €,4528900,336900
 43,MONTMEAT,RIOTORD,43220,,,1.91 €,1.90 €,4522311.9214503,439291.14359744
 43,Route du Puy,SAINT-JULIEN-CHAPTEUIL,43260,,,,1.82 €,4503700,405500
-43,16 Avenue de Bonneville,Aiguilhe,43000,1.64 €,,1.74 €,1.81 €,4505000,388800
+43,16 Avenue de Bonneville,Aiguilhe,43000,,,,1.80 €,4505000,388800
 43,31 Boulevard Maréchal Joffre,Le Puy-en-Velay,43000,,,,1.99 €,4504900,389400
 43,44 Rue de Saint-Agrève,Tence,43190,,,1.90 €,1.85 €,4510855.2970837,429583.88576009
 43,ROUTE DU PUY,LE MONASTIER SUR GAZEILLE,43150,1.70 €,0.74 €,,1.79 €,4494800,398900
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 43,Avenue Philibert Besson,VOREY,43800,,0.74 €,,,4518200,391500
 43,RUE DE L'AVIATION,Chaspuzac,43320,1.64 €,,1.72 €,1.84 €,4507400,376100
 43,La Buge,Saint-Georges-d'Aurac,43230,,,,,4514400,354300
-43,15 Avenue Alfred de Vissaguet,Bas-en-Basset,43210,1.75 €,,,1.90 €,4530300,411400
+43,15 Avenue Alfred de Vissaguet,Bas-en-Basset,43210,,,,1.90 €,4530300,411400
 43,Lieu-dit Chanibeau,Sainte-Sigolène,43600,1.63 €,,1.72 €,1.83 €,4525100,421500
 43,route du Puy,Saugues,43170,1.65 €,,1.76 €,1.85 €,4495871,354987
 43,1 Avenue de Coubon,BRIVES-CHARENSAC,43700,1.62 €,,,1.80 €,4504800,391700

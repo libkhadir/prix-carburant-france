@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,Route de Valence,SAINT-DONAT-SUR-L'HERBASSE,26260,1.65 €,0.88 €,1.74 €,1.79 €,4511900,497200
 26,RN7,Pont-de-l'Isère,26600,,,,,4500800,487000
 26,114 Avenue de la Libération,VALENCE,26000,,,,,4491000,488300
-26,1287 RN 7 - LES BLACHES,Cliousclat,26270,,0.78 €,1.59 €,,4472000,480600
+26,1287 RN 7 - LES BLACHES,Cliousclat,26270,,,,,4472000,480600
 26,Avenue des Catalins,MONTéLIMAR,26200,,,1.64 €,1.80 €,4456700,475900
 26,RN7 ZA DU MEYROL,MONTELIMAR,26200,,,1.99 €,1.96 €,4457800,474500
 26,20 Avenue du Président Roosevelt,Tain-l'Hermitage,26600,,,1.97 €,1.85 €,4506800,484500
@@ -82,7 +82,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,87  Route De Bouchet,Suze La Rousse,26790,,,,1.84 €,4429036.2632079,485205.07813237
 26,56 av gambetta,romans sur isère,26100,,,,1.80 €,4504600,506100
 26,PLACE DE L'ALLET,Bourg-lès-Valence,26500,1.73 €,,1.90 €,1.82 €,4495317.29,489904.03
-26,162 AVENUE DE PROVENCE,VALENCE,26000,1.49 €,,1.60 €,,4491900,487800
+26,162 AVENUE DE PROVENCE,VALENCE,26000,,,,,4491900,487800
 26,6 route de Romans,Hauterives,26390,,,,1.82 €,4525600,502600
 26,690  Avenue Resistance de la Déportation,Cleon D'Andran,26450,,,,1.84 €,4461115.3997653,493679.17471658
 26,45 RUE DE LA SOURCE,Châteauneuf-du-Rhône,26780,1.66 €,,,1.85 €,4450200,474900
@@ -100,7 +100,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,rte de nyons,Tulette,26790,,,,1.83 €,4428700,494300
 26,300 AVENUE DE CHABEUIL,Valence,26000,1.75 €,0.74 €,1.82 €,1.94 €,4492700,491600
 26,avenue boissy d'anglas,Buis-les-Baronnies,26170,1.64 €,0.90 €,,1.80 €,4427400,527100
-26,BOULEVARD GUSTAVE ANDRE,VALENCE,26000,1.49 €,0.75 €,1.60 €,1.60 €,4494034,491049
+26,BOULEVARD GUSTAVE ANDRE,VALENCE,26000,,0.75 €,,,4494034,491049
 26,Zone d'activité de la roue est,Saint-Jean-en-Royans,26190,,0.74 €,,1.76 €,4502500,528700
 26,Lieu-dit Les Grangiers,Luc-en-Diois,26310,,,,2.04 €,4459145,545003
 26,CC LA CROIX D'OR,PIERRELATTE,26700,,,1.79 €,1.88 €,4437701,470128

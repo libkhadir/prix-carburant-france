@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,3 Avenue Louis Aragon,ISLE,87170,1.64 €,,1.84 €,1.89 €,4581000,121900
 87,26 RUE WAGNER,LIMOGES,87000,1.63 €,,,1.84 €,4581845.7256025,124929.94846559
 87,18 Route de Poitiers,BELLAC,87300,,,1.64 €,1.63 €,4612600,104400
-87,Route de Brive-Glandon,Saint-Yrieix-la-Perche,87500,1.70 €,0.74 €,1.77 €,1.93 €,4550000,120000
+87,Route de Brive-Glandon,Saint-Yrieix-la-Perche,87500,1.70 €,0.74 €,1.77 €,1.90 €,4550000,120000
 87,ROUTE DE TOULOUSE,BOISSEUIL,87220,1.62 €,,1.68 €,1.82 €,4578000,130600
 87,Avenue Jules Courivaud,MAGNAC-LAVAL,87190,1.67 €,,,1.85 €,4621500,116600
 87, Avenue Jean Moulin,SAINT-LéONARD-DE-NOBLAT,87400,1.75 €,0.90 €,1.80 €,1.90 €,4583253,149798
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,Avenue d'Oradour sur Glane,Saint-Junien,87200,1.60 €,0.83 €,1.69 €,1.81 €,4589600,91500
 87,37  route de la Gare,MAGNAC-BOURG,87380,1.63 €,0.74 €,1.71 €,1.84 €,4561900,143800
 87,14 Rue Georges BRIQUET,LIMOGES,87100,1.62 €,0.93 €,1.70 €,1.84 €,4584000,123500
-87,Faubourg de la Porte de Dinsac,LE DORAT,87210,1.67 €,,,1.85 €,4621632,108409
+87,Faubourg de la Porte de Dinsac,LE DORAT,87210,1.67 €,,,1.87 €,4621632,108409
 87,RN 20 - Croix du Breuil,Bessines-sur-Gartempe,87250,,,1.75 €,1.88 €,4613182,137253
 87,47  Avenue Winston Churchill,FEYTIAT,87220,1.61 €,,,1.77 €,4581270.9243144,133155.78994751
 87,Avenue de Périgueux,SAINT-YRIEIX-LA-PERCHE,87500,,,1.81 €,1.89 €,4550400,120100
