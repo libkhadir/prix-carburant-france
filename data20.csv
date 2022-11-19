@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,RN 197,ALGAJOLA,20220,,,,1.93 €,4260900,887500
 20,Route de bonifacio BP115,Porto-Vecchio,20137,,,,1.98 €,4157844.2439722,927469.32854278
 20,Station TOTAL La Trinité - RN 198 - Pitrera,PORTO-VECCHIO,20137,,,,1.77 €,4163489.5582317,929420.40547291
-20,route de bastia,Porto-Vecchio,20137,,,,1.81 €,4161400,928000
+20,route de bastia,Porto-Vecchio,20137,,,,1.98 €,4161400,928000
 20,Place Saint Damien,Sartène,20100,,,,1.97 €,4161900,896800
 20,RN 193,BIGUGLIA,20620,,,,1.92 €,4262100,943700
 20,358 San Cipriano,Lecci,20137,,,,1.98 €,4163900,933600
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Les Marines de Porticcio - Commune de Grosseto-Prugna,PORTICCIO,20166,,,,1.90 €,4188730,880770
 20,SASU CORSICA MODELISME,SAN-NICOLAO,20230,,,,1.98 €,4236800,950700
 20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.90 €,4184900,940000
-20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.87 €,4192900,876200
+20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.85 €,4192900,876200
 20,RTE N 196,Petreto-Bicchisano,20140,,,,1.92 €,4178547,897933
 20,Veta Porticcio,PORTICCIO,20166,,,,1.89 €,4189800,881000
 20,RUE U FONDU,CALENZANA,20214,,,,1.90 €,4250800,885200
@@ -123,7 +123,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Avenue du Président Kennedy - HLM Bat P,Ajaccio,20090,,,,1.89 €,4193100,873500
 20,ZI RIZZANESE,Sartène,20100,,,,1.92 €,4164900,894500
 20,36 Avenue Paul Doumer,L'Île-Rousse,20220,,,,1.93 €,4263200,894500
-20,65 COURS LUCIEN BONAPARTE,AJACCIO,20000,,,,1.90 €,4191078.61872,872151.667262
+20,65 COURS LUCIEN BONAPARTE,AJACCIO,20000,,,,1.89 €,4191078.61872,872151.667262
 20,Route de Bonifacio,Porto-Vecchio,20137,,,,1.98 €,4157100,927300
 20,rond point de ponte leccia,Ponte-Leccia,20218,,,,1.92 €,4246274,920667
 20,RN 193,FURIANI,20600,,,,1.94 €,4265300,944000
