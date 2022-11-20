@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 41,69 Route de Cheverny,CONTRES,41700,1.71 €,0.85 €,1.77 €,1.86 €,4743007,143427
 41,A10 Aire de Blois Ménars,Villerbon,41000,2.04 €,,2.15 €,2.26 €,4766300,138700
 41,Bd des Déportés - Angle rue des Merisiers / av Déportés,LA CHAUSSEE-SAINT-VICTOR,41260,1.76 €,,1.88 €,1.91 €,4760500,135100
-41,AIRE DE CHAUMONT SUR THARONNE,Lamotte-Beuvron,41600,2.19 €,,2.34 €,2.32 €,4781100,195600
+41,AIRE DE CHAUMONT SUR THARONNE,Lamotte-Beuvron,41600,2.17 €,,2.32 €,2.32 €,4781100,195600
 41,1 route Nationale 152,LA CHAUSSéE-SAINT-VICTOR,41260,,,1.89 €,1.90 €,4761100,135900
 41,Lieu-dit La Croûte,Neung-sur-Beuvron,41210,,,,1.95 €,4752500,181300
 41,5 bis avenue de la Braye,Savigny-sur-Braye,41360,,,1.84 €,1.90 €,4788100,80800
@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 41,341  route de Blois,MUR-DE-SOLOGNE,41230,,,,1.92 €,4741300,160500
 41,88 rue Nationale,châtres sur cher,41320,,,,1.99 €,4726759.1521387,188331.18791535
 41,16 Avenue du Général De Gaulle,Contres,41700,1.65 €,,1.76 €,1.81 €,4742500,142800
-41,35  AVENUE GERARD YVON,VENDOME,41100,1.70 €,,1.80 €,1.84 €,4779700,105900
+41,35  AVENUE GERARD YVON,VENDOME,41100,1.70 €,,1.80 €,,4779700,105900
 41,A10 - Aire de Blois-Villerbon,Villerbon,41000,2.04 €,,2.13 €,2.14 €,4766600,138800
 41,2 Bis Voie Romaine,BEAUCE LA ROMAINE,41240,1.58 €,,1.66 €,1.76 €,4790700,152100
 41,81 Avenue de Paris,ROMORANTIN-LANTHENAY,41200,,,1.70 €,1.90 €,4737800,173700

@@ -1,14 +1,14 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 42,793 Avenue des Farges,Bellegarde-en-Forez,42210,,,,1.86 €,4564700,429700
+42,La Varizelle,Saint-Chamond,42400,1.71 €,,,1.86 €,4546200,449300
 42,Route de Tarare,Panissières,42360,,,,,4579200,435400
 42,36 Rue de Terrenoire,Saint-Étienne,42100,1.82 €,,,1.97 €,4543300,441500
 42,ZA LA FAYETTE,SAINT-SYMPHORIEN-DE-LAY,42470,,,1.90 €,2.00 €,4595150.02,420605.36
 42,28 RUE DU FOREZ,Saint-Genest-Malifaux,42660,,,1.98 €,1.98 €,4534286.9278199,442078.64105866
 42,114 route de Roanne,Saint-Symphorien-de-Lay,42470,,0.90 €,,2.09 €,4595000,420400
 42,RUE DE LA BRUYERE,LENTIGNY,42155,1.80 €,0.96 €,,1.90 €,4599200,398200
-42,La Varizelle,Saint-Chamond,42400,,,1.80 €,1.86 €,4546200,449300
 42,140 Rue de la Montat  Quartier de Monthieu,SAINT-ÉTIENNE,42000,1.76 €,,1.85 €,1.94 €,4544237.1884059,441927.50511172
-42,35 RUE HOLTZER,UNIEUX,42240,,,,1.84 €,4539332.2,427067.4
+42,35 RUE HOLTZER,UNIEUX,42240,,,,,4539332.2,427067.4
 42,346 route de Saint Bonnet les Oules,Saint-Héand,42570,1.77 €,,,1.87 €,4553600,437300
 42,Les Crozes,Le Chambon-Feugerolles,42500,1.77 €,,,1.89 €,4540500,434100
 42,Lieu-Dit la Maison Rouge,SAINT-JEAN-BONNEFONDS,42650,1.93 €,,2.07 €,2.05 €,4544300,446200
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 42,160 rue du pont de combre,Saint-Just-en-Chevalet,42430,,0.96 €,,1.99 €,4591500,384400
 42,52 bd Jean-Baptiste Clément,ROANNE,42300,,1.07 €,,1.98 €,4604100,408100
 42,10 RUE DE PRESIDENT KENNEDY,UNIEUX,42240,,,,1.99 €,4540000,425900
-42,8 route de St Etienne,Montbrison,42600,1.71 €,,,,4559938.5953082,407329.87546921
+42,8 route de St Etienne,Montbrison,42600,1.70 €,,,,4559938.5953082,407329.87546921
 42,52 Boulevard Charles de Gaulle,LE COTEAU,42120,,1.20 €,,2.07 €,4601100,409700
 42,27 Boulevard Fauriat,Saint-Étienne,42000,1.85 €,0.96 €,,2.00 €,4544600,440700
 42,ZA DE GIRAUD,BOEN,42130,1.80 €,0.96 €,,1.90 €,4573600,400900

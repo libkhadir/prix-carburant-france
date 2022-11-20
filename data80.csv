@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,RUE JEAN MOULIN,Pont-Remy,80580,1.72 €,,1.80 €,1.88 €,5005800.8,190025.44
-80,59 route d'amiens 80480 dury,Dury,80480,1.71 €,0.90 €,1.82 €,1.86 €,4986000,227400
+80,59 route d'amiens 80480 dury,Dury,80480,,0.90 €,,1.86 €,4986000,227400
 80,28 Place du Maréchal Foch,Amiens,80000,1.82 €,,1.95 €,2.03 €,4989400,228500
 80,213 Boulevard de la République,Abbeville,80100,1.81 €,,1.94 €,2.06 €,5011300,182900
 80,Route de Vignacourt,FLIXECOURT,80420,1.75 €,0.74 €,1.69 €,1.89 €,5001100,209400
@@ -76,7 +76,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80, Rue Thuillier Delambre,RIVERY,80136,,,1.78 €,1.95 €,4990201,232624
 80,Avenue des Australiens,Péronne,80200,,,,,4994186,294077
 80,rue charles de gaulle,Gamaches,80220,,,1.73 €,1.89 €,4998297.73,156231.03625
-80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,1.87 €,0.90 €,1.99 €,1.96 €,4988879.2881616,284077.70993548
+80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,1.90 €,0.92 €,2.01 €,1.99 €,4988879.2881616,284077.70993548
 80,2 Route de Normandie,Salouël,80480,1.81 €,,1.94 €,2.05 €,4987000,224100
 80,ZI IMPASSE DU MOULIN,ROYE,80700,1.71 €,,,1.86 €,4970300,278100
 80,Avenue du Président Roosevelt,Bouttencourt,80220,,,1.77 €,1.86 €,4993908,162364
@@ -96,7 +96,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Rue de Roye,MONTDIDIER,80500,1.72 €,0.88 €,1.75 €,1.90 €,4964844,258299
 80,20 Rue Vauvillers,ROSIèRES-EN-SANTERRE,80170,1.74 €,0.96 €,1.82 €,1.89 €,4982600,271200
 80,Route de Rouy,NESLE,80190,1.76 €,,1.85 €,1.96 €,4976400,292100
-80,7 BD DU PORT D'AVAL,AMIENS,80000,1.68 €,0.91 €,1.79 €,1.84 €,4989800,229200
+80,7 BD DU PORT D'AVAL,AMIENS,80000,,0.91 €,,1.84 €,4989800,229200
 80, Rue Hippolyte Noiret,FOUILLOY,80800,,,,,4989953,249865
 80,1 Place du génèral de Gaulle,Conty,80160,,0.80 €,,1.74 €,4974100,215200
 80,RUE HYPPOLYTE NOIRET,FOUILLOY,80800,1.82 €,,1.92 €,2.00 €,4989948.7289383,249803.0034

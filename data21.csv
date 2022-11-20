@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 21,Aire de Pont Val de Saône - Autoroute A39,PONT,21130,1.68 €,,1.78 €,1.89 €,4718526.7984802,533407.48403503
 21,8 Rue Charles Dullin,Talant,21240,1.72 €,,1.83 €,1.84 €,4734100,499700
 21,10 bis rue Claude Guyot,Arnay-le-Duc,21230,1.81 €,,1.91 €,2.01 €,4712905.8,448885.1
-21,Route de Langres,Til-Châtel,21120,1.88 €,,1.99 €,2.05 €,4751200,517300
+21,Route de Langres,Til-Châtel,21120,1.88 €,,1.99 €,1.99 €,4751200,517300
 21,10 RUE DE LA CROIX BERTHAULT,Rouvray,21530,,,1.68 €,1.85 €,4742400,410600
 21,2 boulevard des diables bleus,DIJON,21000,,,,1.85 €,4730200,502400
 21,20 rue François Mitterand,IS-SUR-TILLE,21120,1.79 €,0.96 €,1.88 €,1.90 €,4753000,511500
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 21,2 Allée Paul Jeannin,Mirebeau-sur-Bèze,21310,,,,,4739956.13,532310.8
 21,1 Rue Roland Dorgelès,Longvic,21600,,,,,4728779,506231
 21,hameau de bierre en morvan,La Roche-en-Brenil,21530,,,,2.05 €,4739272.43,416023.17
-21,BOULEVARD DU CHAMP AUX METIERS,QUETIGNY,21800,,,,,4730815,510574
+21,BOULEVARD DU CHAMP AUX METIERS,QUETIGNY,21800,1.72 €,,1.83 €,,4730815,510574
 21,355 Avenue Jean Moulin,Marsannay-la-Côte,21160,,,2.00 €,1.96 €,4728000,501900
 21,Avenue de Dijon,VENAREY-LES-LAUMES,21150,,,,1.89 €,4754000,446100
 21,LES PORTES DE BOURGOGNE,POUILLY-EN-AUXOIS,21320,1.95 €,,2.05 €,1.97 €,4726300,455400

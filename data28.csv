@@ -25,10 +25,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,1 Impasse de la Cerisaie,La Loupe,28240,1.70 €,,1.77 €,1.87 €,4847500,102600
 28,AIRE DE CHARTRES GASVILLE A11,Gasville-Oisème,28300,2.01 €,,2.10 €,2.11 €,4846800,157900
 28,8 BD DU 8 MAI,Châteaudun,28200,,,,1.85 €,4806166,133489
-28,Autoroute A11Aire des manoirs du Perche,Frazé,28160,2.06 €,,2.21 €,2.25 €,4824100,108400
+28,Autoroute A11Aire des manoirs du Perche,Frazé,28160,2.04 €,,2.19 €,2.25 €,4824100,108400
 28,route de romilly,Cloyes-sur-le-Loir,28220,,,1.81 €,1.89 €,4799000,125600
 28,Route du Mans RN23,Nogent-le-Rotrou,28400,1.69 €,,1.80 €,1.85 €,4830636.693,80848.721
-28,34 rue jean mermoz,chartres,28000,,,,,4845000,150600
+28,34 rue jean mermoz,chartres,28000,1.68 €,,1.78 €,1.84 €,4845000,150600
 28,48 avenue Marcel Proust,ILLIERS-COMBRAY,28120,1.70 €,0.90 €,1.80 €,1.85 €,4830500,125700
 28,RD 923 - ROUTE DU MANS,AMILLY,28300,1.68 €,0.90 €,1.78 €,1.84 €,4843692.6238406,142376.84459686
 28,rue Loigny La Bataille,VOVES,28150,1.73 €,,1.80 €,1.89 €,4826800,163200
@@ -36,9 +36,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,AV FRANCOIS ARAGO,CHARTRES,28000,1.68 €,,,1.84 €,4843500,152100
 28,54 route de la Ferté Vidame,Senonches,28250,1.70 €,,1.79 €,1.88 €,4857000,102400
 28,RN 12 (COTE SUD),Vert-en-Drouais,28500,1.73 €,0.93 €,,,4874800,127100
-28,101 Avenue de la République,Luisant,28600,1.65 €,,1.76 €,1.81 €,4841700,146500
+28,101 Avenue de la République,Luisant,28600,,,1.76 €,1.81 €,4841700,146500
 28,Rue de Dolmont,Saint-Georges-sur-Eure,28190,1.73 €,,1.80 €,1.88 €,4842440,136158
-28,route du mans,THIMERT-GâTELLES,28170,1.74 €,,,1.89 €,4857700,123900
+28,route du mans,THIMERT-GâTELLES,28170,,,,1.89 €,4857700,123900
 28,Route du Mans,Saint-Denis-les-Ponts,28200,1.70 €,0.90 €,1.86 €,1.90 €,4806712,130218
 28,Route Bouglainval,Maintenon,28130,1.73 €,0.74 €,1.83 €,1.90 €,4858000,157000
 28,Rue de la Baronnie,SAINT-LUBIN-DES-JONCHERETS,28350,1.64 €,,1.70 €,1.83 €,4876700,119600

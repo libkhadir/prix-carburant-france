@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,16 Boulevard Saint-Michel,AVIGNON,84000,1.90 €,0.93 €,,2.00 €,4394300,481100
 84,AVENUE DE L AMANDIER,AVIGNON,84000,1.72 €,,1.84 €,1.83 €,4393515,484825
 84,7 Avenue René Cassin,MONTEUX,84170,1.85 €,0.97 €,1.95 €,1.97 €,4403500,500300
-84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,1.73 €,,1.84 €,1.84 €,4372100,554200
+84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,,,,,4372100,554200
 84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.73 €,0.87 €,,1.86 €,4432200,474500
 84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.75 €,,1.82 €,1.88 €,4400918,505110
 84,2 Rond Point des Remparts,MALAUCENE,84340,,,1.99 €,2.01 €,4417600,512900
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,417 bis avenue du Mont Ventoux,Carpentras,84200,,,,2.00 €,4405700,505800
 84,778 Route d'Avignon,Châteauneuf-de-Gadagne,84470,1.79 €,,1.89 €,1.99 €,4392849,493805
 84,Route de Carpentras,Sarrians,84260,1.77 €,0.96 €,1.88 €,1.89 €,4408120,498365
-84,RN 100 PL. EMILE CHAR,L'Isle-sur-la-Sorgue,84800,1.73 €,0.87 €,,1.86 €,4391800,505000
+84,RN 100 PL. EMILE CHAR,L'Isle-sur-la-Sorgue,84800,1.73 €,0.89 €,,1.84 €,4391800,505000
 84,Route de Marseille,AVIGNON,84140,1.77 €,,1.88 €,1.95 €,4392125.9562009,486701.76328638
 84,Avenue Marcel Pagnol,VAISON-LA-ROMAINE,84110,1.66 €,0.77 €,1.90 €,1.86 €,4424300,508200
 84,10 Avenue Eisenhower,Avignon,84000,1.74 €,,,1.86 €,4394000,479800
@@ -92,7 +92,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,1.70 €,0.88 €,1.82 €,1.83 €,4393200,478300
 84, Route de Cavaillon,MAUBEC,84660,,,1.81 €,1.87 €,4386584,514004
 84,route de carpentras,BEAUMES-DE-VENISE,84190,1.84 €,0.95 €,1.98 €,2.00 €,4411600,501600
-84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,1.80 €,0.96 €,1.88 €,1.91 €,4428689.2034091,475063.55196328
+84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,1.80 €,0.96 €,1.90 €,1.91 €,4428689.2034091,475063.55196328
 84,route d'aix en provence - lot. les prés verts,Pertuis,84120,1.71 €,0.85 €,,1.86 €,4367900,549700
 84,408 rue de la Tour,Pertuis,84120,1.80 €,,1.90 €,2.00 €,4369500,550300
 84,Autoroute A7 Aire de Mornas Les Adrets,Mornas,84550,1.75 €,0.77 €,1.84 €,1.93 €,4421591.6721624,472326.57168282
@@ -102,7 +102,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,286 Avenue Charles de Gaulle,ORANGE,84100,1.77 €,,1.88 €,1.94 €,4413600,480100
 84,AVENUE VICTOR HUGO,Vaison-la-Romaine,84110,1.71 €,0.89 €,1.82 €,1.83 €,4424200,507900
 84,ROUTE DE BEDOIN,Saint-Pierre-de-Vassols,84330,1.73 €,,1.83 €,1.86 €,4409679.8967498,514097.51479881
-84,Route de Nyons,Valréas,84600,1.65 €,0.87 €,1.73 €,1.81 €,4438600,500700
+84,Route de Nyons,Valréas,84600,1.73 €,0.87 €,1.78 €,1.87 €,4438600,500700
 84,Avenue lançon,Apt,84400,1.72 €,,1.79 €,1.86 €,4388436.6,537959.7
 84,avenue Majoral Jouve,aubignan,84810,1.84 €,,,1.95 €,4409204.53,502966.13
 84,82 CHEMIN DES ESPELUGUES,L'Isle-sur-la-Sorgue,84800,1.75 €,0.96 €,,1.89 €,4392500,506300
