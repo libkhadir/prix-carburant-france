@@ -1,22 +1,22 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,55 Av du général Leclerc,Boissy saint léger,94470,2.20 €,1.00 €,2.27 €,2.09 €,4874800,251000
-94,32 Avenue le Foll,VILLENEUVE-LE-ROI,94290,1.90 €,,2.00 €,2.00 €,4872873.9311158,243184.46308188
-94,57  Rue Delenue,SAINT-MAUR-DES-FOSSéS,94100,1.73 €,,1.83 €,1.92 €,4880200,248700
+94,32 Avenue le Foll,VILLENEUVE-LE-ROI,94290,1.84 €,,1.94 €,1.95 €,4872873.9311158,243184.46308188
+94,57  Rue Delenue,SAINT-MAUR-DES-FOSSéS,94100,1.73 €,,1.81 €,0.92 €,4880200,248700
 94,8 Place Gaston Viens,Orly,94310,1.66 €,,,1.85 €,4874300,240800
 94,10 Rue Westermeyer,IVRY-SUR-SEINE,94200,1.75 €,,1.80 €,1.88 €,4881900,239600
 94,69 Avenue Pierre Brossolette,Créteil,94000,,,2.04 €,2.09 €,4879014,246408
-94,22 Avenue Pierre Brossolette,Créteil,94000,1.74 €,,1.82 €,1.93 €,4879100,246200
-94,20 Avenue Paul Vaillant-Couturier,Arcueil,94110,1.70 €,0.93 €,1.78 €,1.90 €,4880100,234000
+94,22 Avenue Pierre Brossolette,Créteil,94000,1.73 €,,1.81 €,1.92 €,4879100,246200
+94,20 Avenue Paul Vaillant-Couturier,Arcueil,94110,1.69 €,0.93 €,1.77 €,1.88 €,4880100,234000
 94,99/101 Avenue Foch,Saint-Maur-des-Fossés,94100,1.73 €,,1.81 €,1.92 €,4879900,250000
-94,264 Avenue du Général de Gaulle,Le Perreux-sur-Marne,94170,1.74 €,,1.82 €,1.92 €,4885100,249500
-94,20 Rue Winston Churchill,Villeneuve-Saint-Georges,94190,1.75 €,,1.83 €,1.91 €,4875400,245000
+94,264 Avenue du Général de Gaulle,Le Perreux-sur-Marne,94170,1.73 €,,1.80 €,1.90 €,4885100,249500
+94,20 Rue Winston Churchill,Villeneuve-Saint-Georges,94190,1.75 €,,1.83 €,1.90 €,4875400,245000
 94,67 Avenue Raspail,Gentilly,94250,1.70 €,,1.78 €,1.88 €,4881400,234800
 94,ROUTE DE LA POMPADOUR,Bonneuil-sur-Marne,94380,1.76 €,,1.84 €,1.92 €,4876500,247800
-94,1 Rue de Paris,Sucy-en-Brie,94370,1.76 €,,,1.92 €,4877300,250000
+94,1 Rue de Paris,Sucy-en-Brie,94370,1.75 €,,,1.91 €,4877300,250000
 94,159 Avenue Rouget de l'Isle,Vitry-sur-Seine,94400,,,,,4878200,239500
-94,264 Avenue de Stalingrad,Chevilly-Larue,94550,1.74 €,,1.82 €,1.93 €,4876700,236800
-94,14 Boulevard de Stalingrad,Choisy-le-Roi,94600,1.73 €,,1.81 €,1.91 €,4876800,240300
-94,5 Avenue Léon Blum,Maisons-Alfort,94700,1.75 €,,1.83 €,1.92 €,4880200,243600
+94,264 Avenue de Stalingrad,Chevilly-Larue,94550,1.73 €,,1.81 €,1.92 €,4876700,236800
+94,14 Boulevard de Stalingrad,Choisy-le-Roi,94600,1.73 €,,1.81 €,1.90 €,4876800,240300
+94,5 Avenue Léon Blum,Maisons-Alfort,94700,1.74 €,,1.82 €,1.92 €,4880200,243600
 94,117 BLD MAXIME GORKI,VILLEJUIF,94800,1.69 €,0.91 €,1.80 €,1.87 €,4879261,236955
 94,63 Rue Maurice Berteaux,Le Plessis-Trévise,94420,1.66 €,,1.77 €,1.86 €,4881320,256641
 94,75 RUE DE NOISY,VILLIERS SUR MARNE,94350,1.87 €,,2.01 €,1.99 €,4883400,254700
@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,97 AVENUE GENERAL DE GAULLE,Champigny-sur-Marne,94500,1.84 €,0.96 €,1.98 €,1.98 €,4882300,249400
 94,60 AV DE STALINGRAD,VILLEJUIF,94800,1.69 €,,1.80 €,1.87 €,4878541.7567889,236659.9755323
 94,ROUTE NATIONALE 186,RUNGIS,94150,1.81 €,,1.95 €,2.01 €,4875300,236100
-94,AVENUE CHARLES LINDBERGH,RUNGIS,94150,1.66 €,,1.76 €,1.85 €,4874897.5066745,235599.03212184
+94,AVENUE CHARLES LINDBERGH,RUNGIS,94150,1.66 €,,,1.85 €,4874897.5066745,235599.03212184
 94,168-180 BLD DE STALINGRAD,Ivry-sur-Seine,94200,1.69 €,0.92 €,1.80 €,1.87 €,4880595,237609
 94,57 BD DE CRETEIL,Saint-Maur-des-Fossés,94100,1.88 €,,2.00 €,2.15 €,4879800,248100
 94,4 BIS AV DE LA LIBERTE,Charenton-le-Pont,94220,,,,,4882225,240285
@@ -64,7 +64,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,119 Avenue du Général de Gaulle,Créteil,94000,1.68 €,,1.77 €,1.87 €,4878186.7204601,245789.45751426
 94,29 bvd de créteil,Saint-Maur,94100,1.65 €,,,1.86 €,4879800,247700
 94,99 AVENUE DU GL LECLERC,MAISONS-ALFORT,94700,2.10 €,0.91 €,2.15 €,2.10 €,4880694.77421,243827.166369
-94,236 Avenue de la République,Fontenay-sous-Bois,94120,1.94 €,,2.13 €,2.16 €,4885300,246600
+94,236 Avenue de la République,Fontenay-sous-Bois,94120,1.91 €,,2.10 €,2.11 €,4885300,246600
 94,247 AV CHARLES DE GAULLE,Champigny-sur-Marne,94500,1.67 €,0.89 €,1.77 €,1.85 €,4882800,251300
 94,64 AVENUE FOCH,ST MAUR DES FOSSES,94100,2.15 €,1.00 €,2.20 €,2.03 €,4880057.83,249499.24
 94,AUTOROUTE A106 - AIRE DE RUNGIS DELTA PONDO,RUNGIS,94150,1.66 €,0.92 €,1.77 €,1.86 €,4875758.28377,234834.600555

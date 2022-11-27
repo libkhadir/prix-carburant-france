@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,29 BOULEVARD DE DIJON,Saint-Julien-les-Villas,10800,1.76 €,0.96 €,1.85 €,1.91 €,4826800,408800
-10,14 FAUX BOURG DE BOURGOGNE,Bar-sur-Seine,10110,1.70 €,0.94 €,1.78 €,1.86 €,4810600,437700
+10,14 FAUX BOURG DE BOURGOGNE,Bar-sur-Seine,10110,1.70 €,0.93 €,1.78 €,1.86 €,4810600,437700
 10,25 Rue du Pont,Les Riceys,10340,,,2.05 €,1.99 €,4799651,436718
 10,71 rue Victor Hugo,Rosières,10430,1.68 €,0.85 €,1.78 €,1.84 €,4826650.8041454,406117.27612853
 10,29 Rue Joseph Anglade,AIX-EN-OTHE,10160,1.75 €,,,1.91 €,4821640,374084
@@ -37,12 +37,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,ZAC de Creney,PONT-SAINTE-MARIE,10150,1.68 €,0.96 €,1.78 €,1.84 €,4832753.003,411267.96
 10,184 Route Nationale 77 - Chevillele,Saint-Germain,10120,1.70 €,,1.81 €,1.83 €,4824100,402200
 10,82 AVENUE DU GENERAL LECLERC,Sainte-Savine,10300,1.67 €,0.92 €,1.77 €,1.82 €,4829202.02975,403727.238436
-10,24 Avenue du Général Leclerc,Sainte-Savine,10300,1.74 €,,1.83 €,1.89 €,4829300,404300
+10,24 Avenue du Général Leclerc,Sainte-Savine,10300,1.71 €,,1.79 €,1.85 €,4829300,404300
 10,103 avenue du Général de Gaulle,SAINT PARRES AUX TERTRES,10410,1.68 €,0.85 €,1.78 €,1.84 €,4829795.1133716,413363.64178579
 10,Faubourg de Belfort,Bar-sur-Aube,10200,,,1.87 €,2.02 €,4822900,471700
 10,Faubourg de Champagne,FOUCHERES,10260,1.73 €,,1.82 €,1.89 €,4815000,426200
-10,5 Rue Roger Salengro,Pont-Sainte-Marie,10150,1.74 €,,1.86 €,1.90 €,4831100,409700
-10,210 Rue du Faubourg Croncels,Troyes,10000,1.78 €,,,2.02 €,4828300,407900
+10,5 Rue Roger Salengro,Pont-Sainte-Marie,10150,1.74 €,,1.82 €,1.90 €,4831100,409700
+10,210 Rue du Faubourg Croncels,Troyes,10000,1.78 €,,,1.93 €,4828300,407900
 10,9 RUE DE BRIENNE,ARCIS-SUR-AUBE,10700,1.61 €,,1.72 €,1.78 €,4853600,414500
 10,70 Rue Aristide Briand,Romilly-sur-Seine,10100,1.72 €,,1.80 €,1.91 €,4851200,372000
 10,114 route d auxerre,Saint André les vergers,10120,1.75 €,0.85 €,1.97 €,1.86 €,4827995.71,404105.94

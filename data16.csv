@@ -2,6 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ave du general de gaulle,SOYAUX,16800,1.66 €,0.83 €,1.77 €,1.80 €,4563900,21900
 16,Route d'Aigre ,Ruffec,16700,,0.82 €,1.73 €,1.81 €,4602138,18967
 16,105 Rue Basse Saint-Martin,COGNAC,16100,1.60 €,,1.70 €,1.75 €,4568600,-33800
+16,RN10 LES GRANDES CHAUMES,CHAMPNIERS,16430,,,,1.90 €,4571478,20692
 16,Rue de la Tude,Chalais,16210,1.68 €,0.83 €,1.82 €,1.87 €,4527300,4200
 16,RN 10 - LES CHAUVAUDS,CHAMPNIERS,16430,1.60 €,0.91 €,1.70 €,1.77 €,4570100,18200
 16,96 Avenue de la Gare,LA COURONNE,16400,1.66 €,,1.76 €,1.85 €,4560700,9000
@@ -12,7 +13,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,144 route de Saint Jean d'Angély,Saint-Yrieix-sur-Charente,16710,1.71 €,,1.80 €,1.86 €,4569000,11500
 16,RN10 Aire des Groies,Villegats,16700,1.90 €,0.89 €,2.02 €,2.03 €,4598546.3882983,20048.889066011
 16,43 PLACE DE LA CORDERIE,COGNAC,16100,1.61 €,0.91 €,1.72 €,1.79 €,4569309,-32722
-16,RN10 LES GRANDES CHAUMES,CHAMPNIERS,16430,,,,1.90 €,4571478,20692
 16,1 ROUTE DE SIGALAUD,Villebois-Lavalette,16320,1.66 €,0.87 €,1.75 €,1.81 €,4548200,27800
 16,Place de l'Hôtel de Ville,Montbron,16220,1.70 €,,,1.86 €,4566500,50100
 16,ZA Les Montagnes Les Plantes Neuves,Champniers,16430,1.70 €,,,1.80 €,4568300,17900
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,15 route des Boisdons,LINARS,16730,1.73 €,,1.80 €,1.89 €,4565500,8500
 16,122 Rue Nationale,Roumazières-Loubert,16270,1.74 €,0.96 €,1.83 €,1.86 €,4588434,57522
 16,Avenue du 8 Mai 1945,CONFOLENS,16500,1.73 €,0.96 €,1.80 €,1.85 €,4602100,65600
-16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.64 €,,1.73 €,1.88 €,4560000,-5500
+16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.64 €,,1.73 €,1.91 €,4560000,-5500
 16,Route de Mansle,Saint-Amant-de-Boixe,16330,1.73 €,,,1.86 €,4580400,14000
 16,Lieu-Dit Plaisance,BARBEZIEUX-SAINT-HILAIRE,16300,1.60 €,,1.72 €,1.71 €,4546000,-14300
 16,Avenue d'Ecosse,JARNAC,16200,1.69 €,,1.78 €,1.86 €,4569096.0364153,-17360.081481934

@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 86,Les Chaumettes,LA ROCHE-POSAY,86270,1.70 €,0.80 €,1.79 €,1.90 €,4679420.09905,79782.8862365
 86,108 Avenue du 8 Mai 1945,POITIERS,86000,,,1.76 €,1.82 €,4656141,31494
 86,Rue de la Pierre du Theil,CIVRAY,86400,1.67 €,,1.75 €,1.80 €,4614157,30294
-86,Avenue Jean Moulin,CHâTELLERAULT,86100,1.69 €,,1.77 €,1.85 €,4679700,53100
+86,Avenue Jean Moulin,CHâTELLERAULT,86100,,,1.77 €,1.85 €,4679700,53100
 86,Rue des Ecoles,BUXEROLLES,86180,1.59 €,,,1.75 €,4659700,35100
 86,6 Route de Paris,CHASSENEUIL-DU-POITOU,86360,1.60 €,,1.69 €,1.77 €,4663300,35800
 86,Rue Julien David,Lussac-les-Châteaux,86320,1.74 €,0.96 €,1.82 €,1.90 €,4640200,72200
@@ -56,7 +56,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 86,RN 151 - La Carte,Jardres,86800,1.71 €,,,1.82 €,4656700,56400
 86,RN10 LES PORTES DU FUTUR,Chasseneuil-du-Poitou,86360,1.72 €,,1.80 €,1.85 €,4666700,37100
 86,17  RUE PORTES ROUGES,VIVONNE,86370,1.66 €,,1.73 €,1.79 €,4643100,26200
-86,Sortie A10 Nord - ZI Nord - Espace d Argenson,CHATELLERAULT,86100,1.69 €,0.96 €,1.76 €,1.84 €,4684011.24663,54742.251739
+86,Sortie A10 Nord - ZI Nord - Espace d Argenson,CHATELLERAULT,86100,1.69 €,0.96 €,1.73 €,1.81 €,4684011.24663,54742.251739
 86,13 Avenue Honoré de Balzac,CHâTELLERAULT,86100,1.64 €,,1.72 €,1.77 €,4679200,52600
 86,Route de Poitiers,Chauvigny,86300,1.63 €,,1.73 €,1.82 €,4657100,63700
 86,93 Route de Gençay,Poitiers,86000,1.59 €,,1.68 €,1.75 €,4656679,35738

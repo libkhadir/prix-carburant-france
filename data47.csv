@@ -1,5 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,246 AVENUE DE LA LIBERATION,Colayrac-Saint-Cirq,47450,,,,,4422044.45117,30730.385075
+47,12 place Martignac,Miramont-de-Guyenne,47800,,,,1.89 €,4460000,35900
 47,ZAC AGEN SUD,AGEN,47000,1.72 €,0.96 €,,1.85 €,4418100,61800
 47,Redon Lieu-dit Mon Repos - RN 113,Bon-Encontre,47240,1.72 €,,,1.85 €,4419000,65564
 47,92 Avenue Henri BARBUSSE,VILLENEUVE-SUR-LOT,47300,,,,1.91 €,4439800,72900
@@ -10,7 +11,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,Au Rébéquet,Saint-Pardoux-Isaac,47800,1.70 €,0.96 €,,1.87 €,4461364,36024
 47,RN 21 - MONPLAISIR,CASTILLONNES,47330,1.76 €,1.00 €,1.85 €,1.90 €,4464300,59400
 47,2 rue du champ de foire,Monbahus,47290,,,,1.92 €,4454899.75,53641.038333333
-47,12 place Martignac,Miramont-de-Guyenne,47800,,,1.72 €,1.89 €,4460000,35900
 47,2  rue Bir-Hakeim,PUJOLS,47300,1.70 €,0.96 €,1.78 €,1.86 €,4439340.2403121,69168.08873108
 47,lieu dit les Barths,Samazan,47250,1.62 €,0.93 €,1.74 €,1.78 €,4443100,12900
 47,Avenue de la Myre Mory,SAINT-SYLVESTRE-SUR-LOT,47140,,,1.80 €,1.89 €,4439673,80632
