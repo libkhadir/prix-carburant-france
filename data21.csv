@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 21,AUTOROUTE A31 SENS DIJON - BEAUNE,Gevrey-Chambertin,21220,1.81 €,,1.87 €,1.91 €,4721796.5761992,500272.49351628
 21,Route de Dijon,Chevigny-Saint-Sauveur,21800,1.70 €,0.96 €,,1.80 €,4730200,512700
 21,AVENUE ROLAND CARRAZ,CHENôVE,21300,,,2.03 €,1.89 €,4729307,501616
-21,Avenue Édouard Herriot,Châtillon-sur-Seine,21400,1.69 €,,,1.82 €,4785300,457100
+21,Avenue Édouard Herriot,Châtillon-sur-Seine,21400,1.69 €,,,,4785300,457100
 21,RUE GRILLOT,SAULIEU,21210,1.84 €,,1.92 €,1.90 €,4728200,423700
 21,3 rue de Labergement,Auxonne,21130,1.77 €,0.96 €,1.80 €,1.90 €,4718981,538718
 21,51  route de Langres,Til-Châtel,21120,,,1.85 €,1.86 €,4752000,517900
@@ -79,8 +79,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 21,27 Route de Pommard,Beaune,21200,1.70 €,0.88 €,1.78 €,1.82 €,4701800,482700
 21,2 Allée Paul Jeannin,Mirebeau-sur-Bèze,21310,,,,,4739956.13,532310.8
 21,1 Rue Roland Dorgelès,Longvic,21600,,,,,4728779,506231
+21,BOULEVARD DU CHAMP AUX METIERS,QUETIGNY,21800,1.69 €,0.92 €,,1.81 €,4730815,510574
 21,hameau de bierre en morvan,La Roche-en-Brenil,21530,,,,1.95 €,4739272.43,416023.17
-21,BOULEVARD DU CHAMP AUX METIERS,QUETIGNY,21800,,0.92 €,,,4730815,510574
 21,355 Avenue Jean Moulin,Marsannay-la-Côte,21160,,,1.94 €,1.81 €,4728000,501900
 21,Avenue de Dijon,VENAREY-LES-LAUMES,21150,,,,1.80 €,4754000,446100
 21,LES PORTES DE BOURGOGNE,POUILLY-EN-AUXOIS,21320,1.84 €,,1.92 €,1.90 €,4726300,455400

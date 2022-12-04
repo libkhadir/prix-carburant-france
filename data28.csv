@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,7 rue de l'étang,Thiron-Gardais,28480,,,1.81 €,1.85 €,4831300,99100
 28,A10 AIRE DES PLAINES DE BEAUCE,Fresnay-l'Évêque,28310,1.99 €,,,2.09 €,4827500,185600
 28,106 Rue du Bourgneuf,Chartres,28000,1.61 €,,1.72 €,1.77 €,4846400,148100
-28,LA HAUTE BORNE,Toury,28310,1.63 €,0.90 €,1.72 €,1.80 €,4819625.25,193678.45626935
+28,LA HAUTE BORNE,Toury,28310,,0.90 €,1.72 €,1.80 €,4819625.25,193678.45626935
 28,zac du debucher,ANET,28260,1.68 €,,1.78 €,1.81 €,4885400,144300
 28,AUTOROUTE A11 OCEANE,Dampierre-sous-Brou,28160,1.88 €,,1.99 €,2.07 €,4824000,108300
 28,Rue de la Bruyère  centre commercial du Percue,Nogent-le-Rotrou,28400,1.62 €,0.96 €,1.71 €,1.76 €,4833133.6999283,80520.164752954
@@ -30,12 +30,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Route du Mans RN23,Nogent-le-Rotrou,28400,1.64 €,,1.75 €,1.80 €,4830636.693,80848.721
 28,34 rue jean mermoz,chartres,28000,,,1.73 €,1.77 €,4845000,150600
 28,60 Route de Crécy,VERNOUILLET,28500,,,1.89 €,1.89 €,4873067.3127189,133747.33095697
-28,48 avenue Marcel Proust,ILLIERS-COMBRAY,28120,1.63 €,0.96 €,1.72 €,1.74 €,4830500,125700
+28,48 avenue Marcel Proust,ILLIERS-COMBRAY,28120,1.67 €,0.96 €,1.75 €,1.76 €,4830500,125700
 28,RD 923 - ROUTE DU MANS,AMILLY,28300,1.63 €,0.91 €,,1.77 €,4843692.6238406,142376.84459686
 28,rue Loigny La Bataille,VOVES,28150,1.68 €,,1.79 €,1.84 €,4826800,163200
 28,Rue Denis Papin,Voves,28150,1.68 €,0.90 €,1.75 €,1.79 €,4827900,162300
 28,AV FRANCOIS ARAGO,CHARTRES,28000,1.63 €,,,1.77 €,4843500,152100
-28,54 route de la Ferté Vidame,Senonches,28250,1.65 €,,1.74 €,1.80 €,4857000,102400
+28,54 route de la Ferté Vidame,Senonches,28250,1.69 €,,1.76 €,1.80 €,4857000,102400
 28,RN 12 (COTE SUD),Vert-en-Drouais,28500,1.68 €,0.94 €,1.79 €,1.81 €,4874800,127100
 28,101 Avenue de la République,Luisant,28600,,,1.71 €,1.76 €,4841700,146500
 28,Rue de Dolmont,Saint-Georges-sur-Eure,28190,1.67 €,,1.75 €,1.79 €,4842440,136158

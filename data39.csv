@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,Boulevard des frères Lumière,Dole,39100,,0.90 €,,1.85 €,4709800,550000
 39,56 route de voiteur,DOMBLANS ( 39210 ),39210,1.72 €,,1.80 €,,4676309.5926694,559865.30121911
 39,Avenue Edouard Herriot,Champagnole,39300,,,,1.90 €,4674900,590600
-39,3 rue des Isles,FONCINE LE HAUT,39460,1.77 €,0.86 €,1.86 €,1.87 €,4665800,607400
+39,3 rue des Isles,FONCINE LE HAUT,39460,1.77 €,0.86 €,,1.87 €,4665800,607400
 39,AUTOROUTE A36 AIRE DE DOLE ROMANGE,Orchamps,39700,1.95 €,,2.09 €,2.07 €,4714900,566400
 39,Lieu-dit Champs Bouvier,Beaufort,39190,,,,1.85 €,4657600,543700
 39,Place du 1er mai,DAMPARIS,39500,,,,1.80 €,4707224,541392
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,ROUTE DE DOLE,Arbois,39600,1.91 €,0.99 €,2.05 €,1.88 €,4691500,575700
 39,19A Rue de Lons,Saint-Aubin,39410,1.73 €,,,1.88 €,4702500,533800
 39,39 Rue Clemenceau,Champagnole,39300,1.70 €,,,1.79 €,4674600,592000
-39,ROUTE DU GENIE,LES ROUSSES,39220,1.69 €,0.89 €,1.80 €,1.78 €,4648600,605500
+39,ROUTE DU GENIE,LES ROUSSES,39220,1.76 €,0.89 €,1.82 €,1.82 €,4648600,605500
 39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.80 €,,1.80 €,1.78 €,4657200,595600
 39,20 Rue de Paris,Saint-Laurent-en-Grandvaux,39150,,0.90 €,,1.96 €,4658000,595400
 39,14 Avenue du Maréchal Juin,Dole,39100,1.74 €,,1.82 €,1.86 €,4708600,549600
