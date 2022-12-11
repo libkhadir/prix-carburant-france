@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,1560 route de Saint Saturnin,Le Pontet,84130,,,,1.88 €,4395300,487900
 84,Aire de Mornas Village - Autoroute A7 - Sens Lyon Marseille,Mornas,84550,1.86 €,0.95 €,1.96 €,1.98 €,4419451.5836,473119.14934517
 84,Autoroute A7,Sorgues,84700,1.76 €,,1.86 €,1.85 €,4402300,489000
-84,28 Avenue des Taillades,CAVAILLON,84300,1.59 €,,1.68 €,1.70 €,4383650.87192,505044.595196
+84,28 Avenue des Taillades,CAVAILLON,84300,1.59 €,,,1.70 €,4383650.87192,505044.595196
 84,542 Avenue Charles de Gaulle,Pernes-les-Fontaines,84210,1.73 €,0.96 €,,1.83 €,4400500,505100
 84,28 Chemin du Clos Neuf,Morières-lès-Avignon,84310,,,1.71 €,1.70 €,4394345,490789
 84,Route d'Aix en Provence  Quartier Saint Martin,Pertuis,84120,1.61 €,1.11 €,,1.73 €,4368100,550100
@@ -45,12 +45,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,16 Boulevard Saint-Michel,AVIGNON,84000,1.72 €,0.90 €,,1.79 €,4394300,481100
 84,AVENUE DE L AMANDIER,AVIGNON,84000,1.59 €,,1.70 €,1.66 €,4393515,484825
 84,7 Avenue René Cassin,MONTEUX,84170,1.68 €,0.91 €,1.75 €,1.79 €,4403500,500300
-84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,1.59 €,,1.70 €,1.66 €,4372100,554200
+84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,,,1.70 €,,4372100,554200
 84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.61 €,0.79 €,,1.68 €,4432200,474500
 84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.56 €,0.87 €,1.63 €,1.65 €,4400918,505110
 84,2 Rond Point des Remparts,MALAUCENE,84340,,,1.90 €,1.87 €,4417600,512900
-84,1661 RTE DE SORGUES - RN 7,LE PONTET,84130,1.60 €,0.93 €,1.71 €,1.66 €,4397800,485800
-84,264 Avenue de Cheval Blanc,CAVAILLON,84300,1.57 €,,1.67 €,1.65 €,4383100,505400
+84,1661 RTE DE SORGUES - RN 7,LE PONTET,84130,1.58 €,0.93 €,1.69 €,1.65 €,4397800,485800
 84,Route de Carpentras,L'ISLE-SUR-LA-SORGUE,84800,1.57 €,0.89 €,1.64 €,1.66 €,4393100,506400
 84,417 bis avenue du Mont Ventoux,Carpentras,84200,,,,2.00 €,4405700,505800
 84,778 Route d'Avignon,Châteauneuf-de-Gadagne,84470,1.79 €,,1.89 €,1.99 €,4392849,493805
@@ -86,13 +85,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,417 Avenue du Mont Ventoux,CARPENTRAS,84200,,,,,4405653,505803
 84,QUARTIER DE MOUGNE,Sault,84390,1.70 €,0.96 €,1.80 €,1.80 €,4410150,541452
 84,Avenue du Tourail,Maubec,84660,1.57 €,0.87 €,1.64 €,1.66 €,4386696,514881.99999999
-84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.58 €,,1.65 €,1.66 €,4392800,478900
+84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.57 €,,1.65 €,1.65 €,4392800,478900
 84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.61 €,,1.71 €,1.69 €,4415676,487061
 84,Route d'orange,Mornas,84550,1.76 €,,,1.90 €,4419700,473700
 84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,1.57 €,0.87 €,1.69 €,1.65 €,4393200,478300
 84, Route de Cavaillon,MAUBEC,84660,,,1.86 €,1.92 €,4386584,514004
 84,route de carpentras,BEAUMES-DE-VENISE,84190,1.79 €,0.96 €,1.92 €,1.80 €,4411600,501600
-84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,1.66 €,0.89 €,1.73 €,1.78 €,4428689.2034091,475063.55196328
+84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,1.60 €,0.89 €,1.73 €,1.78 €,4428689.2034091,475063.55196328
 84,route d'aix en provence - lot. les prés verts,Pertuis,84120,1.61 €,0.85 €,,1.73 €,4367900,549700
 84,408 rue de la Tour,Pertuis,84120,1.80 €,0.95 €,1.90 €,1.95 €,4369500,550300
 84,Autoroute A7 Aire de Mornas Les Adrets,Mornas,84550,1.75 €,0.91 €,1.85 €,1.84 €,4421591.6721624,472326.57168282

@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+17,139 RTE DE ST JEAN D'ANGELY,BLANZAC-LèS-MATHA,17160,,,1.70 €,1.69 €,4586900,-32800
 17,1 RUE D'ALIGRE,MARANS,17230,1.60 €,,1.69 €,1.70 €,4631131.13409,-99182.5951956
 17,204 route de Royan,Medis,17600,1.54 €,,,1.64 €,4566563.17,-94339.2
 17,route de la rochelle,ROCHEFORT,17300,1.60 €,0.96 €,1.73 €,1.68 €,4595675.89967,-97777.6716334
-17,139 RTE DE ST JEAN D'ANGELY,BLANZAC-LèS-MATHA,17160,,,1.70 €,1.69 €,4586900,-32800
 17,quai des sabliers,Royan,17200,,,1.87 €,1.85 €,4561900,-102800
 17,30 Boulevard des Dandonneaux,COZES,17120,1.61 €,0.88 €,1.69 €,1.70 €,4558500,-83500
 17,LE PETIT BONNEVEAU,Salles-sur-Mer,17220,1.61 €,,1.71 €,1.71 €,4608400,-107400
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,6 Boulevard Maréchal Lyautey,LA ROCHELLE,17000,1.65 €,,1.77 €,1.74 €,4616200,-120300
 17,RTE DE MONTLIEU,Montendre,17130,1.59 €,,1.65 €,1.65 €,4528100,-39400
 17,1 ZA LE PRE CHARDON,SEMUSSAC,17120,1.57 €,,1.65 €,1.65 €,4560400,-91400
-17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.60 €,,1.72 €,1.71 €,4615054.29,-107654.119
+17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.60 €,,1.72 €,1.65 €,4615054.29,-107654.119
 17,Autoroute A10 Aire de Saint-Léger,Saint-Léger,17800,1.97 €,,2.11 €,2.10 €,4561300,-60400
 17,3 route des cedres,Chaniers,17610,,,,,4574500,-56200
 17,ZA du Tonneau,Archiac,17520,,,1.88 €,1.79 €,4552800,-30400
@@ -65,7 +65,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,8 AVENUE MARYSE BASTIE,ROYAN,17200,1.52 €,,1.61 €,1.63 €,4562472.81492,-101645.691284
 17,1  AV DE LA LIBERATION,ROYAN,17200,1.52 €,0.87 €,1.61 €,1.63 €,4562357,-101317
 17,ZA des Grossines,Marennes,17320,1.63 €,,1.72 €,1.70 €,4582747,-109838
-17,Avenue Charles de Gaulle,SAINT-PALAIS-SUR-MER,17420,1.64 €,,1.78 €,1.73 €,4565100,-108500
+17,Avenue Charles de Gaulle,SAINT-PALAIS-SUR-MER,17420,1.59 €,,1.78 €,1.67 €,4565100,-108500
 17,Rue Laurent-Antoine de Lavoisier,ROYAN,17200,1.54 €,0.82 €,1.62 €,1.64 €,4563165.8119,-99245.4955339
 17,124 Boulevard André Sautel,La Rochelle,17000,1.53 €,0.89 €,1.62 €,1.62 €,4617000,-112700
 17,ROUTE DE SAINTES,Saujon,17600,1.57 €,,1.65 €,1.66 €,4567900,-91500

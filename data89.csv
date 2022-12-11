@@ -42,11 +42,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 89,2 Avenue Jean Mermoz,AUXERRE,89000,1.58 €,,1.65 €,1.65 €,4780400,358900
 89,avenue du 8 mai 1945,Saint-Florentin,89600,1.77 €,,1.85 €,1.81 €,4800000,371800
 89,Près Aubert St Denis les Sens,Saint-Denis-lès-Sens,89100,1.64 €,,,1.67 €,4821660.5760093,327710.67499518
-89,7 boulevard du pont neuf,Sens,89100,1.57 €,0.91 €,1.70 €,1.69 €,4820387.5189763,327130.6496774
+89,7 boulevard du pont neuf,Sens,89100,,,,,4820387.5189763,327130.6496774
 89,31 Avenue Jean Hémery,JOIGNY,89300,,,,1.64 €,4797800,341100
 89,1 rue Guillaume des Barres,VILLENEUVE-LA-GUYARD,89340,1.59 €,0.87 €,1.67 €,1.68 €,4833500,306500
 89,Avenue de la Morlande,AVALLON,89200,1.83 €,,,1.89 €,4748900,390100
-89,Boulevard Gallieni,Auxerre,89000,1.68 €,,1.76 €,1.82 €,4779900,355300
+89,Boulevard Gallieni,Auxerre,89000,1.63 €,,1.71 €,1.77 €,4779900,355300
 89,2 Avenue Pasteur,SAINT-JULIEN-DU-SAULT,89330,,,,2.02 €,4803200,330400
 89, Route de Sens,SAINT-VALERIEN,89150,,,,,4817808,310960
 89,AUTOROUTE A 19,Fouchères,89150,1.86 €,,1.97 €,2.00 €,4816600,317200
