@@ -59,7 +59,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,3 ROUTE DES MARAIS - ST SYMPHORIEN LE VALOIS,La Haye-du-Puits,50250,1.57 €,,1.68 €,1.74 €,4929700,-154400
 50,Route de la poste,BREHAL,50290,1.56 €,,1.69 €,1.66 €,4890000,-151300
 50,1 Boulevard de Verdun,Valognes,50700,1.57 €,,1.68 €,1.74 €,4950800,-146600
-50,RUE DE LA SALINE,Cherbourg-octeville,50100,1.57 €,0.85 €,1.69 €,1.74 €,4963500,-161500
+50,RUE DE LA SALINE,Cherbourg-octeville,50100,,0.85 €,1.69 €,1.74 €,4963500,-161500
 50,Route des Fourches,CHERBOURG-OCTEVILLE,50100,1.59 €,0.87 €,1.68 €,1.73 €,4963906.9,-164776.2
 50,Avenue de la République,COUTANCES,50200,,,1.73 €,1.74 €,4905650.21016,-143431.761564
 50,4 charrière du commerce,Agon-Coutainville,50230,1.59 €,,1.70 €,1.72 €,4904900,-159300
