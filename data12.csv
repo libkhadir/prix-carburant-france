@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,150 Boulevard Georges Brassens,Millau,12100,1.55 €,,1.61 €,1.68 €,4411714,306997
 12,280 Rue de la Renaissance,Decazeville,12300,1.60 €,0.87 €,1.75 €,1.72 €,4455913.1275643,225812.46898855
 12,Zone de Laubarède,Viviez,12110,1.60 €,0.87 €,,1.70 €,4456000,222400
-12,Espace Les Cayres,Laguiole,12210,,,1.80 €,1.74 €,4468300,285100
+12,Espace Les Cayres,Laguiole,12210,,,1.73 €,1.76 €,4468300,285100
 12,Route de Rodez,SAINT-CHRISTOPHE-VALLON,12330,1.60 €,,1.70 €,1.72 €,4446900,241400
 12,Avenue de Rodez,LUC-LA-PRIMAUBE,12450,1.62 €,0.83 €,1.70 €,1.72 €,4429682,255795
 12,Z.A. Bel air,Camarès,12360,1.65 €,,,1.75 €,4383200,287300
@@ -75,7 +75,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,1.82 €,,1.80 €,1.79 €,4483700,266300
 12,9 Avenue des Croates,VILLEFRANCHE-DE-ROUERGUE,12200,1.58 €,,1.69 €,1.72 €,4436100,204100
 12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.61 €,1.68 €,4409065,307745
-12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.61 €,,1.72 €,1.72 €,4395700,287500
+12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.61 €,,1.73 €,1.72 €,4395700,287500
 12,30 Avenue du Rouergue,BERTHOLèNE,12310,,,1.77 €,1.73 €,4439367,277776
 12,Avenue de Rodez,PONT-DE-SALARS,12290,1.62 €,,1.70 €,1.71 €,4428800,271500
 12,Z.A. PLAISANCE,Cassagnes-Bégonhès,12120,1.76 €,,,1.75 €,4417642.425,252119.462
