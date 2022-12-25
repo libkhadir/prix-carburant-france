@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 57,132 Rue Georges Clemenceau,ARS-SUR-MOSELLE,57130,1.65 €,,1.73 €,1.78 €,4908457,608798
 57,Rue du Général Mangin,Saint-Avold,57500,1.73 €,,1.93 €,1.97 €,4910800,671900
 57,36 Route de Lorry,METZ,57050,,,1.72 €,1.77 €,4913056.2697164,615747.06718508
-57,rue lavoisier,Morhange,57340,1.59 €,0.90 €,1.71 €,1.77 €,4893400,665200
+57,rue lavoisier,Morhange,57340,1.61 €,0.90 €,1.73 €,1.78 €,4893400,665200
 57,31 Rue Jean-Jacques Kieffer,BITCHE,57230,1.65 €,,1.74 €,1.76 €,4904700,742600
 57,Rue de METZ,CHâTEAU-SALINS,57170,1.77 €,,1.85 €,1.90 €,4882386,650710
 57,33 rue du Maréchal Leclerc,Fenétrange,57930,1.61 €,,1.72 €,1.77 €,4884300,702100
@@ -61,7 +61,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 57,Rue de Metz,RICHEMONT,57270,1.58 €,0.87 €,1.69 €,1.72 €,4929755.07615,616521.674408
 57,19 Route de Lunéville,SARREBOURG,57400,1.62 €,0.80 €,1.72 €,1.80 €,4873200,704600
 57,RUE DE L ABATTOIR,Saint-Julien-lès-Metz,57070,1.64 €,0.91 €,,1.76 €,4912700,618900
-57,10 RUE DES ALLIES,METZ,57050,1.65 €,0.90 €,,1.76 €,4913000,616500
+57,10 RUE DES ALLIES,METZ,57050,1.65 €,0.90 €,,,4913000,616500
 57,Avenue du Général Patton,SAINT-AVOLD,57500,1.61 €,0.90 €,,1.79 €,4911600,670800
 57,Rue Raymond Poincaré,DELME,57590,1.76 €,,,1.79 €,4889000,638600
 57, Rue Principale,HAMBACH,57910,1.61 €,,1.81 €,1.78 €,4908347,704028

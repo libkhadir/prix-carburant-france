@@ -36,7 +36,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Route de Bordeaux,Bergerac,24100,1.60 €,0.80 €,1.68 €,1.74 €,4483492.4988994,44823.906051395
 24,Route de Bergerac,VERGT,24380,1.60 €,,,1.75 €,4502200,71000
 24,7 ROUTE DE BERGERAC,LE BUISSON DE CADOUIN,24480,,,1.83 €,1.77 €,4484674.542214,89910.605727465
-24,740 avenue des jardins,TERRASSON,24120,1.60 €,,1.70 €,1.74 €,4512400,132100
+24,740 avenue des jardins,TERRASSON,24120,,,1.70 €,1.74 €,4512400,132100
 24,Route de Brive,Sarlat-la-Canéda,24200,,,1.69 €,1.74 €,4492000,120600
 24,Le Mayne,Saint-Martial-d'Albarède,24160,1.60 €,,1.69 €,1.73 €,4533308,104339
 24,Lieu dit chez Noillac,Vieux-Mareuil,24340,,,1.70 €,1.77 €,4544700,46700
@@ -53,7 +53,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,103 AVENUE PAUL DOUMER,Bergerac,24100,1.60 €,,1.68 €,1.73 €,4483276.6500805,47861.304923428
 24,RN 89 - NIVERSAC,Saint-Laurent-sur-Manoire,24330,1.57 €,,1.68 €,1.74 €,4513800,80700
 24,138 RUE PIERRE SEMARD LE TOULON,PERIGUEUX,24000,,,,,4519700,70100
-24,2 route de Nontron,Saint-Martial-de-Valette,24300,1.60 €,0.89 €,1.71 €,1.73 €,4552000,65500
+24,2 route de Nontron,Saint-Martial-de-Valette,24300,,0.89 €,1.72 €,1.73 €,4552000,65500
 24,101  Avenue Pasteur,Bergerac,24100,1.60 €,,1.68 €,1.74 €,4486262,49793
 24,229 les grand champs,saint aulaye puymangou,24410,,,1.70 €,1.76 €,4516800,8100
 24,2 Route de la Maladrerie,Nontron,24300,1.61 €,,1.69 €,1.78 €,4554059,66713
