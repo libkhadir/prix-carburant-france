@@ -1,9 +1,9 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-65,route de Bagnères,LALOUBERE,65310,1.56 €,,1.61 €,1.68 €,4320600,7200
+65,route de Bagnères,LALOUBERE,65310,1.68 €,,1.77 €,1.80 €,4320600,7200
 65,3150 RN 117,CAPVERN,65130,,0.87 €,,1.78 €,4311200,35600
 65,LIEU DIT PLAS,ARREAU,65240,,,1.83 €,1.90 €,4289922.58853,35364.2473678
 65,route pierrefitte,Cauterets,65110,,,1.90 €,1.99 €,4289995,-10814
-65,Route de Pau,IBOS,65420,1.62 €,0.94 €,1.71 €,1.73 €,4323900,1800
+65,Route de Pau,IBOS,65420,1.62 €,0.94 €,1.70 €,1.74 €,4323900,1800
 65,13 route de Lourdes,Juillan,65290,1.62 €,0.94 €,1.70 €,1.75 €,4320079,3601
 65,265 Route de Toulouse,LANNEMEZAN,65300,,,1.76 €,1.78 €,4311900,41100
 65,5 rue francis cruzel,Rabastens-de-Bigorre,65140,,,1.70 €,1.77 €,4338900,14500
@@ -11,14 +11,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 65,ROUTE NATIONALE,Loures-Barousse,65370,,,1.70 €,1.74 €,4302400,60300
 65,ROUTE DE VIELLE AURE,Bourisp,65170,,,1.78 €,1.79 €,4282800,33300
 65,Rue Lucien Pourxet,LOURDES,65100,1.70 €,0.89 €,,1.80 €,4308800,-4400
-65,5 Avenue François ABADIE,Lourdes,65100,1.61 €,0.89 €,1.71 €,1.75 €,4310996.7,-3815
-65,centre commercial Val d'Adour,Maubourguet,65700,1.60 €,,1.69 €,1.79 €,4344100,4200
+65,5 Avenue François ABADIE,Lourdes,65100,1.61 €,,1.70 €,1.74 €,4310996.7,-3815
+65,centre commercial Val d'Adour,Maubourguet,65700,1.58 €,,1.69 €,1.76 €,4344100,4200
 65,Avenue de Bagnères,Tournay,65190,1.64 €,,1.69 €,1.76 €,4317600,24000
 65,2 Quai Rossignol,VIC-EN-BIGORRE,65500,1.62 €,0.87 €,1.71 €,1.79 €,4338400,5100
-65,Place Germain Claverie,TARBES,65000,,,1.73 €,1.78 €,4322800,8800
-65,21 ROUTE DE BORDEAUX,bazet,65460,1.60 €,,1.71 €,1.75 €,4329100,7600
+65,Place Germain Claverie,TARBES,65000,,,1.70 €,1.77 €,4322800,8800
+65,21 ROUTE DE BORDEAUX,bazet,65460,,,,1.76 €,4329100,7600
 65,25 BOULEVARD DE LAPACCA,LOURDES,65100,1.66 €,0.92 €,1.76 €,1.77 €,4309700,-3800
-65,83 Avenue de la Mongie,POUZAC,65200,1.64 €,,1.72 €,1.80 €,4308000,14000
+65,83 Avenue de la Mongie,POUZAC,65200,1.64 €,,1.72 €,1.78 €,4308000,14000
 65,CENTRE COMMERCIAL LA RAMONDIA,LANNEMEZAN,65300,1.64 €,,1.70 €,1.78 €,4309800,39900
 65,26 Avenue Geruzet,Bagnères-de-Bigorre,65200,,,1.86 €,1.79 €,4306700,15200
 65,27 AVENUE DES PYRENEES,Argelès-Gazost,65400,,,,,4301600,-9700
@@ -41,9 +41,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 65, Boulevard Lacaussade,TARBES,65000,,,1.87 €,1.80 €,4323426,5428
 65,Avenue François Abadie,Lourdes,65100,1.60 €,,,1.74 €,4310985,-3764
 65,ROUTE DE SAINT LARY,SARRANCOLIN,65410,,,1.80 €,1.79 €,4297300,37600
-65,Route de Tarbes,Lalanne-Trie,65220,1.62 €,0.96 €,1.77 €,1.75 €,4331100,33300
+65,Route de Tarbes,Lalanne-Trie,65220,1.64 €,0.87 €,1.77 €,1.78 €,4331100,33300
 65,87 Rue Alsace Lorraine,Tarbes,65000,1.67 €,0.95 €,1.77 €,1.79 €,4325003.622,7205.866
-65,Route d'Auch,ORLEIX,65800,1.64 €,0.94 €,1.72 €,1.76 €,4327800,11600
-65,1 rue Jean Perrin,TARBES,65000,1.59 €,0.94 €,1.68 €,1.75 €,4322000,8000
+65,Route d'Auch,ORLEIX,65800,1.60 €,0.94 €,1.68 €,1.74 €,4327800,11600
+65,1 rue Jean Perrin,TARBES,65000,1.60 €,0.94 €,1.68 €,1.74 €,4322000,8000
 65,77 AVENUE DE LA MONGIE,POUZAC,65200,1.60 €,0.92 €,1.71 €,1.74 €,4308100,13900
 65,Route du stade,ARGELES GAZOST,65400,,,1.75 €,1.78 €,4301400,-9800
