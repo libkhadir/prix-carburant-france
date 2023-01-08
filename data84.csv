@@ -11,7 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,28 Chemin du Clos Neuf,Morières-lès-Avignon,84310,1.82 €,1.09 €,,1.86 €,4394345,490789
 84,Route d'Aix en Provence  Quartier Saint Martin,Pertuis,84120,1.76 €,1.22 €,,1.85 €,4368100,550100
 84,Chemin des Abattoirs,APT,84400,1.76 €,0.95 €,1.84 €,1.84 €,4388255.0478083,538117.22343891
-84,ROUTE D'AVIGNON,Cavaillon,84300,1.87 €,,,1.97 €,4385600,501800
+84,ROUTE D'AVIGNON,Cavaillon,84300,1.86 €,,,1.95 €,4385600,501800
 84,Av. du 8 Mai,PERTUIS,84120,,,2.06 €,1.92 €,4368700,550200
 84,28 Avenue des Taillades,CAVAILLON,84300,1.77 €,,1.84 €,1.85 €,4383650.87192,505044.595196
 84,RUE JEAN ALTHEN,AVIGNON,84000,1.88 €,1.17 €,,1.95 €,4393000,482300
@@ -102,7 +102,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,286 Avenue Charles de Gaulle,ORANGE,84100,1.80 €,1.07 €,1.86 €,1.87 €,4413600,480100
 84,AVENUE VICTOR HUGO,Vaison-la-Romaine,84110,1.76 €,1.12 €,1.86 €,1.82 €,4424200,507900
 84,ROUTE DE BEDOIN,Saint-Pierre-de-Vassols,84330,1.80 €,,1.91 €,1.84 €,4409679.8967498,514097.51479881
-84,Route de Nyons,Valréas,84600,1.79 €,0.80 €,1.80 €,1.86 €,4438600,500700
+84,Route de Nyons,Valréas,84600,1.80 €,0.80 €,1.85 €,1.87 €,4438600,500700
 84,Avenue lançon,Apt,84400,1.76 €,,1.83 €,1.84 €,4388436.6,537959.7
 84,avenue Majoral Jouve,aubignan,84810,1.88 €,,,1.93 €,4409204.53,502966.13
 84,82 CHEMIN DES ESPELUGUES,L'Isle-sur-la-Sorgue,84800,1.82 €,1.07 €,1.88 €,1.88 €,4392500,506300

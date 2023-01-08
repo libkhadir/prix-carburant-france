@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,Avenue Hubert Ruffe,MARMANDE,47200,,,1.89 €,1.92 €,4448400,18400
 47,Bassin du Canal,Damazan,47160,1.93 €,,,1.99 €,4429000,28200
 47,Route de castillonnes,Villeréal,47210,1.82 €,1.07 €,,1.88 €,4463500,73800
-47,Redon Lieu-dit Mon Repos - RN 113,Bon-Encontre,47240,1.82 €,,,1.92 €,4419000,65564
+47,Redon Lieu-dit Mon Repos - RN 113,Bon-Encontre,47240,1.80 €,,,1.86 €,4419000,65564
 47,2 rue du champ de foire,Monbahus,47290,,,,1.92 €,4454899.75,53641.038333333
 47,lieu dit les Barths,Samazan,47250,1.90 €,1.16 €,2.01 €,1.97 €,4443100,12900
 47,12 place Martignac,Miramont-de-Guyenne,47800,,,,1.99 €,4460000,35900
@@ -33,7 +33,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,313 AVENUE SAINT ROCH PICADOU,Beauville,47470,,1.27 €,,1.92 €,4427423.8445733,88436.414405417
 47,1500 Avenue du Docteur Jean Noguès,BOE,47550,,1.12 €,,1.90 €,4418500,66400
 47,6-8 RUE FRANCOIS MAURIAC,MARMANDE,47200,1.85 €,,,1.88 €,4450089.445,16388.361823669
-47,La Ville,LE PASSAGE,47520,1.80 €,1.07 €,1.84 €,1.87 €,4419000,60500
+47,La Ville,LE PASSAGE,47520,1.79 €,1.07 €,1.84 €,1.86 €,4419000,60500
 47,Route de Bordeaux,MARMANDE,47200,1.85 €,1.24 €,1.89 €,1.88 €,4451208.14449,13510.6386789
 47,RTE DE MIRAMONT,Marmande,47200,1.90 €,,2.01 €,1.97 €,4450818,19074
 47,route de mezin,lavardac,47230,,1.10 €,1.78 €,1.87 €,4417400,30500
@@ -66,7 +66,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,Avenue de Ladhuie,Montayral,47500,,,1.89 €,1.86 €,4449200,96900
 47,Rue Anatole France,AIGUILLON,47190,1.81 €,1.07 €,1.85 €,1.89 €,4429654,34412
 47,34 Av. Georges Clémenceau,Nérac,47600,,,,1.96 €,4413376.162,34581.724
-47,1440 rte de Miramont de Guyenne,VIRAZEIL,47200,,,,,4450500,22100
+47,1440 rte de Miramont de Guyenne,VIRAZEIL,47200,,,,1.98 €,4450500,22100
 47, Avenue Alfred Court,MIRAMONT-DE-GUYENNE,47800,,,1.84 €,1.87 €,4459548,35238
 47,Soubirous RN 21,VILLENEUVE-SUR-LOT,47300,,,1.94 €,1.96 €,4445800,69500
 47,Lieu-dit Saint-Étienne,Lauzun,47410,,1.27 €,,1.92 €,4462900,45200

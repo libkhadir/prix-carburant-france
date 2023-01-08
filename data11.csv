@@ -12,7 +12,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 11,69  avenue de Narbonne,SAINT-LAURENT-DE-LA-CABRERISSE,11220,,,1.78 €,1.92 €,4308700,270300
 11,418 Route d'Ouveillan,Sallèles-d'Aude,11590,1.90 €,,1.98 €,1.94 €,4326400,294800
 11,Boulevard du Minervois,Trèbes,11800,1.82 €,1.07 €,1.86 €,1.87 €,4321000,245500
-11,STATION PIERRE LYS,Quillan,11500,1.74 €,,,1.87 €,4287800,218300
+11,STATION PIERRE LYS,Quillan,11500,,,,1.87 €,4287800,218300
 11,zae avenue de la preuilhe,BRAM,11150,,,1.92 €,1.90 €,4324100,210100
 11,RN113,CAPENDU,11700,1.89 €,,1.95 €,1.94 €,4318546,255730
 11,8 Avenue du Président Franklin Roosevelt,CARCASSONNE,11000,,,,,4321712,234696

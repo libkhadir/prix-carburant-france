@@ -1,10 +1,10 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+69,1880 route de strasbourg,Rillieux-la-Pape,69140,1.89 €,,2.00 €,1.96 €,4581300,488800
 69,244  Chemin Rivière de la Cour,Le Bois-d'Oingt,69620,1.78 €,,,1.86 €,4592200,458000
 69,17 Avenue Jean Moulin,SAINT-LAURENT-DE-MURE,69720,1.90 €,1.14 €,,1.97 €,4569100,503800
 69,Rue du Chateau d'Yvours,Irigny,69540,,,1.89 €,1.88 €,4568800,482500
 69,1 Rue de la république,Quincieux,69650,1.90 €,,2.01 €,1.97 €,4591700,477500
-69,69 AVENUE DU 25EME RTS,Lyon,69009,1.77 €,,1.85 €,1.86 €,4578100,480100
-69,1880 route de strasbourg,Rillieux-la-Pape,69140,1.89 €,,2.00 €,1.96 €,4581300,488800
+69,69 AVENUE DU 25EME RTS,Lyon,69009,1.79 €,,1.87 €,1.86 €,4578100,480100
 69,11  Avenue Guy de Collongue,Écully,69130,,,,1.97 €,4578065.5647583,476768.34360596
 69,633 route de villefranche,Anse,69480,,,1.96 €,1.97 €,4594300,471500
 69,Route d'Heyrieux,Saint-Pierre-de-Chandieu,69780,1.85 €,1.11 €,1.94 €,1.92 €,4564700,502500
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,1293 Route de Beaucaire (Ex.45 R.N. 86),LOIRE-SUR-RHôNE,69700,,,,2.00 €,4556000,481000
 69,236 avenue Franklin Roosevelt,Vaulx-en-Velin,69120,1.73 €,,,1.79 €,4574800,493100
 69,28 Route de Lyon,CHASSIEU,69680,1.77 €,,1.85 €,1.83 €,4573912,495738
-69,Le Pré de la Cloche,Belleville,69220,1.83 €,1.07 €,,1.91 €,4610400,474700
+69,Le Pré de la Cloche,Belleville,69220,1.80 €,1.07 €,,1.91 €,4610400,474700
 69,213 Rue Général de Gaulle,Brignais,69530,,,,1.89 €,4566800,475400
 69,Route de Villefranche,ANSE,69480,1.79 €,1.24 €,1.87 €,1.87 €,4594300,471500
 69,344 RUE GARIBALDI,LYON,69007,,,,1.97 €,4574714,485069
@@ -143,7 +143,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,La Croisette,Pontcharra-sur-Turdine,69490,1.76 €,,1.83 €,1.90 €,4587792,451130
 69,16 AV F ROOSEVELT,BRON,69500,1.77 €,,1.88 €,1.84 €,4573800,489400
 69,104 ROUTE DES MONTS DU LYONNAIS,MESSIMY,69510,,,,,4568491.808,466860.7
-69,AIRE PORTE DE LYON,DARDILLY,69570,1.80 €,1.18 €,1.88 €,1.84 €,4581300,475600
+69,AIRE PORTE DE LYON,DARDILLY,69570,1.80 €,1.36 €,1.88 €,1.84 €,4581300,475600
 69,boulevard du 11 Novembre 1918,Saint-Symphorien-sur-Coise,69590,,,1.70 €,1.79 €,4563046,445638
 69,A 47 - Aire de St Romain,GIVORS,69700,,,,,4558660.80022,475447.702801
 69,RN 6,Saint-Laurent-de-Mure,69720,1.78 €,,1.86 €,1.85 €,4569100,503600
@@ -161,8 +161,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,Z.i. la Gaité,Amplepuis,69550,1.80 €,,1.90 €,1.88 €,4598163,433531
 69,RN 86 - LES SEPT CHEMINS,Vourles,69390,1.90 €,,2.00 €,1.90 €,4566000,477500
 69,165 RUE JOLIOT CURIE,LYON 5EME,69005,,,1.95 €,1.94 €,4575400,477700
-69,142 Avenue Franklin Roosevelt,Bron,69500,1.87 €,1.22 €,,1.95 €,4573300,490800
 69,51 avenue Gabriel Péri,Corbas,69960,1.90 €,1.17 €,2.01 €,1.98 €,4567700,491900
+69,142 Avenue Franklin Roosevelt,Bron,69500,1.85 €,1.20 €,,1.92 €,4573300,490800
 69,2315 Route de Longsard,ARNAS,69400,,1.00 €,,1.90 €,4602500,470300
 69,131 Rue Joliot-Curie,LYON,69005,1.87 €,,1.97 €,1.87 €,4575400,477900
 69,26 Avenue Édouard Millaud,CRAPONNE,69290,1.80 €,,1.89 €,1.88 €,4574700,474100

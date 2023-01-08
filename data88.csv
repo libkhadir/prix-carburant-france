@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 88,RUE RAYMOND PANIN,Saulcy-sur-Meurthe,88580,1.91 €,,2.02 €,2.00 €,4825100,695700
 88,30 Rue de Remiremont,ÉPINAL,88000,1.90 €,,1.98 €,1.98 €,4816057,645091
 88,La Chaume,Saint-Étienne-lès-Remiremont,88200,1.77 €,,1.85 €,1.92 €,4801706,661526
-88,68 BOULEVARD KELSCH,GERARDMER,88400,1.83 €,,,1.93 €,4807500,688400
+88,68 BOULEVARD KELSCH,GERARDMER,88400,1.83 €,,1.90 €,1.93 €,4807500,688400
 88,27 rue d'Alsace,THAON-LES-VOSGES,88150,1.82 €,,1.89 €,1.96 €,4824593.64332,642277.452849
 88,500 ROUTE DE LEPANGES,Laval-sur-Vologne,88600,,,,1.96 €,4818800,668800
 88, Avenue Maréchal de Lattre de Tassigny,MIRECOURT,88500,1.83 €,,1.92 €,1.90 €,4829234,613127
@@ -50,8 +50,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 88,51 route de Remiremont,EPINAL,88000,1.87 €,,1.97 €,1.97 €,4816000,645100
 88,Aire de Lorraine Sandaucourt Trel,SANDAUCOURT,88170,2.03 €,,2.15 €,2.11 €,4826800,586100
 88,Rue du Docteur Henri Larue,Senones,88210,1.80 €,,,1.89 €,4839100,697200
-88,750 Rue Paul Melin Prolongé,Neufchâteau,88300,,,1.92 €,1.91 €,4836668,570118
 88,RN 57,SAINT-NABORD,88200,1.92 €,,,1.99 €,4807900,659500
+88,750 Rue Paul Melin Prolongé,Neufchâteau,88300,,,1.92 €,1.91 €,4836668,570118
 88,3 Rue de Gérardmer,BRUYèRES,88600,1.82 €,,1.89 €,1.91 €,4819900,672700
 88,Rue du Général de Gaulle,NEUFCHâTEAU,88300,1.83 €,,,1.94 €,4835098.73823,569258.857653
 88,Rue Abel Ferry,Bruyères,88600,1.82 €,1.07 €,,1.91 €,4820400,672300
