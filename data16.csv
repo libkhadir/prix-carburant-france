@@ -14,7 +14,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,RN10 Aire des Groies,Villegats,16700,2.11 €,0.99 €,2.18 €,2.09 €,4598546.3882983,20048.889066011
 16,43 PLACE DE LA CORDERIE,COGNAC,16100,1.94 €,1.14 €,2.05 €,1.98 €,4569309,-32722
 16,1 ROUTE DE SIGALAUD,Villebois-Lavalette,16320,1.77 €,1.00 €,1.80 €,1.78 €,4548200,27800
-16,Place de l'Hôtel de Ville,Montbron,16220,1.83 €,,,1.86 €,4566500,50100
+16,Place de l'Hôtel de Ville,Montbron,16220,1.84 €,,,1.90 €,4566500,50100
 16,ZA Les Montagnes Les Plantes Neuves,Champniers,16430,1.82 €,,,1.85 €,4568300,17900
 16,40 Avenue Général Leclerc,Jarnac,16200,,,,,4568095,-16268
 16,ZA DE CHASSAT,CHABANAIS,16150,1.84 €,0.83 €,1.88 €,1.90 €,4587800,72600
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,15 route des Boisdons,LINARS,16730,1.81 €,,1.87 €,1.87 €,4565500,8500
 16,122 Rue Nationale,Roumazières-Loubert,16270,1.82 €,1.07 €,1.87 €,1.89 €,4588434,57522
 16,Avenue du 8 Mai 1945,CONFOLENS,16500,1.82 €,1.07 €,1.87 €,1.89 €,4602100,65600
-16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.84 €,,1.79 €,1.87 €,4560000,-5500
+16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.84 €,,1.79 €,1.93 €,4560000,-5500
 16,Route de Mansle,Saint-Amant-de-Boixe,16330,1.79 €,,,1.87 €,4580400,14000
 16,Lieu-Dit Plaisance,BARBEZIEUX-SAINT-HILAIRE,16300,1.90 €,,2.01 €,1.90 €,4546000,-14300
 16,Avenue d'Ecosse,JARNAC,16200,1.79 €,,1.84 €,1.83 €,4569096.0364153,-17360.081481934
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,20 avenue des Saintes,Cognac,16100,1.80 €,,1.90 €,1.80 €,4569892.4520397,-34408.751817818
 16,Avenue du Professeur Girard,RUFFEC,16700,1.80 €,,1.85 €,1.85 €,4603115.60425,20408.8594397
 16,Rue Grange du Chapître,Mansle,16230,1.78 €,,1.88 €,1.81 €,4587400,18100
-16,LA FORET RTE DE PERIGUEUX,EDON,16320,1.81 €,,1.86 €,1.83 €,4548900,36300
+16,LA FORET RTE DE PERIGUEUX,EDON,16320,1.81 €,,1.86 €,1.86 €,4548900,36300
 16,2 Rue Arnaud Beltrame - ZA du pré de l'étang,Confolens,16500,1.82 €,1.07 €,1.87 €,1.89 €,4599971.8679102,67353.265612794
 16,22 Rue faubourg tête noire,LA ROCHEFOUCAULD,16110,,,1.99 €,2.00 €,4573600,38600
 16,RUE sapin vert,CHAMPAGNE-MOUTON,16350,1.81 €,,,1.88 €,4598900,40700
