@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 36,51 avenue de la République,Aigurande,36140,,,,1.98 €,4643700,182300
 36,1 Route de Vierzon,Reuilly,36260,,,1.91 €,1.91 €,4708294.3083663,204563.66937681
 36,RN 151,ISSOUDUN,36100,,,,2.02 €,4693800,194700
-36,aire du Val de l'Indre - autoroute A20,VELLES,36330,2.19 €,,2.31 €,2.18 €,4672400,160400
+36,aire du Val de l'Indre - autoroute A20,VELLES,36330,2.21 €,,2.33 €,2.21 €,4672400,160400
 36,Route de Chateauroux,VATAN,36150,,,1.95 €,1.95 €,4706879,180729
 36,ROUTE DE TOURS,Châtillon-sur-Indre,36700,1.94 €,,2.05 €,2.00 €,4699100,116700
 36,39 Avenue des Marins,Châteauroux,36000,,,1.98 €,1.94 €,4680978,168526
@@ -45,6 +45,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 36,18 rue des Ajoncs,LA CHâTRE,36400,1.86 €,1.07 €,1.93 €,1.88 €,4657400,197700
 36,59 Rue Haute Saint-Paterne,Issoudun,36100,,,1.93 €,1.92 €,4694210,198786
 36,Route de Tours,Saint-Maur,36250,1.87 €,1.16 €,1.97 €,1.91 €,4681800,166900
-36,RD 920,Déols,36130,1.89 €,1.16 €,1.97 €,1.92 €,4685027.3080948,170741.60371735
+36,RD 920,Déols,36130,1.89 €,1.16 €,,1.92 €,4685027.3080948,170741.60371735
 36, Route de Limoges,ARGENTON-SUR-CREUSE,36200,1.88 €,1.13 €,1.96 €,1.93 €,4657643,151152
 36,ROUTE DE VALENCAY,CHABRIS,36210,,,1.96 €,1.92 €,4724800,163800

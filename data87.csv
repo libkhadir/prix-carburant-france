@@ -56,7 +56,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,Avenue d'Oradour sur Glane,Saint-Junien,87200,1.84 €,1.05 €,1.91 €,1.85 €,4589600,91500
 87,37  route de la Gare,MAGNAC-BOURG,87380,1.84 €,1.07 €,1.90 €,1.90 €,4561900,143800
 87,14 Rue Georges BRIQUET,LIMOGES,87100,1.86 €,1.10 €,1.95 €,1.88 €,4584000,123500
-87,Faubourg de la Porte de Dinsac,LE DORAT,87210,1.85 €,,,1.88 €,4621632,108409
+87,Faubourg de la Porte de Dinsac,LE DORAT,87210,1.86 €,,,1.89 €,4621632,108409
 87,RN 20 - Croix du Breuil,Bessines-sur-Gartempe,87250,,,1.92 €,1.89 €,4613182,137253
 87,47  Avenue Winston Churchill,FEYTIAT,87220,2.01 €,,,2.02 €,4581270.9243144,133155.78994751
 87,Avenue de Périgueux,SAINT-YRIEIX-LA-PERCHE,87500,,,1.93 €,1.91 €,4550400,120100
@@ -71,12 +71,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,les betoulles,VERNEUIL SUR VIENNE,87430,,,1.95 €,1.89 €,4585575.5905985,114585.57262421
 87,60 rue de la lande,Oradour-sur-Glane,87520,,1.16 €,1.93 €,1.91 €,4593200,103400
 87,11 rue du commerce,SAINT HILAIRE BONNEVAL,87260,1.88 €,1.10 €,1.97 €,1.92 €,4571663.4,137491
-87,Rue du Mas Loubier,LIMOGES,87100,1.82 €,,1.93 €,1.89 €,4584100,125400
+87,Rue du Mas Loubier,LIMOGES,87100,,,,1.89 €,4584100,125400
 87,Avenue de Lorraine,Châteauponsac,87290,1.85 €,,,1.89 €,4613600,126800
 87,EYCOUVEAUX,Saint-Léonard-de-Noblat,87400,,,2.02 €,2.00 €,4586100,151500
 87,5 Avenue du Président Carnot,Panazol,87350,,,2.08 €,2.05 €,4583000,129700
 87,route de la meyze,Nexon,87800,1.86 €,1.10 €,1.94 €,1.90 €,4567929,118634
-87,Avenue de Limoges,Le Palais-sur-Vienne,87410,1.88 €,,1.95 €,1.90 €,4585600.17,130939.86
+87,Avenue de Limoges,Le Palais-sur-Vienne,87410,1.90 €,,1.98 €,1.90 €,4585600.17,130939.86
 87,Av. Nelson Mandela,SAINT-JUNIEN,87200,1.84 €,1.05 €,1.87 €,1.85 €,4589700,92000
 87,129 rue des Tuilières,Limoges,87100,1.79 €,,1.88 €,1.85 €,4585100,125300
 87,62  Avenue Jean Jaurès,Châlus,87230,,,2.08 €,2.03 €,4566100,98600

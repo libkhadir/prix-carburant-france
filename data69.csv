@@ -2,8 +2,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,1880 route de strasbourg,Rillieux-la-Pape,69140,1.94 €,,2.05 €,2.00 €,4581300,488800
 69,Route d'Heyrieux,Saint-Pierre-de-Chandieu,69780,1.79 €,1.11 €,1.85 €,1.84 €,4564700,502500
 69,244  Chemin Rivière de la Cour,Le Bois-d'Oingt,69620,1.85 €,,,1.92 €,4592200,458000
-69,69 AVENUE DU 25EME RTS,Lyon,69009,1.85 €,,1.93 €,1.91 €,4578100,480100
-69,Rue du Chateau d'Yvours,Irigny,69540,,,1.83 €,1.89 €,4568800,482500
+69,69 AVENUE DU 25EME RTS,Lyon,69009,1.86 €,,1.95 €,1.91 €,4578100,480100
+69,Rue du Chateau d'Yvours,Irigny,69540,,,1.93 €,1.89 €,4568800,482500
 69,633 route de villefranche,Anse,69480,,,1.96 €,1.97 €,4594300,471500
 69,1 Rue de la république,Quincieux,69650,1.94 €,,2.05 €,1.99 €,4591700,477500
 69,LA CHEVALIERE,Beaujeu,69430,1.93 €,,1.97 €,1.99 €,4614600,459900
@@ -102,7 +102,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,LIEU DIT LA FEUILLETIERE,Lamure-sur-Azergues,69870,1.82 €,,1.90 €,1.88 €,4603500,449500
 69,Place Maréchal Foch - Montée des soldats,Caluire-et-Cuire,69300,1.94 €,,2.05 €,2.00 €,4579700,485200
 69,261 Quai Pierre Dupont,Rochetaillée-sur-Saône,69270,1.82 €,,1.90 €,1.88 €,4584300,483500
-69,AV. DU GENERAL DE GAULLE - D 30,Champagne-au-Mont-d'Or,69410,1.83 €,1.16 €,,1.90 €,4580097.685,478668.288
+69,AV. DU GENERAL DE GAULLE - D 30,Champagne-au-Mont-d'Or,69410,1.83 €,1.16 €,1.92 €,1.90 €,4580097.685,478668.288
 69,890 rue centrale,LAMURE-SUR-AZERGUES,69870,1.93 €,,,2.00 €,4606000,449000
 69,131 RUE MARIUS BERLIET,LYON,69008,1.83 €,1.16 €,1.93 €,1.88 €,4573700,486900
 69,100 AVENUE BARTHELEMY BUYER,LYON,69009,1.84 €,,1.93 €,1.91 €,4576200,480300
@@ -120,7 +120,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,141 Boulevard Émile Zola,Oullins,69600,1.84 €,,1.90 €,1.89 €,4572100,479500
 69,22 Rue Philippe de Lassalle,Lyon,69004,1.87 €,,1.95 €,1.92 €,4577600,482100
 69,283 RTE DE GENAS,VILLEURBANNE,69100,,,,,4574977,491257
-69,Avenue du Bon Pasteur,ÉCULLY,69130,1.82 €,1.16 €,1.91 €,1.88 €,4578700,477700
+69,Avenue du Bon Pasteur,ÉCULLY,69130,1.84 €,1.16 €,1.91 €,1.89 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.87 €,,1.95 €,1.90 €,4577900,477900
 69,110 BD DU 11 NOVEMBRE 1918,VILLEURBANNE,69100,1.96 €,,2.10 €,2.01 €,4577900,487100
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.99 €,1.23 €,,2.00 €,4570300,485000
@@ -135,7 +135,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,145 Boulevard de l'Europe,Pierre-Bénite,69310,1.95 €,,2.03 €,2.01 €,4569600,482600
 69,66 RUE STEPHANE DECHANT,LA MULATIERE,69350,1.95 €,,,2.00 €,4572600,481500
 69,42 Avenue du Chater,Francheville,69340,1.86 €,,1.94 €,1.91 €,4574400,477100
-69,705 Rue d'Anse,Villefranche-sur-Saône,69400,1.86 €,,1.94 €,1.90 €,4597900,471800
+69,705 Rue d'Anse,Villefranche-sur-Saône,69400,1.87 €,,1.95 €,1.90 €,4597900,471800
 69,145 Boulevard Roger Salengro,Villefranche-sur-Saône,69400,1.86 €,,1.94 €,1.90 €,4599800,471600
 69,3 AVE GENERAL DE GAULLE,CHAMPAGNE-AU-MONT-D'OR,69410,1.92 €,,2.00 €,1.93 €,4580042.47,478673.23
 69,La Croisette,Pontcharra-sur-Turdine,69490,1.76 €,,1.95 €,1.93 €,4587792,451130

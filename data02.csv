@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,3 Avenue Raymonde Fiolet,Soissons,02200,1.89 €,1.14 €,1.94 €,1.90 €,4936994,331490
 02,RD 338,Viry-Noureuil,02300,1.87 €,,1.94 €,1.93 €,4964287,325950
 02,3 Rue Pierre Curtil,Guignicourt,02190,,,1.93 €,1.90 €,4943503.6675202,396689.49241097
-02,13 Avenue Jules Lefèbvre,Château-Thierry,02400,1.92 €,,1.95 €,2.00 €,4904318,339518
+02,13 Avenue Jules Lefèbvre,Château-Thierry,02400,2.00 €,,2.05 €,2.05 €,4904318,339518
 02,Boulevard de l'Europe,Chauny,02300,,1.07 €,1.93 €,1.93 €,4962645,321575
 02,2 RUE Jese RACINE,Neuilly-Saint-Front,02470,1.93 €,,2.03 €,1.91 €,4916907.5292229,325656.64478851
 02,231rd rue du general leclerc,Villers-Cotterêts,02600,,1.18 €,1.98 €,1.95 €,4925554.73077,308030.58224433
@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,89 Grand Rue,Dizy-le-Gros,02340,1.91 €,,,1.91 €,4963000,402500
 02,74 Rue Blondel,RIBEMONT,02240,1.82 €,1.07 €,,1.89 €,4980095,346696
 02,98 rue Alexandre Dumas,SAINT-QUENTIN,02100,1.87 €,1.11 €,1.95 €,1.90 €,4984800,327200
-02,Avenue de Compiègne,MERCIN-ET-VAUX,02200,,,1.93 €,1.91 €,4938127,330822
+02,Avenue de Compiègne,MERCIN-ET-VAUX,02200,,,1.94 €,1.91 €,4938127,330822
 02,39 Rue de Picardie,Bellicourt,02420,,,,2.09 €,4996029,323160
 02,route d'Amiens,St Quentin,02100,1.86 €,0.97 €,1.94 €,1.90 €,4985800,325300
 02,Avenue de la Ferté Milon,VILLERS-COTTERêTS,02600,1.93 €,1.14 €,,1.90 €,4924024.48976,309786.545365
@@ -48,10 +48,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,12 Rue Nationale,Buironfosse,02620,1.90 €,,,1.91 €,4996060.36,382380.07
 02,97 Avenue Charles de Gaulle,Laon,02000,1.95 €,,2.06 €,1.98 €,4956900,364600
 02,AVENUE DE LA GARE,Ressons-le-Long,02290,1.87 €,1.07 €,1.95 €,1.91 €,4939680.7142795,311562.94899994
-02,46 Avenue Faidherbe,Saint-Quentin,02100,1.89 €,,1.97 €,1.91 €,4984400,327900
+02,46 Avenue Faidherbe,Saint-Quentin,02100,1.89 €,,1.97 €,1.94 €,4984400,327900
 02,16 Boulevard Pierre Brossolette,Laon,02000,1.88 €,1.18 €,1.96 €,1.91 €,4957000,362100
 02,18 route de Thiernu,Marle,02250,1.96 €,,2.07 €,2.00 €,4975000,377200
-02,9 ET 11 RUE DE VILLENEUVE,SOISSONS,02200,1.87 €,,1.95 €,,4937100,334100
+02,9 ET 11 RUE DE VILLENEUVE,SOISSONS,02200,1.87 €,1.14 €,1.95 €,1.91 €,4937100,334100
 02,D1 - LIEU DIT LE PRE MONTRE,Crécy-au-Mont,02380,1.87 €,1.15 €,1.96 €,1.91 €,4948900,333600
 02,ZI l'Ecorcherie,La Ferté-Milon,02460,,,,,4918562,312480
 02,Route de Guise,HARLY,02100,1.85 €,1.07 €,1.94 €,1.89 €,4984272.807,332345.007

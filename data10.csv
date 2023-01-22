@@ -32,7 +32,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,Rue Jean Moulin,VILLENAUXE-LA-GRANDE,10370,1.86 €,,,1.91 €,4858500,356100
 10,47 Route de Bray,Nogent-sur-Seine,10400,1.85 €,,1.91 €,1.90 €,4848593,349118
 10,RD 619,BARBEREY,10600,1.89 €,,1.96 €,1.93 €,4833600,401900
-10,17  BLD GEORGES POMPIDOU,TROYES,10000,1.91 €,1.14 €,1.97 €,1.92 €,4828800,408000
+10,17  BLD GEORGES POMPIDOU,TROYES,10000,1.91 €,1.14 €,1.98 €,1.93 €,4828800,408000
 10,ZAC de Creney,PONT-SAINTE-MARIE,10150,1.88 €,1.07 €,1.98 €,1.90 €,4832753.003,411267.96
 10,Avenue Charles de Refuge,Saint-André-les-Vergers,10120,1.89 €,1.16 €,1.95 €,1.92 €,4828900,406500
 10,184 Route Nationale 77 - Chevillele,Saint-Germain,10120,1.99 €,,2.10 €,2.01 €,4824100,402200
@@ -41,8 +41,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,103 avenue du Général de Gaulle,SAINT PARRES AUX TERTRES,10410,1.88 €,1.09 €,1.98 €,1.90 €,4829795.1133716,413363.64178579
 10,Faubourg de Belfort,Bar-sur-Aube,10200,,,2.07 €,1.98 €,4822900,471700
 10,Faubourg de Champagne,FOUCHERES,10260,1.94 €,,2.06 €,2.03 €,4815000,426200
-10,5 Rue Roger Salengro,Pont-Sainte-Marie,10150,1.91 €,,1.99 €,1.92 €,4831100,409700
-10,210 Rue du Faubourg Croncels,Troyes,10000,1.91 €,,1.99 €,1.92 €,4828300,407900
+10,5 Rue Roger Salengro,Pont-Sainte-Marie,10150,1.91 €,,1.99 €,1.93 €,4831100,409700
+10,210 Rue du Faubourg Croncels,Troyes,10000,1.91 €,,1.99 €,1.93 €,4828300,407900
 10,9 RUE DE BRIENNE,ARCIS-SUR-AUBE,10700,1.95 €,,2.06 €,2.00 €,4853600,414500
 10,70 Rue Aristide Briand,Romilly-sur-Seine,10100,1.91 €,,1.99 €,1.92 €,4851200,372000
 10,114 route d auxerre,Saint André les vergers,10120,1.90 €,1.10 €,1.99 €,1.93 €,4828000,404100
