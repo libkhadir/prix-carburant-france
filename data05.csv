@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 05,RN 94 Lieu-dit Pont la Lame,Saint-Martin-de-Queyrières,05120,1.85 €,,,1.93 €,4485300,658200
-05,RN 94,Montgenèvre,05100,1.85 €,0.95 €,1.94 €,1.93 €,4493400,673300
+05,RN 94,Montgenèvre,05100,,,,,4493400,673300
 05,RN 94 LES FAURIES  RN94,La Bâtie-Neuve,05230,,,,1.98 €,4456700,619500
 05,ZONE COMMERCIALE,BARATIER,05200,,,,,4454600,648100
 05,RN 94 LA GRANDE ILE,CHORGES,05230,1.86 €,1.13 €,1.95 €,1.91 €,4455200,625600
@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 05,Zone d'Entraigues,Embrun,05200,1.86 €,1.12 €,1.95 €,1.91 €,4455100,648900
 05,AV. DU DAUPHINE,BRIANCON,05100,1.89 €,1.15 €,2.00 €,2.00 €,4490371.8328594,662908.58578086
 05,LE MOULIN BARON,La Salle-les-Alpes,05240,,,1.79 €,1.79 €,4494189.9208022,656904.94359658
-05,RD 1091 Lieu-dit Pré-Bagnols,Le Monêtier-les-Bains,05220,1.85 €,,,1.93 €,4497200,651900
+05,RD 1091 Lieu-dit Pré-Bagnols,Le Monêtier-les-Bains,05220,,,,,4497200,651900
 05,RN 547,Château-ville-vieille,05350,,,1.99 €,2.19 €,4475919.68,680774.96
 05,Avenue de Provence,Tallard,05130,,,,,4445828,605000
 05,ROUTE NATIONALE,Saint-Clément-sur-Durance,05600,,,,,4465175.6108158,658731.62517587

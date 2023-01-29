@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 49,26 rue Valentin des Ormeaux,MûRS-ERIGNé,49610,1.88 €,1.10 €,1.99 €,1.91 €,4739700,-52900
 49,38 Avenue de Nantes,LA SéGUINIèRE,49280,1.96 €,,2.07 €,2.00 €,4706000,-94100
 49,ZI EcoparcSaint Lambert des Levées,SAUMUR,49400,1.85 €,1.07 €,1.95 €,1.90 €,4727700,-7500
-49,30 rue des chevalliers de malte,Villedieu-la-Blouère,49450,,,1.95 €,1.89 €,4715263,-105815
+49,30 rue des chevalliers de malte,Villedieu-la-Blouère,49450,,,1.95 €,,4715263,-105815
 49,5 RUE DE LA GRAND PREE,POUANCE, OMBREE D'ANJOU,49420,1.85 €,1.09 €,,1.89 €,4774300,-116600
 49,PARC D'ACTIVITE DES FONTENELLES,Brissac-Quincé,49320,1.88 €,,1.99 €,1.91 €,4734100,-43200
 49,Rue des maisons rouges,LES PONTS-DE-Cé,49130,1.88 €,,,1.91 €,4743700,-51400
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 49,ROUTE DE VERNANTES,Vernoil-le-Fourrier,49390,1.86 €,,1.96 €,1.90 €,4739000,7000
 49,PARC D ACTIVITE DES 3 ROUTES,CHEMILLE,49120,1.87 €,1.13 €,1.97 €,1.91 €,4723500,-72300
 49,PLACE DE LA PAIX,La Tessoualle,49280,,,1.92 €,1.90 €,4700500,-85100
-49,zi de la chevallerie,Saint-Florent-le-Vieil,49410,1.83 €,,1.93 €,1.87 €,4735900,-101600
+49,zi de la chevallerie,Saint-Florent-le-Vieil,49410,1.87 €,,1.97 €,1.91 €,4735900,-101600
 49,BOULEVARD DE TOURAINE ZIL,CHOLET,49300,1.88 €,1.15 €,1.96 €,1.91 €,4707185.51328,-85676.8078224
 49,220 AVENUE MENDES FRANCE,Trélazé,49800,1.87 €,1.10 €,1.98 €,1.91 €,4744900,-50500
 49,BD CHARLES BARANGE,ANGERS,49000,1.89 €,1.13 €,1.96 €,1.91 €,4745600,-57100

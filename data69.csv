@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,1880 route de strasbourg,Rillieux-la-Pape,69140,1.96 €,,2.07 €,2.01 €,4581300,488800
 69,244  Chemin Rivière de la Cour,Le Bois-d'Oingt,69620,1.87 €,,,1.91 €,4592200,458000
 69,69 AVENUE DU 25EME RTS,Lyon,69009,1.87 €,,1.95 €,1.92 €,4578100,480100
-69,Rue du Chateau d'Yvours,Irigny,69540,,,1.98 €,1.95 €,4568800,482500
+69,Rue du Chateau d'Yvours,Irigny,69540,,,,,4568800,482500
 69,10 Chemin Jean Petit,Caluire-et-Cuire,69300,1.86 €,,1.95 €,1.91 €,4580500,485900
 69,633 route de villefranche,Anse,69480,,,2.04 €,1.99 €,4594300,471500
 69,1 Rue de la république,Quincieux,69650,1.97 €,,2.08 €,2.01 €,4591700,477500
@@ -88,7 +88,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,126 BOULEVARD DE L EUROPE,Pierre-Bénite,69310,1.97 €,1.17 €,2.08 €,2.02 €,4569935,482364
 69,641 route de Givors,Vernaison,69390,1.89 €,1.15 €,1.96 €,1.92 €,4564200,481000
 69,913 route du beaujolais,Blacé,69460,1.97 €,1.32 €,2.05 €,2.00 €,4604400,467300
-69,les plaines,Saint-Laurent-d'Oingt,69620,1.96 €,,1.99 €,2.00 €,4594400,456600
+69,les plaines,Saint-Laurent-d'Oingt,69620,1.96 €,,1.99 €,2.04 €,4594400,456600
 69,3710 ROUTE DE SAINT VINCENT,Quincié-en-Beaujolais,69430,,1.22 €,1.94 €,2.06 €,4613965.793122,460822.098476
 69,Route de Roanne,Amplepuis,69550,1.88 €,1.07 €,1.96 €,1.95 €,4597868,432020
 69,ZAC Bellevue,SOUZY,69610,,1.07 €,1.95 €,1.95 €,4569970.87496,445586.71352
@@ -128,7 +128,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,50 Avenue du 11 Novembre 1918,Tassin-la-Demi-Lune,69160,1.87 €,1.19 €,1.95 €,1.92 €,4576400,475900
 69,112 Boulevard Irène Joliot-Curie,Vénissieux,69200,1.86 €,,1.94 €,1.90 €,4571000,488300
 69,61 Avenue de la République,VéNISSIEUX,69200,1.95 €,,2.09 €,2.00 €,4570543,487794
-69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.86 €,1.33 €,1.94 €,1.91 €,4581200,460100
+69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.88 €,1.33 €,1.96 €,1.91 €,4581200,460100
 69,Route de Lyon,Fleurieu-sur-Saône,69250,1.97 €,,2.07 €,1.97 €,4585511.0976539,483986.80314607
 69,15 Avenue Édouard Millaud,Craponne,69290,1.87 €,,1.95 €,1.93 €,4574700,474100
 69,49 Avenue de Verdun,Meyzieu,69330,1.87 €,,1.96 €,1.93 €,4577600,499100
@@ -166,7 +166,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,26 Avenue Édouard Millaud,CRAPONNE,69290,1.87 €,,1.95 €,1.92 €,4574700,474100
 69,Route de Roanne ,BOURG-DE-THIZY,69240,1.88 €,,,1.95 €,4603486,429911
 69,129 Rue de la Mûre,CHARLY,69390,,,,2.10 €,4565400,479300
-69,BP 132,LYON ST EXUPERY AEROPORT,69125,2.00 €,1.15 €,2.11 €,2.06 €,4572329,507109
+69,BP 132,LYON ST EXUPERY AEROPORT,69125,,1.15 €,2.11 €,2.06 €,4572329,507109
 69,AVENUE DU CHATER,FRANCHEVILLE,69340,1.85 €,,1.90 €,1.90 €,4573500,477500
 69,44 Route de Genas,CHASSIEU,69680,,,1.91 €,1.89 €,4573704,497295
 69,50-51 ROUTE DE PARIS,CHARBONNIERES,69260,1.99 €,,2.09 €,2.00 €,4578400,475000
