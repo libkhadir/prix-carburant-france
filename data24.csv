@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Route de Mussidan,RIBéRAC,24600,1.88 €,1.07 €,1.93 €,1.87 €,4523800,34800
 24,18/20 Cours Fénelon,PERIGUEUX,24000,1.87 €,,1.97 €,1.82 €,4518200,72100
 24,ROUTE DE BORDEAUX,Neuvic,24190,,,1.88 €,1.81 €,4509700,47500
-24,192 Route de Lyon,Boulazac,24750,,,1.96 €,1.81 €,4518000,74600
+24,192 Route de Lyon,Boulazac,24750,,,1.96 €,,4518000,74600
 24,54 avenue Michel Grandou,Trélissac,24750,1.93 €,,,1.91 €,4519000,73600
 24,GAILLARDOU,LA ROQUE GAGEAC,24250,2.00 €,,,2.00 €,4481400,121200
 24,le bourg sud,prigonrieux,24130,,1.18 €,2.00 €,1.94 €,4485368.8478137,40039.274488292
@@ -40,7 +40,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Le Mayne,Saint-Martial-d'Albarède,24160,1.90 €,,2.00 €,1.89 €,4533308,104339
 24,Lieu dit chez Noillac,Vieux-Mareuil,24340,,,1.96 €,1.96 €,4544700,46700
 24,16  Rue des Fleurs,Chancelade,24650,1.88 €,,1.97 €,1.88 €,4520000,66800
-24,1 place mianne,Le Buisson-de-Cadouin,24480,,,2.10 €,2.03 €,4484600,91100
+24,1 place mianne,Le Buisson-de-Cadouin,24480,,,2.10 €,2.02 €,4484600,91100
 24,Route de Sainte Alvère,BERGERAC,24100,,,1.98 €,1.92 €,4485335.52754,51377.9259572
 24,2161 ROUTE DE LA VALLEE,Tursac,24620,,,,2.03 €,4497000,104400
 24,5 Avenue du Commandant Pinson,LA FORCE,24130,,,1.99 €,1.94 €,4487000,37700

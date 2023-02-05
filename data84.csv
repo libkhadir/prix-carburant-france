@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.84 €,1.10 €,1.91 €,1.82 €,4400918,505110
 84,2 Rond Point des Remparts,MALAUCENE,84340,,,2.03 €,1.98 €,4417600,512900
 84,1661 RTE DE SORGUES - RN 7,LE PONTET,84130,1.92 €,1.17 €,2.03 €,1.90 €,4397800,485800
-84,264 Avenue de Cheval Blanc,CAVAILLON,84300,1.83 €,,1.93 €,1.80 €,4383100,505400
+84,264 Avenue de Cheval Blanc,CAVAILLON,84300,1.83 €,,1.93 €,,4383100,505400
 84,Route de Carpentras,L'ISLE-SUR-LA-SORGUE,84800,1.85 €,1.10 €,1.92 €,1.83 €,4393100,506400
 84,417 bis avenue du Mont Ventoux,Carpentras,84200,,1.40 €,,1.97 €,4405700,505800
 84,778 Route d'Avignon,Châteauneuf-de-Gadagne,84470,1.92 €,,1.99 €,1.94 €,4392849,493805
@@ -102,7 +102,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,286 Avenue Charles de Gaulle,ORANGE,84100,1.87 €,1.10 €,1.95 €,1.92 €,4413600,480100
 84,AVENUE VICTOR HUGO,Vaison-la-Romaine,84110,1.81 €,1.10 €,1.93 €,1.79 €,4424200,507900
 84,ROUTE DE BEDOIN,Saint-Pierre-de-Vassols,84330,1.86 €,,1.95 €,1.88 €,4409679.8967498,514097.51479881
-84,Route de Nyons,Valréas,84600,1.83 €,1.06 €,1.93 €,1.85 €,4438600,500700
+84,Route de Nyons,Valréas,84600,1.83 €,1.06 €,1.94 €,1.85 €,4438600,500700
 84,Avenue lançon,Apt,84400,1.84 €,,1.92 €,1.85 €,4388436.6,537959.7
 84,avenue Majoral Jouve,aubignan,84810,1.90 €,,,1.93 €,4409204.53,502966.13
 84,82 CHEMIN DES ESPELUGUES,L'Isle-sur-la-Sorgue,84800,1.85 €,1.10 €,1.92 €,1.83 €,4392500,506300
