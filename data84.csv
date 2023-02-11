@@ -6,9 +6,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,130 allée Roch Pape,CAVAILLON,84300,1.82 €,1.10 €,1.90 €,1.78 €,4382900,503500
 84,2 Boulevard d'Avignon,Monteux,84170,1.89 €,1.25 €,1.97 €,1.84 €,4403300,499500
 84,Aire de Mornas Village - Autoroute A7 - Sens Lyon Marseille,Mornas,84550,2.09 €,1.26 €,2.20 €,2.05 €,4419451.5836,473119.14934517
-84,1560 route de Saint Saturnin,Le Pontet,84130,1.89 €,,1.95 €,1.94 €,4395300,487900
+84,1560 route de Saint Saturnin,Le Pontet,84130,1.87 €,,1.93 €,1.90 €,4395300,487900
 84,80 chemin de la Lègue,Carpentras,84200,1.85 €,1.10 €,1.89 €,1.80 €,4405500,505400
-84,Autoroute A7,Sorgues,84700,2.09 €,1.34 €,2.19 €,2.06 €,4402300,489000
+84,Autoroute A7,Sorgues,84700,2.08 €,1.31 €,2.18 €,2.06 €,4402300,489000
 84,65 route de Gadagne,Caumont-sur-Durance,84510,1.86 €,,,1.86 €,4390600,494800
 84,28 Chemin du Clos Neuf,Morières-lès-Avignon,84310,1.82 €,1.10 €,1.90 €,1.80 €,4394345,490789
 84,180 AVENUE DE LA LIBERATION,Le Thor,84250,,,2.03 €,2.08 €,4392743.59,499879.12
@@ -47,7 +47,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,7 Avenue René Cassin,MONTEUX,84170,1.92 €,1.29 €,1.99 €,1.85 €,4403500,500300
 84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,1.92 €,,2.03 €,1.89 €,4372100,554200
 84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.80 €,1.10 €,,1.78 €,4432200,474500
-84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.80 €,1.10 €,1.86 €,1.74 €,4400918,505110
+84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.83 €,1.10 €,1.89 €,1.80 €,4400918,505110
 84,2 Rond Point des Remparts,MALAUCENE,84340,,,2.01 €,1.89 €,4417600,512900
 84,1661 RTE DE SORGUES - RN 7,LE PONTET,84130,1.91 €,1.10 €,2.02 €,1.88 €,4397800,485800
 84,264 Avenue de Cheval Blanc,CAVAILLON,84300,1.82 €,,1.90 €,1.78 €,4383100,505400
@@ -87,8 +87,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,QUARTIER DE MOUGNE,Sault,84390,1.85 €,1.10 €,1.94 €,1.85 €,4410150,541452
 84,Avenue du Tourail,Maubec,84660,1.84 €,1.10 €,1.90 €,1.80 €,4386696,514881.99999999
 84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.80 €,,1.89 €,1.78 €,4392800,478900
-84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.84 €,,1.91 €,1.82 €,4415676,487061
-84,Route d'orange,Mornas,84550,1.88 €,,,1.89 €,4419700,473700
+84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.83 €,,1.95 €,1.81 €,4415676,487061
+84,Route d'orange,Mornas,84550,1.84 €,,,1.79 €,4419700,473700
 84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,1.81 €,1.10 €,1.92 €,1.79 €,4393200,478300
 84, Route de Cavaillon,MAUBEC,84660,,,1.97 €,1.99 €,4386584,514004
 84,route de carpentras,BEAUMES-DE-VENISE,84190,1.96 €,1.29 €,2.02 €,1.92 €,4411600,501600
