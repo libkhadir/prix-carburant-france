@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,16 Boulevard Saint-Michel,AVIGNON,84000,1.89 €,1.15 €,,1.85 €,4394300,481100
 84,AVENUE DE L AMANDIER,AVIGNON,84000,1.82 €,,1.91 €,1.80 €,4393515,484825
 84,7 Avenue René Cassin,MONTEUX,84170,1.92 €,1.29 €,1.99 €,1.85 €,4403500,500300
-84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,1.92 €,,2.03 €,1.89 €,4372100,554200
+84,428 Boulevard St Roch,LA TOUR-D'AIGUES,84240,1.92 €,,2.03 €,,4372100,554200
 84,Route de Saint-Paul-Trois-Chateaux,BOLLèNE,84500,1.80 €,1.10 €,,1.78 €,4432200,474500
 84,680 Route de la Buissonne,PERNES-LES-FONTAINES,84210,1.83 €,1.10 €,1.89 €,1.80 €,4400918,505110
 84,2 Rond Point des Remparts,MALAUCENE,84340,,,2.01 €,1.89 €,4417600,512900
@@ -103,7 +103,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,AVENUE VICTOR HUGO,Vaison-la-Romaine,84110,1.80 €,1.10 €,1.92 €,1.77 €,4424200,507900
 84,ROUTE DE BEDOIN,Saint-Pierre-de-Vassols,84330,1.83 €,,1.94 €,1.81 €,4409679.8967498,514097.51479881
 84,Route de Nyons,Valréas,84600,1.79 €,1.09 €,1.93 €,1.79 €,4438600,500700
-84,avenue Majoral Jouve,aubignan,84810,1.90 €,,,1.82 €,4409204.53,502966.13
+84,avenue Majoral Jouve,aubignan,84810,1.90 €,,,1.85 €,4409204.53,502966.13
 84,Avenue lançon,Apt,84400,1.83 €,,1.90 €,1.82 €,4388436.6,537959.7
 84,82 CHEMIN DES ESPELUGUES,L'Isle-sur-la-Sorgue,84800,1.84 €,1.10 €,1.90 €,1.80 €,4392500,506300
 84,256 Rue jean et rené Rainaudo - CLOS DE REALPANIER,Le Pontet,84130,1.84 €,,1.92 €,1.93 €,4395100,485900
