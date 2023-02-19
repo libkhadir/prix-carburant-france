@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 11,928  Boulevard Général de Gaulle,PORT-LA-NOUVELLE,11210,1.88 €,1.09 €,1.93 €,1.81 €,4301500,305000
 11,88 Avenue Monseigneur de Langle,Castelnaudary,11400,,1.31 €,2.08 €,1.92 €,4331300,196500
 11,69  avenue de Narbonne,SAINT-LAURENT-DE-LA-CABRERISSE,11220,,,2.01 €,1.91 €,4308700,270300
-11,23 AVENUE CAMILLE BOUCHE,Limoux,11300,1.88 €,1.19 €,1.96 €,1.82 €,4305900,221400
+11,23 AVENUE CAMILLE BOUCHE,Limoux,11300,1.88 €,1.19 €,1.96 €,1.81 €,4305900,221400
 11,RN 113,TRèBES,11800,1.88 €,1.10 €,1.94 €,1.82 €,4320300,244300
 11,ROUTE DE CARCASSONNE,Castelnaudary,11400,1.95 €,1.13 €,2.06 €,1.91 €,4331100,197100
 11,Avenue du Souvenir Français,CARCASSONNE,11000,,,,,4320900,238300
@@ -84,5 +84,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 11,199 avenue de Bordeaux,NARBONNE,11100,1.85 €,,1.92 €,1.79 €,4318077.8,296968.3
 11,Rue Claude Chappe,Carcassonne,11000,1.87 €,,1.95 €,1.81 €,4321200,232500
 11,Place du Portail,Sallèles-d'Aude,11590,,,1.95 €,1.88 €,4325654,294731
-11,Rue de L'Estagnol,LéZIGNAN-CORBIèRES,11200,1.87 €,1.10 €,,1.77 €,4318700,275100
+11,Rue de L'Estagnol,LéZIGNAN-CORBIèRES,11200,1.87 €,1.10 €,,1.79 €,4318700,275100
 11,2 avenue du Souvenir Français,Carcassonne,11000,1.86 €,,1.95 €,1.81 €,4320900,238100

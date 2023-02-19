@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,34 Route de Troyes,CHAOURCE,10210,,,1.97 €,1.82 €,4806585,414076
 10,208 Route d'Auxerre,ROSIèRES-PRèS-TROYES,10430,1.94 €,,2.00 €,2.00 €,4826200,403700
 10,RUE SALENGRO,Marigny-le-Châtel,10350,1.88 €,,1.95 €,1.82 €,4840600,373800
-10,1 ROUTE DE MAISONS BLANCHES,Buchères,10800,1.87 €,,2.00 €,1.84 €,4823700,410900
+10,1 ROUTE DE MAISONS BLANCHES,Buchères,10800,1.85 €,,1.98 €,1.80 €,4823700,410900
 10,3 Rue de la Mission,TROYES,10000,1.84 €,,1.92 €,1.82 €,4828855,407571
 10,57 avenue du Général Leclerc,Bar-sur-Aube,10200,,,,1.93 €,4823900,469900
 10,321 rue des Carrés,AUXON,10130,1.94 €,1.10 €,2.00 €,1.90 €,4811000,392100
@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,5 Rue Roger Salengro,Pont-Sainte-Marie,10150,1.89 €,,1.97 €,1.81 €,4831100,409700
 10,210 Rue du Faubourg Croncels,Troyes,10000,1.89 €,,1.97 €,1.81 €,4828300,407900
 10,9 RUE DE BRIENNE,ARCIS-SUR-AUBE,10700,1.93 €,,2.04 €,1.88 €,4853600,414500
-10,70 Rue Aristide Briand,Romilly-sur-Seine,10100,1.88 €,,1.96 €,1.82 €,4851200,372000
+10,70 Rue Aristide Briand,Romilly-sur-Seine,10100,1.88 €,,1.96 €,1.84 €,4851200,372000
 10,114 route d auxerre,Saint André les vergers,10120,1.89 €,1.13 €,1.97 €,1.85 €,4828000,404100
 10,9 rue de la Marrière,Lusigny-sur-Barse,10270,1.85 €,1.08 €,1.93 €,1.80 €,4826197.4565456,424944.07466826
 10,RD185 LES GRANDES FOSSES,VAUDES,10260,,,1.99 €,1.92 €,4818100,418900

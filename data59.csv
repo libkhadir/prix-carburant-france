@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 59,RD 93 GRANDE RUE,Camphin-en-Pévèle,59780,1.85 €,1.05 €,1.94 €,1.83 €,5059477.455,325781.84717474
 59,RUE EMILE ZOLA,Abscon,59215,1.91 €,,1.97 €,1.90 €,5033600,330300
-59,818 Rue du Maréchal Leclerc,JEUMONT,59460,1.83 €,1.10 €,1.89 €,1.78 €,5030900,408900
 59,Boulevard des Résistants,LANDRECIES,59550,,,1.91 €,1.81 €,5012400,368900
+59,818 Rue du Maréchal Leclerc,JEUMONT,59460,1.83 €,1.10 €,1.89 €,1.78 €,5030900,408900
 59,RN 352,HAUBOURDIN,59320,1.86 €,,1.94 €,1.80 €,5062600,296700
 59,Avenue de l'Ancien Village,GRANDE-SYNTHE,59760,1.86 €,,1.94 €,1.80 €,5101100,229300
 59,769 avenue Albert Mahieu,Cassel,59670,,,1.92 €,1.86 €,5079772.2204962,249356.18899882
@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 59,Rue Jacquard,COUDEKERQUE-BRANCHE,59210,1.84 €,,1.93 €,1.79 €,5101600,238200
 59,route de Trélon,AVESNELLES,59440,1.88 €,,1.96 €,1.84 €,5011800,394500
 59,36 AV DE ST AMAND,VALENCIENNES,59300,1.96 €,,2.06 €,1.91 €,5036635.54,351291.88
-59,2  RUE DE CAUDRY,CAMBRAI,59400,1.96 €,,2.07 €,1.90 €,5016700,323800
+59,2  RUE DE CAUDRY,CAMBRAI,59400,1.96 €,1.11 €,2.07 €,1.90 €,5016700,323800
 59,18 rue jules guesde,VILLENEUVE-D'ASCQ,59650,1.85 €,1.11 €,1.94 €,1.81 €,5063600,312200
 59,Boulevard d'Halluin,RONCQ,59223,1.88 €,1.06 €,1.95 €,1.82 €,5074000,313900
 59,Rue de la Gare,CAUDRY,59540,1.82 €,1.10 €,,1.78 €,5011200,341000
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 59,Boulevard du 19 Mars 1962,CAUDRY,59540,,,,1.90 €,5011300,341600
 59,57 Faubourg de France,Landrecies,59550,2.00 €,,2.07 €,1.93 €,5011864,370226
 59,C.C. AUCHAN - LIEU-DIT MOULIN DE,Faches-Thumesnil,59155,1.84 €,,1.92 €,1.79 €,5058438.5281337,308421.0905684
-59,4 Boulevard de l'europe,Maubeuge,59600,1.94 €,,2.05 €,1.89 €,5028200,397000
+59,4 Boulevard de l'europe,Maubeuge,59600,1.94 €,1.10 €,2.05 €,1.89 €,5028200,397000
 59,31 AVENUE D OGIMONT,Baisieux,59780,,,2.00 €,1.92 €,5061500,323700
 59,1  avenue de l'Europe,Leers,59115,1.85 €,,1.93 €,1.80 €,5068000,322300
 59,27 RUE DU GENERAL DE GAULLE,Sars-Poteries,59216,1.93 €,,1.97 €,1.88 €,5016700,404100
@@ -70,7 +70,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 59,70 Route d'Hazebrouck,Caëstre,59190,1.89 €,,1.88 €,1.80 €,5075828.6445109,260238.15969871
 59,FAUBOURG DE CASSEL RD 916,QUAEDYPRE,59380,1.84 €,1.10 €,1.92 €,1.79 €,5096273,243290
 59,76  RUE JEAN JAURES,Villeneuve-d'Ascq,59650,1.85 €,,1.92 €,1.77 €,5065925,313527
-59,Avenue Georges Clémenceau,Ferrière-la-Grande,59680,,,2.02 €,1.82 €,5026010,400607
+59,Avenue Georges Clémenceau,Ferrière-la-Grande,59680,,,2.02 €,1.81 €,5026010,400607
 59,386-388 Rue Jean Jaurès,Bruay-sur-l'Escaut,59860,1.84 €,1.06 €,1.95 €,1.79 €,5039900,354400
 59,Place de Nos Fusillés,FENAIN,59179,,,1.96 €,1.84 €,5036593,330017
 59,Route de Thumeries,Ostricourt,59162,,1.10 €,1.93 €,1.82 €,5046512,302745
@@ -147,7 +147,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 59,31 Rue de Pérenchies,Verlinghem,59237,,,2.06 €,1.89 €,5068003,299646
 59,14 ROUTE DE FURNES,Coudekerque-Branche,59210,1.94 €,,2.05 €,1.89 €,5103170.16964,239373.95017
 59,Rue de la Couture,Wasquehal,59290,1.85 €,1.12 €,1.93 €,1.78 €,5065300,312600
-59,601 Route de Méteren,Bailleul,59270,1.85 €,,1.93 €,1.80 €,5073900,272600
+59,601 Route de Méteren,Bailleul,59270,1.85 €,,1.93 €,1.79 €,5073900,272600
 59,3 Boulevard Eisen,Valenciennes,59300,1.85 €,,1.93 €,1.78 €,5036300,353000
 59,16 rue nationale,Bierne,59380,1.85 €,,1.93 €,1.80 €,5097300,242300
 59,491 Rue de Landrecies,Cambrai,59400,1.86 €,,1.94 €,1.80 €,5017500,324800

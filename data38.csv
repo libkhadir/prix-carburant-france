@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 38,129 avenue Simone Veil - avenue du 11 novembre,Voreppe,38340,1.85 €,1.17 €,,1.80 €,4528900,563900
 38,400 av de juin 1940,VOREPPE,38340,1.85 €,,1.93 €,1.80 €,4530000,562800
 38,7 RUE DE L'INDUSTRIE,VOIRON,38500,1.86 €,,1.94 €,1.81 €,4535912.9015812,559489.09747499
-38,25 Rue des Sayes,L'ISLE-D'ABEAU,38080,1.82 €,1.07 €,1.89 €,1.79 €,4561432,522510
+38,25 Rue des Sayes,L'ISLE-D'ABEAU,38080,1.82 €,1.07 €,1.92 €,1.78 €,4561432,522510
 38,ZA de la Gère,Vienne,38200,,,1.91 €,1.80 €,4551900,491900
 38,Avenue Henri Barbusse,BOURGOIN-JALLIEU,38300,1.81 €,1.07 €,1.89 €,1.78 €,4559400,526900
 38,4 chemin de l etang girard RD 538,Revel-Tourdan,38270,1.88 €,1.10 €,1.95 €,1.80 €,4537300,502700
@@ -77,8 +77,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 38,531 AVENUE DU GENERAL DE GAULLE,Villard-de-Lans,38250,,,1.98 €,1.85 €,4507462.9195706,555322.7260991
 38,415 Route du Concordat,Saint-Just-Chaleyssin,38540,,,1.93 €,1.80 €,4558500,500400
 38,96 COURS ST ANDRE,Pont-de-claix,38800,1.81 €,1.16 €,1.89 €,1.77 €,4513800,570200
-38,601 ROUTE NATIONALE 7,Salaise-sur-Sanne,38150,1.82 €,1.10 €,1.90 €,1.77 €,4532800,480700
-38,1 Boulevard des Alpes,MEYLAN,38240,1.83 €,1.16 €,1.94 €,1.79 €,4520300,576200
+38,601 ROUTE NATIONALE 7,Salaise-sur-Sanne,38150,1.82 €,,,1.77 €,4532800,480700
+38,1 Boulevard des Alpes,MEYLAN,38240,1.83 €,1.16 €,1.94 €,1.78 €,4520300,576200
 38,25 Rue Pontcottier,Bourgoin-Jallieu,38300,1.88 €,1.25 €,2.00 €,1.85 €,4558500,528500
 38,ZAC DU CHAMP ST ANGE,Varces-Allières-et-Risset,38760,1.87 €,,1.97 €,1.80 €,4509800,568300
 38,80 CHEMIN DE MAUPAS,Villette-de-Vienne,38200,,,1.92 €,1.79 €,4558442.9922883,491445.7214061

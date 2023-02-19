@@ -13,7 +13,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 66,Avenue du Roussillon,LE BARCARèS,66420,1.88 €,1.25 €,1.93 €,1.84 €,4282400,303500
 66,ROUTE D ARGELES,Laroque-des-Albères,66740,1.88 €,,1.94 €,1.79 €,4254793.40515,294103.392299
 66,Avenue de l'aéroport,RIVESALTES,66600,1.85 €,1.10 €,,1.78 €,4275770.57024,286563.291839
-66,route de canet,PERPIGNAN,66000,1.91 €,1.11 €,1.97 €,1.81 €,4270100,294400
+66,route de canet,PERPIGNAN,66000,1.91 €,1.11 €,1.97 €,1.80 €,4270100,294400
 66,Route de Prades,Millas,66170,1.88 €,1.10 €,1.95 €,1.83 €,4269300,268800
 66,BOULEVARD DU 14 JUILLET,LE BARCARèS,66420,1.84 €,,1.91 €,1.80 €,4278737,303490
 66,10  Boulevard Jacques Albert,ELNE,66200,1.87 €,,1.92 €,1.79 €,4260700,297700
@@ -58,7 +58,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 66,3170  Avenue Julien Panchot,Perpignan,66000,1.87 €,1.10 €,1.94 €,1.79 €,4267900,285200
 66,Lotissement le Pla,SAINT-PAUL-DE-FENOUILLET,66220,,,1.95 €,1.99 €,4280853,249982
 66,chemin de Camalens av de la padrouze,THUIR,66300,1.86 €,1.09 €,1.94 €,1.83 €,4264000,275700
-66,Grande Rue,Bolquère,66210,1.81 €,,1.87 €,1.79 €,4250278,207801
+66,Grande Rue,Bolquère,66210,1.81 €,,1.87 €,,4250278,207801
 66,2130 avenue du Languedoc,Perpignan,66962,,1.10 €,1.91 €,1.78 €,4274200,289200
 66,Rue Paul Barthez,Perpignan,66100,,,,,4266700,289200
 66,L' Esparrou Plage,CANET-EN-ROUSSILLON,66140,1.79 €,,1.85 €,1.77 €,4269911.661,302275.404

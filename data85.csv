@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 85,56 rue Nationale - l'Oie,L'Oie,85140,1.92 €,1.10 €,2.03 €,1.87 €,4680300,-113200
 85, Avenue de Verdun,BRETIGNOLLES-SUR-MER,85470,1.80 €,1.07 €,1.90 €,1.74 €,4662588,-185856
 85,87 Avenue François Mitterand,Olonne-sur-Mer,85340,1.80 €,1.07 €,1.88 €,1.74 €,4651350.0982446,-177766.29695892
-85,Rue de la Rivière,Saint-Jean-de-Monts,85160,1.80 €,,1.90 €,1.73 €,4679567.7436794,-204948.00138474
+85,Rue de la Rivière,Saint-Jean-de-Monts,85160,1.80 €,,1.90 €,1.75 €,4679567.7436794,-204948.00138474
 85,Rond Point de la Vendée,LES LUCS SUR BOULOGNE,85170,1.91 €,,1.96 €,1.90 €,4684400,-149400
 85,ZA SUD,LA CHAPELLE-ACHARD,85150,1.90 €,,1.96 €,1.93 €,4659013,-164761
 85,Espace Commercial Porte du Littoral - BP 10,AIZENAY,85190,1.81 €,1.09 €,1.89 €,1.74 €,4673300,-159100
@@ -53,7 +53,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 85,1 rue des Blés  La Mothe Achard,LES ACHARDS,85150,1.80 €,1.07 €,1.92 €,1.74 €,4660700,-166400
 85,Impasse Bellevue,NIEUL-LE-DOLENT,85430,1.81 €,,1.91 €,1.74 €,4657120,-150929
 85,ROUTE DE LA ROCHELLE,FONTENAY-LE-COMTE,85200,1.82 €,1.04 €,1.90 €,1.74 €,4645200,-80600
-85,208 RUE DU CLAIR BOCAGE,Mouilleron-le-Captif,85000,1.82 €,1.10 €,1.92 €,1.75 €,4671241.105,-143089.491
+85,208 RUE DU CLAIR BOCAGE,Mouilleron-le-Captif,85000,1.82 €,1.10 €,,1.75 €,4671241.105,-143089.491
 85,3 Boulevard des F.f.i.,Challans,85300,,,,1.94 €,4684600,-188200
 85,72 route départementale 137,Saint-Jean-de-Beugné,85210,1.94 €,,2.05 €,1.89 €,4652100,-108500
 85,42 Avenue Monseigneur Batiot,CHANTONNAY,85110,1.99 €,,2.06 €,1.89 €,4669300,-105400
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 85,Rue de la Brûlerie,LA BRUFFIèRE,85530,1.82 €,,1.92 €,1.76 €,4701300,-119300
 85,Lieu-dit La Dugeonnière,Angles,85750,1.85 €,,1.90 €,1.80 €,4640643,-139324
 85,1 RUE DES MARTYRS,Saint-Laurent-sur-Sèvre,85290,,,1.97 €,1.87 €,4695996.4047731,-88986.549999999
-85,44 ROUTE DE NANTES,LA ROCHE-SUR-YON,85000,1.93 €,,2.02 €,1.90 €,4669200,-142900
+85,44 ROUTE DE NANTES,LA ROCHE-SUR-YON,85000,1.93 €,,2.03 €,1.89 €,4669200,-142900
 85,Avenue des Chauvières,Les Herbiers,85500,1.81 €,1.09 €,1.90 €,1.74 €,4685800,-101500
 85,Rue St François,Challans,85300,1.82 €,1.10 €,1.89 €,1.78 €,4684300,-188700
 85,Route de Cholet,MORTAGNE-SUR-SèVRE,85290,1.84 €,,1.90 €,1.76 €,4699400,-94900
@@ -88,7 +88,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 85,LES MARATTES cd 38 bis,SAINT-GILLES-CROIX-DE-VIE,85800,1.91 €,,2.02 €,1.86 €,4670100,-193000
 85,CC  LES CHARMETTES,Les Essarts,85140,1.82 €,1.12 €,1.93 €,1.75 €,4676500,-123500
 85,2 Rue André Defontaine,La Bruffière,85530,,,,1.92 €,4700700,-119000
-85,Avenue Georges Clemenceau,MOUTIERS-LES-MAUXFAITS,85540,1.83 €,1.10 €,1.89 €,1.78 €,4649700,-142400
+85,Avenue Georges Clemenceau,MOUTIERS-LES-MAUXFAITS,85540,1.84 €,1.10 €,1.89 €,1.78 €,4649700,-142400
 85,9 Rue Neptune,L'Île-d'Yeu,85350,,,,2.44 €,4672342,-234468
 85,26 Rue de la Capitale du Bas Poitou,FONTENAY-LE-COMTE,85200,,,,,4645900,-78800
 85,97 RUE DU PRESIDENT DE GAULLE,LUÇON,85400,1.84 €,1.10 €,,1.77 €,4645497.23,-116929.35
