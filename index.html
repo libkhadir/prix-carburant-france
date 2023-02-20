@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSV Viewer</title>
+  </head>
+  <body>
+    <label for="csv-select">Select a CSV file:</label>
+    <select id="csv-select">
+      <option value="">Choose a file</option>
+    </select>
+    <div id="csv-table"></div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script>
+      const select = document.getElementById("csv-select");
+      const table = document.getElementById("csv-table");
+      
+      // create the options for the select element
+      const file_names = [];
+      for (let i=1;i < 96; i++) {
+        file_names.push('data' + (i < 10 ? '0' + i : i) + '.csv')
+      }
+      
+      for (let i = 0; i < file_names.length; i++) {
+        const option = document.createElement("option");
+        option.value = file_names[i];
+        option.textContent = file_names[i];
+        select.appendChild(option);
+      }
+      
+      select.addEventListener("change", () => {
+        const filename = select.value;
+        if (filename === "") {
+          table.innerHTML = "";
+          return;
+        }
+        Papa.parse(filename, {
+          download: true,
+          header: true,
+          complete: (results) => {
+            const data = results.data;
+            let html = "<table><thead><tr>";
+            for (const key in data[0]) {
+              html += `<th>${key}</th>`;
+            }
+            html += "</tr></thead><tbody>";
+            data.forEach((row) => {
+              html += "<tr>";
+              for (const key in row) {
+                html += `<td>${row[key]}</td>`;
+              }
+              html += "</tr>";
+            });
+            html += "</tbody></table>";
+            table.innerHTML = html;
+          },
+        });
+      });
+    </script>
+  </body>
+</html>
