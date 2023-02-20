@@ -16,14 +16,18 @@
       const table = document.getElementById("csv-table");
       
       // create the options for the select element
-      const file_names = [];
+      var file_names = [];
+      var file_urls = []
+      const download_url = 'https://raw.githubusercontent.com/libkhadir/prix-carburant-france/main/'
       for (let i=1;i < 96; i++) {
-        file_names.push('data' + (i < 10 ? '0' + i : i) + '.csv')
+        const name = 'data' + (i < 10 ? '0' + i : i) + '.csv'
+        file_names.push(name)
+        file_urls.push(download_url + name)
       }
       
       for (let i = 0; i < file_names.length; i++) {
         const option = document.createElement("option");
-        option.value = file_names[i];
+        option.value = file_urls[i];
         option.textContent = file_names[i];
         select.appendChild(option);
       }
