@@ -1,6 +1,9 @@
 # prix-carburant-france [![update data](https://github.com/libkhadir/prix-carburant-france/actions/workflows/workflow.yml/badge.svg)](https://github.com/libkhadir/prix-carburant-france/actions/workflows/workflow.yml)
 Prix du carburant en france par station, les données sont classées par département.
 
+# Web access
+https://libkhadir.github.io/prix-carburant-france/
+
 # Données disponibles
 - [Ain](https://github.com/tkhadir/prix-carburant-france/blob/main/data01.csv)
 - [Aisne](https://github.com/tkhadir/prix-carburant-france/blob/main/data02.csv)
