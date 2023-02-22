@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Zone de Laubarède,Viviez,12110,1.84 €,1.10 €,,1.80 €,4456000,222400
 12,Espace Les Cayres,Laguiole,12210,,,1.95 €,1.87 €,4468300,285100
 12,LE MOULIN DE GARY,Sévérac d'Aveyron,12150,,,,1.89 €,4432989.0067081,305290.5638624
-12,241 Avenue de Marengo,Baraqueville,12160,,,,1.91 €,4427800,243000
+12,241 Avenue de Marengo,Baraqueville,12160,,,,1.89 €,4427800,243000
 12,Z.A. Bel air,Camarès,12360,1.87 €,,,1.81 €,4383200,287300
 12,Route de Rodez,Rieupeyroux,12240,1.85 €,,1.91 €,1.81 €,4430600,224900
 12,Rue du General de Gaulle,Sévérac-le-Château,12150,,,2.00 €,1.84 €,4431970,306825
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,l'Estréniol - Pôle Comtal Sud,Onet-le-Château,12850,1.89 €,,,1.87 €,4439400,260300
 12,14 ROUTE DE SEVERAC LES QUATRES SAISONS,Onet-le-Château,12850,1.89 €,,,1.87 €,4436400,258800
 12,LIEU DIT BERNUSSOU,VILLEFRANCHE-DE-ROUERGUE,12200,1.82 €,,1.90 €,1.81 €,4435900,199700
-12,82 Avenue Jean Jaurès,MILLAU,12100,1.86 €,,1.95 €,1.83 €,4410700,308100
+12,82 Avenue Jean Jaurès,MILLAU,12100,1.85 €,,1.94 €,1.82 €,4410700,308100
 12,AVENUE DU ROUERGUE,Villeneuve,12260,,,1.95 €,1.89 €,4443200,203100
 12,3 AVENUE DU SEGALA,RIEUPEYROUX,12240,1.86 €,,,1.80 €,4430812.1642119,224202.33682987
 12,AUTOROUTE A75 - AIRE DE L'AVEYRON,Sévérac-le-Château,12150,2.08 €,1.26 €,2.19 €,2.03 €,4433042.8713435,308156.17808555
@@ -71,7 +71,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Mas de souyri / Route de Montauban,Villefranche-de-Rouergue,12200,,,,1.92 €,4435957.6132494,198663.01067747
 12,Avenue d'Espalion,Saint-Geniez-d'Olt,12130,1.85 €,,1.88 €,1.84 €,4446000,296500
 12,37 AVENUE DE PARIS,Sévérac d'Aveyron,12150,,,,1.89 €,4432932.8023609,306931.6338544
-12,le fargal haut,Montbazens,12220,,1.29 €,,1.98 €,4446138.9568938,222235.07921239
+12,le fargal haut,Montbazens,12220,,1.11 €,,1.88 €,4446138.9568938,222235.07921239
 12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,1.95 €,1.86 €,4483700,266300
 12,9 Avenue des Croates,VILLEFRANCHE-DE-ROUERGUE,12200,1.93 €,,2.03 €,1.89 €,4436100,204100
 12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.90 €,1.77 €,4409065,307745
