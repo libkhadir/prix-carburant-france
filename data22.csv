@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22,Rue de la République,Plénée-Jugon,22640,1.82 €,,1.90 €,1.77 €,4836800,-239600
-22,Rue de Brest,TRéMUSON,22440,1.82 €,,,1.78 €,4852276,-285671
+22,Rue de Brest,TRéMUSON,22440,1.80 €,,,1.76 €,4852276,-285671
 22,Rue du Parc Mail,Uzel,22460,1.87 €,,1.99 €,1.93 €,4828100,-283900
 22,z a des parpareux,Loudéac,22600,,,2.11 €,1.95 €,4817900,-268311
 22,RUE RAYMOND PELLIER,PAIMPOL,22500,,,1.92 €,1.79 €,4877300,-303900
@@ -119,5 +119,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 22,Route de Guingamp,LANNION,22300,1.83 €,,1.93 €,1.78 €,4871900,-341600
 22,KERJEAN / RD 790,Saint-Nicolas-du-Pélem,22480,1.92 €,,2.03 €,1.87 €,4831000,-315600
 22,la ville neuve,Saint-Brandan,22800,1.81 €,,1.87 €,1.76 €,4840000,-290000
-22,ZA DU CHALET,BROONS,22250,,1.12 €,1.90 €,1.77 €,4832425.292055,-225081.24626471
+22,ZA DU CHALET,BROONS,22250,,1.12 €,1.89 €,1.75 €,4832425.292055,-225081.24626471
 22,Rue de Kerbuannec,Callac,22160,1.81 €,1.10 €,1.90 €,1.76 €,4840700,-343400

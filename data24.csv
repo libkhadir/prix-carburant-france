@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Route de Mussidan,RIBéRAC,24600,1.83 €,1.10 €,1.88 €,1.76 €,4523800,34800
 24,18/20 Cours Fénelon,PERIGUEUX,24000,1.86 €,,1.96 €,1.80 €,4518200,72100
 24,ROUTE DE BORDEAUX,Neuvic,24190,,,1.90 €,1.76 €,4509700,47500
-24,192 Route de Lyon,Boulazac,24750,1.82 €,,1.93 €,1.78 €,4518000,74600
+24,192 Route de Lyon,Boulazac,24750,,,1.93 €,1.78 €,4518000,74600
 24,54 avenue Michel Grandou,Trélissac,24750,1.89 €,,,1.86 €,4519000,73600
 24,GAILLARDOU,LA ROQUE GAGEAC,24250,1.97 €,,,1.95 €,4481400,121200
 24,le bourg sud,prigonrieux,24130,,1.18 €,1.98 €,1.82 €,4485368.8478137,40039.274488292
@@ -62,7 +62,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,LES PLATEAUX DE GRAULET,Rouffignac-Saint-Cernin-de-Reilhac,24580,,,1.94 €,1.82 €,4504300,98100
 24,Puy Laurent,BRANTôME,24310,1.85 €,1.06 €,,1.80 €,4538100,64600
 24,Avenue Georges Pompidou,Montpon-Ménestérol,24700,1.79 €,,1.83 €,1.75 €,4500900,15200
-24,Lieu-dit Grands Champs de Baunac,Tocane-Saint-Apre,24350,,,,1.86 €,4525805,50632
+24,Lieu-dit Grands Champs de Baunac,Tocane-Saint-Apre,24350,,,,1.84 €,4525805,50632
 24,Lieu-dit Le Bout de la Côte,Siorac-en-Périgord,24170,,,1.92 €,1.76 €,4481019,98906.999999998
 24,Bd mallebay,SAINT-ASTIER,24110,1.82 €,1.06 €,1.93 €,1.77 €,4514900,52700
 24,41 ROUTE DE RIBERAC,Marsac-sur-l'Isle,24430,,,,1.93 €,4519700,65700
@@ -70,10 +70,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,15 Route d'Agen - Lespinassat,BERGERAC,24100,1.94 €,,2.05 €,1.88 €,4483300,49700
 24,28 Avenue de la Libération,Thenon,24210,1.84 €,,1.88 €,1.77 €,4514200,106900
 24,28  avenue Jules-Ferry,NONTRON,24300,1.88 €,,1.96 €,1.84 €,4553377,66609
-24,ZI,Saint-Médard-de-Mussidan,24400,1.79 €,,1.84 €,1.74 €,4503800,35400
+24,ZI,Saint-Médard-de-Mussidan,24400,1.79 €,,1.84 €,,4503800,35400
 24,ROUTE DE PERIGUEUX,Ribérac,24600,1.83 €,,1.93 €,1.76 €,4524800,34000
 24,8 RUE CLAUDE BERNARD,BERGERAC,24100,1.83 €,,1.90 €,1.79 €,4485352.69,48766.25054723
-24,Avenue de Sarlat,SALIGNAC-EYVIGUES,24590,1.85 €,,1.97 €,1.81 €,4497400,132100
+24,Avenue de Sarlat,SALIGNAC-EYVIGUES,24590,1.86 €,,1.91 €,1.80 €,4497400,132100
 24,Route de Mareuil,La Tour-Blanche,24320,,,1.99 €,1.88 €,4536588,44451
 24,LA GARE,HAUTEFORT,24390,1.86 €,1.12 €,,1.79 €,4526681.28926,113778.022236
 24,LIEU DIT LA FOUGERE  ROUTE DE CAHORS,Villefranche-du-Périgord,24550,,,1.98 €,1.85 €,4463855.2720827,106084.09067322
