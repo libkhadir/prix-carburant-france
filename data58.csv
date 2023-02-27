@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-58,Route de Champvert,DECIZE,58300,1.86 €,,1.97 €,1.81 €,4683800,347900
-58,10 Boulevard Pierre de Coubertin,NEVERS,58000,1.87 €,,1.97 €,1.81 €,4698700,316200
+58,10 Boulevard Pierre de Coubertin,NEVERS,58000,1.87 €,,1.97 €,1.80 €,4698700,316200
 58,103 rue du Maréchal Leclerc,Cosne-Cours-sur-Loire,58200,1.94 €,,2.05 €,1.89 €,4741200,292700
+58,Route de Champvert,DECIZE,58300,1.86 €,,1.97 €,1.81 €,4683800,347900
 58,RUE DU CHAMP DE FOIRE,CORBIGNY,58800,,,2.00 €,1.86 €,4725489,368314
 58,ROUTE DE PARIS,Pougues-les-Eaux,58320,,,2.00 €,1.90 €,4707736,309879
 58,9 route de l’aerodrome,Cosne cours sur Loire,58200,,1.20 €,,,4737800,292300
@@ -18,13 +18,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 58,Route de Cosne,Saint-Amand-en-Puisaye,58310,,1.23 €,,1.83 €,4752885,307024
 58,43 Route de Nevers,FOURCHAMBAULT,58600,1.87 €,,1.97 €,1.81 €,4701300,308700
 58,LE BRIOU,PREMERY,58700,,,1.95 €,1.81 €,4717570.7127423,331418.00673959
-58,Route de Nevers,Sauvigny-les-Bois,58160,,,1.93 €,1.79 €,4694167,325919
+58,Route de Nevers,Sauvigny-les-Bois,58160,,,1.93 €,1.78 €,4694167,325919
 58,Z.I LES PLANTES DES RELIGIEUSES,La Charité-sur-Loire,58400,1.85 €,1.10 €,1.89 €,1.78 €,4718300,302800
 58,ROUTE DE DECIZE,IMPHY,58160,,,1.97 €,1.86 €,4692200,326900
-58,33 boulevard Pré Plantin,Nevers,58000,1.87 €,1.12 €,1.95 €,1.79 €,4698200,312300
-58,Boulevard Beauregard,Coulanges-lès-Nevers,58660,1.84 €,1.09 €,1.94 €,1.79 €,4701133,317801
-58,Rue de Paris,MAGNY-COURS,58470,,,1.96 €,1.81 €,4688553,315151
-58,IMPASSE DE LA SABLIERE,Saint-Éloi,58000,1.84 €,,,1.79 €,4698390.762,321105.307
+58,33 boulevard Pré Plantin,Nevers,58000,1.86 €,1.12 €,1.94 €,1.79 €,4698200,312300
+58,Boulevard Beauregard,Coulanges-lès-Nevers,58660,1.83 €,1.09 €,1.94 €,1.78 €,4701133,317801
+58,Rue de Paris,MAGNY-COURS,58470,,,1.95 €,1.80 €,4688553,315151
+58,IMPASSE DE LA SABLIERE,Saint-Éloi,58000,1.83 €,,,1.78 €,4698390.762,321105.307
 58,AUTOROUTE A77 - AIRE DES VIGNOBLES,Tracy-sur-Loire,58150,1.99 €,,2.15 €,1.99 €,4733730,292728
 58,1 rue Guy de Jean,Donzy,58220,1.87 €,1.12 €,1.90 €,1.79 €,4737000,312700
 58,24  Route de Nevers,SAUVIGNY-LES-BOIS,58160,,,,1.98 €,4694800,326100
@@ -40,7 +40,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 58,LE BOURG,Brassy,58140,,,,,4726167,393682
 58, Rue Vieille,DORNES,58390,,,,,4671465,335541
 58,AVENUE DU 8 MAI,Saint-Pierre-le-Moûtier,58240,,,2.00 €,1.90 €,4679000,312500
-58,Boulevard Camille Dagonneau,Varennes-Vauzelles,58640,1.84 €,1.12 €,1.95 €,1.79 €,4702100,314700
+58,Boulevard Camille Dagonneau,Varennes-Vauzelles,58640,1.83 €,1.12 €,1.94 €,1.79 €,4702100,314700
 58,rue du père castor,BRINON-SUR-BEUVRON,58420,,,,1.90 €,4727500,349300
 58,AVENUE DE LA CHARITE,VARZY,58210,,,1.95 €,1.86 €,4735500,338600
 58,PLACE DU CHAMP DE FOIRE,Corbigny,58800,,,2.00 €,1.86 €,4725489,368314
