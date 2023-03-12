@@ -1,11 +1,11 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 95,20 avenue robert schumann,SAINT-BRICE-SOUS-FORêT,95350,1.89 €,,1.95 €,1.83 €,4900763,235163
-95,2 Avenue Gabriel Péri,Argenteuil,95100,1.93 €,1.21 €,2.01 €,1.89 €,4894300,225300
+95,2 Avenue Gabriel Péri,Argenteuil,95100,1.92 €,1.21 €,2.00 €,1.88 €,4894300,225300
 95,CD 916 - ROUTE DE GISORS,GENICOURT,95650,1.91 €,1.13 €,1.99 €,1.85 €,4908059.3609,207055.138774
 95,Rue de Pontoise,MéRY-SUR-OISE,95540,1.87 €,1.12 €,1.93 €,1.81 €,4906100,217000
 95,8 R DES MARTYRS CHATEAUBRIANT,ARGENTEUIL,95100,1.91 €,1.19 €,1.99 €,1.85 €,4895230.6479647,221301.57579777
-95,17 Route de Saint-Denis,Deuil-la-Barre,95170,1.91 €,,1.99 €,1.85 €,4896100,232600
-95,9 Boulevard du Bel Air,Franconville,95130,1.90 €,,1.98 €,1.85 €,4898600,223800
+95,17 Route de Saint-Denis,Deuil-la-Barre,95170,1.90 €,,1.98 €,1.84 €,4896100,232600
+95,9 Boulevard du Bel Air,Franconville,95130,1.89 €,,1.97 €,1.84 €,4898600,223800
 95,RUE JACQUES BREL,ARGENTEUIL,95100,1.99 €,1.17 €,,1.98 €,4895763,227971
 95,61 Boulevard DU HAVRE,Herblay,95220,1.90 €,,1.98 €,1.85 €,4900600,217200
 95,32/38 AV DE LA GARE,GOUSSAINVILLE,95190,1.99 €,1.15 €,2.13 €,1.98 €,4901562.5843572,247026.20933139
@@ -14,7 +14,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 95,Boulevard de l'Oise,Cergy,95490,,,,,4904700,205400
 95,5 Avenue Voltaire,Eaubonne,95600,1.89 €,1.15 €,1.97 €,1.86 €,4899400,228000
 95,RN1,Moisselles,95570,1.91 €,,1.99 €,1.85 €,4904100,234300
-95,Boulevard d'Osny,Cergy,95800,1.93 €,,2.01 €,1.87 €,4905000,204500
+95,Boulevard d'Osny,Cergy,95800,1.92 €,,2.00 €,1.86 €,4905000,204500
 95,ROUTE NATIONALE 184,Eragny-sur-Oise,95610,2.08 €,1.12 €,2.22 €,2.05 €,4902597.406,210397.381
 95,56 Rue de Paris,Saint ouen l'aumone,95310,,,,,4903900,211600
 95,52 RUE DE PARIS,Saint-Ouen-l'Aumône,95310,2.06 €,,2.18 €,,4904000,211600

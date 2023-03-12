@@ -1,10 +1,10 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-02,3 Avenue Raymonde Fiolet,Soissons,02200,1.88 €,1.12 €,1.97 €,1.83 €,4936994,331490
 02,14 ROUTE DE MONTCORNET,LISLET,02340,,,1.93 €,1.84 €,4968900,402200
+02,3 Rue Pierre Curtil,Guignicourt,02190,,,1.97 €,1.85 €,4943503.6675202,396689.49241097
+02,3 Avenue Raymonde Fiolet,Soissons,02200,1.88 €,1.12 €,1.97 €,1.83 €,4936994,331490
 02,rue de l'armistice,LA CAPELLE,02260,,,2.00 €,1.90 €,4997300,391800
 02,1000 rue jean jaures,Fresnoy-le-Grand,02230,,,1.98 €,1.85 €,4995751.4,343042.81
 02,56  rue du jeu de Paume,Guise,02120,1.96 €,1.19 €,2.07 €,1.91 €,4989600,362600
-02,3 Rue Pierre Curtil,Guignicourt,02190,,,1.97 €,1.85 €,4943503.6675202,396689.49241097
 02,98 rue Alexandre Dumas,SAINT-QUENTIN,02100,1.86 €,1.12 €,1.96 €,1.82 €,4984800,327200
 02,13 Avenue Jules Lefèbvre,Château-Thierry,02400,1.97 €,,2.03 €,1.97 €,4904318,339518
 02,73 chaussee de fontaine,Fontaine-lès-Vervins,02140,1.89 €,,1.98 €,1.82 €,4984300,390500
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,46 Avenue Faidherbe,Saint-Quentin,02100,1.88 €,,1.96 €,1.84 €,4984400,327900
 02,16 Boulevard Pierre Brossolette,Laon,02000,1.89 €,1.14 €,1.97 €,1.84 €,4957000,362100
 02,18 route de Thiernu,Marle,02250,1.97 €,,2.08 €,1.92 €,4975000,377200
-02,9 ET 11 RUE DE VILLENEUVE,SOISSONS,02200,1.88 €,1.12 €,1.96 €,1.82 €,4937100,334100
+02,9 ET 11 RUE DE VILLENEUVE,SOISSONS,02200,1.88 €,1.12 €,1.96 €,,4937100,334100
 02,D1 - LIEU DIT LE PRE MONTRE,Crécy-au-Mont,02380,1.88 €,1.15 €,1.97 €,1.81 €,4948900,333600
 02,ZI l'Ecorcherie,La Ferté-Milon,02460,,,,,4918562,312480
 02,Route de Guise,HARLY,02100,1.86 €,1.09 €,1.95 €,1.80 €,4984272.807,332345.007
@@ -69,7 +69,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,34 BD DE MONTPELLIER,BRAINE,02220,1.96 €,1.25 €,,1.89 €,4934100,352900
 02,CD 24  route de liesse,SAINT-ERME-OUTRE-ET-RAMECOURT,02820,1.87 €,1.12 €,1.92 €,1.82 €,4953100,385600
 02,213 Boulevard Gambetta,CONDREN,02700,1.97 €,,2.08 €,1.92 €,4965048,328029
-02,BLD CAMILLE GUERIN,Saint-Quentin,02100,1.87 €,1.11 €,1.97 €,1.82 €,4983410,329966
+02,BLD CAMILLE GUERIN,Saint-Quentin,02100,,1.11 €,1.97 €,1.82 €,4983410,329966
 02,AV.DE COMPIEGNE - RN.31,Mercin-et-Vaux,02200,1.97 €,1.11 €,2.08 €,1.92 €,4938100,330200
 02,2 AVENUE DE LA LIBERATION,Crécy-sur-Serre,02270,1.97 €,,1.10 €,1.87 €,4968920.34,362156.79
 02,Rue de la Fère,Saint-Quentin,02100,,,,,4983290,330705
