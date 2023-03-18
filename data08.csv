@@ -8,9 +8,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 08,Rue André Compain,Monthermé,08800,1.96 €,,,1.90 €,4988000,474200
 08, Avenue de la Paix,MOUZON,08210,,,2.06 €,1.91 €,4961023,507788
 08,14 Avenue Pasteur,Sedan,08200,1.87 €,1.10 €,1.98 €,1.81 €,4969900,492800
-08,Chestres,Vouziers,08400,1.91 €,,1.99 €,1.85 €,4939900,471500
+08,Chestres,Vouziers,08400,1.91 €,,1.99 €,1.83 €,4939900,471500
 08,Rue Georges Clemenceau,DONCHERY,08350,,,2.05 €,1.95 €,4969800,486600
-08,69 Rue de Monthermé,Charleville-Mézières,08000,1.88 €,,1.94 €,1.86 €,4978500,471300
+08,69 Rue de Monthermé,Charleville-Mézières,08000,1.87 €,,1.90 €,1.80 €,4978500,471300
 08,140 Avenue Roger Posty,VIREUX-MOLHAIN,08320,1.87 €,,1.93 €,1.81 €,5008100,472500
 08,ROUTE NATIONALE 51,HIERGES,08320,1.91 €,,,1.80 €,5010600,474300
 08,rue des evignes,FUMAY,08170,,,1.97 €,1.84 €,4998900,469200
@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 08,4 RUE DE MONTPELLIER,RETHEL,08300,,1.10 €,1.96 €,1.81 €,4950400,436000
 08,Station Service Ste Anne RN51,FUMAY,08170,1.96 €,,,1.91 €,4999500,469700
 08,ZONE DE L'ETOILE,Rethel,08300,1.90 €,,1.96 €,1.81 €,4951100,436800
-08,8 AVENUE DE LA MARNE,SEDAN,08200,1.88 €,1.14 €,1.96 €,1.82 €,4969926,492701
+08,8 AVENUE DE LA MARNE,SEDAN,08200,1.88 €,1.11 €,1.96 €,1.82 €,4969926,492701
 08,Rue Parmentier,NOUZONVILLE,08700,,,1.97 €,1.83 €,4981889,474094
 08,Avenue Martyrs de la Résistance,Renwez,08150,1.93 €,,1.98 €,1.83 €,4984000,460500
 08,Route de la Petite Chapelle,ROCROI,08230,,,1.98 €,1.83 €,4992799.55609,452567.373636
@@ -28,11 +28,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 08,5 ROUTE DE CHARLEVILLE,Attigny,08130,1.97 €,,2.07 €,1.92 €,4948500,458100
 08,197 Avenue Carnot,Charleville-Mézières,08000,1.88 €,1.12 €,1.94 €,1.86 €,4974600,472700
 08,83 Rue Alfred Doury,Juniville,08310,,,,1.82 €,4939800,437800
-08,45 Avenue de la Marne,Sedan,08200,1.88 €,1.16 €,1.96 €,1.81 €,4969700,491900
+08,45 Avenue de la Marne,Sedan,08200,1.88 €,1.13 €,1.96 €,1.81 €,4969700,491900
 08,AUTOROUTE A34 - AIRE DES ARDENNES - WOINIC,Saulces-Monclin,08270,1.99 €,1.26 €,2.13 €,1.98 €,4959406.9537325,450291.88207464
 08,Route de Sedan - ZI des AYVELLES,Villers-Semeuse,08000,1.91 €,1.10 €,1.99 €,1.86 €,4973300,475200
 08,RD 8051,FUMAY,08170,,,,,4999544.59232,469667.027595
-08,17 Avenue Charles de Gaulle,Charleville-Mézières,08000,1.93 €,,2.01 €,1.88 €,4976700,471700
+08,17 Avenue Charles de Gaulle,Charleville-Mézières,08000,1.92 €,,2.00 €,1.88 €,4976700,471700
 08,42 Avenue des Martyrs-de-la-Résistance,Charleville-Mézières,08000,1.94 €,,2.01 €,1.89 €,4975869,472653
 08,RTE DE LAFRANCHEVILLE,Charleville-Mézières,08000,1.98 €,1.12 €,2.09 €,1.93 €,4974116,472585
 08,32 GRANDE RUE,POIX-TERRON,08430,2.00 €,,2.09 €,1.95 €,4965100,464200
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 08,RUE PASTEUR,RIMOGNE,08150,,1.19 €,1.98 €,1.83 €,4984000,454500
 08,24 Rue de Reims,SAULT-LèS-RETHEL,08300,1.90 €,1.12 €,1.96 €,1.81 €,4950033,435794
 08,Rue Arthur Rimbaud,AMAGNE,08300,1.91 €,,1.98 €,1.85 €,4951743,449483
-08,13 Avenue Danton,REVIN,08500,1.93 €,,,1.83 €,4993900,464100
+08,13 Avenue Danton,REVIN,08500,1.91 €,,,1.83 €,4993900,464100
 08,Rue Verte,VOUZIERS,08400,1.88 €,,1.96 €,1.84 €,4940500,469700
 08,ROUTE DE BOGNY,MONTHERMé,08800,,,1.97 €,1.84 €,4988500,473900
 08,route nationale,Blagny,08110,,,1.93 €,1.82 €,4962000,519100
