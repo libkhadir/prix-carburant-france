@@ -6,14 +6,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,80 chemin de la Lègue,Carpentras,84200,1.86 €,1.12 €,1.92 €,1.82 €,4405500,505400
 84,AV. JEAN GIONO,BOLLENE,84500,1.94 €,1.09 €,2.05 €,1.88 €,4428500,475100
 84,65 route de Gadagne,Caumont-sur-Durance,84510,,,,,4390600,494800
-84,place Wettenberg,Sorgues,84700,,,,1.84 €,4400503.69,487475.61
-84,2 Boulevard d'Avignon,Monteux,84170,1.94 €,1.26 €,1.99 €,1.88 €,4403300,499500
+84,place Wettenberg,Sorgues,84700,,,,,4400503.69,487475.61
+84,2 Boulevard d'Avignon,Monteux,84170,1.96 €,1.26 €,1.99 €,1.90 €,4403300,499500
 84,Boulevard Naquet,Carpentras,84200,1.88 €,1.09 €,,1.82 €,4405145,504122
 84,Aire de Mornas Village - Autoroute A7 - Sens Lyon Marseille,Mornas,84550,2.07 €,1.26 €,2.19 €,2.03 €,4419451.5836,473119.14934517
 84,28 Chemin du Clos Neuf,Morières-lès-Avignon,84310,,,,,4394345,490789
 84,542 Avenue Charles de Gaulle,Pernes-les-Fontaines,84210,1.95 €,,,1.91 €,4400500,505100
 84,180 AVENUE DE LA LIBERATION,Le Thor,84250,,,2.15 €,1.95 €,4392743.59,499879.12
-84,130 allée Roch Pape,CAVAILLON,84300,,1.12 €,,,4382900,503500
+84,130 allée Roch Pape,CAVAILLON,84300,,,,,4382900,503500
 84,Route d'Aix en Provence  Quartier Saint Martin,Pertuis,84120,1.82 €,1.12 €,,1.78 €,4368100,550100
 84,319  ROUTE DE CAVAILLON - D31,VELLERON,84740,1.95 €,1.13 €,2.06 €,,4395700,502900
 84,Autoroute A7,Sorgues,84700,2.00 €,1.31 €,2.10 €,1.99 €,4402300,489000
@@ -59,7 +59,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,Route de Marseille,AVIGNON,84140,1.85 €,,1.95 €,1.82 €,4392125.9562009,486701.76328638
 84,Avenue Marcel Pagnol,VAISON-LA-ROMAINE,84110,1.83 €,,1.93 €,1.78 €,4424300,508200
 84,10 Avenue Eisenhower,Avignon,84000,,,,1.81 €,4394000,479800
-84,502 Avenue Jean Monnet,MORIèRES-LèS-AVIGNON,84310,1.92 €,1.23 €,1.96 €,1.88 €,4394100,489700
+84,502 Avenue Jean Monnet,MORIèRES-LèS-AVIGNON,84310,,,,,4394100,489700
 84,4 impasse Louis Astic  Zone artisanale Les Meillères,Cadenet,84160,,,1.96 €,,4373600,537400
 84,191 Route de Tarascon,AVIGNON,84000,1.93 €,1.20 €,1.99 €,1.88 €,4391892.9139514,480941.60710555
 84,18 Route de Lyon,Avignon,84000,1.85 €,1.19 €,1.93 €,1.82 €,4395100,482500
@@ -85,12 +85,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,ROUTE DE CHATEAUNEUF DU PAPE,COURTHEZON,84350,1.86 €,,1.95 €,1.79 €,4407971.07,487885.74
 84,417 Avenue du Mont Ventoux,CARPENTRAS,84200,,,,,4405653,505803
 84,QUARTIER DE MOUGNE,Sault,84390,1.86 €,1.12 €,1.91 €,1.81 €,4410150,541452
-84,Avenue du Tourail,Maubec,84660,,1.12 €,1.93 €,,4386696,514881.99999999
-84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.83 €,,1.95 €,1.78 €,4392800,478900
+84,Avenue du Tourail,Maubec,84660,,1.12 €,,,4386696,514881.99999999
+84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.84 €,,1.95 €,1.83 €,4392800,478900
 84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.86 €,,1.96 €,1.82 €,4415676,487061
 84,Route d'orange,Mornas,84550,1.94 €,,,1.87 €,4419700,473700
 84, Route de Cavaillon,MAUBEC,84660,,,2.00 €,1.89 €,4386584,514004
-84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,1.83 €,1.12 €,1.95 €,1.76 €,4393200,478300
+84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,,,,,4393200,478300
 84,route de carpentras,BEAUMES-DE-VENISE,84190,1.97 €,1.30 €,2.04 €,1.94 €,4411600,501600
 84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,,1.12 €,,1.83 €,4428689.2034091,475063.55196328
 84,route d'aix en provence - lot. les prés verts,Pertuis,84120,,,,,4367900,549700
@@ -106,4 +106,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,Avenue lançon,Apt,84400,1.84 €,,1.90 €,1.80 €,4388436.6,537959.7
 84,avenue Majoral Jouve,aubignan,84810,1.90 €,,,1.88 €,4409204.53,502966.13
 84,82 CHEMIN DES ESPELUGUES,L'Isle-sur-la-Sorgue,84800,1.87 €,1.12 €,1.93 €,1.80 €,4392500,506300
-84,256 Rue jean et rené Rainaudo - CLOS DE REALPANIER,Le Pontet,84130,1.85 €,,1.96 €,1.83 €,4395100,485900
+84,256 Rue jean et rené Rainaudo - CLOS DE REALPANIER,Le Pontet,84130,1.85 €,,1.96 €,1.84 €,4395100,485900

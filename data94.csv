@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,128  BOULEVARD DE STRASBOURG,Nogent-sur-Marne,94130,1.99 €,,2.10 €,1.94 €,4884300,248600
 94,10 Rue Westermeyer,IVRY-SUR-SEINE,94200,1.90 €,,1.98 €,1.84 €,4881900,239600
 94,22 Avenue Pierre Brossolette,Créteil,94000,1.94 €,1.30 €,2.02 €,1.89 €,4879100,246200
-94,20 Avenue Paul Vaillant-Couturier,Arcueil,94110,1.94 €,1.20 €,2.02 €,1.88 €,4880100,234000
+94,20 Avenue Paul Vaillant-Couturier,Arcueil,94110,1.94 €,1.20 €,2.02 €,1.87 €,4880100,234000
 94,99/101 Avenue Foch,Saint-Maur-des-Fossés,94100,1.97 €,,2.05 €,1.85 €,4879900,250000
 94,264 Avenue du Général de Gaulle,Le Perreux-sur-Marne,94170,1.92 €,,2.00 €,1.86 €,4885100,249500
 94,20 Rue Winston Churchill,Villeneuve-Saint-Georges,94190,1.91 €,,1.99 €,1.87 €,4875400,245000
@@ -67,7 +67,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,64 AVENUE FOCH,ST MAUR DES FOSSES,94100,2.06 €,1.20 €,2.20 €,2.00 €,4880057.83,249499.24
 94,AUTOROUTE A106 - AIRE DE RUNGIS DELTA PONDO,RUNGIS,94150,1.99 €,1.16 €,2.10 €,1.95 €,4875758.28377,234834.600555
 94,69 Route de la Queue en Brie,Sucy-en-Brie,94370,2.14 €,,2.13 €,2.05 €,4876100,253300
-94,63 Avenue du Général de Gaulle,CRETEIL,94000,1.91 €,,1.99 €,1.86 €,4879038.8298253,244517.40423071
+94,63 Avenue du Général de Gaulle,CRETEIL,94000,1.91 €,,,1.86 €,4879038.8298253,244517.40423071
 94,1 BIS AV GABRIEL PERI,Limeil-Brévannes,94450,1.89 €,1.17 €,1.98 €,1.85 €,4875500,248400
 94,114 Rue de Paris,Charenton-le-Pont,94220,2.00 €,1.20 €,2.12 €,1.96 €,4882500,240800
 94,AVENUE JEAN ROSTAND,Bonneuil-sur-Marne,94380,1.89 €,,1.96 €,1.84 €,4876736,248537
