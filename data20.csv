@@ -6,8 +6,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,STATION LUISI,Poggio-Mezzana,20230,,,,1.88 €,4240000,953000
 20,Station TOTAL - BP 35 - RN 198,Ghisonaccia,20240,,,,1.86 €,4202100,940900
 20,Ponte Novu,Castello-di-Rostino,20235,,,,1.91 €,4248820,928306
-20,RT 20,TATTONE,20219,,,,1.91 €,4217200,917000
 20,Station TOTAL - Relais du Rupione,PIETROSELLA,20166,,,,1.87 €,4183500,877900
+20,RT 20,TATTONE,20219,,,,1.91 €,4217200,917000
 20,Rue de la République,CARGESE,20130,,,,1.95 €,4213400,859800
 20,route de bastia,Porto-Vecchio,20137,,,,1.95 €,4161400,928000
 20,Station TOTAL - RN 196,PIANOTTOLI-CALDARELLO,20131,,,,1.95 €,4149185.4902513,905559.39368657
@@ -65,7 +65,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Route de Patrimonio,Saint-Florent,20217,,,,1.91 €,4268500,930700
 20,Avenue de la Libération. Immeuble Santa Maria,BASTIA LUPINU,20600,,,,1.90 €,4267927.5416212,944309.56412724
 20,T 10,PRUNETE,20221,,,,1.85 €,4232500,953900
-20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.85 €,4197962.0445374,883383.448204
+20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.84 €,4197962.0445374,883383.448204
 20,I BAGNI,Guitera-les-Bains,20153,,,,1.89 €,4190100,909800
 20,Aspretto,AJACCIO,20000,,,,1.83 €,4192900,876800
 20,RT 20,Ponte-leccia,20218,,,,1.88 €,4246700,920900
@@ -94,9 +94,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,RN 193 - lieu dit Pentone,Corte,20250,,,,1.89 €,4231700,915900
 20,Rn 198 Alistro,San-Giuliano,20230,,,,1.89 €,4231426.485904,948907.25133984
 20,Lot Arbuceta Rond Point Ceppe,BIGUGLIA,20620,,,,2.02 €,4262683,942864
-20,R.T 30,Ponte-Leccia,20218,,,,1.89 €,4246300,920500
+20,R.T 30,Ponte-Leccia,20218,,,,1.88 €,4246300,920500
 20,RN:193/T10 Crucetta,LUCCIANA,20290,,,,1.88 €,4255000,944200
-20,ARENA,Vescovato,20215,,,,1.85 €,4250000,946600
+20,ARENA,Vescovato,20215,,,,1.87 €,4250000,946600
 20,Lieu dit Esigna Sagone,Coggia,20118,,,,1.83 €,4210200,870700
 20,Santa-Severa,Luri,20228,,,,2.09 €,4288800,947300
 20,AVENUE DE LA LIBERATION,Bastia,20600,,,,1.91 €,4268300,944400
@@ -120,7 +120,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Ld bellagamba,SARTENE,20100,,,,1.87 €,4162100,897300
 20,T20,Sarrola-Carcopino,20167,,,,1.82 €,4196839.9440162,881725.633038
 20,RN 198,San-Nicolao,20230,,,,1.92 €,4237206.6050321,952976.40167823
-20,Avenue du Président Kennedy - HLM Bat P,Ajaccio,20090,,,,1.94 €,4193100,873500
+20,Avenue du Président Kennedy - HLM Bat P,Ajaccio,20090,,,,1.89 €,4193100,873500
 20,ZI RIZZANESE,Sartène,20100,,,,1.93 €,4164900,894500
 20,36 Avenue Paul Doumer,L'Île-Rousse,20220,,,,1.89 €,4263200,894500
 20,65 COURS LUCIEN BONAPARTE,AJACCIO,20000,,,,1.88 €,4191078.61872,872151.667262

@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Zone des Reaux,Vélines,24230,,,1.95 €,1.83 €,4485201.45,10365.84
-24,RN 89 au 50 rue de la paix,SAINT-MÉDARD-DE-MUSSIDAN,24400,,,,1.75 €,4503300,32100
+24,RN 89 au 50 rue de la paix,SAINT-MÉDARD-DE-MUSSIDAN,24400,,,,1.74 €,4503300,32100
 24,Lieu dit chez Noillac,Vieux-Mareuil,24340,,,1.99 €,1.88 €,4544700,46700
 24,Avenue de Périgueux,LA COQUILLE,24450,,,1.94 €,1.85 €,4553900,97600
 24,CD 91,Piégut-Pluviers,24360,1.88 €,,1.93 €,1.77 €,4562000,69900
@@ -11,7 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Bld De Lattre De Tassigny,SAINT-ASTIER,24110,1.83 €,,,1.76 €,4514600,52500
 24,54 avenue Michel Grandou,Trélissac,24750,1.90 €,,,1.85 €,4519000,73600
 24,Avenue Winston Churchill,COULOUNIEIX-CHAMIERS,24660,,,1.94 €,1.78 €,4517100,68900
-24, Chemin des Sables,SARLAT-LA-CANéDA,24200,1.84 €,1.11 €,1.92 €,1.78 €,4487349,123042
+24, Chemin des Sables,SARLAT-LA-CANéDA,24200,1.85 €,1.11 €,1.93 €,1.79 €,4487349,123042
 24,plaine de bretou,EYMET,24500,,,1.97 €,1.84 €,4467400,40500
 24,27  Avenue André Maurois,BRANTôME,24310,,,,1.88 €,4536400,65300
 24,Autoroute A89 - Aire de Manoire,Saint-Laurent-sur-Manoire,24330,1.91 €,1.11 €,2.00 €,1.83 €,4515100,79900
@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,57 rue d'Aquitaine,Savignac-Lédrier,24270,,,2.00 €,1.88 €,4539600,120900
 24,127 Rue du Limousin,LANOUAILLE,24270,,,,1.89 €,4539400,114000
 24,Avenue de Monpazier,BEAUMONT-DU-PéRIGORD,24440,,,1.89 €,1.77 €,4475319,77283
-24,14 rue Durou,Bergerac,24100,1.84 €,1.10 €,1.94 €,1.77 €,4485800,48200
+24,14 rue Durou,Bergerac,24100,1.83 €,1.10 €,1.94 €,1.76 €,4485800,48200
 24,8 Avenue de Selves,SARLAT LA CANEDA,24200,1.97 €,,2.08 €,1.88 €,4490000,121200
 24,68 avenue paul langevin,lalinde,24150,,,2.10 €,2.00 €,4483551.499735,72860.01302282
 24,Route de Bergerac,VERGT,24380,1.85 €,1.12 €,1.95 €,1.77 €,4502300,71100
@@ -52,7 +52,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Avenue Léon Sireyjol,Saint-Pardoux-la-Rivière,24470,,,1.99 €,1.86 €,4549458,74633
 24,103 AVENUE PAUL DOUMER,Bergerac,24100,1.84 €,,1.94 €,1.76 €,4483276.6500805,47861.304923428
 24,RN 89 - NIVERSAC,Saint-Laurent-sur-Manoire,24330,1.94 €,,2.05 €,1.89 €,4513800,80700
-24,138 RUE PIERRE SEMARD LE TOULON,PERIGUEUX,24000,1.83 €,1.09 €,1.94 €,1.77 €,4519700,70100
+24,138 RUE PIERRE SEMARD LE TOULON,PERIGUEUX,24000,1.84 €,1.09 €,1.95 €,1.77 €,4519700,70100
 24,2 route de Nontron,Saint-Martial-de-Valette,24300,1.98 €,1.14 €,2.09 €,1.92 €,4552000,65500
 24,101  Avenue Pasteur,Bergerac,24100,1.83 €,,1.94 €,1.76 €,4486262,49793
 24,229 les grand champs,saint aulaye puymangou,24410,,,1.96 €,1.90 €,4516800,8100
@@ -63,7 +63,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,LES PLATEAUX DE GRAULET,Rouffignac-Saint-Cernin-de-Reilhac,24580,,,1.94 €,1.82 €,4504300,98100
 24,Puy Laurent,BRANTôME,24310,1.86 €,1.90 €,,1.78 €,4538100,64600
 24,Avenue Georges Pompidou,Montpon-Ménestérol,24700,1.80 €,,1.83 €,1.73 €,4500900,15200
-24,Lieu-dit Grands Champs de Baunac,Tocane-Saint-Apre,24350,,,,1.87 €,4525805,50632
+24,Lieu-dit Grands Champs de Baunac,Tocane-Saint-Apre,24350,,,,1.80 €,4525805,50632
 24,Lieu-dit Le Bout de la Côte,Siorac-en-Périgord,24170,,,,,4481019,98906.999999998
 24,Bd mallebay,SAINT-ASTIER,24110,1.83 €,1.09 €,1.94 €,1.76 €,4514900,52700
 24,41 ROUTE DE RIBERAC,Marsac-sur-l'Isle,24430,,,,1.92 €,4519700,65700
