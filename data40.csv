@@ -14,7 +14,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,Boulevard des Cigales,CAPBRETON,40130,1.86 €,1.12 €,1.94 €,1.79 €,4364500,-142600
 40,Avenue de Bordeaux,Aire-sur-l'Adour,40800,1.95 €,,,1.83 €,4370739.37,-25655.32
 40,Route des Lacs,LIT-ET-MIXE,40170,1.86 €,,1.95 €,1.79 €,4402500,-125900
-40,8 D933N,LOSSE,40240,1.88 €,,1.99 €,1.80 €,4406400,-5700
+40,8 D933N,LOSSE,40240,1.89 €,1.08 €,1.99 €,1.80 €,4406400,-5700
 40,200 boulevard oscar niemeyer,Saint-Pierre-du-Mont,40280,1.84 €,1.10 €,,1.79 €,4388298.1,-51997.589
 40,ZAE Atlantisud 90 rue du pays d'orthe,Saint Geours de Maremne,40230,1.90 €,1.18 €,1.99 €,1.81 €,4371400,-123300
 40,2 Avenue de Mont de Marsan,Grenade-sur-l'Adour,40270,,,1.96 €,1.85 €,4377400,-43200
@@ -73,7 +73,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,Route de Mont-de-Marsan,SABRES,40630,,,,1.99 €,4414733.98051,-73781.9670456
 40,AUTOROUTE A65 - AIRE DE L'ADOUR,Aire-sur-l'Adour,40800,1.99 €,1.26 €,2.16 €,1.99 €,4373200,-23900
 40,Route de Monfort,MUGRON,40250,,,1.96 €,1.80 €,4374608.6877,-75802.1592231
-40,Route de Mont-de-Marsan,PISSOS,40410,,,1.95 €,,4430400,-77700
+40,Route de Mont-de-Marsan,PISSOS,40410,,,1.95 €,1.82 €,4430400,-77700
 40,43 Avenue du Maréchal Leclerc,CAPBRETON,40130,1.96 €,,2.07 €,1.89 €,4365000,-143100
 40,52 Avenue de Bordeaux,MIMIZAN,40200,1.87 €,,1.96 €,1.79 €,4420500,-122000
 40,160  route d'Estibeaux,Pouillon,40350,1.87 €,1.12 €,1.96 €,1.79 €,4360651,-99139
@@ -98,7 +98,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,C/C CD 54,SAINT-MARTIN-DE-SEIGNANX,40390,1.86 €,,1.97 €,1.79 €,4354300,-138700
 40,za LAMARRAQUE,Gabarret,40310,,,1.99 €,1.80 €,4398646,999.000000001
 40,boulevard des cigales,CAPBRETON,40130,1.85 €,,1.92 €,1.79 €,4363862.89453,-142594.959368
-40,170 Route de Sabres,LABRIT,40420,1.91 €,,1.99 €,1.86 €,4410600,-54700
+40,170 Route de Sabres,LABRIT,40420,1.91 €,,1.99 €,1.82 €,4410600,-54700
 40,67 allée de Genets,Labouheyre,40210,1.87 €,,,1.79 €,4420200,-92900
 40,AVENUE JEAN JAURES,VILLENEUVE-DE-MARSAN,40190,,,1.99 €,1.89 €,4388500,-30700
 40,2447 Route des Lacs,MESSANGES,40660,,,1.94 €,1.81 €,4379500,-138900

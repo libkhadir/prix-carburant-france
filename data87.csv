@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87, Avenue de Limoges,COUZEIX,87270,1.89 €,,1.98 €,1.82 €,4585841,124292
 87,2 Avenue Léonard Limosin,Panazol,87350,,,1.95 €,1.80 €,4582753,129180
 87,AUTOROUTE A 20,Limoges,87280,1.99 €,,2.08 €,1.98 €,4591400,129300
-87,ZAC de la fabrique  Rue de la Gare,Rochechouart,87600,1.83 €,1.12 €,1.89 €,1.77 €,4583272.8746586,83143.151685127
+87,ZAC de la fabrique  Rue de la Gare,Rochechouart,87600,,1.12 €,1.89 €,1.77 €,4583272.8746586,83143.151685127
 87,CC LE MAS CERISE,FEYTIAT,87220,1.88 €,1.12 €,1.97 €,1.80 €,4581200,132200
 87,2 Place Sadi Carnot,LIMOGES,87100,1.92 €,,2.02 €,1.83 €,4584000,125800
 87,Avenue Jean Zay,PANAZOL,87350,1.84 €,,1.89 €,1.77 €,4583200,130400
@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,1 rue René Coty,Bellac,87300,,,1.94 €,1.76 €,4612900,105500
 87,18 Route de Poitiers,BELLAC,87300,,,2.10 €,1.89 €,4612600,104400
 87,Route de Brive-Glandon,Saint-Yrieix-la-Perche,87500,1.88 €,1.10 €,1.93 €,1.79 €,4550000,120000
-87,ROUTE DE TOULOUSE,BOISSEUIL,87220,1.88 €,,1.95 €,1.81 €,4578000,130600
+87,ROUTE DE TOULOUSE,BOISSEUIL,87220,1.90 €,,1.96 €,1.80 €,4578000,130600
 87,Avenue Jules Courivaud,MAGNAC-LAVAL,87190,1.84 €,,,1.77 €,4621500,116600
 87, Avenue Jean Moulin,SAINT-LéONARD-DE-NOBLAT,87400,1.93 €,1.30 €,2.00 €,1.85 €,4583253,149798
 87,87 rue jean monet,RILHAC RANCON,87570,,,2.00 €,1.85 €,4589885,131178
