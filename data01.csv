@@ -37,7 +37,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 01,850 RD 933,Messimy-sur-Saône,01480,1.96 €,,2.07 €,1.87 €,4604981.7093241,476551.06176786
 01,Chemin de la Brunette,FERNEY-VOLTAIRE,01210,,,2.00 €,1.80 €,4625303,611817
 01,Rue Alexandre Bérard,Ambérieu-en-Bugey,01500,1.86 €,,1.93 €,1.76 €,4597200,537300
-01,RN5,SéGNY,01170,1.88 €,1.10 €,1.96 €,1.78 €,4629300,607900
+01,RN5,SéGNY,01170,1.88 €,1.10 €,1.95 €,1.77 €,4629300,607900
 01,550  RUE JEAN MERMOZ,CHâTEAU-GAILLARD,01500,,,,1.92 €,4597592,530925
 01,Lieu-Dit les Vertes Campagnes,GEX,01170,,,2.00 €,1.81 €,4632200,605300
 01,RTE DE LA CLUSE RN 84,NANTUA,01130,1.90 €,,1.97 €,1.76 €,4615800,560400
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 01,Avenue Charles de Gaulle,SAINT-VULBAS,01150,1.97 €,1.18 €,2.08 €,1.84 €,4583900,527800
 01,avenue jules pellaudin  station service total,AMBERIEU-EN-BUGEY,01500,,,1.99 €,1.90 €,4594000,537700
 01,20 Avenue du Maréchal Juin,Bourg-en-Bresse,01000,,,,1.84 €,4618800,524500
-01,1 rue des champs les terrasses,Artemare,01510,,,1.95 €,1.79 €,4587300,569800
+01,1 rue des champs les terrasses,Artemare,01510,,,1.95 €,1.76 €,4587300,569800
 01,40 Chemin de la Bergaderie,Saint-Étienne-du-Bois,01370,1.85 €,,1.93 €,1.76 €,4627000,529300
 01,Les Cézilles,Jayat,01340,,1.10 €,,1.76 €,4634600,512600
 01,184 rue du 19 mars 1962,VONNAS,01540,1.89 €,,1.96 €,1.77 €,4619800,499400
@@ -99,7 +99,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 01,148 Rue des Chalets,SAINT-GENIS-POUILLY,01630,1.88 €,,,1.76 €,4626326,602950
 01,521 ROUTE NATIONALE,La Boisse,01120,1.95 €,,2.06 €,1.85 €,4584600,504100
 01,PAE Pont de Vaux Est,Saint-Bénigne,01190,,,1.95 €,1.78 €,4644200,497000
-01,ZI DE LA SURE,St André de Corcy,01390,1.88 €,1.10 €,1.97 €,1.80 €,4593200,495800
+01,ZI DE LA SURE,St André de Corcy,01390,1.88 €,,1.97 €,1.78 €,4593200,495800
 01,AVENUE PIERRE MARCAULT,Châtillon-sur-Chalaronne,01400,1.85 €,,,1.76 €,4611700,495000
 01,69 Rue de la République,Bellegarde-sur-Valserine,01200,1.93 €,,2.02 €,1.82 €,4610600,582300
 01,1029 ROUTE DE MARBOZ-LOUHANS,VIRIAT,01440,,,,1.85 €,4623800,522800
