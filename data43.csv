@@ -1,10 +1,10 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-43,17 Avenue des Champs Élysées,Chadrac,43770,1.88 €,,1.98 €,1.76 €,4505300,390000
+43,17 Avenue des Champs Élysées,Chadrac,43770,1.89 €,,1.99 €,1.77 €,4505300,390000
 43,AVENUE JEAN JAURES,Brioude,43100,,,,1.87 €,4528900,336900
-43,106 Avenue Maréchal Foch,Le Puy-en-Velay,43000,1.91 €,1.18 €,1.99 €,1.78 €,4503269,388591
+43,106 Avenue Maréchal Foch,Le Puy-en-Velay,43000,1.91 €,1.18 €,1.99 €,1.79 €,4503269,388591
 43,Avenue de Firminy,AUREC-SUR-LOIRE,43110,1.94 €,,2.11 €,1.93 €,4536955,420235
 43,AVENUE JEANNE D'ARC,VALS-PRèS-LE-PUY,43750,1.90 €,,2.00 €,1.80 €,4502721.00503,388039.236649
-43,16 Avenue de Bonneville,Aiguilhe,43000,1.89 €,,1.98 €,1.76 €,4505000,388800
+43,16 Avenue de Bonneville,Aiguilhe,43000,1.89 €,,1.98 €,1.77 €,4505000,388800
 43,RN 102,Lempdes-sur-Allagnon,43410,1.99 €,,1.99 €,1.86 €,4537333.9170287,329077.39014871
 43,rue jean martouret,MONISTROL-SUR-LOIRE,43120,,,,1.82 €,4529070.447,416960.856
 43,AIRE LAFAYETTE,Lorlanges,43360,2.23 €,,,2.08 €,4533778.4769877,327418.93643043
@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 43,44 Rue de Saint-Agrève,Tence,43190,,,,1.80 €,4510855.2970837,429583.88576009
 43,9 av Cévennes,Montfaucon-en-Velay,43290,,,,1.90 €,4518157,431425
 43,56 AVENUE D'AUVERGNE,LANGEAC,43300,1.96 €,,2.00 €,1.81 €,4511223.5456512,349137.07320236
-43,Avenue Léon Blum,Brioude,43100,1.95 €,,2.05 €,1.80 €,4528982,338717
+43,Avenue Léon Blum,Brioude,43100,,,2.05 €,1.80 €,4528982,338717
 43,95 RUE VIA FLUVIA ZA VERCHERES,Yssingeaux,43200,,,,,4515973.31798,413915.467772
 43,za de leygat,TENCE,43190,,,,1.79 €,4510100,432100
 43,Route de Clermont,BRIOUDE,43100,,,2.00 €,1.78 €,4531100,337500
@@ -42,8 +42,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 43,RUE DE L'AVIATION,Chaspuzac,43320,1.89 €,1.27 €,1.97 €,1.78 €,4507186.1817888,376132.53445038
 43,La Buge,Saint-Georges-d'Aurac,43230,,,,1.86 €,4514400,354300
 43,15 Avenue Alfred de Vissaguet,Bas-en-Basset,43210,1.94 €,,,1.80 €,4530300,411400
-43,Lieu-dit Chanibeau,Sainte-Sigolène,43600,1.87 €,,1.93 €,,4525100,421500
-43,route du Puy,Saugues,43170,1.99 €,,2.08 €,1.87 €,4495871,354987
+43,Lieu-dit Chanibeau,Sainte-Sigolène,43600,1.87 €,,1.93 €,1.78 €,4525100,421500
+43,route du Puy,Saugues,43170,1.99 €,,1.99 €,1.87 €,4495871,354987
 43,1 Avenue de Coubon,BRIVES-CHARENSAC,43700,1.89 €,,1.98 €,1.77 €,4504800,391700
 43,25 AVENUE PIERRE CHABANNES,Vorey,43800,,,,1.90 €,4518400,391100
 43,Rue Jean-Baptiste Ribeyron,RETOURNAC,43130,1.92 €,,,1.79 €,4521100,403000

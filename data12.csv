@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,280 Rue de la Renaissance,Decazeville,12300,1.88 €,,1.94 €,1.79 €,4455913.1275643,225812.46898855
 12,37 Boulevard Paul Ramadier,CAPDENAC-GARE,12700,1.86 €,,1.93 €,1.74 €,4457100,207500
 12,Espace Les Cayres,Laguiole,12210,,,1.98 €,1.84 €,4468300,285100
-12,Zone de Laubarède,Viviez,12110,1.84 €,1.10 €,,1.75 €,4456000,222400
+12,Zone de Laubarède,Viviez,12110,1.86 €,1.10 €,,1.79 €,4456000,222400
 12,LE MOULIN DE GARY,Sévérac d'Aveyron,12150,,,,1.87 €,4432989.0067081,305290.5638624
 12,route d#039;estaing,Espalion,12500,1.92 €,1.20 €,2.00 €,1.80 €,4452300,276300
 12,Z.A. Bel air,Camarès,12360,1.90 €,,,1.77 €,4383200,287300
@@ -71,7 +71,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Avenue d'Espalion,Saint-Geniez-d'Olt,12130,1.88 €,,1.95 €,1.77 €,4446000,296500
 12,37 AVENUE DE PARIS,Sévérac d'Aveyron,12150,,,,1.90 €,4432932.8023609,306931.6338544
 12,le fargal haut,Montbazens,12220,,1.12 €,,1.87 €,4446138.9568938,222235.07921239
-12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,2.00 €,1.90 €,4483700,266300
+12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,2.02 €,1.90 €,4483700,266300
 12,9 Avenue des Croates,VILLEFRANCHE-DE-ROUERGUE,12200,1.98 €,,2.09 €,1.85 €,4436100,204100
 12,30 Avenue du Rouergue,BERTHOLèNE,12310,,,2.16 €,1.87 €,4439367,277776
 12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.95 €,1.74 €,4409065,307745
@@ -80,7 +80,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Z.A. PLAISANCE,Cassagnes-Bégonhès,12120,2.00 €,,,1.84 €,4417642.425,252119.462
 12,ZA le Plâ d'Aveyron RN88,Recoules-Prévinquières,12150,,1.37 €,,1.84 €,4435100,297200
 12,PARC ARTISANAL COMMUNAL ST FERREOL,Saint-Rome-de-Tarn,12490,,,2.08 €,1.82 €,4404300,290500
-12,FOISSAC,Villeneuve,12260,1.99 €,,2.06 €,1.87 €,4443900,202800
+12,FOISSAC,Villeneuve,12260,1.99 €,,1.99 €,1.87 €,4443900,202800
 12,Route de Rodez,BOZOULS,12340,1.92 €,,2.00 €,1.80 €,4446300,272700
 12,24 Avenue de la Gineste,RODEZ,12000,2.13 €,,2.20 €,1.95 €,4436200,256700
 12,10 AV.DE TOULOUSE,Luc-la-Primaube,12450,,,1.99 €,1.88 €,4429202,255855
