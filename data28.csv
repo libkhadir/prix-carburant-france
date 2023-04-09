@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,ROUTE D'OULINS,ANET,28260,,,,,4885987.1629,144818.033753
 28,2 Rue Louis Fauvel,Vernouillet,28500,,,,,4873200,134100
-28,zac du debucher,ANET,28260,1.92 €,,,1.78 €,4885400,144300
+28,zac du debucher,ANET,28260,1.94 €,,,1.79 €,4885400,144300
 28,Route d'Anet,Saussay,28260,,,,1.81 €,4885967,142303
 28,34 rue jean mermoz,chartres,28000,,,,1.73 €,4845000,150600
 28,AUTOROUTE A11 OCEANE,Dampierre-sous-Brou,28160,2.07 €,,2.18 €,1.90 €,4824000,108300
@@ -33,9 +33,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,route de romilly,Cloyes-sur-le-Loir,28220,,,,1.75 €,4799000,125600
 28,Route de Patay,CHARTRES,28000,1.86 €,1.10 €,,1.74 €,4843240.14794,149271.484815
 28,RD 923 - ROUTE DU MANS,AMILLY,28300,1.89 €,1.10 €,,1.73 €,4843692.6238406,142376.84459686
-28,rue Loigny La Bataille,VOVES,28150,1.92 €,,,1.77 €,4826800,163200
+28,rue Loigny La Bataille,VOVES,28150,,,,1.77 €,4826800,163200
 28,Rue Denis Papin,Voves,28150,1.88 €,1.10 €,,1.74 €,4827900,162300
-28,AV FRANCOIS ARAGO,CHARTRES,28000,1.89 €,,,1.73 €,4843500,152100
+28,AV FRANCOIS ARAGO,CHARTRES,28000,,,,1.73 €,4843500,152100
 28,54 route de la Ferté Vidame,Senonches,28250,1.90 €,,,1.77 €,4857000,102400
 28,RN 12 (COTE SUD),Vert-en-Drouais,28500,1.99 €,,,1.89 €,4874800,127100
 28,101 Avenue de la République,Luisant,28600,,,,1.84 €,4841700,146500
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Rue de la Baronnie,SAINT-LUBIN-DES-JONCHERETS,28350,1.89 €,,,1.77 €,4876700,119600
 28,19 Rue de Verdun,Lormaye,28210,1.99 €,,,1.90 €,4865000,153800
 28,Rue Bautzen,DREUX,28100,1.90 €,,,1.77 €,4873700,135100
-28,RUE DE CHAVANNE,Morancez,28630,1.87 €,,,1.73 €,4840600,149100
+28,RUE DE CHAVANNE,Morancez,28630,1.88 €,,,1.74 €,4840600,149100
 28,rue de beauce,Courville-sur-Eure,28190,1.88 €,,,1.75 €,4845000,125400
 28,14 Avenue du Général de Gaulle,Janville,28310,1.84 €,,1.94 €,1.78 €,4819700,189200
 28,Rue des Bas Buissons,DREUX,28100,1.90 €,,,1.78 €,4874800,134400
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Aire de Bois-Paris A11 Sens Province/Paris,Gasville-Oisème,28300,2.20 €,,2.32 €,1.97 €,4846700,157900
 28,CHEMIN DEPARTEMENTAL 9,LA BAZOCHE-GOUET,28330,1.88 €,,,1.75 €,4814400,97200
 28,Zac du Pays Alnelois,AUNEAU,28700,1.89 €,1.09 €,1.97 €,1.75 €,4847828.31809,176803.811395
-28,2 rue denis papin za de la louveterie,BONNEVAL,28800,1.89 €,,,1.75 €,4818700,139100
+28,2 rue denis papin za de la louveterie,BONNEVAL,28800,,,,1.75 €,4818700,139100
 28,25 RUE D'ORLEANS,SANCHEVILLE,28800,1.93 €,,,1.83 €,4819150.25,157898.29
 28,id Brieure,VICHèRES,28480,1.99 €,,2.12 €,1.90 €,4826100.1765,91270.6192178
 28,RN 12 COTE NORD,Vert-en-Drouais,28500,1.91 €,1.16 €,,1.78 €,4876000,124000
