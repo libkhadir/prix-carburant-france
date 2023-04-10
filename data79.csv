@@ -1,12 +1,12 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-79,Route de la rochelle  lieu-dit les grues,Bessines,79000,1.88 €,1.05 €,1.94 €,1.72 €,4628911.1819782,-51087.009183311
+79,Route de la rochelle  lieu-dit les grues,Bessines,79000,1.88 €,1.05 €,1.94 €,1.73 €,4628911.1819782,-51087.009183311
 79,46 route de ST-MAIXENT,POMPAIRE,79200,,,1.95 €,1.75 €,4660940.29,-23516.606
 79,226 Avenue de la Rochelle,Niort,79000,,,,,4631087,-48038
 79,30 PLACE DE L HOTEL DE VILLE,Thénezay,79390,,,2.00 €,1.81 €,4671900,-2600
 79,1 Avenue François Mitterrand,Parthenay,79200,1.87 €,,1.95 €,1.73 €,4664500,-25300
 79,Avenue Clément Pineau,SAINT-LéGER-DE-LA-MARTINIèRE,79500,1.87 €,1.09 €,,1.73 €,4622700,-12700
 79,27 Boulevard de l'Europe,BRESSUIRE,79300,1.90 €,,,1.75 €,4683500,-48200
-79,50  RUE DE LA GRANGE LUCAS,CHAMPDENIERS-SAINT-DENIS,79220,1.89 €,1.06 €,,1.74 €,4648800,-39800
+79,50  RUE DE LA GRANGE LUCAS,CHAMPDENIERS-SAINT-DENIS,79220,,1.06 €,,1.74 €,4648800,-39800
 79,A10 AIRE DE ROUILLE PAMPROUX SUD,Pamproux,79800,2.07 €,,2.14 €,1.96 €,4645184.5219877,-1597.7181017418
 79,LA COLONNE,MELLE,79500,,,,1.86 €,4622500,-14100
 79,c commercial geant casino route de paris,Chauray,79180,1.90 €,,2.00 €,1.75 €,4634200,-37700
@@ -50,7 +50,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,Avenue de Royan,Brioux-sur-Boutonne,79170,1.86 €,1.10 €,,1.73 €,4614000,-22100
 79,1 impasse des Acacias,BEAUVOIR-SUR-NIORT,79360,1.88 €,1.10 €,,1.73 €,4618400,-47200
 79,Rue du Pont Cadoret,Argenton-les-Vallées,79150,,,,1.95 €,4698633,-44223.000000005
-79,PLACE DU MARCHE,SECONDIGNY,79130,1.87 €,,,1.74 €,4661100,-41900
+79,PLACE DU MARCHE,SECONDIGNY,79130,,,,1.74 €,4661100,-41900
 79,la Plaine d'Azia,Azay-le-Brûlé,79400,1.88 €,,,1.74 €,4640727,-22500
 79,17 Place Cail,CHEF-BOUTONNE,79110,1.87 €,,1.96 €,1.76 €,4610800,-6800
 79,Avenue de la Gare,CERIZAY,79140,,,,1.87 €,4681800,-66600
@@ -61,7 +61,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,Avenue des Platanes,SAINT-VARENT,79330,1.87 €,,1.96 €,1.77 €,4689400,-23400
 79,Route de Poitiers,Airvault,79600,1.91 €,,1.98 €,1.77 €,4682500,-12900
 79,130 Avenue de Nantes,NIORT,79000,1.90 €,,2.00 €,1.75 €,4634300,-49400
-79,580  avenue de Paris,Niort,79000,1.88 €,1.05 €,,1.72 €,4633666.9152692,-41352.274430541
+79,580  avenue de Paris,Niort,79000,1.88 €,1.05 €,,1.73 €,4633666.9152692,-41352.274430541
 79,2 rue de la taillee,L'Absie,79240,2.00 €,,,1.87 €,4663924.48,-59220.28
 79,7 voie Charles VII,Saint-Maixent-l'École,79400,1.88 €,,1.93 €,1.74 €,4641800,-19500
 79,BD DU THOUET,CHATILLON SUR THOUET,79200,,,2.06 €,1.95 €,4666100,-23900

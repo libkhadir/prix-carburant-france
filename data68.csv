@@ -59,7 +59,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 68,1 Rue de Seville,SAINT-LOUIS,68300,1.87 €,,,1.79 €,4760519.4988,754311.190391
 68,53 Rue du Rhin,Bitschwiller-lès-Thann,68620,,,1.93 €,1.82 €,4782000,708300
 68,45 Rue d'illzach,KINGERSHEIM,68260,1.85 €,1.14 €,1.94 €,1.78 €,4779100,734200
-68,73 Grand'Rue,Horbourg-Wihr,68180,1.87 €,1.26 €,1.95 €,1.79 €,4808000,739800
+68,73 Grand'Rue,Horbourg-Wihr,68180,1.88 €,1.26 €,1.96 €,1.79 €,4808000,739800
 68,Boulevard Stoessel,MULHOUSE,68200,,,,,4774185,732290
 68,24 Boulevard des Nations,MULHOUSE,68200,,,,,4773658,730197
 68,37 Rue de Kingersheim,Wittenheim,68270,1.88 €,1.22 €,1.96 €,1.81 €,4780600,733700
@@ -106,7 +106,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 68,51 Rue du Général de Lattre de Tassigny,MUNSTER,68140,1.94 €,1.11 €,1.99 €,1.88 €,4804100,715500
 68, Rue de la Gare,ENSISHEIM,68190,,,1.94 €,1.78 €,4786651,734353
 68,12 Rue de l'Industrie,Ribeauvillé,68150,1.85 €,1.08 €,,1.76 €,4819200,733800
-68,10 RTE DE STRASBOURG,COLMAR,68000,1.86 €,,,1.77 €,4809100,736600
+68,10 RTE DE STRASBOURG,COLMAR,68000,,,,,4809100,736600
 68,130 Route de Soultz,WITTENHEIM,68270,1.87 €,1.12 €,1.94 €,1.81 €,4780800,731200
 68,1 rue de Mulhouse,Horbourg-Wihr,68180,,,,1.76 €,4807303.92,740098.27
 68,Faubourg de Belfort,CERNAY,68700,1.94 €,,1.99 €,1.84 €,4779500,717200

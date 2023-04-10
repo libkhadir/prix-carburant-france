@@ -10,7 +10,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,ROUTE DE CAEN,Douvres-la-Délivrande,14440,1.98 €,,,1.86 €,4928881,-37839
 14,ZA LA CROIX BOUCHER,Évrecy,14210,1.89 €,,1.98 €,1.78 €,4910372,-50006
 14,9 Rue du 19 Mars 1962,Saint-Martin-des-Besaces,14350,1.98 €,,1.99 €,1.87 €,4901100,-85200
-14,Impasse des Goélands,Port-en-Bessin-Huppain,14520,1.89 €,,,1.75 €,4934231,-75209.000000004
+14,Impasse des Goélands,Port-en-Bessin-Huppain,14520,,,,1.75 €,4934231,-75209.000000004
 14,Route de Paris,TOUQUES,14800,1.90 €,,,1.76 €,4935023,9044
 14,PARC DU GRIEU - ROUTE DE LISIEUX,Pont-l'Évêque,14130,1.89 €,1.10 €,,1.74 €,4928540.59,20427.899
 14,BOULEVARD DE LA FLECHE,Thury-Harcourt,14220,,1.15 €,2.04 €,1.78 €,4898100,-47700
@@ -42,7 +42,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,69 Avenue du Capitaine Georges Guynemer,Caen,14000,1.90 €,1.10 €,1.98 €,1.77 €,4916905,-34422
 14,33 RUE AMIRAL HAMELIN,Pont-l'Évêque,14130,1.89 €,1.12 €,1.97 €,1.75 €,4928800,18900
 14,Boulevard Henri Becquerel,Hérouville-Saint-Clair,14200,2.00 €,,2.07 €,1.82 €,4921100,-35400
-14,1 Boulevard du 21e siecle les Sauts casris,Villers-Bocage,14310,,,1.98 €,1.77 €,4907800,-64500
+14,1 Boulevard du 21e siecle les Sauts casris,Villers-Bocage,14310,,,,1.77 €,4907800,-64500
 14,15 AVENUE MAURICE SCHUMANN,Asnelles,14960,1.90 €,,,1.85 €,4933900,-58000
 14,Route de Lisieux,Livarot,14140,1.90 €,,,1.77 €,4900848,15134
 14,31 Boulevard de la Paix,Hérouville-Saint-Clair,14200,,,,1.77 €,4918900,-33300
@@ -64,9 +64,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,Rue de Vire,SAINT-SEVER-CALVADOS,14380,,,2.05 €,1.96 €,4884000,-104300
 14,73-75  AVENUE G. CLEMENCEAU,CAEN,14000,1.99 €,,1.99 €,1.86 €,4918856,-35025
 14,84 Route de Caen,Ouistreham,14150,1.92 €,,2.00 €,1.78 €,4927100,-26100
-14,106  RUE DU GENERAL DE GAULLE,Dives-sur-Mer,14160,1.99 €,,1.99 €,1.87 €,4928517,-10960
 14,RN 158 RTE DE FALAISE,IFS,14123,1.90 €,,1.97 €,1.76 €,4914210,-33738.5
 14,389  ROUTE DE CAEN - RN 158,IFS,14123,1.99 €,1.09 €,1.99 €,1.86 €,4915400.414,-34387.914
+14,106  RUE DU GENERAL DE GAULLE,Dives-sur-Mer,14160,1.99 €,,,1.87 €,4928517,-10960
 14,ROUTE DE BRETAGNE,Bretteville-sur-Odon,14760,1.90 €,1.12 €,1.99 €,1.76 €,4916575,-41597
 14, Route de Putanges,FALAISE,14700,,,,,4888474,-20334
 14,AVENUE DE LA REPUBLIQUE,TOURGEVILLE,14800,1.98 €,1.12 €,1.99 €,1.86 €,4935124,5730
@@ -105,8 +105,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,Avenue Georges Pompidou,LISIEUX,14100,,,,,4913347,22452
 14,45 ROUTE D'OMAHA,Sainte-Honorine-des-Pertes,14520,,,,1.93 €,4934761,-80672
 14,RUE HECTOR MALOT,Bretteville-l'Orgueilleuse THUE ET MUE,14740,1.90 €,1.12 €,1.98 €,1.77 €,4921542.4329864,-50491.688137538
-14,RD 400,CABOURG,14390,,,2.01 €,1.80 €,4928814,-12678
 14,Route de rouen,Troarn,14670,1.91 €,,,1.78 €,4918200,-18200
+14,RD 400,CABOURG,14390,,,,1.80 €,4928814,-12678
 14,VOIE DU DEBARQUEMENT,Bernières-sur-Mer,14990,,,,1.82 €,4933400,-41300
 14,3 route de caen,PONT-FARCY,14380,,,,1.89 €,4893800,-103300
 14,Route de Rouen,Pont-l'Évêque,14130,1.89 €,,,1.74 €,4929235,19338
@@ -120,5 +120,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 14,18 Grande Rue,DOZULé,14430,,,1.95 €,1.77 €,4923100,-4400
 14,Avenue Jean Vilar - Boulevard Yitzhak Rabin ZAC du Hoguet,IFS,14123,1.92 €,1.17 €,,1.78 €,4915000,-35200
 14,CTRE CIAL EINDHOVEN RTE DE VAUX/AURE,Bayeux,14400,1.91 €,,2.00 €,1.78 €,4928800,-70400
-14,rue de la gare,LE MOLAY-LITTRY,14330,1.89 €,1.10 €,1.98 €,1.75 €,4924800,-87800
+14,rue de la gare,LE MOLAY-LITTRY,14330,1.89 €,1.10 €,,1.75 €,4924800,-87800
 14,Lieu dit le plain chêne,Saint-Gatien-des-Bois,14130,1.98 €,1.11 €,,1.85 €,4936978.8938573,20111.980321583
