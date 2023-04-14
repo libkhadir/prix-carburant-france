@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Route de Rutali,BIGUGLIA,20620,,,,1.90 €,4259400,943700
 20,RTE N 196,Petreto-Bicchisano,20140,,,,1.90 €,4178547,897933
 20,RTE N 198,Porto-Vecchio,20137,,,,1.89 €,4160400,927700
-20,Route de Sagone,ALATA,20167,,,,1.84 €,4196500,878200
+20,Route de Sagone,ALATA,20167,,,,1.85 €,4196500,878200
 20,358 San Cipriano,Lecci,20137,,,,1.90 €,4163900,933600
 20,Place Saint Damien,Sartène,20100,,,,1.91 €,4161900,896800
 20,PORTO POLLO,Serra-di-Ferro,20156,,,,1.91 €,4170911,879260
@@ -40,12 +40,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,avenue napoleon III,AJACCIO,20000,,,,1.89 €,4192500,873400
 20,LIEU DIT MOLENDINU,ste lucie de porto vecchio,20144,,,,1.90 €,4170000,934800
 20,Route du Bord de Mer,Ajaccio,20090,,,,1.90 €,4193336,874403
-20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.92 €,4263200,894500
+20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.91 €,4263200,894500
 20,Les Marines de Porticcio - Commune de Grosseto-Prugna,PORTICCIO,20166,,,,1.88 €,4188730,880770
 20,SASU CORSICA MODELISME,SAN-NICOLAO,20230,,,,1.89 €,4236800,950700
 20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.86 €,4184900,940000
-20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.85 €,4192900,876200
-20,RD 31 lieu dit Manicola Vecchia,AJACCIO,20090,,,,1.84 €,4195100,878000
+20,RD 31 lieu dit Manicola Vecchia,AJACCIO,20090,,,,1.85 €,4195100,878000
+20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.83 €,4192900,876200
 20,RUE U FONDU,CALENZANA,20214,,,,1.90 €,4250800,885200
 20,rond point du fango avenue jean zuccarelli,Bastia,20200,,,,1.91 €,4270358.1401618,944219.35452675
 20,sennola,BONIFACIO,20169,,,,1.88 €,4139100,916500
@@ -66,9 +66,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,4 QUARTIER ST JOSEPH,Propriano,20110,,,,1.89 €,4167200,890900
 20,Avenue de la Libération. Immeuble Santa Maria,BASTIA LUPINU,20600,,,,1.90 €,4267927.5416212,944309.56412724
 20,T 10,PRUNETE,20221,,,,1.84 €,4232500,953900
-20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.83 €,4197962.0445374,883383.448204
+20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.85 €,4197962.0445374,883383.448204
 20,I BAGNI,Guitera-les-Bains,20153,,,,1.88 €,4190100,909800
-20,Aspretto,AJACCIO,20000,,,,1.85 €,4192900,876800
+20,Aspretto,AJACCIO,20000,,,,1.83 €,4192900,876800
 20,RT 20,Ponte-leccia,20218,,,,1.88 €,4246700,920900
 20,AVENUE SAPIERO CORSU,BASTIA,20600,,,,1.90 €,4267700,944400
 20,Avenue de la République,CORTE,20250,,,,1.91 €,4231350.70462,915173.144133
@@ -88,7 +88,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Station TOTAL - RN 198 - FOLELLI,Penta-di-Casinca,20213,,,,1.88 €,4244600,950800
 20,BODICCIONE,Ajaccio,20090,,,,1.83 €,4193484,874775
 20,Boulevard Louis Campi,Ajaccio,20090,2.00 €,,,1.90 €,4194385,875484
-20,Hotel des Calanches,Piana,20115,,,,2.00 €,4223728.0621206,863583.71530654
+20,Hotel des Calanches,Piana,20115,,,,1.90 €,4223728.0621206,863583.71530654
 20,Allée des Chênes,Levie,20170,,,,1.86 €,4170379.437476,912330.89279334
 20,520 Avenue du 9 Septembre,Ghisonaccia,20240,,,,1.84 €,4201351.1447946,940397.08675736
 20,Lieu dit Fango - D81,GALERIA,20245,,,,2.25 €,4240213.638648,869797.43018495
@@ -110,8 +110,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Avenue Christophe Colomb,Calvi,20260,,,,1.79 €,4256100,875500
 20,Casamozza - RN 193,Lucciana,20290,,,,1.88 €,4252490,944070
 20,14 route du cap,Ville-di-Pietrabugno,20200,,,,1.91 €,4250239.5368601,937830.99000001
+20,Cala Longa,Bonifacio,20169,,,,1.89 €,4139200,916600
 20,Station TOTAL - relais de la balagne ,CALVI,20260,,,,1.92 €,4256429,875541
-20,Cala Longa,Bonifacio,20169,,,,1.90 €,4139200,916600
 20,RN 198,Ghisonaccia,20240,,,,1.86 €,4201700,940600
 20,Centre Ville,SAINT-FLORENT,20217,,,,1.89 €,4268100,930400
 20,Route Calvi,Saint-Florent,20217,,,,1.90 €,4267287.4388789,930196.04991978
@@ -127,5 +127,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Route de Bonifacio,Porto-Vecchio,20137,,,,1.92 €,4157100,927300
 20,rond point de ponte leccia,Ponte-Leccia,20218,,,,1.88 €,4246274,920667
 20,RN 193,FURIANI,20600,,,,1.90 €,4265300,944000
-20,VIGNETTA ROUTE DE CAMPO DELL ORO BP580,Ajaccio,20090,,,,1.84 €,4192700,878400
+20,VIGNETTA ROUTE DE CAMPO DELL ORO BP580,Ajaccio,20090,,,,1.83 €,4192700,878400
 20,Santa Severa,LURI,20228,,,,1.91 €,4288780.0122102,947310.06942498
