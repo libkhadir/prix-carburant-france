@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,633 route de villefranche,Anse,69480,,,2.01 €,1.87 €,4594300,471500
-69,BD JOLIOT CURIE,VéNISSIEUX,69200,1.93 €,,1.98 €,1.78 €,4571770.4140586,487305.45992255
+69,BD JOLIOT CURIE,VéNISSIEUX,69200,1.90 €,,1.96 €,1.77 €,4571770.4140586,487305.45992255
 69,1880 route de strasbourg,Rillieux-la-Pape,69140,,,,1.87 €,4581300,488800
 69,Route d'Heyrieux,Saint-Pierre-de-Chandieu,69780,1.97 €,1.14 €,2.04 €,1.81 €,4564700,502500
 69,7 Avenue Édouard Herriot,Tarare,69170,1.91 €,,2.00 €,1.78 €,4589200,444200
@@ -123,7 +123,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,141 Boulevard Émile Zola,Oullins,69600,1.88 €,,1.93 €,1.78 €,4572100,479500
 69,22 Rue Philippe de Lassalle,Lyon,69004,1.91 €,1.15 €,,1.77 €,4577600,482100
 69,283 RTE DE GENAS,VILLEURBANNE,69100,1.91 €,,1.99 €,,4574977,491257
-69,Avenue du Bon Pasteur,ÉCULLY,69130,1.93 €,1.16 €,2.00 €,1.79 €,4578700,477700
+69,Avenue du Bon Pasteur,ÉCULLY,69130,1.90 €,1.16 €,1.96 €,1.78 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.91 €,,,1.78 €,4577900,477900
 69,110 BD DU 11 NOVEMBRE 1918,VILLEURBANNE,69100,2.03 €,,2.15 €,1.90 €,4577900,487100
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.97 €,1.20 €,2.07 €,1.80 €,4570300,485000
@@ -132,7 +132,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,112 Boulevard Irène Joliot-Curie,Vénissieux,69200,1.91 €,,,1.77 €,4571000,488300
 69,61 Avenue de la République,VéNISSIEUX,69200,2.00 €,,2.12 €,1.82 €,4570543,487794
 69,Route de Lyon,Fleurieu-sur-Saône,69250,1.97 €,,2.07 €,1.83 €,4585511.0976539,483986.80314607
-69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.91 €,1.19 €,,1.78 €,4581200,460100
+69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.92 €,1.19 €,,1.78 €,4581200,460100
 69,15 Avenue Édouard Millaud,Craponne,69290,1.94 €,,,1.79 €,4574700,474100
 69,49 Avenue de Verdun,Meyzieu,69330,1.92 €,,,1.79 €,4577600,499100
 69,145 Boulevard de l'Europe,Pierre-Bénite,69310,1.95 €,,,1.81 €,4569600,482600

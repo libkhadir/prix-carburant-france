@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,Route de Brive-Glandon,Saint-Yrieix-la-Perche,87500,1.90 €,1.10 €,1.97 €,1.77 €,4550000,120000
 87,Route de Lavergne,Saint-Sornin-Leulac,87290,1.99 €,,2.02 €,1.96 €,4619812.2226252,130553.75797584
 87,18 Route de Poitiers,BELLAC,87300,,,1.99 €,1.87 €,4612600,104400
-87,ROUTE DE TOULOUSE,BOISSEUIL,87220,1.95 €,,2.02 €,1.80 €,4578000,130600
+87,ROUTE DE TOULOUSE,BOISSEUIL,87220,1.92 €,,1.99 €,1.79 €,4578000,130600
 87,Avenue Jules Courivaud,MAGNAC-LAVAL,87190,1.90 €,,,1.74 €,4621500,116600
 87, Avenue Jean Moulin,SAINT-LéONARD-DE-NOBLAT,87400,1.98 €,1.30 €,2.09 €,1.80 €,4583253,149798
 87,87 rue jean monet,RILHAC RANCON,87570,,,2.00 €,1.85 €,4589885,131178
@@ -59,7 +59,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,37  route de la Gare,MAGNAC-BOURG,87380,1.94 €,1.10 €,1.99 €,1.80 €,4561900,143800
 87,14 Rue Georges BRIQUET,LIMOGES,87100,1.89 €,1.10 €,2.00 €,1.75 €,4584000,123500
 87,Faubourg de la Porte de Dinsac,LE DORAT,87210,1.90 €,,,1.74 €,4621632,108409
-87,RN 20 - Croix du Breuil,Bessines-sur-Gartempe,87250,,,,1.77 €,4613182,137253
+87,RN 20 - Croix du Breuil,Bessines-sur-Gartempe,87250,,,,,4613182,137253
 87,47  Avenue Winston Churchill,FEYTIAT,87220,1.99 €,,,1.90 €,4581270.9243144,133155.78994751
 87,Avenue de Périgueux,SAINT-YRIEIX-LA-PERCHE,87500,,,1.95 €,1.77 €,4550400,120100
 87,23 BEAULIEU,Bussière-Poitevine,87320,,,2.12 €,1.98 €,4623200,89800

@@ -60,7 +60,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Route de Taisnil,SALEUX,80480,1.90 €,,1.99 €,1.79 €,4986238,223121
 80,76 ROUTE FLANDRE DUNKERQUE,DOULLENS,80600,1.99 €,,,1.85 €,5016200,235500
 80,Zone Commerciale chemin croisé de bellevue,ALBERT,80300,1.91 €,1.10 €,1.98 €,1.77 €,4999400,265700
-80,205 BLD DE LA REPUBLIQUE,ABBEVILLE,80100,1.90 €,1.08 €,1.97 €,1.75 €,5011300,182900
+80,205 BLD DE LA REPUBLIQUE,ABBEVILLE,80100,1.90 €,1.08 €,,1.75 €,5011300,182900
 80,164 AV DU GENERAL FAIDHERBE,ALBERT,80300,1.99 €,,,1.88 €,5000800,266600
 80,Route d'Aumale,Morvillers-Saint-Saturnin,80290,1.99 €,,1.99 €,1.85 €,4977800,182200
 80,Rue de la Gare,DOULLENS,80600,1.90 €,1.10 €,1.98 €,1.76 €,5016000,234200
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Avenue des Australiens,Péronne,80200,,,,,4994186,294077
 80,rue charles de gaulle,Gamaches,80220,,,2.00 €,1.79 €,4998297.73,156231.03625
 80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,2.06 €,1.23 €,2.10 €,1.94 €,4988879.2881616,284077.70993548
-80,2 Route de Normandie,Salouël,80480,1.92 €,,2.00 €,1.81 €,4987000,224100
+80,2 Route de Normandie,Salouël,80480,1.91 €,,1.99 €,1.81 €,4987000,224100
 80,ZI IMPASSE DU MOULIN,ROYE,80700,1.89 €,,,1.74 €,4970300,278100
 80,Avenue du Président Roosevelt,Bouttencourt,80220,,,1.94 €,1.76 €,4993908,162364
 80,AUTOROUTE A 1,Péronne,80200,2.06 €,,2.17 €,1.92 €,4988700,283700

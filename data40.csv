@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,STATION TOTAL,SAUGNAC-ET-CAMBRAN,40180,1.99 €,,1.99 €,1.87 €,4368334.7419,-99557.445703
 40,RUE CHANZY,TARTAS,40400,1.99 €,,1.99 €,1.86 €,4382900,-80400
 40,Avenue du 1er Mai,TARNOS,40220,,1.23 €,,1.87 €,4354900,-148600
-40,RN 10 56 bd jacques duclos,Tarnos,40220,1.94 €,,2.03 €,1.80 €,4352400,-146400
+40,RN 10 56 bd jacques duclos,Tarnos,40220,1.92 €,,2.01 €,1.78 €,4352400,-146400
 40,Avenue du Tursan,Hagetmau,40700,,,2.02 €,1.79 €,4365700,-58000
 40,AVENUE DE MARSAN,SARBAZAN,40120,1.90 €,,,1.76 €,4401853.84,-31264.28
 40,1 rue Brémontier,Ychoux,40160,,,,1.96 €,4432700,-94400
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,C/C Les Grands Carolins,Morcenx,40110,,,1.98 €,1.78 €,4403053.1149603,-92438.932742829
 40,13  avenue de la Plage,Mimizan,40200,1.93 €,1.25 €,,1.89 €,4420700,-124300
 40,Lieudit Lamarque - Route d'Hagetmau,Samadet,40320,1.98 €,,,1.80 €,4363800,-50300
-40,Chemin de Perrot,Aire-sur-l'Adour,40800,1.98 €,1.02 €,2.13 €,1.81 €,4371700,-26900
+40,Chemin de Perrot,Aire-sur-l'Adour,40800,1.97 €,1.20 €,2.08 €,1.82 €,4371700,-26900
 40,27 Avenue du Général de Gaulle,Tosse,40230,1.89 €,,1.99 €,1.75 €,4368939.2196756,-133300.44457269
 40,Route de Parentis,BISCARROSSE,40600,,,2.00 €,1.80 €,4438310,-114726
 40,760 Avenue du Maréchal Juin,MONT-DE-MARSAN,40000,1.89 €,1.12 €,1.99 €,1.76 €,4390200,-48100
@@ -93,7 +93,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,route de tarbes,Aire-sur-l'Adour,40800,1.97 €,,2.08 €,1.82 €,4373203,-26679
 40,129 Rue Victor Hugo,TARTAS,40400,1.90 €,1.10 €,,1.77 €,4386062.2025,-88263.8340499
 40,600 AVENUE DE SAINT SEVER,Saint-Pierre-du-Mont,40280,1.92 €,1.16 €,1.99 €,1.77 €,4387600,-50700
-40,rue des morilles,LINXE,40260,1.87 €,,2.00 €,1.75 €,4392800,-125500
+40,rue des morilles,LINXE,40260,1.87 €,,1.97 €,1.77 €,4392800,-125500
 40, Route de la Parcelle,Dax,40100,1.90 €,1.10 €,1.95 €,1.76 €,4369283,-105422
 40,C/C CD 54,SAINT-MARTIN-DE-SEIGNANX,40390,1.92 €,,2.00 €,1.80 €,4354300,-138700
 40,za LAMARRAQUE,Gabarret,40310,,,2.00 €,1.78 €,4398646,999.000000001
