@@ -10,7 +10,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 01,Rue du Figuier,MIRIBEL,01700,,,1.98 €,1.75 €,4582800,497200
 01,573 route de Geneve,Saint-Jean-le-Vieux,01640,,,,1.99 €,4603487.6030469,538945.26948339
 01,Lieu dit lePetit Étang,Chalamont,01320,1.94 €,,,1.82 €,4599780,517672
-01,1 bvd John Kennedy,Bourg en Bresse,01000,1.86 €,,1.96 €,1.70 €,4620516.06,522502.48
+01,1 bvd John Kennedy,Bourg en Bresse,01000,1.86 €,,1.96 €,,4620516.06,522502.48
 01,AUTOROUTE A42  AIRE DE LYON-DAGNEUX,DAGNEUX,01120,2.12 €,,2.24 €,1.92 €,4584500,507000
 01,zac de la tuilerie,VILLARS-LES-DOMBES,01330,1.87 €,,1.96 €,1.74 €,4600700,503500
 01,Lieu-dit Logis-Neuf,Confrançon,01310,,,2.00 €,1.79 €,4625600,505700
@@ -37,7 +37,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 01,850 RD 933,Messimy-sur-Saône,01480,1.99 €,,1.99 €,1.87 €,4604981.7093241,476551.06176786
 01,Chemin de la Brunette,FERNEY-VOLTAIRE,01210,,,2.03 €,1.79 €,4625303,611817
 01,Rue Alexandre Bérard,Ambérieu-en-Bugey,01500,1.87 €,,1.95 €,1.73 €,4597200,537300
-01,RN5,SéGNY,01170,1.85 €,1.09 €,1.93 €,1.75 €,4629300,607900
+01,RN5,SéGNY,01170,1.85 €,1.06 €,1.92 €,1.72 €,4629300,607900
 01,550  RUE JEAN MERMOZ,CHâTEAU-GAILLARD,01500,,,,1.88 €,4597592,530925
 01,Lieu-Dit les Vertes Campagnes,GEX,01170,,,2.00 €,1.77 €,4632200,605300
 01,RTE DE LA CLUSE RN 84,NANTUA,01130,1.89 €,,1.96 €,1.73 €,4615800,560400
@@ -65,7 +65,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 01,11 route de Port-Galland,Saint-Maurice-de-Gourdans,01800,,,,1.99 €,4582100,520000
 01,1699 ROUTE DE BOURG,Malafretaz,01340,1.95 €,,1.99 €,1.81 €,4632300,513700
 01,RN 83,Miribel,01700,1.87 €,,1.95 €,1.74 €,4587100,491200
-01,zac les grand varays route de neuville,Vonnas,01540,1.84 €,,,1.73 €,4621300,499500
+01,zac les grand varays route de neuville,Vonnas,01540,1.84 €,,,1.70 €,4621300,499500
 01,RTE DE BOURG RN 75,Pont-d'Ain,01160,1.85 €,,1.95 €,1.70 €,4605335.06156,533741.036717
 01,148 AVENUE DE LYON,Péronnas,01960,1.95 €,1.15 €,2.07 €,1.80 €,4619100,521100
 01, Avenue des Tilleuls,GEX,01170,2.00 €,,2.04 €,1.81 €,4633522,605800

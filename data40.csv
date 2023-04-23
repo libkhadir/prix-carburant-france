@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,9 AVENUE DE CRAMAT,SOUSTONS,40140,1.88 €,1.03 €,,1.72 €,4374653.865,-132117.12497344
 40,71 Route de Pontenx,Parentis-en-Born,40160,1.91 €,,,1.73 €,4434746.9558383,-107650.71887945
-40,8 D933N,LOSSE,40240,1.92 €,1.08 €,2.00 €,1.76 €,4406400,-5700
+40,8 D933N,LOSSE,40240,1.90 €,0.95 €,2.00 €,1.76 €,4406400,-5700
 40,A63 Aire de l'Ocean Ouest,Lesperon,40260,2.06 €,,2.16 €,1.99 €,4393687.501,-109255.98
 40,642  avenue Robert Labeyrie,Pontonx-sur-l'Adour,40465,1.89 €,1.10 €,1.95 €,1.76 €,4378529,-93105
 40,606 Avenue Bremontier,PARENTIS-EN-BORN,40160,1.91 €,,,1.73 €,4434909,-106754
@@ -28,7 +28,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,ZAE Atlantisud 90 rue du pays d'orthe,Saint Geours de Maremne,40230,1.95 €,1.18 €,2.03 €,1.78 €,4371400,-123300
 40,47 rue Roger Salengro,MORCENX,40110,1.87 €,,1.90 €,1.75 €,4403100,-91100
 40,AUTOROUTE A63,Saugnacq-et-Muret,40410,2.10 €,,2.20 €,1.99 €,4436000,-85100
-40,Aire de l'Océan EST,LESPERON,40260,2.13 €,,2.25 €,1.99 €,4393700,-108700
+40,Aire de l'Océan EST,LESPERON,40260,2.13 €,,1.11 €,1.99 €,4393700,-108700
 40,593 AVENUE HENRI GUILLAUMET,Parentis-en-Born,40160,1.91 €,,1.99 €,1.78 €,4435300,-108000
 40,Route de Montfort,DAX,40100,1.89 €,1.10 €,1.95 €,1.75 €,4370603,-103302
 40,Route des Lacs,LéON,40550,,,,,4388670,-129501
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,STATION TOTAL,SAUGNAC-ET-CAMBRAN,40180,1.97 €,,1.99 €,1.83 €,4368334.7419,-99557.445703
 40,RUE CHANZY,TARTAS,40400,1.99 €,,1.99 €,1.82 €,4382900,-80400
 40,Avenue du 1er Mai,TARNOS,40220,,1.23 €,,1.81 €,4354900,-148600
-40,RN 10 56 bd jacques duclos,Tarnos,40220,1.88 €,,1.97 €,1.74 €,4352400,-146400
+40,RN 10 56 bd jacques duclos,Tarnos,40220,1.88 €,,1.96 €,1.74 €,4352400,-146400
 40,Avenue du Tursan,Hagetmau,40700,,,2.02 €,1.75 €,4365700,-58000
 40,AVENUE DE MARSAN,SARBAZAN,40120,1.90 €,,,1.73 €,4401853.84,-31264.28
 40,1 rue Brémontier,Ychoux,40160,,,,1.96 €,4432700,-94400
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,C/C Les Grands Carolins,Morcenx,40110,,,1.90 €,1.75 €,4403053.1149603,-92438.932742829
 40,13  avenue de la Plage,Mimizan,40200,1.93 €,1.25 €,,1.89 €,4420700,-124300
 40,Lieudit Lamarque - Route d'Hagetmau,Samadet,40320,1.99 €,,,1.77 €,4363800,-50300
-40,Chemin de Perrot,Aire-sur-l'Adour,40800,1.94 €,1.10 €,2.08 €,1.74 €,4371700,-26900
+40,Chemin de Perrot,Aire-sur-l'Adour,40800,1.97 €,1.20 €,2.08 €,1.82 €,4371700,-26900
 40,27 Avenue du Général de Gaulle,Tosse,40230,1.88 €,,1.98 €,1.71 €,4368939.2196756,-133300.44457269
 40,Route de Parentis,BISCARROSSE,40600,,,2.00 €,1.77 €,4438310,-114726
 40,760 Avenue du Maréchal Juin,MONT-DE-MARSAN,40000,1.85 €,1.12 €,1.98 €,1.69 €,4390200,-48100
@@ -99,7 +99,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,za LAMARRAQUE,Gabarret,40310,,,2.00 €,1.76 €,4398646,999.000000001
 40,boulevard des cigales,CAPBRETON,40130,1.89 €,,1.98 €,1.76 €,4363862.89453,-142594.959368
 40,67 allée de Genets,Labouheyre,40210,1.91 €,,,1.73 €,4420200,-92900
-40,170 Route de Sabres,LABRIT,40420,1.94 €,,2.04 €,1.80 €,4410600,-54700
+40,170 Route de Sabres,LABRIT,40420,1.90 €,,2.00 €,1.80 €,4410600,-54700
 40,AVENUE JEAN JAURES,VILLENEUVE-DE-MARSAN,40190,,,1.97 €,1.85 €,4388500,-30700
 40,2447 Route des Lacs,MESSANGES,40660,,,2.02 €,1.71 €,4379500,-138900
 40,15 avenue Guillaume de Villaret,Saint-Justin,40240,,,1.98 €,1.73 €,4397621.2796201,-23985.696953505

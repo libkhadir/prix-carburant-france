@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-03,11 AV DE CHAZEUIL,VARENNES-SUR-ALLIER,03150,,,2.20 €,2.06 €,4632800,338800
+03,11 AV DE CHAZEUIL,VARENNES-SUR-ALLIER,03150,,,2.20 €,2.00 €,4632800,338800
 03,zac les pres de la grand route,Lapalisse,03120,1.90 €,1.15 €,1.98 €,1.71 €,4624552.2061353,361156.8909912
 03,Lieu-dit La Loue,Saint-Victor,03410,1.89 €,1.09 €,,1.73 €,4637713,259264
 03,2 Rue Alphonse Daudet,Avermes,03000,,1.06 €,,1.79 €,4658700,331500
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 03,28  route de Lyon,YZEURE,03400,1.98 €,1.15 €,1.99 €,1.84 €,4655800,333500
 03,route de longeville,Deux-Chaises,03240,1.98 €,,1.99 €,1.85 €,4638000,304000
 03,48 Avenue de Gramont,VICHY,03200,1.99 €,,,1.84 €,4613100,343400
-03,4 RUE ARMAND QUEROY,SAULCET,03500,,,2.20 €,2.06 €,4633800,328500
+03,4 RUE ARMAND QUEROY,SAULCET,03500,,,2.20 €,2.00 €,4633800,328500
 03,Route des Ferrières,Le Mayet-de-Montagne,03250,1.84 €,,1.90 €,1.70 €,4606849,366341
 03,A71 aire de l'Allier Saulzet (sens province paris),Doyet,03170,2.08 €,,2.18 €,1.99 €,4635591,280030
 03,Avenue Jean Jaurès,Cérilly,03350,,,,1.90 €,4661658.854,282206.505

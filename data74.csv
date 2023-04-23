@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,AVENUE DE LA PLAINE,Annecy,74000,1.90 €,1.18 €,1.98 €,1.77 €,4591700,612800
 74,1 Avenue de la République,Cran-Gevrier,74960,1.90 €,,1.98 €,1.77 €,4590600,611300
 74,680 route d'Annecy,DOUSSARD,74210,,,,1.87 €,4577600,622200
-74,934 AV. DE GENEVE,SALLANCHES,74700,1.88 €,1.16 €,1.97 €,1.74 €,4594482.3296706,663012.1822089
+74,934 AV. DE GENEVE,SALLANCHES,74700,1.88 €,1.16 €,,1.74 €,4594482.3296706,663012.1822089
 74,363 Route d'Annecy,Cruseilles,74350,,,2.13 €,1.90 €,4603100,610600
 74,ACQUIT EST,Valleiry,74520,1.96 €,1.17 €,1.99 €,1.83 €,4611091.9720574,597894.24170188
 74,STATION TOTAL RN.203,Argonay,74370,1.99 €,,1.99 €,1.86 €,4594200,614900
@@ -26,7 +26,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,754 route d'albertville,SEVRIER,74320,,1.25 €,2.08 €,,4585600,614300
 74,Avenue Roosevelt,Rumilly,74150,,,1.93 €,1.74 €,4587100,593800
 74,65 impasse des Champs,Amancy,74800,1.90 €,1.10 €,1.96 €,1.76 €,4607162,632623
-74,1751 Avenue de Genève,SALLANCHES,74700,1.88 €,,1.95 €,1.77 €,4595300,662900
+74,1751 Avenue de Genève,SALLANCHES,74700,1.86 €,,1.92 €,1.74 €,4595300,662900
 74,RD 19 Lieu dit Les Bossons,Thyez,74300,1.91 €,,,1.77 €,4608617,652416
 74,54 Avenue d'Évian,Thonon-les-Bains,74200,1.94 €,,2.02 €,1.80 €,4638000,649100
 74,A40 - KM79 - SENS MILAN MACON,VALLEIRY,74520,1.99 €,1.24 €,1.99 €,1.91 €,4609740.7,596412.3
@@ -99,7 +99,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,14 Rue de la Résistance,Annemasse,74100,1.89 €,,1.97 €,1.76 €,4619600,625500
 74,5 Rue René Cassin,GAILLARD,74240,1.86 €,1.10 €,,1.74 €,4618000,621800
 74,Route Blanche,CHAMONIX-MONT-BLANC,74400,,,,1.82 €,4591200,686100
-74,819 Avenue de la République,Cluses,74300,1.97 €,,1.99 €,1.83 €,4606100,656400
+74,819 Avenue de la République,Cluses,74300,,,1.99 €,1.83 €,4606100,656400
 74,132 Route de Bonneville,Vétraz-Monthoux,74100,,,2.17 €,2.06 €,4617800,624200
 74,75 Route des Pontets,Sévrier,74320,,,2.04 €,1.82 €,4584501,615048
 74,Boulevard de l'Europe,RUMILLY,74150,1.91 €,1.11 €,2.01 €,1.74 €,4585633.9986284,594841.81554019
