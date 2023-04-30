@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,R N 7 - AV. DE LATTRE DE TASSIG,ORANGE,84100,1.92 €,1.11 €,1.99 €,1.77 €,4413559,481309
 84,Route de Suze la Rousse,BOLLèNE,84500,,,,1.96 €,4428083.9173,480217.41693
 84,AVENUE PIERRE DE COUBERTIN,Vedène,84270,1.95 €,,2.00 €,1.81 €,4397813.675,490811.60674379
-84,Quartier de l' Argensol,Orange,84100,1.99 €,1.09 €,,1.88 €,4413399,481726
+84,Quartier de l' Argensol,Orange,84100,1.98 €,1.09 €,,1.86 €,4413399,481726
 84,2875 Route de malaucene,Carpentras,84200,,1.02 €,2.00 €,1.75 €,4408000,506700
 84,81 Avenue de Montélimar,Lapalud,84840,1.91 €,0.99 €,,1.70 €,4431164.9402167,468590.38812567
 84,2918 route de vaison la romaine,SEGURET,84110,,,,1.80 €,4422903.0660904,501391.30168282
@@ -68,7 +68,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,ROUTE NATIONALE 7,Sorgues,84700,1.85 €,,1.93 €,1.70 €,4402600,487300
 84, Avenue Jean Jaurès,VILLES-SUR-AUZON,84570,,,,,4405784,523212
 84,Avenue Louis Pasteur,Châteauneuf-du-Pape,84230,1.88 €,,1.94 €,1.76 €,4405800,483500
-84,Route de Nyons,SAINT-ROMAIN-EN-VIENNOIS,84110,1.82 €,1.05 €,1.93 €,1.68 €,4424743.8008131,509314.22309044
+84,Route de Nyons,SAINT-ROMAIN-EN-VIENNOIS,84110,1.80 €,1.05 €,1.92 €,1.66 €,4424743.8008131,509314.22309044
 84,Route de Carpentras,Le Pontet,84130,1.85 €,,1.94 €,1.69 €,4397963,487569
 84,Route de Roquemaure,ORANGE,84100,1.93 €,,1.99 €,1.77 €,4411820,479691
 84,Boulevard Jean Guigues (=des Jardins),PERTUIS,84120,1.79 €,1.00 €,1.91 €,1.65 €,4369500,549200
@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,ROUTE DE CHATEAUNEUF DU PAPE,COURTHEZON,84350,1.87 €,,1.93 €,1.75 €,4407971.07,487885.74
 84,417 Avenue du Mont Ventoux,CARPENTRAS,84200,,,,,4405653,505803
 84,QUARTIER DE MOUGNE,Sault,84390,1.84 €,1.10 €,1.91 €,1.70 €,4410150,541452
-84,Avenue du Tourail,Maubec,84660,1.81 €,1.10 €,1.87 €,1.68 €,4386696,514881.99999999
+84,Avenue du Tourail,Maubec,84660,1.81 €,1.10 €,,1.66 €,4386696,514881.99999999
 84,390 Rue Jean-Marie Tjibaou,AVIGNON,84000,1.84 €,,1.96 €,1.72 €,4392800,478900
 84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.92 €,,1.98 €,1.80 €,4415676,487061
 84,Route d'orange,Mornas,84550,1.91 €,,,1.78 €,4419700,473700

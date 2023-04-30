@@ -39,7 +39,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Rue Denis Papin,Voves,28150,1.82 €,1.05 €,1.88 €,1.64 €,4827900,162300
 28,54 route de la Ferté Vidame,Senonches,28250,1.83 €,,1.87 €,1.65 €,4857000,102400
 28,RN 12 (COTE SUD),Vert-en-Drouais,28500,1.96 €,1.16 €,1.99 €,1.79 €,4874800,127100
-28,101 Avenue de la République,Luisant,28600,1.89 €,,,1.73 €,4841700,146500
+28,101 Avenue de la République,Luisant,28600,,,,1.73 €,4841700,146500
 28,Rue de Dolmont,Saint-Georges-sur-Eure,28190,1.83 €,,1.89 €,1.65 €,4842440,136158
 28,route du mans,THIMERT-GâTELLES,28170,1.87 €,,1.93 €,1.69 €,4857700,123900
 28,Route du Mans,Saint-Denis-les-Ponts,28200,1.80 €,0.97 €,1.92 €,1.68 €,4806712,130218
@@ -52,7 +52,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,14 Avenue du Général de Gaulle,Janville,28310,1.83 €,,1.88 €,1.66 €,4819700,189200
 28,Rue des Bas Buissons,DREUX,28100,1.85 €,,1.96 €,1.70 €,4874800,134400
 28,1 rue des Orvilles,Barjouville,28630,1.82 €,,1.88 €,1.64 €,4840958.0232077,146255.24761963
-28,Rue Pasteur,FONTAINE-LA-GUYON,28190,1.76 €,1.05 €,1.82 €,1.61 €,4847500,132200
+28,Rue Pasteur,FONTAINE-LA-GUYON,28190,1.83 €,1.05 €,1.89 €,1.67 €,4847500,132200
 28,Route de Chartres,BROU,28160,1.86 €,1.10 €,1.93 €,1.68 €,4821500,118000
 28,56 Rue de Paris,BREZOLLES,28270,,,2.00 €,1.70 €,4869002.15643,107867.353187
 28,Aire de Bois-Paris A11 Sens Province/Paris,Gasville-Oisème,28300,2.10 €,,2.21 €,1.92 €,4846700,157900
