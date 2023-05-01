@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 90,4 Faubourg de Brisach,Belfort,90000,1.92 €,,1.99 €,1.89 €,4764000,686800
-90,56  AVENUE DU GENERAL LECLERC,BELFORT,90000,1.80 €,,,1.69 €,4763600,683800
+90,56  AVENUE DU GENERAL LECLERC,BELFORT,90000,,,,,4763600,683800
 90,1 avenue du général de Gaulle,Belfort,90000,1.78 €,,1.87 €,1.69 €,4762900,686300
 90,37 Rue Alfred Péchin,Beaucourt,90500,,,1.99 €,1.82 €,4748973,692225
 90,Rue Alfred Péchin,BEAUCOURT,90500,1.82 €,,1.95 €,1.72 €,4749000,692200
@@ -15,6 +15,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 90,Rue de la baume  RD83,MENONCOURT,90150,1.87 €,,1.98 €,1.78 €,4768800,695500
 90,72 Faubourg de Belfort,GIROMAGNY,90200,1.89 €,,1.99 €,1.78 €,4773500,683000
 90,Rue de Belfort,BAVILLIERS,90800,,,,,4762600,684400
-90,3 rue de Besançon,BELFORT,90000,1.80 €,1.14 €,,1.69 €,4762600,686000
+90,3 rue de Besançon,BELFORT,90000,,1.14 €,,1.69 €,4762600,686000
 90,Route de montbéliard,ANDELNANS,90400,1.81 €,1.12 €,1.91 €,1.70 €,4760000,686200
 90,21 Rue Aristide Briand,OFFEMONT,90300,1.83 €,,,1.71 €,4765947.260068,686718.58557833

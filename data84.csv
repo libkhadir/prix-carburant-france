@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,Boulevard Naquet,Carpentras,84200,1.84 €,0.98 €,,1.67 €,4405145,504122
-84,2 Boulevard d'Avignon,Monteux,84170,1.96 €,1.36 €,2.00 €,1.81 €,4403300,499500
+84,2 Boulevard d'Avignon,Monteux,84170,1.90 €,1.28 €,1.97 €,1.74 €,4403300,499500
 84,Route de Valréas . Quartier les Mouilieres,Grillon,84600,1.89 €,1.26 €,1.94 €,1.69 €,4439423.1137862,494206.81799926
 84,65 route de Gadagne,Caumont-sur-Durance,84510,1.86 €,,,1.70 €,4390600,494800
 84,AV. JEAN GIONO,BOLLENE,84500,1.93 €,1.09 €,1.99 €,1.77 €,4428500,475100
@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,Route d'Aix en Provence  Quartier Saint Martin,Pertuis,84120,1.82 €,1.07 €,,1.67 €,4368100,550100
 84,80 chemin de la Lègue,Carpentras,84200,1.80 €,1.05 €,1.87 €,1.66 €,4405500,505400
 84,place Wettenberg,Sorgues,84700,1.89 €,,,1.75 €,4400503.69,487475.61
-84,Aire de Mornas Village - Autoroute A7 - Sens Lyon Marseille,Mornas,84550,2.06 €,1.26 €,2.18 €,1.90 €,4419451.5836,473119.14934517
+84,Aire de Mornas Village - Autoroute A7 - Sens Lyon Marseille,Mornas,84550,2.05 €,1.26 €,2.17 €,1.88 €,4419451.5836,473119.14934517
 84,28 Chemin du Clos Neuf,Morières-lès-Avignon,84310,1.84 €,1.00 €,,1.67 €,4394345,490789
 84,180 AVENUE DE LA LIBERATION,Le Thor,84250,,,2.15 €,1.95 €,4392743.59,499879.12
 84,542 Avenue Charles de Gaulle,Pernes-les-Fontaines,84210,1.90 €,1.38 €,,1.79 €,4400500,505100
@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,1560 route de Saint Saturnin,Le Pontet,84130,1.94 €,,1.99 €,1.77 €,4395300,487900
 84,24 AVENUE JEAN JAURES,VILLES-SUR-AUZON,84570,,,,1.90 €,4405779.2672929,523142.68211487
 84,R N 7 - AV. DE LATTRE DE TASSIG,ORANGE,84100,1.92 €,1.11 €,1.99 €,1.77 €,4413559,481309
-84,Route de Suze la Rousse,BOLLèNE,84500,,,,1.96 €,4428083.9173,480217.41693
+84,Route de Suze la Rousse,BOLLèNE,84500,,,,1.89 €,4428083.9173,480217.41693
 84,AVENUE PIERRE DE COUBERTIN,Vedène,84270,1.95 €,,2.00 €,1.81 €,4397813.675,490811.60674379
 84,Quartier de l' Argensol,Orange,84100,1.98 €,1.09 €,,1.86 €,4413399,481726
 84,2875 Route de malaucene,Carpentras,84200,,1.02 €,2.00 €,1.75 €,4408000,506700
@@ -28,7 +28,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,2918 route de vaison la romaine,SEGURET,84110,,,,1.80 €,4422903.0660904,501391.30168282
 84,169 ROUTE DE CARPENTRAS,CAROMB,84330,,,1.99 €,1.94 €,4410053.5040429,510214.15196765
 84,Chemin des Abattoirs,APT,84400,1.83 €,1.07 €,1.91 €,1.66 €,4388255.0478083,538117.22343891
-84,CD 225 RTE DES BORDS DU RHONE,LE PONTET,84130,1.84 €,,,1.68 €,4396347.3874683,485264.91217018
+84,CD 225 RTE DES BORDS DU RHONE,LE PONTET,84130,,,,,4396347.3874683,485264.91217018
 84,250 route de pertuis,CAVAILLON,84300,,1.20 €,,1.80 €,4383519.894804,504422.03664398
 84,28 Avenue des Taillades,CAVAILLON,84300,1.80 €,,1.87 €,1.67 €,4383650.87192,505044.595196
 84,Route d'Orange,Valréas,84600,1.84 €,1.05 €,1.90 €,1.69 €,4437318,498125
@@ -89,7 +89,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,Ancienne Route D'Avignon,Camaret-sur-Aigues,84850,1.92 €,,1.98 €,1.80 €,4415676,487061
 84,Route d'orange,Mornas,84550,1.91 €,,,1.78 €,4419700,473700
 84, Route de Cavaillon,MAUBEC,84660,,,1.99 €,1.86 €,4386584,514004
-84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,1.83 €,1.11 €,1.97 €,1.68 €,4393200,478300
+84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,,1.11 €,1.97 €,1.68 €,4393200,478300
 84,route de carpentras,BEAUMES-DE-VENISE,84190,2.00 €,1.29 €,2.06 €,1.79 €,4411600,501600
 84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,1.90 €,1.05 €,1.96 €,1.77 €,4428689.2034091,475063.55196328
 84,route d'aix en provence - lot. les prés verts,Pertuis,84120,1.79 €,1.00 €,1.91 €,1.65 €,4367900,549700
