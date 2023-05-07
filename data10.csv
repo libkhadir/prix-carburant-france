@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,RN 19,Barberey-Saint-Sulpice,10600,1.79 €,1.15 €,,1.62 €,4833300,402300
-10,14 FAUX BOURG DE BOURGOGNE,Bar-sur-Seine,10110,1.85 €,1.14 €,1.93 €,1.64 €,4810600,437700
+10,14 FAUX BOURG DE BOURGOGNE,Bar-sur-Seine,10110,1.83 €,1.20 €,1.91 €,1.63 €,4810600,437700
 10,71 rue Victor Hugo,Rosières,10430,1.76 €,1.18 €,1.86 €,1.60 €,4826650.8041454,406117.27612853
 10,104 rue de Paris,Arcis-sur-Aube,10700,1.85 €,,1.88 €,1.70 €,4853500,413000
 10,29 BOULEVARD DE DIJON,Saint-Julien-les-Villas,10800,1.86 €,1.10 €,1.90 €,1.70 €,4826800,408800
@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,34 Route de Troyes,CHAOURCE,10210,,,,1.69 €,4806585,414076
 10,208 Route d'Auxerre,ROSIèRES-PRèS-TROYES,10430,1.84 €,,1.88 €,1.65 €,4826200,403700
 10,RUE SALENGRO,Marigny-le-Châtel,10350,1.89 €,,1.90 €,1.69 €,4840600,373800
-10,1 ROUTE DE MAISONS BLANCHES,Buchères,10800,1.83 €,,1.90 €,1.64 €,4823700,410900
+10,1 ROUTE DE MAISONS BLANCHES,Buchères,10800,1.83 €,,1.90 €,1.63 €,4823700,410900
 10,3 Rue de la Mission,TROYES,10000,1.93 €,,2.02 €,1.72 €,4828855,407571
 10,57 avenue du Général Leclerc,Bar-sur-Aube,10200,,,,1.93 €,4823900,469900
 10,321 rue des Carrés,AUXON,10130,1.94 €,1.05 €,1.99 €,1.74 €,4811000,392100
@@ -47,7 +47,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,70 Rue Aristide Briand,Romilly-sur-Seine,10100,1.84 €,,1.92 €,1.68 €,4851200,372000
 10,114 route d auxerre,Saint André les vergers,10120,1.89 €,1.04 €,2.00 €,1.70 €,4828000,404100
 10,9 rue de la Marrière,Lusigny-sur-Barse,10270,1.76 €,1.18 €,1.86 €,1.60 €,4826197.4565456,424944.07466826
-10,RD185 LES GRANDES FOSSES,VAUDES,10260,,,1.91 €,1.70 €,4818100,418900
+10,RD185 LES GRANDES FOSSES,VAUDES,10260,,,,1.63 €,4818100,418900
 10,123 Rue Aristide Briand,Romilly-sur-Seine,10100,1.90 €,,1.99 €,1.73 €,4850900,373200
 10,Centre Commercial La Belle Idée - RN 19,ROMILLY-SUR-SEINE,10100,1.81 €,1.10 €,1.86 €,1.61 €,4850400,376300
 10,13 Route Départementale 671,Mussy-sur-Seine,10250,,,1.95 €,1.70 €,4798300,449600
