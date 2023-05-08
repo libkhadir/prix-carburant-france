@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,ROUTE D'OULINS,ANET,28260,,,,,4885987.1629,144818.033753
 28,2 Rue Louis Fauvel,Vernouillet,28500,,,,,4873200,134100
 28,126 AV DU GAL LECLERC,DREUX,28100,1.81 €,1.16 €,1.91 €,1.63 €,4874300,139000
-28,34 rue jean mermoz,chartres,28000,1.76 €,,1.86 €,1.58 €,4845000,150600
+28,34 rue jean mermoz,chartres,28000,,,,,4845000,150600
 28,zac du debucher,ANET,28260,1.76 €,,1.85 €,1.61 €,4885400,144300
 28,Route d'Anet,Saussay,28260,,,1.86 €,1.61 €,4885967,142303
 28,AUTOROUTE A11 OCEANE,Dampierre-sous-Brou,28160,1.97 €,,2.08 €,1.81 €,4824000,108300
@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Rue Gambetta,MAINVILLIERS,28300,1.74 €,1.05 €,1.79 €,1.58 €,4845400,146500
 28,4 IMPASSE DES GRAVIERS,ABONDANT,28410,,,1.90 €,1.67 €,4877267.8204572,142956.0410733
 28,32 AVENUE GALLIENI,BROU,28160,1.99 €,,,1.96 €,4820900,117800
-28,A10 AIRE DES PLAINES DE BEAUCE,Fresnay-l'Évêque,28310,,,,1.90 €,4827500,185600
+28,A10 AIRE DES PLAINES DE BEAUCE,Fresnay-l'Évêque,28310,1.04 €,,,1.89 €,4827500,185600
 28,Rue de Beauce,BAILLEAU-LE-PIN,28120,1.83 €,,1.90 €,1.65 €,4836400,133000
 28,Rue du Bois Musquet,CHAMPHOL,28300,1.81 €,,1.87 €,1.65 €,4847300,150800
 28,ZAC DES FORTS,Cherisy,28500,,,1.89 €,1.65 €,4874304.2986182,142523.42346728
@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Autoroute A11Aire des manoirs du Perche,Frazé,28160,2.11 €,,2.24 €,1.93 €,4824100,108400
 28,Route du Mans RN23,Nogent-le-Rotrou,28400,1.89 €,,1.99 €,1.72 €,4830636.693,80848.721
 28,60 Route de Crécy,VERNOUILLET,28500,,,1.99 €,1.72 €,4873067.3127189,133747.33095697
-28,route de romilly,Cloyes-sur-le-Loir,28220,,,1.85 €,1.62 €,4799000,125600
+28,route de romilly,Cloyes-sur-le-Loir,28220,,,1.85 €,,4799000,125600
 28,Route de Patay,CHARTRES,28000,1.74 €,1.05 €,1.78 €,1.57 €,4843240.14794,149271.484815
 28,RD 923 - ROUTE DU MANS,AMILLY,28300,1.76 €,1.05 €,1.85 €,1.58 €,4843692.6238406,142376.84459686
 28,rue Loigny La Bataille,VOVES,28150,1.80 €,,1.88 €,1.63 €,4826800,163200
@@ -39,7 +39,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,AV FRANCOIS ARAGO,CHARTRES,28000,1.76 €,,1.88 €,1.59 €,4843500,152100
 28,54 route de la Ferté Vidame,Senonches,28250,1.79 €,,1.85 €,1.62 €,4857000,102400
 28,RN 12 (COTE SUD),Vert-en-Drouais,28500,1.92 €,1.16 €,1.99 €,1.74 €,4874800,127100
-28,101 Avenue de la République,Luisant,28600,1.86 €,,1.97 €,1.67 €,4841700,146500
+28,101 Avenue de la République,Luisant,28600,,,1.97 €,1.67 €,4841700,146500
 28,Rue de Dolmont,Saint-Georges-sur-Eure,28190,1.81 €,,1.88 €,1.60 €,4842440,136158
 28,route du mans,THIMERT-GâTELLES,28170,1.80 €,,1.85 €,1.63 €,4857700,123900
 28,Route du Mans,Saint-Denis-les-Ponts,28200,1.79 €,1.10 €,1.89 €,1.61 €,4806712,130218
@@ -58,7 +58,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Aire de Bois-Paris A11 Sens Province/Paris,Gasville-Oisème,28300,2.07 €,,2.19 €,1.89 €,4846700,157900
 28,CHEMIN DEPARTEMENTAL 9,LA BAZOCHE-GOUET,28330,1.87 €,,1.93 €,1.68 €,4814400,97200
 28,Zac du Pays Alnelois,AUNEAU,28700,1.77 €,1.08 €,1.84 €,1.59 €,4847828.31809,176803.811395
-28,2 rue denis papin za de la louveterie,BONNEVAL,28800,1.90 €,,1.92 €,1.65 €,4818700,139100
+28,2 rue denis papin za de la louveterie,BONNEVAL,28800,,,,1.65 €,4818700,139100
 28,25 RUE D'ORLEANS,SANCHEVILLE,28800,1.93 €,,,1.77 €,4819150.25,157898.29
 28,id Brieure,VICHèRES,28480,1.98 €,,1.99 €,1.81 €,4826100.1765,91270.6192178
 28,RN 12 COTE NORD,Vert-en-Drouais,28500,1.79 €,1.16 €,1.88 €,1.63 €,4876000,124000

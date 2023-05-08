@@ -10,10 +10,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15, Avenue de Bagnac,MAURS,15600,1.93 €,,1.99 €,1.78 €,4470650,219514
 15,ROUTE DU STADE,Condat,15190,,,2.05 €,1.84 €,4533826,276036
 15,ZA DU COMBLAT,Vic-sur-Cère,15800,1.81 €,1.12 €,2.00 €,1.64 €,4496700,260600
-15,Route d'Aurillac,SAINT-FLOUR,15100,1.80 €,1.08 €,1.93 €,1.64 €,4503800,306500
+15,Route d'Aurillac,SAINT-FLOUR,15100,1.74 €,1.08 €,1.93 €,1.56 €,4503800,306500
 15,149 Avenue du Général Leclerc,AURILLAC,15000,,,,,4490940,244629
 15, Avenue de la Plaine,JUSSAC,15250,1.76 €,,,1.60 €,4499661,242166
-15,zac du crozatier,Saint-Georges,15100,1.80 €,,,1.64 €,4503200,313500
+15,zac du crozatier,Saint-Georges,15100,1.69 €,,,1.56 €,4503200,313500
 15,ROUTE DE SANSAC,AURILLAC,15000,1.80 €,,1.92 €,1.62 €,4490800,242100
 15,Avenue de la Gare,Mauriac,15200,1.82 €,,1.92 €,1.67 €,4522200,234000
 15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,1.72 €,4492297.528,242765.388
@@ -34,9 +34,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,AVENUE DU DOCTEUR MALLET,Chaudes-Aigues,15110,,,,,4485651,300700
 15,8 AVENUE D'AURILLAC,Saint-Étienne-de-Maurs,15600,1.75 €,1.05 €,1.92 €,1.60 €,4471400,220300
 15,Route de Riom Es Montagne,Murat,15300,,,,,4510839,287932
-15,ZAC du Crozatier,Saint Georges,15100,1.80 €,1.08 €,,1.64 €,4503203.5,313041.2
+15,ZAC du Crozatier,Saint Georges,15100,1.77 €,1.18 €,,1.62 €,4503203.5,313041.2
 15,66 Rue de Firminy,AURILLAC,15000,1.76 €,1.12 €,2.00 €,1.60 €,4491572,243189
-15,1 rue germain prat,LAFEUILLADE-EN-VéZIE,15130,1.99 €,,1.99 €,1.90 €,4478758.39813,245602.00536
+15,1 rue germain prat,LAFEUILLADE-EN-VéZIE,15130,1.95 €,,1.99 €,1.79 €,4478758.39813,245602.00536
 15,Route d'Aurillac,Saint-Paul-des-Landes,15250,,,,,4493800,232400
 15,Rue de la Jordanne,AURILLAC,15000,1.76 €,1.09 €,,1.60 €,4491400,244100
 15,Allée des Tilleuls,Vic-sur-Cère,15800,,,,,4498100,262800

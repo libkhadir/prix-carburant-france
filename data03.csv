@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-03,zac les pres de la grand route,Lapalisse,03120,1.83 €,1.15 €,1.92 €,1.61 €,4624552.2061353,361156.8909912
 03,11 AV DE CHAZEUIL,VARENNES-SUR-ALLIER,03150,,,2.13 €,1.98 €,4632800,338800
+03,zac les pres de la grand route,Lapalisse,03120,1.83 €,1.15 €,1.92 €,,4624552.2061353,361156.8909912
 03,Lieu-dit La Loue,Saint-Victor,03410,1.83 €,1.09 €,,1.63 €,4637713,259264
 03,2 Rue Alphonse Daudet,Avermes,03000,,1.04 €,,1.69 €,4658700,331500
 03,16 Route de Montilly,MOULINS,03000,1.88 €,1.05 €,1.94 €,1.73 €,4656200,332000
@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 03,ZA LES VARENNES,EBREUIL,03450,1.96 €,,2.04 €,1.80 €,4611900,309400
 03,168 ROUTE DE GANNAT,Saint-Pourçain-sur-Sioule,03500,1.83 €,,1.93 €,1.64 €,4629000,329300
 03,12 avenue des Portes Occitanes,Gannat,03800,1.83 €,1.05 €,1.89 €,1.69 €,4608000,320100
-03,ZONE ARTISANALE DU LARRY,TOULON SUR ALLIER,03400,,,,1.82 €,4650638.7,336172.2
+03,ZONE ARTISANALE DU LARRY,TOULON SUR ALLIER,03400,,,,1.84 €,4650638.7,336172.2
 03,Rue de la Chevêche,Domérat,03410,1.83 €,,1.96 €,1.63 €,4636701,256526
 03,61 avenue des Martyrs,DOMERAT,03410,1.86 €,,1.96 €,1.70 €,4633800,256400
 03,Route de Clermont,Néris-les-Bains,03310,,,1.99 €,1.79 €,4628300,266900
@@ -75,6 +75,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 03,Route de Hérisson,COSNE-D'ALLIER,03430,,,1.96 €,1.67 €,4647400,282700
 03,106 Avenue John Kennedy,Montluçon,03100,1.96 €,,2.00 €,1.78 €,4632800,260900
 03,route de moulins,Montmarault,03390,1.93 €,1.30 €,2.00 €,1.76 €,4632400,296400
-03,Avenue Emile Guillaumin,BOURBON-L'ARCHAMBAULT,03160,,,1.98 €,1.72 €,4658333,306336
+03,Avenue Emile Guillaumin,BOURBON-L'ARCHAMBAULT,03160,,,,,4658333,306336
 03,1 Avenue du 8 Mai 1945,Lapalisse,03120,1.86 €,,1.92 €,1.68 €,4624800,362900
 03,77 rue des Capucins,GANNAT,03800,1.90 €,,,1.74 €,4611000,319800

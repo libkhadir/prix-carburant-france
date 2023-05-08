@@ -13,8 +13,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,3 Avenue Raymonde Fiolet,Soissons,02200,1.81 €,1.11 €,1.90 €,1.64 €,4936994,331490
 02,16 RUE DU 2 SEPTEMBRE 1944,La Neuville-lès-Dorengt,02450,,,1.91 €,1.64 €,4997729.68,367681.51
 02,route d'Amiens,St Quentin,02100,1.80 €,1.01 €,1.88 €,1.62 €,4985800,325300
-02,89 Grand Rue,Dizy-le-Gros,02340,1.94 €,,,1.73 €,4963000,402500
-02,Avenue de Compiègne,MERCIN-ET-VAUX,02200,,,1.89 €,1.64 €,4938127,330822
+02,89 Grand Rue,Dizy-le-Gros,02340,1.93 €,,,1.73 €,4963000,402500
+02,Avenue de Compiègne,MERCIN-ET-VAUX,02200,,,1.89 €,1.63 €,4938127,330822
 02,39 Rue de Picardie,Bellicourt,02420,,,,1.92 €,4996029,323160
 02,RD 338,Viry-Noureuil,02300,1.82 €,,1.89 €,1.65 €,4964287,325950
 02,231rd rue du general leclerc,Villers-Cotterêts,02600,,1.15 €,1.98 €,1.65 €,4925554.73077,308030.58224433
@@ -87,7 +87,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,Lieu dit du grand hôtel,Rozoy-sur-Serre,02360,1.80 €,1.05 €,1.89 €,1.63 €,4970400,411200
 02,CHEMIN DEPARTEMENTAL 937,AUTREVILLE,02300,,,1.88 €,1.66 €,4959100,323400
 02,Route de Fismes,BRUYèRES-ET-MONTBéRAULT,02860,1.92 €,,1.99 €,1.74 €,4953200,365300
-02,1B Rue de Couvron,Crépy,02870,1.95 €,,,1.71 €,4961031.35,350835.03
+02,1B Rue de Couvron,Crépy,02870,1.90 €,,,1.71 €,4961031.35,350835.03
 02,14 RUE DU MONVINAGE,ETREAUPONT,02580,1.90 €,,,1.67 €,4990354.43,391399.88
 02, Rue du Stade,Crouy,02880,,,,,4939825,335632
 02,AUTOROUTE A26 - AIRE D'URVILLERS,Essigny-le-Grand,02690,1.97 €,1.25 €,1.99 €,1.81 €,4977752,327799

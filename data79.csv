@@ -20,7 +20,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79, Allée de la Communauté,LA CRèCHE,79260,,,1.99 €,1.76 €,4635519,-31186
 79,11 route de Thouars,Saint-Jouin-de-Marnes,79600,,,,,4688500,-5946
 79,D948,Chail,79500,1.95 €,,,1.82 €,4620500,-9700
-79,AUTOROUTE A10 - AIRE DE POITOU CHARENTE,VOUILLE,79230,1.99 €,,1.99 €,1.83 €,4629700,-37200
+79,AUTOROUTE A10 - AIRE DE POITOU CHARENTE,VOUILLE,79230,1.99 €,,,1.83 €,4629700,-37200
 79,41 route de Poitiers,Saint-Léger-de-la-Martinière,79500,1.74 €,1.05 €,1.82 €,1.57 €,4622400,-13000
 79,22 rue des Acacias,Celles-sur-Belle,79370,1.80 €,,1.84 €,1.59 €,4626800,-22400
 79,23 ROUTE DE BRESSUIRE,La Chapelle-Saint-Laurent,79430,,,,1.77 €,4674800,-47600
@@ -61,7 +61,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,Avenue des Platanes,SAINT-VARENT,79330,1.80 €,,1.88 €,1.61 €,4689400,-23400
 79,Route de Poitiers,Airvault,79600,1.84 €,,1.93 €,1.66 €,4682500,-12900
 79,130 Avenue de Nantes,NIORT,79000,1.76 €,,1.84 €,1.60 €,4634300,-49400
-79,580  avenue de Paris,Niort,79000,1.72 €,1.17 €,1.81 €,1.56 €,4633666.9152692,-41352.274430541
+79,580  avenue de Paris,Niort,79000,,1.17 €,1.81 €,,4633666.9152692,-41352.274430541
 79,2 rue de la taillee,L'Absie,79240,1.86 €,,,1.65 €,4663924.48,-59220.28
 79,7 voie Charles VII,Saint-Maixent-l'École,79400,1.75 €,,1.79 €,1.57 €,4641800,-19500
 79,BD DU THOUET,CHATILLON SUR THOUET,79200,,,2.06 €,1.90 €,4666100,-23900

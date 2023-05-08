@@ -1,10 +1,10 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+50,Route d'Avranches,SAINT-PAIR-SUR-MER,50380,1.81 €,,1.89 €,1.64 €,4881400,-154400
 50,2F Route de DENNEVILLE,DIGOSVILLE,50110,,,1.92 €,1.67 €,4965345.9148478,-154932.46887909
 50,ROUTE NATIONALE 13,Les Veys,50500,1.90 €,,1.99 €,1.70 €,4930500,-115600
 50,132 RUE ST THOMAS,Barfleur,50760,1.90 €,,,1.75 €,4966600,-127000
 50,Rue Jean le Couturier,PERCY,50410,,,,1.64 €,4891400,-119300
 50,41b Rue des Frères Fremine,Bricquebec-en-Cotentin,50260,1.88 €,,1.99 €,1.72 €,4947300,-162800
-50,Route d'Avranches,SAINT-PAIR-SUR-MER,50380,1.87 €,,2.00 €,1.69 €,4881400,-154400
 50,rue de l'oratoire  parc de l'odyssée,Agneaux,50180,1.78 €,1.02 €,1.85 €,1.62 €,4910762.8700786,-113383.4250679
 50,LA CROIX A LA MAIN,Saint Martin de bonfossé,50750,,,,1.83 €,4902900,-114200
 50,139 Rue du Général de Gaulle,SAINT-PIERRE-ÉGLISE,50330,,,,1.70 €,4966700,-139100
@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,2  AVENUE DE VERDUN,COUTANCES,50200,,1.10 €,,,4903800,-144600
 50,59 Avenue Émile Dehousse,DUCEY,50220,1.85 €,,2.00 €,1.68 €,4861700,-128000
 50,RUE DU GENERAL DE GAULLE,AVRANCHES,50300,,,,1.79 €,4868647,-136356
-50,29 Le Bourg,La Lande-d'Airou,50800,1.91 €,1.12 €,,1.73 €,4881600,-129000
+50,29 Le Bourg,La Lande-d'Airou,50800,1.83 €,1.12 €,,1.64 €,4881600,-129000
 50,113 RUE DU HAUT CHEMIN,CREANCES,50710,,,1.90 €,1.70 €,4919900,-156800
 50,12 rue Général Legentilhomme,VALOGNES,50700,1.77 €,1.05 €,1.90 €,1.62 €,4950000,-146900
 50,AUTOROUTE A84 - AIRE DU MONT SAINT MICHEL,Saint-Aubin-de-Terregatte,50240,1.99 €,1.26 €,1.99 €,1.83 €,4858491,-132638
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Aire de la Vallée de la Vire - A84,Gouvets,50420,2.07 €,,2.19 €,1.89 €,4890900,-110400
 50,PARC D'ACTIVITE DE LA BAIE,Saint-Martin-des-Champs,50300,1.80 €,1.05 €,1.97 €,1.64 €,4865285.8767159,-135003.0743481
 50,9 rue des Pélerins,BRéCEY,50370,1.83 €,,2.00 €,1.65 €,4872486.89288,-116958.900338
-50,Route de Carentan,COUTANCES,50200,1.81 €,1.08 €,1.91 €,1.62 €,4906808.2654636,-143132.42825037
+50,Route de Carentan,COUTANCES,50200,,1.12 €,1.88 €,1.62 €,4906808.2654636,-143132.42825037
 50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.80 €,,,1.60 €,4930400,-121200
 50,RUE DE LA CHAPONIERE,MARIGNY,50570,,,1.86 €,1.62 €,4909916,-124241
 50,94 Rue Sainte-Croix,LESSAY,50430,,,,1.83 €,4921300,-152900
@@ -91,7 +91,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Rue de la Planche Maurice,COUTANCES,50200,,,1.91 €,1.63 €,4903815.80485,-144789.571173
 50,route de vire,Saint-Lô,50000,1.84 €,1.10 €,1.91 €,1.66 €,4910800,-107100
 50,1 rue marcel pignot,Saint-Vaast-la-Hougue,50550,1.80 €,,1.90 €,1.62 €,4958908.15,-128036.27
-50,2 route du Mont Saint Michel,PONTORSON,50170,1.92 €,,1.99 €,1.72 €,4856000,-150900
+50,2 route du Mont Saint Michel,PONTORSON,50170,1.92 €,,1.94 €,1.68 €,4856000,-150900
 50,Boulevard Félix-Buhot,VALOGNES,50700,,,1.95 €,1.64 €,4951200,-147800
 50,le pont rose,Barneville-Carteret,50270,1.78 €,1.10 €,1.88 €,1.60 €,4938496,-175198
 50,10 rue Val de Saire,Quettehou,50630,1.77 €,1.05 €,1.89 €,1.62 €,4959838,-129949

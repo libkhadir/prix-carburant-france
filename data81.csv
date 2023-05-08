@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 81,40 ROUTE DE CORDES,ALBI,81000,1.95 €,,1.99 €,1.80 €,4395000,212300
 81,444 Avenue de Cocagne,Guitalens-L'Albarède,81220,,,1.99 €,1.85 €,4364300,204600
 81,Chemin de Cap Long,Le Sequestre,81990,1.86 €,1.05 €,1.93 €,1.65 €,4391200,212700
-81,2 Rue Francisco Goya,ALBI,81000,1.76 €,,1.84 €,1.62 €,4393300,216900
+81,2 Rue Francisco Goya,ALBI,81000,1.88 €,,1.95 €,1.68 €,4393300,216900
 81,Route de l'Aéroport,Labruguière,81290,1.82 €,1.05 €,,1.65 €,4354830,227344
 81,Rue Henri Antoine,LACAUNE,81230,1.79 €,1.12 €,,1.66 €,4370900,269800
 81,RD 112,AUSSILLON,81200,1.78 €,,1.88 €,1.65 €,4351153.8214165,237596.65502906
@@ -52,18 +52,18 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 81,9 Av de Carmaux,Mirandol-Bourgnounac,81190,,,,,4413775,216595
 81, Chemin de Castres Ã  Brassac,BRASSAC,81260,,,,,4362471,247854
 81,11 BIS ROUTE DE TOULOUSE,SAIX,81710,1.81 €,1.12 €,1.91 €,1.62 €,4358591,217207
-81, Rue Henri Stendhal,CARMAUX,81400,1.84 €,1.05 €,1.90 €,1.65 €,4405203,215989
+81, Rue Henri Stendhal,CARMAUX,81400,1.82 €,1.05 €,1.90 €,1.62 €,4405203,215989
 81,154 Avenue Charles de Gaulle,CASTRES,81100,1.91 €,,,1.73 €,4359700,226000
 81,LIEU DIT L'HERMITAGE,Rabastens,81800,1.77 €,1.10 €,1.88 €,1.64 €,4383000,173800
 81,Route d'Albi,Rabastens,81800,,1.18 €,,1.64 €,4382975,174016
-81,ZA de la Prade,SOUAL,81580,1.82 €,1.11 €,1.92 €,1.63 €,4356600,213000
+81,ZA de la Prade,SOUAL,81580,1.80 €,1.11 €,1.91 €,1.61 €,4356600,213000
 81,112 AVENUE DU LANGUEDOC,Murat-sur-Vèbre,81320,1.83 €,1.26 €,1.94 €,1.65 €,4368300,286000
 81,Route de Millau,Villefranche-d'Albigeois,81430,,,,1.81 €,4389489,234154
 81,3 rue des trois buissons,Albi,81000,,,1.92 €,1.66 €,4393100,218300
 81,AVENUE DU LANGUEDOC,Murat-sur-Vèbre,81320,,,1.94 €,1.67 €,4368311.647,285989.826
 81,CD 54 - RN 112 lieu dit Lagarrigue,Bout-du-Pont-de-Larn,81660,1.77 €,,1.88 €,1.64 €,4349800,240000
-81,Rue de la Sigalarie,Cagnac-les-Mines,81130,1.84 €,,1.90 €,1.65 €,4398900,213900
 81,102 Route de Lavaur,Saint-Sulpice-la-Pointe,81370,,,,1.92 €,4376664,169252
+81,Rue de la Sigalarie,Cagnac-les-Mines,81130,1.82 €,,1.90 €,1.62 €,4398900,213900
 81,Lieu-Dit Plombières,CASTRES,81100,1.82 €,1.05 €,1.92 €,1.63 €,4362200,221500
 81,Avenue Jacques Besse,Lavaur,81500,1.77 €,1.05 €,1.88 €,1.63 €,4370855,181727
 81,2 passage du verrier,Sorèze,81540,,1.05 €,1.88 €,1.66 €,4345000,206400

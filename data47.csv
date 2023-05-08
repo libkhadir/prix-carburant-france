@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,ZA Les portes du Quercy,MONTAYRAL,47500,1.82 €,,1.92 €,1.66 €,4448578.57762,97865.5098255
 47,Avenue Pierre Mendes France,TONNEINS,47400,1.81 €,1.16 €,1.91 €,1.62 €,4440000,29900
 47,LA RIGALE,CASSENEUIL,47440,,,,1.75 €,4444100,63100
-47,118 Avenue Jean Jaurès,Marmande,47200,1.80 €,,1.93 €,1.60 €,4450800,14700
+47,118 Avenue Jean Jaurès,Marmande,47200,1.83 €,,1.93 €,1.63 €,4450800,14700
 47,974 AV DE CAHORS,Pont-du-Casse,47480,,1.14 €,,1.82 €,4422600,67200
 47,Zone Le Rouge ZAC de Foulayronnes,Foulayronnes,47510,1.80 €,1.05 €,1.90 €,1.64 €,4423600,64300
 47,Route de Villeneuve,MONFLANQUIN,47150,1.95 €,,2.02 €,0.72 €,4453206,76441
@@ -76,7 +76,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 47,lieu dit Beylard RD 813,Sainte-Bazeille,47180,1.80 €,1.17 €,1.90 €,1.60 €,4452737.5385336,10253.260719062
 47,Route de Fumel,Villeneuve-sur-Lot,47300,1.77 €,,1.89 €,1.64 €,4440900,73600
 47,21 Avenue du Caoulet,Foulayronnes,47510,,,,1.73 €,4423225,63879.999999998
-47,224 Avenue de Bordeaux,BIAS,47300,1.78 €,1.05 €,,1.65 €,4440400,68800
+47,224 Avenue de Bordeaux,BIAS,47300,,,,1.65 €,4440400,68800
 47,LIEU DIT LA TUILERIE,Layrac,47390,,,1.88 €,1.64 €,4412200,65800
 47,Route de Périgueux,FUMEL,47500,1.88 €,1.09 €,,1.75 €,4449300,94900
 47,ROUTE NATIONALE 21,Cancon,47290,,,2.00 €,1.86 €,4453300,62500
