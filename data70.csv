@@ -6,11 +6,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 70,Rue des Cytises,Neuvelle-lès-Cromary,70190,1.80 €,1.16 €,,1.67 €,4741800,607300
 70,Rue Alfred Dornier,DAMPIERRE-SUR-SALON,70180,1.84 €,,,1.69 €,4755600,567800
 70,ZA du Bouquet,SAINT-SAUVEUR,70300,1.75 €,1.25 €,,1.66 €,4779100,639200
-70,Boulevard Kennedy,VESOUL,70000,1.77 €,,1.91 €,1.66 €,4762700,617200
+70,Boulevard Kennedy,VESOUL,70000,1.77 €,,1.88 €,1.66 €,4762700,617200
 70,Place du 15 Juin 1940,Combeaufontaine,70120,,,1.99 €,1.70 €,4771200,588800
 70,12  avenue des Peupliers,Fresne-Saint-Mamès,70130,,,1.99 €,1.70 €,4755117,585614
 70,2 Avenue Charles Couyba,ARC-LES-GRAY,70100,,1.10 €,,1.72 €,4745532,558879
-70,ZA DE LA CHARRIERE,Rioz,70190,1.87 €,,1.97 €,1.71 €,4742081.249,607470.883
+70,ZA DE LA CHARRIERE,Rioz,70190,1.87 €,,1.98 €,1.74 €,4742081.249,607470.883
 70,Rue Pasteur,Dampierre-sur-Salon,70180,,1.07 €,,1.70 €,4755180,568728
 70,66 route de Luxeuil,FOUGEROLLES,70220,,,,,4787400,639000
 70,25 Route de Lure,MELISEY,70270,,,1.99 €,1.70 €,4774964,656445
@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 70,19 rue des vosges,saint germain,70200,1.86 €,,1.93 €,1.78 €,4772400,653400
 70,1 avenue Parmentier,Conflans-sur-Lanterne,70800,,,1.95 €,1.67 €,4781200,620800
 70,Route de Vesoul,BUCEY-LèS-GY,70700,,,1.91 €,1.63 €,4742400,583900
-70,26 Rue de Pontarcher,VESOUL,70000,,,1.91 €,1.66 €,4763106.28345,616798.547151
+70,26 Rue de Pontarcher,VESOUL,70000,,,1.88 €,1.66 €,4763106.28345,616798.547151
 70,34 Grande Rue,CHAMPAGNEY,70290,1.80 €,1.20 €,,1.66 €,4770500,668200
 70,20 Avenue du Maréchal Lyautey,GRAY,70100,1.88 €,,1.99 €,1.73 €,4744500,559800
 70,RN 19 ROUTE DE PARIS BP 30217,VESOUL,70004,1.88 €,1.12 €,1.99 €,1.73 €,4763500,615700

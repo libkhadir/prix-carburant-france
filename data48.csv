@@ -9,14 +9,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 48,65 AVENUE DES CEVENNES,VILLEFORT,48800,,,,1.74 €,4443497.53,393339.19
 48,RD806,Rieutort-de-Randon,48700,,,2.15 €,1.70 €,4463336,347619
 48,15 route de mende,Florac,48400,1.82 €,,,1.67 €,4434400,358200
-48,41 Boulevard Guérin d'Apcher,Saint-Chély-d'Apcher,48200,,,2.17 €,1.80 €,4480696,327132
+48,41 Boulevard Guérin d'Apcher,Saint-Chély-d'Apcher,48200,,,1.95 €,1.80 €,4480696,327132
 48,10 avenue du 8 mai 1945,Mende,48000,,1.25 €,,1.75 €,4452284.9686909,349825.14507873
 48,4 BIS PROMENADE LOUIS CABANETTE,MARVEJOLS,48100,1.83 €,,1.88 €,1.62 €,4454400,328700
 48,Avenue Théophile Roussel,MARVEJOLS,48100,1.81 €,1.20 €,,1.60 €,4455700,329100
 48,PLACE DES CORDELIERS,Marvejols,48100,1.81 €,1.20 €,,1.60 €,4455200,329300
 48,3 rue de la tendelle  ZAE du Causse d'Auge,Mende,48000,1.87 €,1.20 €,,1.65 €,4453500,350300
-48,Route de Saint-Chély,Grandrieu,48600,,,,1.70 €,4478000,363000
-48,Route de MENDE,Meyrueis,48150,2.00 €,,2.06 €,1.90 €,4418000,343000
+48,Route de Saint-Chély,Grandrieu,48600,,,,1.66 €,4478000,363000
+48,Route de MENDE,Meyrueis,48150,1.93 €,,1.99 €,1.77 €,4418000,343000
 48,AV. MARECHAL FOCH,LANGOGNE,48300,1.81 €,,1.87 €,1.63 €,4472842,385645
 48,Avenue du Lot,BANASSAC,48500,,,1.99 €,1.78 €,4443661.61637,320074.828272
 48,AV DE LA GARE,Chanac,48230,1.81 €,,,1.71 €,4447003,334610
@@ -24,9 +24,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 48,ZAC DE RAMILLES,MENDE,48000,1.77 €,1.04 €,1.84 €,1.60 €,4451600,347800
 48,route de saugues,LE MALZIEU VILLE,48140,1.86 €,,1.90 €,1.67 €,4485600,333200
 48,14 AVENUE FOCH,MENDE,48000,1.79 €,1.12 €,1.88 €,1.61 €,4451841.20487,349212.097875
-48,Route du Malzieu,Saint-Chély-d'Apcher,48200,1.77 €,1.05 €,1.85 €,1.62 €,4480470,328058
+48,Route du Malzieu,Saint-Chély-d'Apcher,48200,1.77 €,1.05 €,1.85 €,1.64 €,4480470,328058
 48,Lou Claoux Le Bleymard,Mont Lozère et Goulet,48190,,,2.14 €,1.85 €,4449038.5115603,374037.92231
-48,Avenue Jean Moulin,Langogne,48300,1.86 €,,1.86 €,1.63 €,4472425,386052
+48,Avenue Jean Moulin,Langogne,48300,1.80 €,,1.86 €,1.63 €,4472425,386052
 48,74 AVENUE DU LOT,Banassac,48500,,,1.86 €,1.64 €,4443200,321400
 48,2 rue du Vibron  ZAE Saint Julien du Gourg,Florac,48400,,,1.89 €,1.68 €,4434320.303,358191.84
 48,ROUTE DE ST CHELY,Grandrieu,48600,,1.18 €,,1.66 €,4478400,363600

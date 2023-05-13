@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Route de Rodez,SAINT-CHRISTOPHE-VALLON,12330,1.80 €,,1.90 €,1.66 €,4446900,241400
 12,280 Rue de la Renaissance,Decazeville,12300,1.75 €,1.25 €,1.86 €,1.60 €,4455913.1275643,225812.46898855
 12,150 Boulevard Georges Brassens,Millau,12100,1.75 €,,1.83 €,1.60 €,4411714,306997
-12,Zone de Laubarède,Viviez,12110,1.75 €,1.05 €,,1.60 €,4456000,222400
+12,Zone de Laubarède,Viviez,12110,1.75 €,1.05 €,,1.64 €,4456000,222400
 12,route d#039;estaing,Espalion,12500,1.80 €,1.40 €,1.90 €,1.66 €,4452300,276300
 12,Z.A. Bel air,Camarès,12360,1.78 €,,,1.65 €,4383200,287300
 12,Route de Rodez,Rieupeyroux,12240,1.80 €,,1.88 €,1.63 €,4430600,224900
@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,144 Avenue Jean Jaurès,Millau,12100,1.88 €,,1.99 €,1.74 €,4411000,308200
 12,Place Frédéric Mistral,NAUCELLE,12800,,,1.88 €,1.64 €,4419842,234030
 12,25 AV EDOUARD ALFRED MARTEL,MILLAU,12100,,,1.87 €,1.63 €,4411354,308262
-12,Route de Saint-Affrique,Vabres-l'Abbaye,12400,1.76 €,1.05 €,,1.64 €,4395400,285000
+12,Route de Saint-Affrique,Vabres-l'Abbaye,12400,1.76 €,1.05 €,,1.62 €,4395400,285000
 12,ZA LE LAC,La Fouillade,12270,1.80 €,,1.88 €,1.63 €,4424024.1001506,203283.20468272
 12,Chemin de la Cassagne,Rignac,12390,,,1.86 €,1.66 €,4440500,229600
 12,RUE ANTOINE FANGUIN,ESPALION,12500,1.80 €,,1.90 €,1.66 €,4452400,276600
@@ -67,7 +67,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,616 AVENUE DE DECAZEVILLE,RODEZ,12000,,,,1.74 €,4437000,254800
 12,7 ROUTE DU QUILLODROME,CAMPUAC,12580,1.99 €,,2.01 €,1.81 €,4457000,259200
 12,LE FOIRAIL,LAISSAC,12310,,,,1.65 €,4438353.55899,282285.354974
-12,Mas de souyri / Route de Montauban,Villefranche-de-Rouergue,12200,,,,1.73 €,4435957.6132494,198663.01067747
+12,Mas de souyri / Route de Montauban,Villefranche-de-Rouergue,12200,,,,1.75 €,4435957.6132494,198663.01067747
 12,Avenue d'Espalion,Saint-Geniez-d'Olt,12130,1.83 €,,1.86 €,1.66 €,4446000,296500
 12,37 AVENUE DE PARIS,Sévérac d'Aveyron,12150,,,,1.63 €,4432932.8023609,306931.6338544
 12,le fargal haut,Montbazens,12220,,1.09 €,,1.70 €,4446138.9568938,222235.07921239

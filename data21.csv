@@ -5,19 +5,19 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 21,8 Rue Charles Dullin,Talant,21240,1.78 €,,1.87 €,1.63 €,4734100,499700
 21,Route de Chevigny,SENNECEY-LES-DIJON,21800,1.78 €,1.18 €,1.88 €,1.64 €,4729000,510000
 21,A6 AIRE DES LOCHERES,EGUILLY,21320,1.99 €,,2.12 €,1.89 €,4730900,450100
-21,1 Rue Les Près Potets,Fontaine-lès-Dijon,21121,1.85 €,,1.92 €,1.69 €,4735600,503200
+21,1 Rue Les Près Potets,Fontaine-lès-Dijon,21121,1.87 €,,1.95 €,1.72 €,4735600,503200
 21, Rue de Dijon,MONTBARD,21500,1.88 €,,,1.74 €,4762499,434660
 21,3  boulevard des Industries,Longvic,21600,1.94 €,1.05 €,1.99 €,1.74 €,4729100,505700
 21,AUTOROUTE A31 SENS DIJON - BEAUNE,Gevrey-Chambertin,21220,1.93 €,,2.07 €,1.79 €,4721796.5761992,500272.49351628
 21,Route de Dijon,Chevigny-Saint-Sauveur,21800,1.79 €,1.16 €,,1.64 €,4730200,512700
 21,51  route de Langres,Til-Châtel,21120,,,1.96 €,1.69 €,4752000,517900
 21,Rue de la Gare,GENLIS,21110,,,1.87 €,1.67 €,4724500,522000
-21,avenue noel navoizat,Châtillon-sur-Seine,21400,,1.10 €,,1.71 €,4787100,457000
+21,avenue noel navoizat,Châtillon-sur-Seine,21400,,1.15 €,,1.71 €,4787100,457000
 21,Route de Seurre,LONGVIC,21600,1.88 €,,1.99 €,1.74 €,4728200,506300
 21,route départementale 114,Sombernon,21540,1.77 €,,,1.62 €,4731700,470800
 21,AVENUE ROLAND CARRAZ,CHENôVE,21300,,,1.90 €,1.72 €,4729307,501616
 21,1 RUE DES TILLEULS,NOIRON-SOUS-GEVREY,21910,,1.15 €,1.99 €,1.68 €,4719500,508300
-21,Avenue du Général de Gaulle,BEAUNE,21200,1.83 €,,1.89 €,1.68 €,4701570.39279,483890.960888
+21,Avenue du Général de Gaulle,BEAUNE,21200,1.82 €,,1.88 €,1.67 €,4701570.39279,483890.960888
 21,6 RUE CAUMONT BREON,Nuits-Saint-Georges,21700,1.79 €,1.05 €,1.88 €,1.63 €,4714300,494400
 21,AUTOROUTE A6 - AIRE DE BEAUNE MERCEUIL,MERCEUIL,21190,1.99 €,1.26 €,1.99 €,1.82 €,4695888,483532
 21,Boulevard Gaston Bachelard,Dijon,21000,1.79 €,,1.84 €,1.67 €,4731812,500275
@@ -30,7 +30,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 21,18 rue François Mitterrand,IS-SUR-TILLE,21120,,1.19 €,,1.69 €,4752800,511300
 21,2 boulevard des diables bleus,DIJON,21000,1.87 €,,1.98 €,1.73 €,4730200,502400
 21,20 rue François Mitterand,IS-SUR-TILLE,21120,1.80 €,1.05 €,1.90 €,1.65 €,4753000,511500
-21,Rue Gustave Eiffel,BEAUNE,21200,1.76 €,,1.84 €,1.65 €,4704200,484400
+21,Rue Gustave Eiffel,BEAUNE,21200,1.77 €,,1.84 €,1.65 €,4704200,484400
 21,ZA le terreau de lée,Seurre,21250,,,1.95 €,1.66 €,4700400,515000
 21,3 rue de Labergement,Auxonne,21130,1.78 €,1.05 €,1.90 €,1.70 €,4718981,538718
 21,LOT ST ANNE,Vitteaux,21350,,,1.95 €,1.66 €,4739600,454900
@@ -68,8 +68,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 21,BLD DES ALLOBROGES,Fontaine-lès-Dijon,21121,1.80 €,1.16 €,1.88 €,1.63 €,4733600,503200
 21,20 RN 74,Corgoloin,21700,,,1.99 €,1.73 €,4709700,491300
 21,108 Boulevard des Bourroches,Dijon,21000,1.79 €,1.16 €,1.87 €,1.67 €,4731100,501500
-21,2 Avenue de Langres,Dijon,21000,1.79 €,,1.87 €,1.63 €,4734200,504500
-21,5 Boulevard Robert Schuman,Dijon,21000,1.79 €,,1.87 €,1.63 €,4730600,505100
+21,2 Avenue de Langres,Dijon,21000,1.80 €,,1.88 €,1.63 €,4734200,504500
+21,5 Boulevard Robert Schuman,Dijon,21000,1.80 €,,1.88 €,1.63 €,4730600,505100
 21,La plucharde ZAC de Bretenière,Bretenière,21110,1.78 €,,,1.63 €,4724000,511400
 21,170 ROUTE DE LANGRES,DIJON,21000,1.88 €,1.16 €,1.99 €,1.74 €,4736260,504681
 21,4 AVENUE ALBERT 1ER,DIJON,21000,1.87 €,1.16 €,1.98 €,1.74 €,4732240,501880

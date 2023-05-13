@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Zone des Reaux,Vélines,24230,,,1.89 €,1.66 €,4485201.45,10365.84
 24,RN 89 au 50 rue de la paix,SAINT-MÉDARD-DE-MUSSIDAN,24400,,,,1.60 €,4503300,32100
 24,59 Avenue d'Aquitaine,La Roche-Chalais,24490,1.79 €,1.10 €,1.92 €,1.64 €,4514600,500
-24,Lieu dit chez Noillac,Vieux-Mareuil,24340,,,1.90 €,1.70 €,4544700,46700
+24,Lieu dit chez Noillac,Vieux-Mareuil,24340,,,1.87 €,1.63 €,4544700,46700
 24,8 Avenue de Selves,SARLAT LA CANEDA,24200,1.90 €,,1.99 €,1.72 €,4490000,121200
 24,Avenue de Périgueux,LA COQUILLE,24450,,,1.90 €,1.68 €,4553900,97600
 24,CD 91,Piégut-Pluviers,24360,1.80 €,,1.89 €,1.64 €,4562000,69900
@@ -12,7 +12,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,Bld De Lattre De Tassigny,SAINT-ASTIER,24110,1.77 €,,,1.60 €,4514600,52500
 24,94 Avenue de la Beauronne,Agonac,24460,,,,1.82 €,4529276.92,75169.24
 24,8 boulevard Jean Moulin,Bergerac,24100,1.99 €,1.17 €,2.04 €,1.83 €,4485570.5921094,47879.478719295
-24,rue du 11 juin 1944,Saint-Médard-de-Mussidan,24400,1.79 €,,1.84 €,1.64 €,4504100,35200
+24,rue du 11 juin 1944,Saint-Médard-de-Mussidan,24400,1.79 €,,1.86 €,1.64 €,4504100,35200
 24,113 route du perigord pourpre,Montcaret,24230,,,,1.86 €,4485323.5666555,6675.0467764963
 24,54 avenue Michel Grandou,Trélissac,24750,1.85 €,,,1.68 €,4519000,73600
 24, Chemin des Sables,SARLAT-LA-CANéDA,24200,1.77 €,1.35 €,1.85 €,1.63 €,4487349,123042
@@ -33,13 +33,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,AVENUE DE LA LIBERATION,LE BUGUE,24260,1.79 €,,1.89 €,1.62 €,4491400,92500
 24,Route de Brive,Sarlat-la-Canéda,24200,,,1.88 €,1.67 €,4492000,120600
 24,24 av de la Forge,Les Eyzies,24620,,,,1.75 €,4493500,102000
-24,Route de BERGERAC,Sarlat-la-Canéda,24200,1.83 €,1.14 €,,1.68 €,4487600,121300
+24,Route de BERGERAC,Sarlat-la-Canéda,24200,1.85 €,1.19 €,,1.70 €,4487600,121300
 24,32 AVENUE CHARLES DE GAULLE,THIVIERS,24800,,,1.84 €,1.62 €,4542456.1452651,92805.331392518
 24,Route de Mussidan,RIBéRAC,24600,1.79 €,1.05 €,1.83 €,1.64 €,4523800,34800
-24,Route de Bordeaux,Bergerac,24100,1.77 €,1.10 €,1.88 €,1.59 €,4483492.4988994,44823.906051395
+24,Route de Bordeaux,Bergerac,24100,1.77 €,1.14 €,1.88 €,1.59 €,4483492.4988994,44823.906051395
 24,7 ROUTE DE BERGERAC,LE BUISSON DE CADOUIN,24480,,,2.02 €,2.10 €,4484674.542214,89910.605727465
 24,154 avenue de la roque,CREYSSE,24100,1.77 €,1.05 €,1.88 €,1.59 €,4484900,53800
-24,Les Peyrieres,Négrondes,24460,,,1.99 €,1.77 €,4534400,86900
+24,Les Peyrieres,Négrondes,24460,,,1.99 €,1.74 €,4534400,86900
 24,740 avenue des jardins,TERRASSON,24120,1.80 €,,1.91 €,1.62 €,4512400,132100
 24,Le Mayne,Saint-Martial-d'Albarède,24160,1.79 €,,1.89 €,1.61 €,4533308,104339
 24,16  Rue des Fleurs,Chancelade,24650,1.77 €,,1.87 €,1.60 €,4520000,66800
@@ -64,7 +64,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,VAUREZ,Belvès,24170,1.87 €,1.05 €,1.98 €,1.69 €,4477100,101100
 24,LES PLATEAUX DE GRAULET,Rouffignac-Saint-Cernin-de-Reilhac,24580,,,1.89 €,1.67 €,4504300,98100
 24,Puy Laurent,BRANTôME,24310,1.83 €,1.16 €,,1.67 €,4538100,64600
-24,Avenue Georges Pompidou,Montpon-Ménestérol,24700,1.77 €,,1.78 €,1.61 €,4500900,15200
+24,Avenue Georges Pompidou,Montpon-Ménestérol,24700,1.78 €,,1.81 €,1.62 €,4500900,15200
 24,Lieu-dit Grands Champs de Baunac,Tocane-Saint-Apre,24350,,,,1.64 €,4525805,50632
 24,Lieu-dit Le Bout de la Côte,Siorac-en-Périgord,24170,,,1.84 €,1.62 €,4481019,98906.999999998
 24,Bd mallebay,SAINT-ASTIER,24110,1.77 €,1.13 €,1.87 €,1.60 €,4514900,52700
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,8 RUE CLAUDE BERNARD,BERGERAC,24100,1.77 €,,1.88 €,1.59 €,4485352.69,48766.25054723
 24,Avenue de Sarlat,SALIGNAC-EYVIGUES,24590,1.78 €,,1.85 €,1.65 €,4497400,132100
 24,Route de Mareuil,La Tour-Blanche,24320,,,1.90 €,1.67 €,4536588,44451
-24,LA GARE,HAUTEFORT,24390,1.78 €,1.05 €,,1.61 €,4526681.28926,113778.022236
+24,LA GARE,HAUTEFORT,24390,1.82 €,1.05 €,,1.67 €,4526681.28926,113778.022236
 24,LIEU DIT LA FOUGERE  ROUTE DE CAHORS,Villefranche-du-Périgord,24550,,,1.95 €,1.69 €,4463855.2720827,106084.09067322
 24,les guichoux,Saint-Pierre-de-Chignac,24330,,,1.96 €,1.70 €,4512300,86000
 24,Avenue du 8 mai 1945,Brantôme,24310,,,1.96 €,1.67 €,4535705,65291.4
