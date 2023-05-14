@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-94,63 Rue Maurice Berteaux,Le Plessis-Trévise,94420,1.92 €,,1.99 €,1.76 €,4881320,256641
 94,57  Rue Delenue,SAINT-MAUR-DES-FOSSéS,94100,1.88 €,,1.96 €,1.69 €,4880200,248700
+94,63 Rue Maurice Berteaux,Le Plessis-Trévise,94420,1.92 €,,1.99 €,1.76 €,4881320,256641
 94,22 Avenue Pierre Brossolette,Créteil,94000,1.89 €,1.18 €,1.97 €,1.72 €,4879100,246200
 94,20 Avenue Paul Vaillant-Couturier,Arcueil,94110,1.89 €,1.19 €,1.97 €,1.73 €,4880100,234000
 94,99/101 Avenue Foch,Saint-Maur-des-Fossés,94100,1.88 €,,1.96 €,1.69 €,4879900,250000
@@ -51,7 +51,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,2 Rue Eugène Hénaff,VITRY-SUR-SEINE,94400,1.84 €,,1.92 €,1.69 €,4879400,241600
 94,85 Route de Provins Cc Pincevent,Ormesson-sur-Marne,94430,1.83 €,1.13 €,1.91 €,1.68 €,4879300,255400
 94,4 BIS AV DE LA LIBERTE,Charenton-le-Pont,94220,,,,1.79 €,4882225,240285
-94,Rue d'Yerres,Villecresnes,94440,1.87 €,,1.93 €,1.74 €,4872100,252500
+94,Rue d'Yerres,Villecresnes,94440,1.88 €,,1.94 €,1.74 €,4872100,252500
 94,232 RUE DE PARIS,Villeneuve-Saint-Georges,94190,1.96 €,1.17 €,1.99 €,1.78 €,4874205.2731851,244691.0938728
 94,156 Rue Alexandre Fourny,Champigny-sur-Marne,94500,1.81 €,,1.90 €,1.66 €,4882000,253100
 94,128  BOULEVARD DE STRASBOURG,Nogent-sur-Marne,94130,1.93 €,,1.99 €,1.78 €,4884300,248600
@@ -63,12 +63,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,119 Avenue du Général de Gaulle,Créteil,94000,1.94 €,,2.00 €,1.80 €,4878186.7204601,245789.45751426
 94,29 bvd de créteil,Saint-Maur,94100,1.92 €,,,1.76 €,4879800,247700
 94,99 AVENUE DU GL LECLERC,MAISONS-ALFORT,94700,1.92 €,1.10 €,1.97 €,1.75 €,4880694.77421,243827.166369
-94,236 Avenue de la République,Fontenay-sous-Bois,94120,1.96 €,,2.11 €,1.83 €,4885300,246600
+94,236 Avenue de la République,Fontenay-sous-Bois,94120,1.99 €,,2.14 €,1.83 €,4885300,246600
 94,247 AV CHARLES DE GAULLE,Champigny-sur-Marne,94500,1.93 €,1.13 €,1.99 €,1.78 €,4882800,251300
 94,64 AVENUE FOCH,ST MAUR DES FOSSES,94100,1.95 €,1.15 €,2.00 €,1.77 €,4880057.83,249499.24
 94,AUTOROUTE A106 - AIRE DE RUNGIS DELTA PONDO,RUNGIS,94150,1.93 €,1.16 €,1.99 €,1.80 €,4875758.28377,234834.600555
 94,69 Route de la Queue en Brie,Sucy-en-Brie,94370,1.96 €,,2.10 €,1.81 €,4876100,253300
-94,63 Avenue du Général de Gaulle,CRETEIL,94000,1.88 €,,1.95 €,1.72 €,4879038.8298253,244517.40423071
+94,63 Avenue du Général de Gaulle,CRETEIL,94000,,,,,4879038.8298253,244517.40423071
 94,1 BIS AV GABRIEL PERI,Limeil-Brévannes,94450,1.86 €,1.17 €,1.94 €,1.69 €,4875500,248400
 94,114 Rue de Paris,Charenton-le-Pont,94220,1.97 €,1.20 €,2.10 €,1.80 €,4882500,240800
 94,AVENUE JEAN ROSTAND,Bonneuil-sur-Marne,94380,1.84 €,,,1.67 €,4876736,248537

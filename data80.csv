@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,RUE JEAN MOULIN,Pont-Remy,80580,1.77 €,,1.90 €,1.64 €,5005800.8,190025.44
 80,6/12 rue benjamin hardivillers,Poix-de-Picardie,80290,1.89 €,,1.99 €,1.70 €,4977474.7581038,198465.31982469
-80,28 Place du Maréchal Foch,Amiens,80000,1.85 €,,1.93 €,1.65 €,4989400,228500
+80,28 Place du Maréchal Foch,Amiens,80000,1.81 €,,1.89 €,1.64 €,4989400,228500
 80,213 Boulevard de la République,Abbeville,80100,1.77 €,,1.85 €,1.59 €,5011300,182900
 80,Rue du Pont des 9 Moulins,Doullens,80600,1.82 €,,1.90 €,1.66 €,5016005,234759
 80,3 Place de l'Amiral Courbet,Abbeville,80100,1.85 €,,,1.67 €,5010800,183200
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Rue du Nouveau Monde,ROISEL,80240,,,1.90 €,1.62 €,4994800,310800
 80,Route de Chauny,HAM,80400,1.83 €,,1.89 €,1.66 €,4974200,309100
 80,21 AVENUE FRANCOIS MITTERRAND,OISEMONT,80140,,,2.05 €,2.03 €,4996000,176600
-80,Avenue de la Defense Passive,RIVERY,80136,1.79 €,1.28 €,1.86 €,1.62 €,4991300,233800
+80,Avenue de la Defense Passive,RIVERY,80136,1.79 €,1.33 €,1.86 €,1.62 €,4991300,233800
 80,31  Rue du Moulin,RUE,80120,,,,,5027600,165800
 80,Route de Thennes,MOREUIL,80110,1.84 €,,1.91 €,1.66 €,4978800,246900
 80,Route d'Abbeville,Airaines,80270,1.77 €,,1.90 €,1.62 €,4997400,194100
@@ -60,7 +60,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Route de Taisnil,SALEUX,80480,1.74 €,,1.84 €,1.61 €,4986238,223121
 80,76 ROUTE FLANDRE DUNKERQUE,DOULLENS,80600,1.87 €,,,1.71 €,5016200,235500
 80,Zone Commerciale chemin croisé de bellevue,ALBERT,80300,1.77 €,1.05 €,1.84 €,1.62 €,4999400,265700
-80,205 BLD DE LA REPUBLIQUE,ABBEVILLE,80100,1.78 €,1.10 €,1.87 €,1.60 €,5011300,182900
+80,205 BLD DE LA REPUBLIQUE,ABBEVILLE,80100,1.78 €,,1.87 €,1.60 €,5011300,182900
 80,164 AV DU GENERAL FAIDHERBE,ALBERT,80300,1.89 €,,,1.73 €,5000800,266600
 80,Route d'Aumale,Morvillers-Saint-Saturnin,80290,1.87 €,,1.98 €,1.71 €,4977800,182200
 80,Rue de la Gare,DOULLENS,80600,1.79 €,1.05 €,1.89 €,1.64 €,5016000,234200
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Avenue des Australiens,Péronne,80200,,,,,4994186,294077
 80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,2.02 €,1.23 €,2.08 €,1.87 €,4988879.2881616,284077.70993548
 80,rue charles de gaulle,Gamaches,80220,,,1.89 €,1.68 €,4998297.73,156231.03625
-80,2 Route de Normandie,Salouël,80480,1.79 €,,1.87 €,1.62 €,4987000,224100
+80,2 Route de Normandie,Salouël,80480,1.79 €,,1.87 €,1.63 €,4987000,224100
 80,ZI IMPASSE DU MOULIN,ROYE,80700,,,,1.61 €,4970300,278100
 80,Avenue du Président Roosevelt,Bouttencourt,80220,,,1.80 €,1.62 €,4993908,162364
 80,AUTOROUTE A 1,Péronne,80200,1.97 €,,2.08 €,1.80 €,4988700,283700

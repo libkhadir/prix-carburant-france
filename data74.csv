@@ -26,7 +26,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,930 AVENUE DE THONON,ALLINGES,74200,1.87 €,,1.98 €,1.70 €,4634300,647700
 74,Avenue Roosevelt,Rumilly,74150,,,1.86 €,1.68 €,4587100,593800
 74,65 impasse des Champs,Amancy,74800,1.80 €,1.05 €,1.86 €,1.67 €,4607162,632623
-74,1751 Avenue de Genève,SALLANCHES,74700,1.85 €,,1.88 €,1.69 €,4595300,662900
+74,1751 Avenue de Genève,SALLANCHES,74700,1.84 €,,1.91 €,1.69 €,4595300,662900
 74,RD 19 Lieu dit Les Bossons,Thyez,74300,1.85 €,,,1.69 €,4608617,652416
 74,54 Avenue d'Évian,Thonon-les-Bains,74200,1.84 €,,1.92 €,1.69 €,4638000,649100
 74,A40 - KM79 - SENS MILAN MACON,VALLEIRY,74520,1.97 €,1.24 €,1.99 €,1.79 €,4609740.7,596412.3
@@ -47,7 +47,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,Parc d'Activités de la Menoge,BONNE,74380,1.76 €,,1.86 €,1.61 €,4617186.83966,631239.661106
 74,180 allée des Noyères,Magland,74300,1.76 €,1.13 €,1.87 €,1.63 €,4601500.715,662468.959
 74,60 Route des Creuses,CRAN-GEVRIER,74960,1.78 €,,1.88 €,1.62 €,4589200,609200
-74,7 avenue des bocquies,Évian-les-Bains,74500,1.88 €,,1.97 €,1.70 €,4640100,659000
+74,7 avenue des bocquies,Évian-les-Bains,74500,1.86 €,,1.94 €,1.70 €,4640100,659000
 74,61 rue des Grebes Huppés,Bonneville,74130,1.84 €,,1.90 €,1.70 €,4607300,641900
 74,ROUTE DES VIGNES,La Balme-de-Sillingy,74330,1.78 €,1.20 €,,1.62 €,4597400,603300
 74,PLACE AVET,THONES,74230,,,,,4588197.22616,632247.85944
@@ -63,7 +63,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,Chemin de Morcy,THONON-LES-BAINS,74200,,,1.94 €,1.65 €,4635892,645909
 74,1930 Route de Bellegarde,SILLINGY,74330,1.90 €,,,1.75 €,4594899.49885,604605.205671
 74,ROUTE DU TRAM,FRANGY,74270,,,1.90 €,1.65 €,4601800,592400
-74,134 avenue de geneve,ANNECY,74000,1.83 €,1.18 €,1.90 €,1.68 €,4591881.61066,612379
+74,134 avenue de geneve,ANNECY,74000,1.81 €,1.18 €,1.89 €,1.67 €,4591881.61066,612379
 74,530 Route d'Annecy,Menthon-Saint-Bernard,74290,,,1.99 €,1.83 €,4586600,618800
 74,94 Chemin des Vorges,La Chapelle-d'Abondance,74360,1.80 €,,,1.64 €,4628000,681900
 74,rue Albert Hénon,VILLE LA GRAND,74100,1.74 €,,,1.61 €,4620500,624000
