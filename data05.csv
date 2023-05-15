@@ -9,9 +9,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 05,10 Avenue du Commandant Dumont,Gap,05000,1.78 €,,1.87 €,1.62 €,4456400,608400
 05,RN. 544 PLAINE DE CHABOTTES,Chabottes,05260,1.97 €,,1.99 €,1.73 €,4464668,618157
 05,1256 route de gap,Veynes,05400,1.83 €,,1.86 €,1.67 €,4453700,583500
-05,Avenue de la Combe d'Or,SAVINES-LE-LAC,05160,1.78 €,,1.88 €,1.62 €,4452500,640800
+05,Avenue de la Combe d'Or,SAVINES-LE-LAC,05160,1.78 €,,1.87 €,1.62 €,4452500,640800
 05,SAINT MARCELLIN,Vars,05560,,,,,4460900,668800
-05,Route Nationale 94 Route Nationale 94,Baratier,05200,1.78 €,1.05 €,,1.62 €,4453800,649700
+05,Route Nationale 94 Route Nationale 94,Baratier,05200,1.78 €,1.05 €,1.87 €,1.62 €,4453800,649700
 05,Saint Marcellin,VARS,05560,,,2.02 €,1.96 €,4460600,668900
 05,RD 1075- quartier les Chambons,Serres,05700,,,2.00 €,1.75 €,4443500,571300
 05,Les Graves,Remollon,05190,1.83 €,1.12 €,,1.67 €,4446700,617900
@@ -24,7 +24,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 05,ZAE DE L'AEROPOLE,Tallard,05130,1.78 €,1.05 €,1.87 €,1.62 €,4445959.9636027,603513.92063598
 05,Lieu dit Les Graves,REMOLLON,05190,,,,,4446800,617900
 05,Avenue Justin Gras,EMBRUN,05200,,,1.95 €,1.69 €,4456000,648700
-05,Zone d'Entraigues,Embrun,05200,1.78 €,1.19 €,1.88 €,1.62 €,4455100,648900
+05,Zone d'Entraigues,Embrun,05200,1.78 €,1.21 €,1.87 €,1.62 €,4455100,648900
 05,AV. DU DAUPHINE,BRIANCON,05100,1.83 €,1.13 €,1.91 €,1.68 €,4490371.8328594,662908.58578086
 05,LE MOULIN BARON,La Salle-les-Alpes,05240,,,2.10 €,1.78 €,4494200,656900
 05,RD 1091 Lieu-dit Pré-Bagnols,Le Monêtier-les-Bains,05220,1.82 €,,,1.68 €,4497200,651900
@@ -35,7 +35,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 05,RN 94,EYGLIERS,05600,1.82 €,,1.90 €,1.65 €,4467200,661800
 05,Le Villard,GUILLESTRE,05600,,,1.90 €,1.65 €,4466100,661800
 05,Avenue de Provence,GAP,05000,1.78 €,,1.86 €,1.62 €,4454400,606100
-05,Les Barraques RN85,LA FARE-EN-CHAMPSAUR,05500,1.78 €,,,1.62 €,4467298.35113,607366.85408
+05,Les Barraques RN85,LA FARE-EN-CHAMPSAUR,05500,1.78 €,,,1.64 €,4467298.35113,607366.85408
 05,11 avenue du Maquis Morvan,Laragne-Montéglin,05300,1.86 €,,,1.72 €,4431200,582500
 05,Avenue Léon Trinquier,Eyguians,05300,1.88 €,,,1.70 €,4434606,577102
 05,10 AV.GUILLAUME FAREL,GAP,05000,1.88 €,1.11 €,1.99 €,1.73 €,4455900,607400
