@@ -1,10 +1,10 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-15,route de murat  station-service BAR,Riom-es-Montagnes,15400,,,1.97 €,1.76 €,4528000,266500
 15,63 AVENUE GENERAL DE GAULLE,MASSIAC,15500,,,1.88 €,1.65 €,4525400,319700
 15,35 bis Avenue du 15 Septembre 1945,Le Rouget,15290,1.80 €,,1.90 €,1.68 €,4485500,223300
 15,12 AVENUE MAX MABIT FOURNIER,VIC SUR CERE,15800,,,2.09 €,1.99 €,4497767.5282279,262331.27421777
-15,34 avenue de Verdun,Saint-Flour,15100,,,,1.72 €,4503000,309300
+15,route de murat  station-service BAR,Riom-es-Montagnes,15400,,,1.97 €,1.80 €,4528000,266500
 15,29 Avenue des Estourocs,PLEAUX,15700,1.96 €,,1.99 €,1.80 €,4513300,222000
+15,34 avenue de Verdun,Saint-Flour,15100,,,,1.72 €,4503000,309300
 15,15 BD JEAN JAURES,AURILLAC,15000,,,,1.78 €,4493338.44678,245007.665476
 15,12 rue des Ecoles,Saint-Cernin,15310,,,1.99 €,1.83 €,4505700,242200
 15, Avenue de Bagnac,MAURS,15600,1.93 €,,1.99 €,1.73 €,4470650,219514
@@ -15,19 +15,19 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15, Avenue de la Plaine,JUSSAC,15250,1.80 €,,,1.64 €,4499661,242166
 15,zac du crozatier,Saint-Georges,15100,1.77 €,,,1.66 €,4503200,313500
 15,ROUTE DE SANSAC,AURILLAC,15000,1.79 €,,1.91 €,1.63 €,4490800,242100
-15,Avenue de la Gare,Mauriac,15200,1.82 €,,1.92 €,1.67 €,4522200,234000
-15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,1.72 €,4492297.528,242765.388
+15,Avenue de la Gare,Mauriac,15200,1.79 €,,1.92 €,1.65 €,4522200,234000
+15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,1.73 €,4492297.528,242765.388
 15,1 route de brive,Saint-Paul-des-Landes,15250,,,1.95 €,1.69 €,4494448.371,231132.819
 15,31 avenue de la republique,Saint-Flour,15100,1.80 €,,1.95 €,1.67 €,4503354.63,309315.4
 15,Rue de la République,Ydes,15210,1.80 €,1.12 €,1.93 €,1.65 €,4534000,243400
 15,La Croix Jolie,Murat,15300,1.83 €,,1.93 €,1.69 €,4510616,286291
 15,LE BOURG,Ruynes-en-Margeride,15320,,,1.95 €,1.67 €,4500148.03,322367.76
 15,38 route du lioran,USSEL,15300,,,,1.75 €,4507900,293700
-15,16 Avenue du 4 Septembre 1870,AURILLAC,15000,,,1.99 €,1.72 €,4492300,243500
+15,16 Avenue du 4 Septembre 1870,AURILLAC,15000,,,1.99 €,1.73 €,4492300,243500
 15,15 Grand'Rue,Thiézac,15800,,,,1.75 €,4501600,266400
-15,10  Avenue de la Fontlong,SAINT-FLOUR,15100,,1.11 €,,1.64 €,4503800,308700
+15,10  Avenue de la Fontlong,SAINT-FLOUR,15100,,1.11 €,,1.67 €,4503800,308700
 15,Avenue du Docteur Louis Mallet,Chaudes-Aigues,15110,,,,1.69 €,4485700,300800
-15,RUE DU BOURNAT,PLEAUX,15700,1.82 €,,,1.67 €,4513346.491,222264.433
+15,RUE DU BOURNAT,PLEAUX,15700,1.79 €,,,1.64 €,4513346.491,222264.433
 15,route du Cezallier,Marcenat,15190,1.80 €,1.05 €,1.96 €,1.67 €,4530314.1500363,283274.25989775
 15,87 Avenue Charles de Gaulle,AURILLAC,15000,1.79 €,,1.97 €,1.65 €,4490915.21744,242441.831845
 15,Avenue du Général de Gaulle,MASSIAC,15500,1.80 €,,,1.67 €,4525800,319900
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,66 Rue de Firminy,AURILLAC,15000,1.80 €,1.12 €,2.00 €,1.64 €,4491572,243189
 15,1 rue germain prat,LAFEUILLADE-EN-VéZIE,15130,1.95 €,,1.99 €,1.79 €,4478758.39813,245602.00536
 15,Route d'Aurillac,Saint-Paul-des-Landes,15250,,,,,4493800,232400
-15,Rue de la Jordanne,AURILLAC,15000,1.80 €,1.26 €,,1.64 €,4491400,244100
+15,Rue de la Jordanne,AURILLAC,15000,1.79 €,1.25 €,,1.63 €,4491400,244100
 15,Allée des Tilleuls,Vic-sur-Cère,15800,,,,,4498100,262800
 15,PRE CHAMBON,MASSIAC,15500,,,1.86 €,1.67 €,4526200,319900
 15,RN122 La Croix Blanche,Saint-Mamet-la-Salvetat,15220,,,1.99 €,1.80 €,4485900,229200
