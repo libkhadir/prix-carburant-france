@@ -4,7 +4,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,ROUTE NATIONALE 73,ROCHEFORT SUR NENON,39700,1.81 €,,1.90 €,1.66 €,4711613.7241037,553852.15038275
 39,38 Route de Lyon,Saint-Claude,39200,1.79 €,,,1.65 €,4638038,583492
 39,8 route Nationale 73,Ranchot,39700,,,1.99 €,1.73 €,4715100,572700
-39,16 Route de Lyon,Saint-Claude,39200,1.81 €,1.15 €,1.89 €,1.65 €,4637945,583946
+39,16 Route de Lyon,Saint-Claude,39200,1.81 €,1.15 €,1.90 €,1.67 €,4637945,583946
 39,15 rue de la bresse,CHAUMERGY,39230,,,1.95 €,1.70 €,4684600,547700
 39,Route de Voiteur,DOMBLANS,39210,,,,,4676300,559900
 39,Avenue de Franche Comté,Moirans-en-Montagne,39260,1.78 €,,,1.64 €,4643900,572100
@@ -42,7 +42,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,19A Rue de Lons,Saint-Aubin,39410,1.77 €,,,1.64 €,4702500,533800
 39,39 Rue Clemenceau,Champagnole,39300,1.76 €,,,1.65 €,4674600,592000
 39,ROUTE DU GENIE,LES ROUSSES,39220,1.78 €,1.05 €,1.84 €,1.63 €,4648600,605500
-39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.80 €,,1.86 €,1.64 €,4657200,595600
+39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.80 €,,1.86 €,1.65 €,4657200,595600
 39,20 Rue de Paris,Saint-Laurent-en-Grandvaux,39150,,1.05 €,,1.73 €,4658000,595400
 39,AIRE DU JURA,Arlay,39140,2.03 €,,2.13 €,1.92 €,4677600,552300
 39,14 Avenue du Maréchal Juin,Dole,39100,1.81 €,,1.89 €,1.66 €,4708600,549600
@@ -69,10 +69,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,Rue du Général Bethouart,DOLE,39100,1.73 €,,1.88 €,1.62 €,4708600,549000
 39,2 RUE DU PARTERRE,Clairvaux-les-Lacs,39130,,,1.92 €,1.68 €,4657500,575100
 39,2 avenue de Franche-Comté,SAINT-AMOUR,39160,1.75 €,,1.85 €,1.62 €,4644200,534300
-39,Route de Champagnole,PERRIGNY,39570,1.84 €,,,1.65 €,4667300,558000
+39,Route de Champagnole,PERRIGNY,39570,,,,,4667300,558000
 39,23B AVENUE MAILLOT,MONTMOROT,39570,,1.05 €,,1.65 €,4667600,552400
-39,316 Route de Conliège,Perrigny,39570,1.90 €,,1.99 €,1.74 €,4666800,557700
+39,316 Route de Conliège,Perrigny,39570,1.90 €,,1.99 €,1.75 €,4666800,557700
 39,RUE DU CRET DU BIEF,Lavans-lès-Saint-Claude,39170,,,1.96 €,1.69 €,4638100,577800
 39,2 PLACE DU COLONEL VARROZ,Orgelet,39270,,1.14 €,,1.70 €,4652100,561100
-39,4 Rue de Magnin,ARINTHOD,39240,1.86 €,,1.95 €,1.67 €,4639400,557000
+39,4 Rue de Magnin,ARINTHOD,39240,1.86 €,,,1.67 €,4639400,557000
 39,Rue de la Bolée,BANS,39380,1.82 €,,1.93 €,1.67 €,4698200,558200

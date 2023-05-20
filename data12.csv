@@ -4,7 +4,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Espace Les Cayres,Laguiole,12210,,,1.92 €,1.68 €,4468300,285100
 12,Route de Rodez,SAINT-CHRISTOPHE-VALLON,12330,1.79 €,,1.88 €,1.66 €,4446900,241400
 12,280 Rue de la Renaissance,Decazeville,12300,1.75 €,1.25 €,1.86 €,1.62 €,4455913.1275643,225812.46898855
-12,150 Boulevard Georges Brassens,Millau,12100,1.75 €,,1.84 €,1.60 €,4411714,306997
+12,150 Boulevard Georges Brassens,Millau,12100,1.75 €,,1.83 €,1.60 €,4411714,306997
 12,Zone de Laubarède,Viviez,12110,1.75 €,1.05 €,,1.64 €,4456000,222400
 12,route d#039;estaing,Espalion,12500,1.80 €,1.40 €,1.90 €,1.65 €,4452300,276300
 12,Z.A. Bel air,Camarès,12360,1.78 €,,,1.65 €,4383200,287300
@@ -32,7 +32,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,D 911 LE BOIS DU FOUR,SAINT LéONS,12780,,,1.98 €,1.66 €,4423609.94618,298684.312288
 12,10 bis Avenue de la Gineste,Rodez,12000,,,1.88 €,1.64 €,4436200,257200
 12,Avenue de l'Europe,Millau,12100,1.75 €,1.07 €,,1.60 €,4408900,305400
-12,Route d'Espalion,ONET-LE-CHâTEAU,12850,1.80 €,1.15 €,1.88 €,1.64 €,4437300,259200
+12,Route d'Espalion,ONET-LE-CHâTEAU,12850,1.82 €,1.20 €,1.90 €,1.68 €,4437300,259200
 12,AVENUE D'ESPALION,Saint-Geniez-d'Olt,12130,,,,1.75 €,4446200,297000
 12,l'Estréniol - Pôle Comtal Sud,Onet-le-Château,12850,1.80 €,,,1.64 €,4439400,260300
 12,14 ROUTE DE SEVERAC LES QUATRES SAISONS,Onet-le-Château,12850,1.80 €,,1.88 €,1.64 €,4436400,258800
@@ -86,7 +86,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,10 AV.DE TOULOUSE,Luc-la-Primaube,12450,,,1.99 €,1.73 €,4429202,255855
 12,Lotissement de Vaxergues,SAINT-AFFRIQUE,12400,,,1.83 €,1.60 €,4395800,287000
 12,111 ROUTE DE RODEZ,BOZOULS,12340,1.87 €,,1.98 €,1.74 €,4446900,272900
-12,le lachet,Olemps,12510,1.80 €,1.15 €,1.88 €,1.64 €,4432500,255800
+12,le lachet,Olemps,12510,1.82 €,1.20 €,1.90 €,1.68 €,4432500,255800
 12,Avenue de Toulouse,VILLEFRANCHE-DE-ROUERGUE,12200,1.77 €,,1.84 €,1.60 €,4436100,203400
 12,Avenue de Brommat,Mur-de-Barrez,12600,,,1.89 €,1.71 €,4484071,266470
 12,RD 963 LIEU DIT LA PLANQUE,Flagnac,12300,,,,1.65 €,4460421.1987517,224754.63212208

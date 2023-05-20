@@ -34,12 +34,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,28 Avenue des Taillades,CAVAILLON,84300,1.76 €,,1.83 €,1.62 €,4383650.87192,505044.595196
 84,Route d'Orange,Valréas,84600,1.80 €,1.05 €,1.86 €,1.68 €,4437318,498125
 84,1050 Chemin du Castellas Route de Mazan,CARPENTRAS,84200,1.77 €,,1.81 €,1.60 €,4405991.5395231,507042.85376765
-84,80 route de travaillan,ste cécile les vignes,84290,1.84 €,,1.90 €,1.70 €,4423200,488300
+84,80 route de travaillan,ste cécile les vignes,84290,1.82 €,,1.88 €,1.68 €,4423200,488300
 84,37 route de Montfavet,AVIGNON,84000,1.87 €,1.05 €,2.00 €,1.67 €,4394017,483013
 84,Route de Jonquieres,ORANGE,84100,1.87 €,1.05 €,1.91 €,1.70 €,4412000,484000
 84,950 CRS CARDINAL BERTRAND DE MON,MONTFAVET,84140,1.89 €,1.12 €,1.99 €,1.72 €,4393100,487400
-84,cd 973,Puyvert,84160,1.75 €,1.26 €,,1.60 €,4375900,534100
-84,162 Avenue Pierre Sémard,Avignon,84000,1.81 €,1.08 €,1.90 €,1.65 €,4393000,483300
+84,cd 973,Puyvert,84160,1.75 €,1.09 €,,1.60 €,4375900,534100
+84,162 Avenue Pierre Sémard,Avignon,84000,1.81 €,1.08 €,1.89 €,1.65 €,4393000,483300
 84,16 Boulevard Saint-Michel,AVIGNON,84000,1.85 €,1.20 €,,1.68 €,4394300,481100
 84,AVENUE DE L AMANDIER,AVIGNON,84000,1.82 €,,1.88 €,1.64 €,4393500,484800
 84,7 Avenue René Cassin,MONTEUX,84170,1.88 €,1.25 €,1.92 €,1.69 €,4403500,500300
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,Route de Carpentras,Sarrians,84260,1.78 €,1.10 €,1.88 €,1.65 €,4408120,498365
 84,RN 100 PL. EMILE CHAR,L'Isle-sur-la-Sorgue,84800,1.90 €,1.11 €,1.99 €,1.75 €,4391800,505000
 84,Avenue Marcel Pagnol,VAISON-LA-ROMAINE,84110,1.75 €,1.06 €,1.86 €,1.59 €,4424300,508200
-84,10 Avenue Eisenhower,Avignon,84000,1.79 €,,,1.62 €,4394000,479800
+84,10 Avenue Eisenhower,Avignon,84000,1.79 €,,,1.63 €,4394000,479800
 84,502 Avenue Jean Monnet,MORIèRES-LèS-AVIGNON,84310,1.91 €,1.26 €,1.95 €,1.69 €,4394100,489700
 84,4 impasse Louis Astic  Zone artisanale Les Meillères,Cadenet,84160,,1.27 €,1.85 €,1.61 €,4373600,537400
 84,191 Route de Tarascon,AVIGNON,84000,1.85 €,1.29 €,1.97 €,1.63 €,4391892.9139514,480941.60710555
@@ -91,7 +91,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 84,COURTINE OUEST-ROCADE CH. DE GAU,AVIGNON,84000,,1.11 €,1.91 €,1.63 €,4393200,478300
 84, Route de Cavaillon,MAUBEC,84660,,,1.91 €,1.76 €,4386584,514004
 84,route de carpentras,BEAUMES-DE-VENISE,84190,1.95 €,1.27 €,2.00 €,1.72 €,4411600,501600
-84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,1.79 €,1.05 €,1.84 €,1.66 €,4428689.2034091,475063.55196328
+84,Avenue Jean Giono STATION 2 ROND POINT,Bollène,84500,1.78 €,1.05 €,1.84 €,1.66 €,4428689.2034091,475063.55196328
 84,route d'aix en provence - lot. les prés verts,Pertuis,84120,1.78 €,1.15 €,1.90 €,1.62 €,4367900,549700
 84,408 rue de la Tour,Pertuis,84120,1.88 €,1.30 €,1.99 €,1.70 €,4369500,550300
 84,Autoroute A7 Aire de Mornas Les Adrets,Mornas,84550,1.88 €,1.23 €,1.99 €,1.72 €,4421591.6721624,472326.57168282
