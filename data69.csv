@@ -33,7 +33,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,8 RUE MARIUS BERLIET,Chazay-d'Azergues,69380,1.76 €,,1.83 €,1.64 €,4586900,470000
 69,23 Avenue de la Porte de Lyon,Dardilly,69570,1.77 €,,1.86 €,1.63 €,4582100,476600
 69,85  Avenue de Chaponnay - Parc d'activité de la vallée de l'Ozon,CHAPONNAY,69970,1.75 €,1.26 €,1.83 €,1.59 €,4565000,492700
-69,10 Chemin Jean Petit,Caluire-et-Cuire,69300,1.79 €,,1.88 €,1.65 €,4580500,485900
+69,10 Chemin Jean Petit,Caluire-et-Cuire,69300,,,,,4580500,485900
 69,107 ROUTE DE ST CYR,Saint-Didier-au-Mont-d'Or,69370,1.88 €,1.16 €,1.99 €,1.75 €,4579100,480800
 69,2 rue Joseph Gillet - D30 Route de Villefranche,Chazay-d'Azergues,69380,1.76 €,1.05 €,1.83 €,1.64 €,4586823.3282713,469884.27022745
 69,Autoroute A6 382 Chemin de l'emprunt,Dracé,69220,1.96 €,1.23 €,2.05 €,1.81 €,4614306.2121949,476753.57889549
@@ -123,7 +123,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,141 Boulevard Émile Zola,Oullins,69600,1.79 €,,1.88 €,1.64 €,4572100,479500
 69,22 Rue Philippe de Lassalle,Lyon,69004,1.80 €,1.15 €,1.88 €,1.64 €,4577600,482100
 69,283 RTE DE GENAS,VILLEURBANNE,69100,1.80 €,,1.88 €,1.65 €,4574977,491257
-69,Avenue du Bon Pasteur,ÉCULLY,69130,1.80 €,1.16 €,1.87 €,1.63 €,4578700,477700
+69,Avenue du Bon Pasteur,ÉCULLY,69130,1.82 €,1.16 €,1.90 €,1.67 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.85 €,,1.93 €,1.66 €,4577900,477900
 69,110 BD DU 11 NOVEMBRE 1918,VILLEURBANNE,69100,2.00 €,,2.12 €,1.82 €,4577900,487100
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.85 €,1.20 €,1.95 €,1.70 €,4570300,485000
@@ -144,7 +144,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,145 Boulevard Roger Salengro,Villefranche-sur-Saône,69400,1.81 €,,1.89 €,1.68 €,4599800,471600
 69,104 ROUTE DES MONTS DU LYONNAIS,MESSIMY,69510,,,,,4568491.808,466860.7
 69,AIRE PORTE DE LYON,DARDILLY,69570,1.84 €,1.18 €,1.92 €,1.65 €,4581300,475600
-69,boulevard du 11 Novembre 1918,Saint-Symphorien-sur-Coise,69590,,,2.10 €,1.89 €,4563046,445638
+69,boulevard du 11 Novembre 1918,Saint-Symphorien-sur-Coise,69590,,,2.05 €,1.79 €,4563046,445638
 69,A 47 - Aire de St Romain,GIVORS,69700,,,,,4558660.80022,475447.702801
 69,RN 6,Saint-Laurent-de-Mure,69720,1.80 €,,1.88 €,1.64 €,4569100,503600
 69,248 ROUTE DE GRENOBLE,Saint-Priest,69800,1.79 €,,1.89 €,1.64 €,4571842.81,495284.96
@@ -189,7 +189,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69, Route des Monts du Lyonnais,MESSIMY,69510,1.89 €,1.21 €,1.98 €,1.73 €,4569128,467995
 69,55 Avenue Garibaldi,VAULX-EN-VELIN,69120,,,1.92 €,1.75 €,4576772,493540
 69,1139 RUE DE TARARE,GLEIZE,69400,,1.05 €,1.87 €,1.65 €,4597900,469000
-69,140 Rue du Companet,Rillieux-la-Pape,69140,1.79 €,1.30 €,,1.62 €,4581200,488100
+69,140 Rue du Companet,Rillieux-la-Pape,69140,1.79 €,1.30 €,,1.65 €,4581200,488100
 69,145  Rue Anatole France,VILLEURBANNE,69100,1.80 €,,1.84 €,1.63 €,4576900,488400
 69,Rue Charles BAUDELAIRE,Vénissieux,69200,1.78 €,,,1.63 €,4571700,486000
 69,LIEU DIT LES HAUTS MARTINETS,L'Arbresle,69210,1.77 €,1.90 €,,1.64 €,4584199,460673

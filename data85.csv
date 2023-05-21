@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 85,Boulevard du Maréchal Leclerc,SAINT-JEAN-DE-MONTS,85160,,,,,4679200,-205400
 85,2 rue de la Gare,Benet,85490,,,1.82 €,1.61 €,4636996,-59440
 85,89 RUE DURIVUM,Saint-Georges-de-Montaigu,85600,,,2.11 €,1.80 €,4694523.1993018,-129076.01748959
-85,39 Rue de la Roche,BEAUVOIR-SUR-MER,85230,1.73 €,1.05 €,1.78 €,1.58 €,4691000,-203000
+85,39 Rue de la Roche,BEAUVOIR-SUR-MER,85230,1.75 €,1.05 €,1.83 €,1.59 €,4691000,-203000
 85,Espace Commercial Porte du Littoral - BP 10,AIZENAY,85190,1.76 €,1.20 €,1.84 €,1.59 €,4673300,-159100
 85,rd pt de l'Europe parc Océanis,Saint-Gilles-Croix-de-Vie,85800,1.75 €,,1.84 €,1.60 €,4669400,-191400
 85,15 Rue du Général Montcalm Le Chateau d'Olonne,Les Sables d'Olonne,85180,1.75 €,,,1.58 €,4648672.1233465,-174602.32432343
@@ -61,7 +61,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 85,RN 160 LA VERRIE,CHANVERRIE,85130,1.89 €,,1.99 €,1.72 €,4695100,-98100
 85,86 AVENUE DES SABLES,Talmont-Saint-Hilaire,85440,1.75 €,,,1.58 €,4646900,-162900
 85,AVENUE DE LA MAINE,LES HERBIERS,85500,1.75 €,1.13 €,1.84 €,1.57 €,4687500,-102500
-85,33 Avenue d'Aquitaine,Les Sables-d'Olonne,85100,,,,1.94 €,4649895.04,-177734.59
+85,33 Avenue d'Aquitaine,Les Sables-d'Olonne,85100,,,,1.69 €,4649895.04,-177734.59
 85,4 RUE DES ALOUETTES,LA GAUBRETIERE,85130,,,,1.81 €,4693669.9,-105725.52
 85,ROUTE DE LA ROCHE,AIZENAY,85190,,,,1.70 €,4673510.51952,-159515.861226
 85,Route de talmont,Château-d'Olonne,85180,,,,,4648718,-174566
@@ -70,7 +70,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 85,RUE SAVARY DE L'EPINERAYE,La Roche-sur-Yon,85000,1.89 €,,1.99 €,1.71 €,4665300,-144400
 85,68 Rue Joseph Bénatier,Les Sables-d'Olonne,85100,,,1.85 €,1.59 €,4650400,-179900
 85,322 Rue de l'Océan,Longeville-sur-Mer,85560,,,,1.79 €,4641500,-149500
-85,Boulevard Stéphane Moreau,LA ROCHE-SUR-YON,85000,1.75 €,,1.84 €,1.57 €,4666500,-141100
+85,Boulevard Stéphane Moreau,LA ROCHE-SUR-YON,85000,1.77 €,,1.87 €,1.60 €,4666500,-141100
 85,D 949 -LES QUATRE CHEMINS,SAINTE-GEMME-LA-PLAINE,85400,,,,1.69 €,4646800,-111100
 85,52 Avenue du Général de Gaulle,La Châtaigneraie,85120,1.77 €,1.16 €,1.87 €,1.60 €,4664600,-74700
 85,BOULEVARD DE LA VIE,Belleville-sur-Vie,85170,1.76 €,1.20 €,1.83 €,1.59 €,4678336,-142742
