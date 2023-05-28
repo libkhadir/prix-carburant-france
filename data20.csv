@@ -13,7 +13,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,route de bastia,Porto-Vecchio,20137,,,,1.79 €,4161400,928000
 20,Rond Point de Furiani,Furiani,20600,,,,1.79 €,4266306,943007
 20,ACHIARELLO ROUTE DE PORTO,GALERIA,20245,,,,1.80 €,4241000,868700
-20,RN 197,ALGAJOLA,20220,,,,1.79 €,4260900,887500
+20,RN 197,ALGAJOLA,20220,,,,1.81 €,4260900,887500
 20,RT 20,Sarrola-Carcopino,20167,,,,1.73 €,4199591.27,882765.88
 20,Lieu-dit Querciolo,Sorbo-Ocagnano,20213,,,,1.74 €,4248700,948000
 20,RN 193,BIGUGLIA,20620,,,,1.77 €,4262100,943700
@@ -40,7 +40,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,avenue napoleon III,AJACCIO,20000,,,,1.75 €,4192500,873400
 20,LIEU DIT MOLENDINU,ste lucie de porto vecchio,20144,,,,1.80 €,4170000,934800
 20,Route du Bord de Mer,Ajaccio,20090,,,,1.79 €,4193336,874403
-20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.79 €,4263200,894500
+20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.80 €,4263200,894500
 20,Les Marines de Porticcio - Commune de Grosseto-Prugna,PORTICCIO,20166,,,,1.78 €,4188730,880770
 20,SASU CORSICA MODELISME,SAN-NICOLAO,20230,,,,1.80 €,4236800,950700
 20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.74 €,4184900,940000
@@ -121,7 +121,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,RN 198,San-Nicolao,20230,,,,1.78 €,4237206.6050321,952976.40167823
 20,Avenue du Président Kennedy - HLM Bat P,Ajaccio,20090,,,,1.79 €,4193100,873500
 20,ZI RIZZANESE,Sartène,20100,,,,1.78 €,4164900,894500
-20,36 Avenue Paul Doumer,L'Île-Rousse,20220,,,,1.79 €,4263200,894500
+20,36 Avenue Paul Doumer,L'Île-Rousse,20220,,,,1.80 €,4263200,894500
 20,65 COURS LUCIEN BONAPARTE,AJACCIO,20000,,,,1.74 €,4191078.61872,872151.667262
 20,Route de Bonifacio,Porto-Vecchio,20137,,,,1.80 €,4157100,927300
 20,rond point de ponte leccia,Ponte-Leccia,20218,,,,1.76 €,4246274,920667

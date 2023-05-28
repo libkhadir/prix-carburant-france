@@ -16,7 +16,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 53,le perray,Vaiges,53480,,,,1.65 €,4803900,-47500
 53, Rue de Bretagne,MAYENNE,53100,,,1.92 €,1.66 €,4830817,-62956
 53,zone Normandie Maine,PRé-EN-PAIL,53140,,,1.93 €,1.62 €,4845927.72097,-20190.7855867
-53,Rue de la Libération,Montsûrs,53150,,,1.88 €,1.62 €,4814066,-55581
+53,Rue de la Libération,Montsûrs,53150,,,1.88 €,1.64 €,4814066,-55581
 53,A81,Bonchamp-lès-Laval,53960,1.98 €,,2.08 €,1.82 €,4809500,-69500
 53,30 Avenue des Sablonnières,Saint-Fort,53200,1.82 €,,1.91 €,1.65 €,4781500,-70700
 53,HAUT DU PLESSIS ROUTE DE LANDIVY,Fougerolles-du-Plessis,53190,1.84 €,,,1.65 €,4847500,-98100
@@ -52,6 +52,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 53,195 AVENUE DE CHANZY,LAVAL,53000,1.82 €,,1.87 €,1.64 €,4806952,-75080
 53,RN 178 BIS,Cossé-le-Vivien,53230,1.91 €,,1.99 €,1.73 €,4793900,-91500
 53,60  avenue de la Comm. Européenne,LAVAL,53000,1.81 €,1.17 €,1.90 €,1.62 €,4805600,-73600
-53,R.D. n 115,LOIRON,53320,,,,,4806600,-93500
 53,LES SEMONDIERES,ERNEE,53500,,1.12 €,1.88 €,1.63 €,4829000,-92800
+53,R.D. n 115,LOIRON,53320,,,1.94 €,1.66 €,4806600,-93500
 53,550 Boulevard Jean Monnet,MAYENNE,53100,1.84 €,1.11 €,1.92 €,1.64 €,4828900,-62000
