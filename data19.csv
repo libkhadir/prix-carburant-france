@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 19,RUE DU PAS REDON,MEYMAC,19250,1.86 €,,,1.69 €,4553200,214200
 19,RUE DE LA REPUBLIQUE,Bugeat,19170,,,,1.75 €,4559855,192571
 19,112 Avenue Jacques et Bernadette Chirac ex Kennedy,BRIVE-LA-GAILLARDE,19100,1.90 €,,2.02 €,1.71 €,4516700,155000
-19,Avenue Charles de Gaulle,ÉGLETONS,19300,1.80 €,,1.93 €,1.66 €,4540200,204200
+19,Avenue Charles de Gaulle,ÉGLETONS,19300,,,,1.66 €,4540200,204200
 19,laschamps,Chabrignac,19350,1.80 €,,1.87 €,1.64 €,4532000,132700
 19,La Peyrague Route de Collonges D38,Meyssac,19500,1.85 €,,1.94 €,1.69 €,4505600,166900
 19,Route de Ponty,Ussel,19200,1.78 €,1.22 €,1.87 €,1.64 €,4554275,229749
@@ -56,7 +56,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 19,Lieu-dit les Paturaux,Uzerche,19140,1.84 €,,1.90 €,1.66 €,4541736,158159
 19,2 QUAI CONTINSOUZA,TULLE,19000,1.79 €,1.05 €,,1.65 €,4527218.92408,177587.665476
 19,Avenue Charles de Gaulle,ÉGLETONS,19300,1.80 €,,1.93 €,1.66 €,4540194,204280
-19,90 Avenue Abbé Jean Alvitre,BRIVE-LA-GAILLARDE,19100,1.82 €,,1.91 €,1.67 €,4515300,150900
+19,90 Avenue Abbé Jean Alvitre,BRIVE-LA-GAILLARDE,19100,1.82 €,,1.92 €,1.67 €,4515300,150900
 19,15 av Général de Gaulle,Saint-Aulaire,19130,1.83 €,,1.91 €,1.66 €,4523073,137255
 19,LA CROIX DE FER,Saint-Pardoux-l'Ortigier,19270,,,1.99 €,1.90 €,4531063.4037541,156254.61874608
 19,155 rue de la riviére,Donzenac,19270,1.84 €,,1.93 €,1.65 €,4521900,152100
