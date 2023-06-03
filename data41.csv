@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 41,RUE PAUL VALERY,Vineuil,41350,1.82 €,,1.94 €,1.65 €,4758400,137500
-41,60 Route de Tours,MONTRICHARD,41400,1.83 €,,1.93 €,1.64 €,4734200,117800
 41,35 Rue Gustave Marc,ONZAIN,41150,1.88 €,1.09 €,2.02 €,1.69 €,4749700,117800
+41,60 Route de Tours,MONTRICHARD,41400,1.83 €,,1.93 €,1.64 €,4734200,117800
 41,1 rue Duguay Trouin,Blois,41000,,,1.90 €,1.63 €,4759557.563159,130107.17505701
 41,Route de Cloyes,Mondoubleau,41170,1.84 €,,1.92 €,1.63 €,4798300,91300
 41,Zone Commerciale de la Valstière,Herbault,41190,1.82 €,,1.90 €,1.63 €,4760500,114000
@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 41,RTE DE BLOIS,MER,41500,,1.11 €,1.92 €,1.64 €,4769700,150100
 41,A71 - Aire de salbris la loge,Theillay,41300,2.01 €,1.23 €,2.11 €,1.88 €,4734800,205000
 41,12 Rue André Boulle. ZA LES PLANTES,NOYERS-SUR-CHER,41140,1.81 €,1.05 €,1.89 €,1.63 €,4728300,137100
-41,Route de Blois La Pierre Levée,Vendôme,41100,1.83 €,,1.90 €,1.64 €,4778200,107100
+41,Route de Blois La Pierre Levée,Vendôme,41100,1.83 €,,1.89 €,1.64 €,4778200,107100
 41,ROUTE DE MER,JOSNES,41370,,,1.95 €,1.93 €,4778296.94401,151275.676194
 41,69 Route de Cheverny,CONTRES,41700,1.80 €,1.07 €,1.88 €,1.62 €,4743000,143400
 41,A10 Aire de Blois Ménars,Villerbon,41000,2.00 €,1.28 €,2.11 €,1.87 €,4766300,138700
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 41,88 rue Nationale,châtres sur cher,41320,,,1.97 €,1.70 €,4726759.1521387,188331.18791535
 41,16 Avenue du Général De Gaulle,Contres,41700,1.89 €,,1.99 €,1.69 €,4742500,142800
 41,35  AVENUE GERARD YVON,VENDOME,41100,1.81 €,,1.91 €,1.63 €,4779700,105900
-41,A10 - Aire de Blois-Villerbon,Villerbon,41000,2.14 €,,2.26 €,1.92 €,4766600,138800
+41,A10 - Aire de Blois-Villerbon,Villerbon,41000,2.15 €,,2.27 €,1.93 €,4766600,138800
 41,2 Bis Voie Romaine,BEAUCE LA ROMAINE,41240,1.82 €,,1.87 €,1.65 €,4790700,152100
 41,81 Avenue de Paris,ROMORANTIN-LANTHENAY,41200,,,1.94 €,1.67 €,4737800,173700
 41,CENTRE COMMERCIAL MONTPARNASSE,FAVEROLLES-SUR-CHER,41400,,,1.89 €,1.64 €,4731794,118604
