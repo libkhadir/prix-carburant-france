@@ -123,7 +123,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,141 Boulevard Émile Zola,Oullins,69600,1.80 €,,1.88 €,1.65 €,4572100,479500
 69,22 Rue Philippe de Lassalle,Lyon,69004,1.82 €,1.15 €,1.90 €,1.66 €,4577600,482100
 69,283 RTE DE GENAS,VILLEURBANNE,69100,1.82 €,,1.91 €,,4574977,491257
-69,Avenue du Bon Pasteur,ÉCULLY,69130,1.82 €,1.16 €,1.89 €,1.65 €,4578700,477700
+69,Avenue du Bon Pasteur,ÉCULLY,69130,1.82 €,1.16 €,1.90 €,1.66 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.82 €,,1.90 €,1.66 €,4577900,477900
 69,110 BD DU 11 NOVEMBRE 1918,VILLEURBANNE,69100,1.95 €,,2.07 €,1.79 €,4577900,487100
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.90 €,1.20 €,2.00 €,1.73 €,4570300,485000
@@ -132,7 +132,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,112 Boulevard Irène Joliot-Curie,Vénissieux,69200,1.81 €,,1.89 €,1.65 €,4571000,488300
 69,61 Avenue de la République,VéNISSIEUX,69200,1.89 €,,2.01 €,1.75 €,4570543,487794
 69,Route de Lyon,Fleurieu-sur-Saône,69250,1.90 €,,2.00 €,1.73 €,4585511.0976539,483986.80314607
-69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.82 €,1.19 €,1.90 €,1.67 €,4581200,460100
+69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.81 €,1.19 €,1.89 €,1.67 €,4581200,460100
 69,15 Avenue Édouard Millaud,Craponne,69290,1.83 €,,1.91 €,1.67 €,4574700,474100
 69,49 Avenue de Verdun,Meyzieu,69330,1.84 €,,1.92 €,1.67 €,4577600,499100
 69,145 Boulevard de l'Europe,Pierre-Bénite,69310,1.84 €,,1.92 €,1.68 €,4569600,482600
@@ -161,8 +161,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,Z.i. la Gaité,Amplepuis,69550,1.84 €,,1.90 €,1.66 €,4598163,433531
 69,RN 86 - LES SEPT CHEMINS,Vourles,69390,1.90 €,,1.97 €,1.70 €,4566000,477500
 69,165 RUE JOLIOT CURIE,LYON 5EME,69005,,,1.92 €,1.71 €,4575400,477700
-69,142 Avenue Franklin Roosevelt,Bron,69500,1.88 €,1.21 €,,1.72 €,4573300,490800
 69,51 avenue Gabriel Péri,Corbas,69960,1.91 €,1.17 €,1.99 €,1.75 €,4567700,491900
+69,142 Avenue Franklin Roosevelt,Bron,69500,1.88 €,1.21 €,,1.71 €,4573300,490800
 69,131 Rue Joliot-Curie,LYON,69005,1.87 €,,1.97 €,1.69 €,4575400,477900
 69,Route de Roanne ,BOURG-DE-THIZY,69240,1.83 €,,,1.66 €,4603486,429911
 69,26 Avenue Édouard Millaud,CRAPONNE,69290,1.80 €,,1.88 €,1.66 €,4574700,474100

@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-60,6 Avenue de l'Europe,VENETTE,60280,1.81 €,1.04 €,1.91 €,1.62 €,4940800,278100
 60,ROUTE DE SOISSONS- RN 31,Cuise-la-Motte,60350,1.82 €,,1.91 €,1.65 €,4940400,300800
+60,6 Avenue de l'Europe,VENETTE,60280,1.81 €,1.04 €,1.91 €,1.62 €,4940800,278100
 60,84 Avenue du Général Frère,Breteuil,60120,1.92 €,,1.99 €,1.75 €,4963500,228600
 60,42 Rue Juliette Nevouet,Goincourt,60000,1.83 €,1.05 €,1.87 €,1.63 €,4943300,204600
 60,510 AVENUE MARECHAL FOCH,SENLIS,60300,1.95 €,1.16 €,2.07 €,1.80 €,4920774.4,259018.11
@@ -105,7 +105,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 60,ROUTE DE PRECY,VILLERS-SOUS-SAINT-LEU,60340,1.84 €,,1.90 €,1.64 €,4920800,239100
 60,ZAC DE LA GRERIE,Ribécourt-Dreslincourt,60170,1.82 €,,1.91 €,1.66 €,4951500,292400
 60,Allée de l'Europe,Chantilly,60500,,,1.92 €,1.67 €,4920200,246300
-60,Centre Commercial Villevert,SENLIS,60300,1.79 €,1.05 €,1.86 €,1.63 €,4922100,259100
+60,Centre Commercial Villevert,SENLIS,60300,,,,1.63 €,4922100,259100
 60,19 Route de Reims,Trosly-Breuil,60350,1.82 €,1.05 €,1.91 €,1.65 €,4940100,299400
 60,RN 17 / RN 31,MOYVILLERS,60190,1.91 €,1.11 €,1.99 €,1.74 €,4940300,262600
 60,47 Rue Notre-Dame de Bon Secours,COMPIèGNE,60200,1.83 €,,1.91 €,1.65 €,4941300,281600

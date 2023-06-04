@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+17,30 Boulevard des Dandonneaux,COZES,17120,1.79 €,1.07 €,1.89 €,1.60 €,4558500,-83500
 17,route de la rochelle,ROCHEFORT,17300,1.80 €,1.05 €,1.90 €,1.61 €,4595675.89967,-97777.6716334
 17,44 Rue Audry de Puyravault,Surgères,17700,,,,1.73 €,4610900,-75400
 17,LE PETIT BONNEVEAU,Salles-sur-Mer,17220,1.78 €,,1.87 €,1.60 €,4608400,-107400
-17,30 Boulevard des Dandonneaux,COZES,17120,1.79 €,1.08 €,1.89 €,1.60 €,4558500,-83500
 17,139 RTE DE ST JEAN D'ANGELY,BLANZAC-LèS-MATHA,17160,,,1.93 €,1.68 €,4586933.4256569,-32780.917245505
 17,Lieu dit la Beaucousière,Le Château-d'Oléron,17480,1.77 €,,1.88 €,1.60 €,4587927.3256827,-121961.29659261
 17,2 Route des Mirouelles,SAINT-PIERRE-D'OLéRON,17310,,1.20 €,1.88 €,1.60 €,4594300,-132100
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,6 Boulevard Maréchal Lyautey,LA ROCHELLE,17000,1.86 €,,1.96 €,1.64 €,4616200,-120300
 17,1 ZA LE PRE CHARDON,SEMUSSAC,17120,1.81 €,,1.90 €,1.61 €,4560400,-91400
 17,RTE DE MONTLIEU,Montendre,17130,1.89 €,,1.93 €,1.71 €,4528100,-39400
-17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.77 €,,1.87 €,1.59 €,4615054.29,-107654.119
+17,1Bis Route de la Jarne,Saint-Rogatien,17220,1.76 €,,1.86 €,1.58 €,4615054.29,-107654.119
 17,Autoroute A10 Aire de Saint-Léger,Saint-Léger,17800,2.13 €,,2.25 €,2.00 €,4561300,-60400
 17,3 route des cedres,Chaniers,17610,,,,,4574500,-56200
 17,Rue de la République,MARENNES,17320,,,1.89 €,1.62 €,4582300,-110300
@@ -67,7 +67,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 17,8 AVENUE MARYSE BASTIE,ROYAN,17200,1.81 €,,1.91 €,1.61 €,4562472.81492,-101645.691284
 17,1  AV DE LA LIBERATION,ROYAN,17200,1.81 €,1.04 €,1.91 €,1.61 €,4562357,-101317
 17,ZA des Grossines,Marennes,17320,1.80 €,,1.87 €,1.62 €,4582747,-109838
-17,Avenue Charles de Gaulle,SAINT-PALAIS-SUR-MER,17420,1.80 €,,1.91 €,1.62 €,4565100,-108500
+17,Avenue Charles de Gaulle,SAINT-PALAIS-SUR-MER,17420,1.80 €,,1.90 €,1.62 €,4565100,-108500
 17,Rue Laurent-Antoine de Lavoisier,ROYAN,17200,1.78 €,1.04 €,1.87 €,1.59 €,4563165.8119,-99245.4955339
 17,124 Boulevard André Sautel,La Rochelle,17000,1.76 €,1.10 €,1.86 €,1.59 €,4617000,-112700
 17,ROUTE DE SAINTES,Saujon,17600,1.79 €,,1.88 €,1.61 €,4567900,-91500

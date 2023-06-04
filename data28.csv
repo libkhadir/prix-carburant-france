@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 28,Rue de la Bruyère  centre commercial du Percue,Nogent-le-Rotrou,28400,1.78 €,1.12 €,1.89 €,1.62 €,4833133.6999283,80520.164752954
 28,RUE DU MOULIN,PIERRES,28130,1.84 €,1.05 €,1.90 €,1.67 €,4858726,157307
 28,C C PLEIN SUD - RN 154,Vernouillet,28500,1.84 €,1.18 €,1.94 €,1.65 €,4871700,136900
-28,34 rue jean mermoz,chartres,28000,1.79 €,,1.89 €,1.62 €,4845000,150600
+28,34 rue jean mermoz,chartres,28000,,,,1.62 €,4845000,150600
 28,Route d'Anet,Saussay,28260,,,1.90 €,1.65 €,4885967,142303
 28,AV FRANCOIS ARAGO,CHARTRES,28000,1.92 €,1.05 €,,1.73 €,4844600,149700
 28,La fosse Fondue,Roinville,28700,1.86 €,1.16 €,1.90 €,1.69 €,4845205.7318886,175371.88857642

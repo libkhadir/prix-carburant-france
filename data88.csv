@@ -19,8 +19,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 88,3 Avenue François de Neufchateau,Neufchâteau,88300,,,,1.69 €,4835000,569400
 88,1 rue de Lorraine,Saint-Maurice-sur-Moselle,88560,,,,,4785607.74,682048.37
 88,1 Rue de Lorraine,Saint Maurice sur Moselle,88560,1.88 €,,1.93 €,1.69 €,4785607.74,682048.37
-88,Avenue de Saint-Dié,Épinal,88000,,,1.94 €,1.69 €,4818517,647047
 88,21  Rue Paul CLAUDEL,LA BRESSE,88250,,,1.90 €,1.65 €,4800647,687886
+88,Avenue de Saint-Dié,Épinal,88000,,,,,4818517,647047
 88,RN 57,CHARMES,88130,1.82 €,,1.88 €,1.66 €,4837100,629200
 88,10 Rue René Didierjean,CHARMES,88130,1.88 €,,1.96 €,1.69 €,4837279.73657,628222.010719
 88,Place de la Gare,CORNIMONT,88310,1.81 €,,,1.65 €,4795700,682800
@@ -50,9 +50,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 88,ROUTE DE ST ANNNE,Saint-Nabord,88200,,,,,4802259.42068,658083.611274
 88,51 route de Remiremont,EPINAL,88000,1.85 €,,1.95 €,1.69 €,4816000,645100
 88,Aire de Lorraine Sandaucourt Trel,SANDAUCOURT,88170,2.07 €,,2.17 €,1.90 €,4826800,586100
+88,RN 57,SAINT-NABORD,88200,1.90 €,,,1.75 €,4807900,659500
 88,Rue du Docteur Henri Larue,Senones,88210,1.80 €,,,1.65 €,4839100,697200
 88,750 Rue Paul Melin Prolongé,Neufchâteau,88300,,,1.91 €,1.68 €,4836668,570118
-88,RN 57,SAINT-NABORD,88200,1.90 €,,,1.75 €,4807900,659500
 88,3 Rue de Gérardmer,BRUYèRES,88600,1.82 €,,1.88 €,1.67 €,4819900,672700
 88,Rue du Général de Gaulle,NEUFCHâTEAU,88300,1.89 €,,,1.75 €,4835098.73823,569258.857653
 88,Rue Abel Ferry,Bruyères,88600,1.82 €,1.05 €,,1.67 €,4820400,672300
