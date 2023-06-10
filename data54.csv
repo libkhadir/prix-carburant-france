@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,96 Rue de Franchepré,Joeuf,54240,1.85 €,,1.93 €,1.68 €,4922500,601400
 54,49 Rue du Colonel Driant,Malzéville,54220,1.85 €,,1.93 €,1.68 €,4870500,619200
 54,46 Rue du Capitaine Caillon,Neuves-Maisons,54230,1.82 €,,1.91 €,1.66 €,4861500,610400
-54,AUTOROUTE A 31,Dommartin-lès-Toul,54200,2.05 €,,2.17 €,1.93 €,4866400,591200
+54,AUTOROUTE A 31,Dommartin-lès-Toul,54200,2.06 €,,2.18 €,1.94 €,4866400,591200
 54,ZA de la Louviére,THIAUCOURT,54470,,,1.91 €,1.68 €,4894700,587600
 54,1 AV DU GENERAL DE GAULLE,Dieulouard,54380,,,1.92 €,,4884351.95,606979.93
 54,6  Avenue Jacques Leclerc,VÉZELISE,54330,,,1.95 €,1.66 €,4848700,609400
@@ -58,7 +58,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,10 AVENUE DE LA RESISTANCE,LAXOU,54520,1.83 €,,1.92 €,1.67 €,4869400,613300
 54,47 Boulevard Jean Jaurès,Nancy,54000,1.82 €,,1.90 €,1.67 €,4868100,617900
 54,40 Avenue de la Libération,Nancy,54000,1.83 €,,1.91 €,1.67 €,4869200,616800
-54,69 Rue Gabriel Péri,Dombasle-sur-Meurthe,54110,1.85 €,,1.93 €,1.69 €,4862300,634900
+54,69 Rue Gabriel Péri,Dombasle-sur-Meurthe,54110,1.86 €,,1.94 €,1.69 €,4862300,634900
 54,97 Rue Carnot,COLOMBEY-LES-BELLES,54170,,,,1.85 €,4852333,589412
 54,83 rue Franchepré,JOEUF,54240,,,,,4922573,601531
 54,55 Avenue du 69ème Régiment d'Infanterie,Essey-lès-Nancy,54270,1.84 €,,1.92 €,1.68 €,4870800,623500
@@ -79,7 +79,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,1 rue Victor Prouvé,DOMBASLE-SUR-MEURTHE,54110,1.84 €,,1.92 €,1.67 €,4861000,635200
 54,BD DES AIGUILLETTES,Villers-lès-Nancy,54600,1.92 €,1.04 €,1.99 €,1.77 €,4867308,615342
 54,N.I. du Val de l'Orne CONFLANS EN JARNISY,JARNY,54800,1.82 €,1.07 €,1.89 €,1.66 €,4916400,583600
-54,Rue Pasteur,NEUVES-MAISONS,54230,1.82 €,,1.92 €,1.67 €,4861300,609600
+54,Rue Pasteur,NEUVES-MAISONS,54230,1.82 €,,1.92 €,1.68 €,4861300,609600
 54,rue de la Sapinière,LAXOU,54520,1.83 €,,,1.67 €,4869121.06069,612776.14592
 54,2 Rue du Bois,Frouard,54390,1.83 €,1.05 €,1.90 €,1.65 €,4874200,614900
 54,17 Rue du Curtin,Colombey-les-Belles,54170,1.85 €,,1.91 €,1.68 €,4857800,584400

@@ -4,8 +4,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS NORD,HAUDIOMONT,55160,1.96 €,,2.03 €,1.79 €,4912032.6,550839.83
 55,6 Rue du Général de Gaulle,Belleville-sur-Meuse,55430,1.82 €,,1.88 €,1.65 €,4916200,564900
 55,6 RUE DU FORT,Saint-Mihiel,55300,1.93 €,1.04 €,1.99 €,1.78 €,4888800,554000
-55,30 Rue du 3ème RHC,ÉTAIN,55400,1.85 €,,1.91 €,1.67 €,4921700,564300
-55,Lieu-dit le moulin Charlier,Dieue-sur-Meuse,55320,1.82 €,,1.88 €,1.68 €,4907700,544800
+55,30 Rue du 3ème RHC,ÉTAIN,55400,1.83 €,,1.89 €,1.68 €,4921700,564300
+55,Lieu-dit le moulin Charlier,Dieue-sur-Meuse,55320,1.84 €,,1.90 €,1.69 €,4907700,544800
 55,2 Route de Reims,FAINS-VéEL,55000,1.86 €,1.13 €,1.93 €,1.69 €,4879000,513700
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS SUD,HAUDIOMONT,55160,1.96 €,,2.06 €,1.79 €,4911834.37,550846.34
 55,Place Maurice Genevoix,VERDUN,55100,1.81 €,,1.88 €,1.65 €,4916500,538000
@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,11 Avenue de Verdun,Montmédy,55600,,,,1.69 €,4951300,537500
 55,ZAC des cailloux,STENAY,55700,1.82 €,1.05 €,,1.68 €,4948300,520200
 55,63 Rue Raymond Poincaré,VIGNEULLES-LèS-HATTONCHâTEL,55210,1.94 €,1.04 €,1.99 €,1.77 €,4898000,571300
-55,2 Avenue Miribel,Verdun,55100,1.87 €,,1.95 €,1.71 €,4916800,538700
+55,2 Avenue Miribel,Verdun,55100,1.87 €,,1.95 €,1.70 €,4916800,538700
 55,3 Rue de Verdun,GONDRECOURT-LE-CHâTEAU,55130,,,,,4851838,550427
 55,28 Rue de Saint-Mihiel,Vigneulles-lès-Hattonchâtel,55210,1.83 €,,,1.67 €,4897600,570100
 55,Rue du Docteur Edmond Morelle,COMMERCY,55200,,,,,4875735,559035

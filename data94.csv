@@ -6,11 +6,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,99/101 Avenue Foch,Saint-Maur-des-Fossés,94100,1.89 €,,1.97 €,1.71 €,4879900,250000
 94,264 Avenue du Général de Gaulle,Le Perreux-sur-Marne,94170,1.87 €,1.12 €,1.95 €,1.72 €,4885100,249500
 94,20 Rue Winston Churchill,Villeneuve-Saint-Georges,94190,1.88 €,,1.96 €,1.72 €,4875400,245000
-94,67 Avenue Raspail,Gentilly,94250,1.89 €,,1.97 €,1.74 €,4881400,234800
+94,67 Avenue Raspail,Gentilly,94250,1.86 €,,1.94 €,1.72 €,4881400,234800
 94,ROUTE DE LA POMPADOUR,Bonneuil-sur-Marne,94380,1.88 €,,1.96 €,1.70 €,4876500,247800
 94,1 Rue de Paris,Sucy-en-Brie,94370,1.88 €,,1.96 €,1.70 €,4877300,250000
 94,159 Avenue Rouget de l'Isle,Vitry-sur-Seine,94400,1.87 €,,1.95 €,1.69 €,4878200,239500
-94,264 Avenue de Stalingrad,Chevilly-Larue,94550,1.90 €,1.17 €,1.98 €,1.72 €,4876700,236800
+94,264 Avenue de Stalingrad,Chevilly-Larue,94550,1.91 €,1.17 €,1.99 €,1.72 €,4876700,236800
 94,14 Boulevard de Stalingrad,Choisy-le-Roi,94600,1.86 €,,1.94 €,1.69 €,4876800,240300
 94,5 Avenue Léon Blum,Maisons-Alfort,94700,1.95 €,,2.03 €,1.75 €,4880200,243600
 94,55 Av du général Leclerc,Boissy saint léger,94470,1.95 €,1.15 €,2.05 €,1.80 €,4874800,251000
@@ -59,10 +59,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,26 AVENUE ARDOUIN,Le Plessis-Trévise,94420,2.03 €,,2.15 €,1.89 €,4881012.7157257,257218.11878052
 94,135 AV DU GENERAL LECLERC,Maisons-Alfort,94700,1.96 €,1.10 €,1.99 €,1.80 €,4880623,243809
 94,2 Route de la Libération,Chennevières-sur-Marne,94430,,,1.99 €,1.79 €,4880464,253525
-94,186 Avenue Gallieni,SAINT-MANDé,94160,2.00 €,,2.15 €,1.90 €,4884700,241600
+94,186 Avenue Gallieni,SAINT-MANDé,94160,2.00 €,,2.15 €,1.92 €,4884700,241600
 94,119 Avenue du Général de Gaulle,Créteil,94000,1.92 €,,1.97 €,1.74 €,4878186.7204601,245789.45751426
 94,29 bvd de créteil,Saint-Maur,94100,,,,1.78 €,4879800,247700
-94,99 AVENUE DU GL LECLERC,MAISONS-ALFORT,94700,1.95 €,1.10 €,1.99 €,1.79 €,4880694.77421,243827.166369
+94,99 AVENUE DU GL LECLERC,MAISONS-ALFORT,94700,1.96 €,1.10 €,1.99 €,1.80 €,4880694.77421,243827.166369
 94,236 Avenue de la République,Fontenay-sous-Bois,94120,2.01 €,,2.16 €,1.85 €,4885300,246600
 94,247 AV CHARLES DE GAULLE,Champigny-sur-Marne,94500,1.96 €,1.13 €,1.99 €,1.81 €,4882800,251300
 94,64 AVENUE FOCH,ST MAUR DES FOSSES,94100,1.95 €,1.15 €,2.00 €,1.77 €,4880057.83,249499.24
@@ -70,10 +70,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,69 Route de la Queue en Brie,Sucy-en-Brie,94370,1.96 €,,2.10 €,1.81 €,4876100,253300
 94,63 Avenue du Général de Gaulle,CRETEIL,94000,1.94 €,,1.99 €,1.74 €,4879038.8298253,244517.40423071
 94,1 BIS AV GABRIEL PERI,Limeil-Brévannes,94450,1.87 €,1.17 €,1.96 €,1.71 €,4875500,248400
-94,114 Rue de Paris,Charenton-le-Pont,94220,1.97 €,1.20 €,2.10 €,1.82 €,4882500,240800
+94,114 Rue de Paris,Charenton-le-Pont,94220,1.97 €,1.20 €,2.10 €,1.83 €,4882500,240800
 94,AVENUE JEAN ROSTAND,Bonneuil-sur-Marne,94380,1.87 €,,1.94 €,1.69 €,4876736,248537
 94,89 AV A. BRIAND,ARCUEIL,94110,,,,1.84 €,4880400,232500
-94,SARL Jaby  ORLY Ouest 453,ORLY,94542,1.95 €,1.16 €,1.99 €,1.81 €,4873237.06,236570.66
+94,SARL Jaby  ORLY Ouest 453,ORLY,94542,1.96 €,1.16 €,1.99 €,1.83 €,4873237.06,236570.66
 94,14 AV DU GENERAL DE GAULLE,Chevilly-Larue,94550,1.99 €,1.16 €,1.99 €,1.82 €,4877313,233780
 94,RUE DU VIADUC,RUNGIS CEDEX,94594,,,2.05 €,1.88 €,4876100,234900
 94,13 Rue Maurice Berteaux,SUCY-EN-BRIE,94370,1.94 €,,1.99 €,1.76 €,4877300,251700
