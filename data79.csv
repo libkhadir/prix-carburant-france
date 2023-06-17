@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,Avenue Clément Pineau,SAINT-LéGER-DE-LA-MARTINIèRE,79500,1.77 €,0.97 €,1.86 €,1.60 €,4622700,-12700
 79,41 route de Poitiers,Saint-Léger-de-la-Martinière,79500,1.77 €,1.05 €,1.86 €,1.60 €,4622400,-13000
 79,22 rue des Acacias,Celles-sur-Belle,79370,1.79 €,,1.86 €,1.64 €,4626800,-22400
-79,Route de la rochelle  lieu-dit les grues,Bessines,79000,1.76 €,0.96 €,1.84 €,1.59 €,4628911.1819782,-51087.009183311
+79,Route de la rochelle  lieu-dit les grues,Bessines,79000,1.76 €,0.97 €,1.85 €,1.59 €,4628911.1819782,-51087.009183311
 79,23 ROUTE DE BRESSUIRE,La Chapelle-Saint-Laurent,79430,,,,1.80 €,4674800,-47600
 79,122 AVENUE DE LA ROCHELLE,NIORT,79000,1.78 €,,1.88 €,1.62 €,4631700,-47300
 79,Boulevard de Thouars,BRESSUIRE,79300,1.79 €,1.05 €,1.88 €,1.62 €,4684600,-48300
@@ -38,9 +38,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,23 route de Melle,LEZAY,79120,1.82 €,,1.88 €,1.63 €,4626500,-900
 79,ECHANGEUR NORD,Mazières-en-Gâtine,79310,1.89 €,,1.99 €,1.72 €,4654600,-31400
 79,26 av camille jouffrault - Argenton les vallées,ARGENTONNAY,79150,,,1.89 €,1.67 €,4698530.1108359,-45314.288360595
-79,68 Rue de Fontenay,Niort,79000,,0.99 €,,1.59 €,4632900,-46900
+79,68 Rue de Fontenay,Niort,79000,,0.99 €,1.86 €,1.61 €,4632900,-46900
 79,A83 - AIRE DE LA CANEPETIERE,Faye-sur-Ardin,79160,1.97 €,1.12 €,1.99 €,1.80 €,4643043,-50163
-79,AUTOROUTE A10 - AIRE DE ROUILLÉ PAMPROUX NORD,PAMPROUX,79800,1.99 €,1.26 €,1.99 €,1.82 €,4645280.8096855,-1779.6282903113
+79,AUTOROUTE A10 - AIRE DE ROUILLÉ PAMPROUX NORD,PAMPROUX,79800,1.99 €,1.26 €,1.99 €,1.83 €,4645280.8096855,-1779.6282903113
 79,38 route de Poitiers,MAULEON,79700,1.79 €,1.05 €,1.88 €,1.62 €,4692208,-73860
 79,245 AVENUE DES TILLEULS,CHAURAY,79180,,,1.94 €,1.74 €,4635300,-38600
 79,80 Avenue Saint-Jean d'Angély,NIORT,79000,1.78 €,1.05 €,,1.61 €,4631800,-46600
@@ -51,23 +51,23 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,1 impasse des Acacias,BEAUVOIR-SUR-NIORT,79360,1.78 €,1.05 €,,1.61 €,4618400,-47200
 79,Rue du Pont Cadoret,Argenton-les-Vallées,79150,,,,1.80 €,4698633,-44223.000000005
 79,PLACE DU MARCHE,SECONDIGNY,79130,1.78 €,,1.88 €,1.62 €,4661100,-41900
-79,la Plaine d'Azia,Azay-le-Brûlé,79400,1.78 €,,1.86 €,1.61 €,4640727,-22500
+79,la Plaine d'Azia,Azay-le-Brûlé,79400,1.77 €,,1.86 €,1.61 €,4640727,-22500
 79,17 Place Cail,CHEF-BOUTONNE,79110,1.80 €,,1.89 €,1.63 €,4610800,-6800
 79,Avenue de la Gare,CERIZAY,79140,,,,1.73 €,4681800,-66600
 79,16 ROUTE DE NIORT,COULONGES-SUR-L'AUTIZE,79160,1.79 €,1.08 €,2.00 €,1.63 €,4647783.0335256,-59004.859828945
-79,Boulevard de l'Atlantique,NIORT,79000,,,1.86 €,1.61 €,4631700,-48100
+79,Boulevard de l'Atlantique,NIORT,79000,,,1.85 €,1.61 €,4631700,-48100
 79,232 Avenue de Paris,Niort,79000,1.82 €,,1.91 €,1.67 €,4633028,-44093
 79,Route de Montalembert,SAUZé-VAUSSAIS,79190,1.79 €,,1.88 €,1.61 €,4613300,12000
 79,Avenue des Platanes,SAINT-VARENT,79330,1.79 €,,1.87 €,1.62 €,4689400,-23400
 79,Route de Poitiers,Airvault,79600,1.85 €,,1.91 €,1.66 €,4682500,-12900
 79,130 Avenue de Nantes,NIORT,79000,1.87 €,,1.97 €,1.68 €,4634300,-49400
-79,580  avenue de Paris,Niort,79000,1.76 €,0.96 €,1.84 €,1.59 €,4633666.9152692,-41352.274430541
+79,580  avenue de Paris,Niort,79000,1.76 €,0.97 €,1.85 €,1.59 €,4633666.9152692,-41352.274430541
 79,2 rue de la taillee,L'Absie,79240,1.91 €,,,1.73 €,4663924.48,-59220.28
 79,7 voie Charles VII,Saint-Maixent-l'École,79400,1.78 €,,1.84 €,1.63 €,4641800,-19500
 79,BD DU THOUET,CHATILLON SUR THOUET,79200,,,2.05 €,1.82 €,4666100,-23900
 79,13 Rue des Joncs,Bressuire,79300,1.79 €,1.05 €,1.88 €,1.62 €,4685000,-49900
 79,22 boulevard jacques menard,Thouars,79100,,,1.99 €,1.72 €,4697572.6,-19232.7
-79,20 AVENUE DE PARIS,Moncoutant,79320,1.79 €,,1.88 €,1.63 €,4673100,-57900
+79,20 AVENUE DE PARIS,Moncoutant,79320,1.78 €,,1.88 €,1.62 €,4673100,-57900
 79,BD PORT GENTIL,THOUARS,79100,1.80 €,,1.89 €,1.62 €,4697762,-19815
-79,A10 Aire de Poitou Charentes,Aiffres,79230,2.14 €,,2.26 €,1.95 €,4627800,-44600
-79,20 Boulevard Georges Clemenceau,PARTHENAY,79200,1.98 €,1.16 €,2.02 €,1.82 €,4664100,-26200
+79,A10 Aire de Poitou Charentes,Aiffres,79230,2.15 €,,2.27 €,1.98 €,4627800,-44600
+79,20 Boulevard Georges Clemenceau,PARTHENAY,79200,2.00 €,1.16 €,2.04 €,1.85 €,4664100,-26200
