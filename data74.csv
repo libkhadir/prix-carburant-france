@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,54 Avenue d'Évian,Thonon-les-Bains,74200,1.82 €,,1.90 €,1.69 €,4638000,649100
 74,Aire de Fontanelles Autoroute A41,Seynod,74600,2.04 €,,2.14 €,1.91 €,4587669.4727882,607010.51992966
 74,A40 - KM79 - SENS MILAN MACON,VALLEIRY,74520,1.98 €,1.24 €,1.99 €,1.82 €,4609740.7,596412.3
-74,1751 Avenue de Genève,SALLANCHES,74700,1.85 €,,1.93 €,1.70 €,4595300,662900
+74,1751 Avenue de Genève,SALLANCHES,74700,1.87 €,,1.94 €,1.72 €,4595300,662900
 74,637 AVENUE D'AIX LES BAINS,seynod,74600,,,,1.77 €,4585200,606200
 74,Lieu-dit Chef-Lieu la Chapelle-d'Abondance,Abondance,74360,,,2.09 €,1.86 €,4628200,672300
 74,45 ROUTE DE LA CAILLE,ALLONZIER LA CAILLE,74350,1.89 €,1.15 €,1.98 €,1.74 €,4600600,612000
@@ -65,7 +65,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,Chemin de Morcy,THONON-LES-BAINS,74200,,,1.94 €,1.68 €,4635892,645909
 74,1930 Route de Bellegarde,SILLINGY,74330,1.88 €,,,1.70 €,4594899.49885,604605.205671
 74,ROUTE DU TRAM,FRANGY,74270,,,1.90 €,1.68 €,4601800,592400
-74,134 avenue de geneve,ANNECY,74000,1.81 €,1.18 €,1.91 €,1.69 €,4591881.61066,612379
+74,134 avenue de geneve,ANNECY,74000,1.84 €,1.18 €,1.93 €,1.70 €,4591881.61066,612379
 74,530 Route d'Annecy,Menthon-Saint-Bernard,74290,,,1.99 €,1.85 €,4586600,618800
 74,94 Chemin des Vorges,La Chapelle-d'Abondance,74360,1.82 €,,,1.68 €,4628000,681900
 74,rue Albert Hénon,VILLE LA GRAND,74100,1.77 €,,,1.62 €,4620500,624000
@@ -100,7 +100,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 74,14 Rue de la Résistance,Annemasse,74100,1.82 €,,1.93 €,1.67 €,4619600,625500
 74,5 Rue René Cassin,GAILLARD,74240,1.81 €,1.05 €,,1.68 €,4618000,621800
 74,Route Blanche,CHAMONIX-MONT-BLANC,74400,,,,1.78 €,4591200,686100
-74,819 Avenue de la République,Cluses,74300,1.92 €,,1.99 €,1.77 €,4606100,656400
+74,819 Avenue de la République,Cluses,74300,,,1.99 €,1.77 €,4606100,656400
 74,132 Route de Bonneville,Vétraz-Monthoux,74100,,,2.18 €,2.06 €,4617800,624200
 74,75 Route des Pontets,Sévrier,74320,,,1.92 €,1.70 €,4584501,615048
 74,Boulevard de l'Europe,RUMILLY,74150,1.81 €,1.04 €,1.89 €,1.66 €,4585633.9986284,594841.81554019

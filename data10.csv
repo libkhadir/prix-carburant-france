@@ -28,7 +28,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,Rue du Général P.decouz,Brienne-le-Château,10500,1.80 €,,1.87 €,1.67 €,4839900,451800
 10,Boulevard de l'Ouest,Sainte-Savine,10300,1.84 €,,,1.70 €,4830500,402700
 10,Rue Jean Moulin,VILLENAUXE-LA-GRANDE,10370,1.81 €,,,1.68 €,4858500,356100
-10,47 Route de Bray,Nogent-sur-Seine,10400,1.82 €,,1.87 €,1.64 €,4848593,349118
+10,47 Route de Bray,Nogent-sur-Seine,10400,1.82 €,,1.87 €,1.66 €,4848593,349118
 10,RD 619,BARBEREY,10600,1.84 €,,1.92 €,1.68 €,4833600,401900
 10,17  BLD GEORGES POMPIDOU,TROYES,10000,1.86 €,1.04 €,1.93 €,1.68 €,4828800,408000
 10,ZAC de Creney,PONT-SAINTE-MARIE,10150,1.80 €,1.05 €,1.88 €,1.64 €,4832753.003,411267.96
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,5 Rue Roger Salengro,Pont-Sainte-Marie,10150,1.86 €,,1.94 €,1.68 €,4831152.8032361,409700.7878989
 10,210 Rue du Faubourg Croncels,Troyes,10000,1.86 €,,1.94 €,1.68 €,4828300,407900
 10,9 RUE DE BRIENNE,ARCIS-SUR-AUBE,10700,1.89 €,,1.99 €,1.74 €,4853600,414500
-10,70 Rue Aristide Briand,Romilly-sur-Seine,10100,1.86 €,,1.94 €,1.68 €,4851200,372000
+10,70 Rue Aristide Briand,Romilly-sur-Seine,10100,1.85 €,,1.93 €,1.68 €,4851200,372000
 10,114 route d auxerre,Saint André les vergers,10120,1.86 €,1.04 €,1.94 €,1.68 €,4828000,404100
 10,9 rue de la Marrière,Lusigny-sur-Barse,10270,1.80 €,0.98 €,1.88 €,1.64 €,4826197.4565456,424944.07466826
 10,RD185 LES GRANDES FOSSES,VAUDES,10260,,,1.91 €,1.67 €,4818100,418900

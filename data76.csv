@@ -76,7 +76,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,48 Route d'Oudalle,GONFREVILLE-L'ORCHER,76700,,,2.02 €,1.78 €,4950300,21000
 76,8  rue Romain Rolland Sanvic,Le Havre,76620,,,1.98 €,1.67 €,4950600,10100
 76,2 ROUTE DE PARIS,Le Mesnil-Esnard,76240,1.80 €,,1.89 €,1.64 €,4941200,113700
-76,Plateau du Mesnil-Roux  Zone la Carbonnière,BARENTIN,76360,1.80 €,,,1.68 €,4953489.6206291,96409.769058218
+76,Plateau du Mesnil-Roux  Zone la Carbonnière,BARENTIN,76360,1.81 €,,,1.69 €,4953489.6206291,96409.769058218
 76,801 Route de Paris,FRANQUEVILLE-SAINT-PIERRE,76520,1.80 €,1.05 €,1.89 €,1.64 €,4939800,117800
 76,BOULEVARD LENINGRAD,LE HAVRE,76600,1.82 €,,1.91 €,1.64 €,4949878,15925
 76,3 Route de Ganzeville,FéCAMP,76400,,,1.93 €,1.65 €,4974874,40324
@@ -88,7 +88,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,63 AVENUE DES CANADIENS,Saint-Étienne-du-Rouvray,76800,1.81 €,,,1.65 €,4939400,106000
 76,37 ROUTE DE PARIS,LE MESNIL ESNARD,76240,1.80 €,,1.90 €,1.64 €,4940700,114800
 76,Rue Charles le Borgne,FéCAMP,76400,,,1.85 €,1.63 €,4975551.11909,37449.1663689
-76,168 Avenue André Maurois,Barentin,76360,1.90 €,,1.97 €,1.75 €,4955700,95300
+76,168 Avenue André Maurois,Barentin,76360,1.91 €,,1.97 €,1.76 €,4955700,95300
 76,44 Rue de la République,Déville-lès-Rouen,76250,,,1.90 €,1.68 €,4947100,104300
 76,2 RUE EUGENE MOPIN,LE HAVRE,76610,1.82 €,,1.91 €,1.63 €,4951800,15800
 76,3 RUE FREDERIC CHOPIN,HARFLEUR,76700,1.91 €,1.10 €,1.99 €,1.75 €,4951194.1098293,20041.534246844
@@ -116,7 +116,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,AUTOROUTE A 15,Saint-Jean-du-Cardonnay,76150,1.96 €,,2.05 €,1.74 €,4949500,99800
 76,24 Avenue du Mont aux Malades,Mont-Saint-Aignan,76130,1.80 €,,1.88 €,1.65 €,4946100,108200
 76,209 Rue Gustave Couturier,FéCAMP,76400,,,,,4975119,40223
-76,Rue Raymond Brétéché,LE TRAIT,76580,1.91 €,,1.99 €,1.67 €,4948569.6495466,80597.410403578
+76,Rue Raymond Brétéché,LE TRAIT,76580,1.90 €,,1.98 €,1.67 €,4948569.6495466,80597.410403578
 76,RN 138 LES ESSARTS,Grand-Couronne,76530,1.81 €,1.06 €,1.89 €,1.65 €,4935400,103000
 76,8 Rue Béranger,Le Havre,76600,1.92 €,,2.00 €,1.76 €,4949400,9700
 76,253 Rue du Bois au Coq,Le Havre,76620,1.82 €,,1.91 €,1.64 €,4951200,12700
@@ -148,7 +148,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 76,20 Avenue des Aulnaies,GOURNAY-EN-BRAY,76220,,,1.90 €,1.65 €,4947900,171300
 76,Rue de la République,BOIS-GUILLAUME,76230,1.81 €,,1.86 €,1.66 €,4947011.65096,111748.807822
 76,28 rue de Verdun,Auffay,76720,,,1.92 €,1.65 €,4971868.27,109562.37
-76,2 place du Marché,Gonneville-la-Mallet,76280,1.82 €,,1.91 €,1.68 €,4964033,22423
+76,2 place du Marché,Gonneville-la-Mallet,76280,1.82 €,,1.91 €,1.69 €,4964033,22423
 76,Route de Neufchâtel,Serqueux,76440,1.84 €,1.10 €,1.90 €,1.68 €,4962214,153814
 76,78 ROUTE DE VALMONT,FECAMP,76400,1.80 €,,1.92 €,1.63 €,4975800,39200
 76,14 Avenue Normandie Sussex,DIEPPE,76200,,1.08 €,1.86 €,1.67 €,4991900,108600

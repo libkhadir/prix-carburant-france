@@ -1,7 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+69,Rue du Chateau d'Yvours,Irigny,69540,,,1.91 €,1.67 €,4568800,482500
 69,85  Avenue de Chaponnay - Parc d'activité de la vallée de l'Ozon,CHAPONNAY,69970,1.77 €,1.12 €,1.85 €,1.64 €,4565000,492700
 69,633 route de villefranche,Anse,69480,,,1.93 €,1.71 €,4594300,471500
-69,BD JOLIOT CURIE,VéNISSIEUX,69200,1.80 €,,1.91 €,1.66 €,4571770.4140586,487305.45992255
+69,BD JOLIOT CURIE,VéNISSIEUX,69200,1.84 €,,1.90 €,1.68 €,4571770.4140586,487305.45992255
 69,Les Vernailles  110 rue de l'industrie,Saint-Georges-de-Reneins,69830,1.79 €,,1.87 €,1.65 €,4606000,472100
 69,LA CHEVALIERE,Beaujeu,69430,1.89 €,,,1.75 €,4614600,459900
 69,7 Avenue Édouard Herriot,Tarare,69170,1.82 €,,1.90 €,1.66 €,4589200,444200
@@ -10,7 +11,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,69 AVENUE DU 25EME RTS,Lyon,69009,1.80 €,1.16 €,1.88 €,1.65 €,4578100,480100
 69,CENTRE COMMERCIAL GIVORS 2 VALLEES,Givors,69700,1.83 €,,,1.66 €,4558600,475500
 69,1880 route de strasbourg,Rillieux-la-Pape,69140,,,,1.76 €,4581300,488800
-69,Rue du Chateau d'Yvours,Irigny,69540,,,1.91 €,1.67 €,4568800,482500
 69,Autoroute A6 382 Chemin de l'emprunt,Dracé,69220,1.94 €,1.25 €,2.07 €,1.80 €,4614306.2121949,476753.57889549
 69,33 RUE DE PARIS  RN7,L'Arbresle,69210,1.89 €,1.18 €,,1.76 €,4583800,461100
 69,72 COURS TOLSTOI,VILLEURBANNE,69100,2.02 €,,2.14 €,1.85 €,4576299.05,487675.86
@@ -121,7 +121,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,141 Boulevard Émile Zola,Oullins,69600,1.80 €,,1.88 €,1.66 €,4572100,479500
 69,22 Rue Philippe de Lassalle,Lyon,69004,1.81 €,1.15 €,1.89 €,1.66 €,4577600,482100
 69,283 RTE DE GENAS,VILLEURBANNE,69100,1.83 €,,1.91 €,,4574977,491257
-69,Avenue du Bon Pasteur,ÉCULLY,69130,1.83 €,1.16 €,1.90 €,1.68 €,4578700,477700
+69,Avenue du Bon Pasteur,ÉCULLY,69130,1.84 €,1.16 €,1.92 €,1.69 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.81 €,,1.89 €,1.66 €,4577900,477900
 69,110 BD DU 11 NOVEMBRE 1918,VILLEURBANNE,69100,1.99 €,,2.11 €,1.82 €,4577900,487100
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.92 €,1.20 €,2.00 €,1.74 €,4570300,485000

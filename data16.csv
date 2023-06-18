@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-16,ave du general de gaulle,SOYAUX,16800,1.81 €,0.97 €,1.87 €,1.67 €,4563900,21900
+16,ave du general de gaulle,SOYAUX,16800,1.83 €,0.97 €,1.89 €,1.68 €,4563900,21900
 16,RN10 LES GRANDES CHAUMES,CHAMPNIERS,16430,1.85 €,1.05 €,,1.65 €,4571500,21300
 16,ZA DE CHASSAT,CHABANAIS,16150,1.83 €,1.10 €,1.92 €,1.65 €,4587800,72600
 16,Route d'Aigre ,Ruffec,16700,,1.00 €,1.88 €,1.61 €,4602138,18967
@@ -44,7 +44,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.92 €,,2.00 €,1.81 €,4560000,-5500
 16,Route de Mansle,Saint-Amant-de-Boixe,16330,1.83 €,,,1.67 €,4580400,14000
 16,Lieu-Dit Plaisance,BARBEZIEUX-SAINT-HILAIRE,16300,1.74 €,,1.96 €,1.66 €,4546000,-14300
-16,Avenue d'Ecosse,JARNAC,16200,1.80 €,,1.89 €,1.84 €,4569096.0364153,-17360.081481934
+16,Avenue d'Ecosse,JARNAC,16200,1.80 €,,1.89 €,1.63 €,4569096.0364153,-17360.081481934
 16,Rue des Paleines,ROUMAZIERES-LOUBERT,16270,1.80 €,,1.88 €,1.64 €,4588248,58262
 16,ROUTE DE MANSLE,Rivières,16110,,,1.97 €,1.68 €,4574695,38339
 16,Boulevard Jean Moulin,Angoulême,16000,1.80 €,,1.87 €,1.65 €,4563200,15200

@@ -27,8 +27,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Rue Pierre Rollin,AMIENS,80090,1.98 €,,2.10 €,1.82 €,4987700,231300
 80,Rue du Pont des 9 Moulins,Doullens,80600,1.83 €,,1.91 €,1.64 €,5016005,234759
 80,5 rue d'Amiens,Rainneville,80260,1.99 €,,,1.97 €,4997007.72,235279.9
-80,rue des pommiers,QUEND,80120,,,1.95 €,1.69 €,5033100,158900
 80,190 CHAUSSEE JULES FERRY,AMIENS,80000,1.95 €,,2.07 €,1.80 €,4988117.61,233017.15
+80,rue des pommiers,QUEND,80120,,,1.91 €,1.71 €,5033100,158900
 80,17 ROUTE NATIONALE,Ailly-le-Haut-Clocher,80690,,,,1.82 €,5007880.52,199553.59
 80,38 Route de Rue,Crécy-en-Ponthieu,80150,,,1.90 €,1.68 €,5025176.72,188435.09
 80,95 Rue Pierre Brossolette,Ailly-sur-Somme,80470,1.95 €,,,1.79 €,4992917,219471
@@ -76,7 +76,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,AUTOROUTE A 28,LE TRANSLAY,80140,2.23 €,,2.33 €,2.01 €,4996411.5195681,165738.10008734
 80, Rue Thuillier Delambre,RIVERY,80136,,,1.89 €,1.66 €,4990201,232624
 80,Avenue des Australiens,Péronne,80200,,,,,4994186,294077
-80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,2.04 €,1.23 €,2.07 €,1.83 €,4988879.2881616,284077.70993548
+80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,2.04 €,1.23 €,2.07 €,1.84 €,4988879.2881616,284077.70993548
 80,rue charles de gaulle,Gamaches,80220,,,1.89 €,1.66 €,4998297.73,156231.03625
 80,2 Route de Normandie,Salouël,80480,1.82 €,,1.90 €,1.66 €,4987000,224100
 80,ZI IMPASSE DU MOULIN,ROYE,80700,1.80 €,,,1.65 €,4970300,278100
@@ -106,7 +106,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,rue du 8 mai,LE CROTOY,80550,,,1.96 €,1.70 €,5021700,162500
 80,28 avenue des australiens,Péronne,80200,1.80 €,1.05 €,1.88 €,1.65 €,4994200,294100
 80,1  rue Albert Camus,SALOUEL,80480,1.80 €,,,1.65 €,4987100,226100
-80,43 RUE VICTOR HUGO,FEUQUIèRES-EN-VIMEU,80210,,,1.89 €,1.65 €,5006153.703,159455.665
+80,43 RUE VICTOR HUGO,FEUQUIèRES-EN-VIMEU,80210,,,,,5006153.703,159455.665
 80,RUE DE DEMUIN,VILLERS-BRETONNEUX,80800,1.82 €,,1.88 €,1.65 €,4986000,252400
 80,Rue de Léalvillers,ACHEUX-EN-AMIéNOIS,80560,1.84 €,1.05 €,1.91 €,1.69 €,5007166,252910
 80,1 rue edouard lucas,amiens,80000,1.83 €,,1.89 €,1.66 €,4989878.3540155,227025.21626495

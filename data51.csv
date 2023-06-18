@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 51,ROUTE D'EPERNAY,Châlons-en-Champagne,51000,1.83 €,,1.91 €,1.67 €,4895500,433200
 51,Rue des Tournières,Mourmelon-le-Grand,51400,1.81 €,1.05 €,1.91 €,1.68 €,4913500,436600
 51,14 ROUTE NATIONALE,Beaumont-sur-Vesle,51360,1.93 €,,,1.75 €,4917360,418370
-51,rue du faubourg chavenay,DORMANS,51700,,,1.88 €,1.68 €,4907200,363800
+51,rue du faubourg chavenay,DORMANS,51700,,,1.88 €,1.67 €,4907200,363800
 51,A4 - Aire de Valmy Orbeval,VALMY,51800,1.95 €,,2.03 €,1.80 €,4907228,478800
 51,A4 - PARIS STRASBOURG,LES PETITES LOGES,51400,1.95 €,,1.99 €,1.78 €,4912029,424286
 51,2 Avenue de Champagne,Damery,51480,,,1.99 €,1.80 €,4907200,388200
@@ -82,7 +82,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 51,5 Avenue Georges Clemenceau,REIMS,51100,,,1.91 €,1.68 €,4925166,404689
 51,Aire de Sommesous - A26,Sommesous,51320,2.04 €,,2.18 €,1.84 €,4872900,422800
 51,Route de Soissons,FISMES,51170,1.82 €,,1.89 €,1.66 €,4930800,366800
-51,ZAC du Val des Bois,Warmeriville,51110,1.80 €,,1.84 €,1.66 €,4934934.483311,420887.706555
+51,ZAC du Val des Bois,Warmeriville,51110,1.80 €,,1.84 €,1.68 €,4934934.483311,420887.706555
 51,Les Rechignons DIZY,ÉPERNAY,51200,1.83 €,,1.91 €,1.65 €,4904000,395900
 51,ROUTE D'EPERNAY,AY,51160,1.83 €,,1.91 €,1.65 €,4905400,400400
 51,13 Quai de Marne,ÉPERNAY,51200,1.85 €,,1.95 €,1.67 €,4904900,396300
