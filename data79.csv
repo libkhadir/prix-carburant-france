@@ -11,7 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,55 route de Niort,FONTENILLE-ST-MARTIN-D'ENTRAIGUE,79110,,,1.96 €,1.75 €,4612400,-13400
 79,2 passage du commerce,Ste Radegonde,79100,,,,1.70 €,4699600,-24800
 79,202 Avenue de la Rochelle,NIORT,79000,1.89 €,,1.99 €,1.76 €,4631300,-47700
-79,50  RUE DE LA GRANGE LUCAS,CHAMPDENIERS-SAINT-DENIS,79220,1.75 €,0.95 €,1.86 €,1.64 €,4648800,-39800
+79,50  RUE DE LA GRANGE LUCAS,CHAMPDENIERS-SAINT-DENIS,79220,1.75 €,0.94 €,1.86 €,1.64 €,4648800,-39800
 79,27 Boulevard de l'Europe,BRESSUIRE,79300,1.79 €,,,1.65 €,4683500,-48200
 79,6 avenue Louis Doignon,CHEF-BOUTONNE,79110,1.80 €,,1.86 €,1.64 €,4610700,-7000
 79,c commercial geant casino route de paris,Chauray,79180,1.78 €,,1.89 €,1.67 €,4634200,-37700
@@ -66,7 +66,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 79,7 voie Charles VII,Saint-Maixent-l'École,79400,1.78 €,,1.84 €,1.66 €,4641800,-19500
 79,BD DU THOUET,CHATILLON SUR THOUET,79200,,,2.05 €,1.82 €,4666100,-23900
 79,13 Rue des Joncs,Bressuire,79300,1.79 €,1.05 €,1.88 €,1.64 €,4685000,-49900
-79,22 boulevard jacques menard,Thouars,79100,,1.06 €,1.98 €,1.74 €,4697572.6,-19232.7
+79,22 boulevard jacques menard,Thouars,79100,,,1.98 €,1.74 €,4697572.6,-19232.7
 79,20 AVENUE DE PARIS,Moncoutant,79320,1.79 €,,1.88 €,1.64 €,4673100,-57900
 79,BD PORT GENTIL,THOUARS,79100,1.79 €,,,1.65 €,4697762,-19815
 79,A10 Aire de Poitou Charentes,Aiffres,79230,2.09 €,,2.21 €,1.95 €,4627800,-44600

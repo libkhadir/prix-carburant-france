@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,1234 Avenue du Vignau,Mont-de-Marsan,40000,1.80 €,1.05 €,,1.67 €,4387771,-46152
 40,200 boulevard oscar niemeyer,Saint-Pierre-du-Mont,40280,1.80 €,1.05 €,,1.67 €,4386710.0493739,-48495.981894865
 40,1850 ROUTE DE LALANDE,Carcarès-Sainte-Croix,40400,,,1.99 €,1.80 €,4383300,-80800
-40,Chemin de Perrot,Aire-sur-l'Adour,40800,1.89 €,1.05 €,1.99 €,1.67 €,4371700,-26900
+40,Chemin de Perrot,Aire-sur-l'Adour,40800,1.88 €,1.43 €,1.97 €,1.67 €,4371700,-26900
 40,384 avenue des Martyrs de la Résistance,MONT-DE-MARSAN,40000,1.90 €,,2.02 €,1.76 €,4388700,-51300
 40,Route de Mont de Marsan,Saint-Sever,40500,1.83 €,,,1.69 €,4377300,-56700
 40,606 Avenue Bremontier,PARENTIS-EN-BORN,40160,1.83 €,,,1.70 €,4434909,-106754
@@ -22,7 +22,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,2 Avenue de Mont de Marsan,Grenade-sur-l'Adour,40270,,,1.90 €,1.69 €,4377400,-43200
 40,394 AVENUE GEORGES CLEMENCEAU,Mont-de-Marsan,40000,1.79 €,1.05 €,1.89 €,1.67 €,4388554,-49499
 40,19 Boulevard Yves Mainguy,MONT-DE-MARSAN,40000,1.84 €,,1.91 €,1.68 €,4388300,-48200
-40,520 avenue Jean Jaurès,Montfort-en-Chalosse,40380,,,1.88 €,1.67 €,4371040,-83440
+40,520 avenue Jean Jaurès,Montfort-en-Chalosse,40380,,,1.89 €,1.68 €,4371040,-83440
 40,RD38 ZAC DE SEGUES,Ygos-Saint-Saturnin,40110,,,1.99 €,1.77 €,4397585.83,-73720.15
 40,40 BD DES SPORTS,DAX,40100,1.80 €,,1.87 €,1.65 €,4371000,-104100
 40,Avenue Georges Clémenceau,Dax,40100,1.80 €,,1.87 €,1.65 €,4370800,-104500
@@ -70,7 +70,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,Rue Robert Dubaa,MAGESCQ,40140,,,,1.83 €,4377927,-121607
 40,500 Rue de Gouveia,Labouheyre,40210,1.77 €,1.05 €,,1.66 €,4421000,-92500
 40,AUTOROUTE A63 COTE EST,Labenne,40530,2.02 €,,2.13 €,1.94 €,4358600,-142000
-40,73 rue Frédéric Bastiat,Rion-des-Landes,40370,,,1.88 €,1.67 €,4392756,-92096
+40,73 rue Frédéric Bastiat,Rion-des-Landes,40370,,,1.88 €,1.69 €,4392756,-92096
 40,AUTOROUTE A63 COTE OUEST,Labenne,40530,2.02 €,,2.13 €,1.93 €,4358700,-142000
 40,Route de Mont-de-Marsan,SABRES,40630,,,,1.87 €,4414733.98051,-73781.9670456
 40,AUTOROUTE A65 - AIRE DE L'ADOUR,Aire-sur-l'Adour,40800,1.99 €,1.26 €,1.99 €,1.91 €,4373200,-23900

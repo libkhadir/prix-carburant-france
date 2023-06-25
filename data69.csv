@@ -21,8 +21,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,Autoroute A6 382 Chemin de l'emprunt,Dracé,69220,1.91 €,1.24 €,2.06 €,1.79 €,4614306.2121949,476753.57889549
 69,2315 ROUTE DE LONGSARD,ARNAS,69400,,1.17 €,,1.80 €,4602578.9444187,470209.17620382
 69,AVENUE DE VERDUN,BELLEVILLE,69220,,,1.90 €,1.73 €,4609900,474900
+69,296 Route de Genas,Bron,69500,1.90 €,,1.99 €,1.75 €,4575100,490900
 69,Rue Commandant Charcot,SAINTE-FOY-LèS-LYON,69110,2.01 €,,2.13 €,1.91 €,4574890,479384
-69,296 Route de Genas,Bron,69500,1.91 €,,2.00 €,1.73 €,4575100,490900
 69,244  Chemin Rivière de la Cour,Le Bois-d'Oingt,69620,1.83 €,,,1.68 €,4592200,458000
 69,38 Rue de l'Abbaye,Villefranche-sur-Saône,69400,,,,,4601100,472600
 69,A6 Aire des Cheres Est,Les Cheres,69380,2.02 €,1.18 €,2.13 €,1.86 €,4590300,473000
@@ -121,7 +121,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,141 Boulevard Émile Zola,Oullins,69600,1.81 €,,1.88 €,1.70 €,4572100,479500
 69,22 Rue Philippe de Lassalle,Lyon,69004,1.80 €,1.15 €,1.88 €,1.68 €,4577600,482100
 69,283 RTE DE GENAS,VILLEURBANNE,69100,1.82 €,,1.90 €,,4574977,491257
-69,Avenue du Bon Pasteur,ÉCULLY,69130,1.85 €,1.16 €,1.91 €,1.71 €,4578700,477700
+69,Avenue du Bon Pasteur,ÉCULLY,69130,1.83 €,1.16 €,1.89 €,1.68 €,4578700,477700
 69,28 Avenue Édouard Aynard,Écully,69130,1.80 €,,1.88 €,1.68 €,4577900,477900
 69,110 BD DU 11 NOVEMBRE 1918,VILLEURBANNE,69100,1.99 €,,2.11 €,1.85 €,4577900,487100
 69,130 Boulevard Yves Farges,Saint Fons,69190,1.90 €,1.20 €,2.00 €,1.76 €,4570300,485000
