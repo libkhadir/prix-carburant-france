@@ -2,7 +2,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 48,Quartier du Pont d'Allier,Langogne,48300,,,1.90 €,1.71 €,4473530,385840
 48,65 AVENUE JEAN MONESTIER,Florac,48400,,,2.00 €,1.80 €,4432800,359200
 48,AUTOROUTE A75 AIRE DE LA LOZERE - LA GARDE,Albaret-Sainte-Marie,48200,2.14 €,,2.26 €,2.03 €,4489200,324800
-48,Lieudit La Garde D809,Albaret-Sainte-Marie,48200,2.07 €,,2.19 €,2.01 €,4487200,324900
+48,Lieudit La Garde D809,Albaret-Sainte-Marie,48200,2.05 €,,2.17 €,1.98 €,4487200,324900
 48,avenue de Saint Chely,saint alban sur limagnole,48120,1.83 €,,1.91 €,1.71 €,4477925.4785345,338401.33333129
 48,AVENUE PIGNIDE,Saint-Chély-d'Apcher,48200,,,,1.84 €,4479700,327800
 48,65 AVENUE DES CEVENNES,VILLEFORT,48800,,,,1.76 €,4443497.53,393339.19
@@ -26,8 +26,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 48,14 AVENUE FOCH,MENDE,48000,1.80 €,1.12 €,,1.68 €,4451841.20487,349212.097875
 48,Route du Malzieu,Saint-Chély-d'Apcher,48200,1.81 €,1.05 €,1.91 €,1.68 €,4480500,328100
 48,Avenue Jean Moulin,Langogne,48300,1.81 €,,1.88 €,1.71 €,4472425,386052
+48,2 rue du Vibron  ZAE Saint Julien du Gourg,Florac,48400,1.80 €,1.05 €,1.90 €,1.67 €,4434320.303,358191.84
 48,74 AVENUE DU LOT,Banassac,48500,,,1.90 €,1.68 €,4443200,321400
-48,2 rue du Vibron  ZAE Saint Julien du Gourg,Florac,48400,1.82 €,1.05 €,1.90 €,1.67 €,4434320.303,358191.84
 48,Route de Grandieu,CHAMBON-LE-CHâTEAU,48600,,,1.93 €,1.68 €,4485347,366108
 48,ROUTE DE ST CHELY,Grandrieu,48600,,1.18 €,,1.68 €,4478400,363600
 48,Route de Saint Juery,Fournels,48310,1.83 €,,,1.69 €,4481700,311700
