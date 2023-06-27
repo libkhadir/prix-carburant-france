@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,Avenue du rouergue,LANUEJOULS,12350,1.87 €,,1.93 €,1.70 €,4442400,215600
+12,Route de Saint-Affrique,Vabres-l'Abbaye,12400,1.80 €,1.05 €,,1.66 €,4395400,285000
 12,150 Boulevard Georges Brassens,Millau,12100,1.79 €,,1.88 €,1.65 €,4411714,306997
 12,2 Avenue Paul Ramadier,DECAZEVILLE,12300,1.80 €,,1.88 €,1.68 €,4455500,225900
-12,Route de Saint-Affrique,Vabres-l'Abbaye,12400,1.80 €,1.05 €,,1.65 €,4395400,285000
 12,LE MOULINET,ENTRAYGUES SUR TRUYERE,12140,,1.34 €,1.91 €,1.75 €,4464900,256800
 12,route d#039;estaing,Espalion,12500,1.82 €,1.00 €,1.90 €,1.70 €,4452300,276300
 12,37 Boulevard Paul Ramadier,CAPDENAC-GARE,12700,1.79 €,,1.86 €,1.67 €,4457100,207500
@@ -76,7 +76,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,30 Avenue du Rouergue,BERTHOLèNE,12310,,,1.99 €,1.76 €,4439367,277776
 12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.88 €,1.65 €,4409065,307745
 12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.90 €,,1.99 €,1.76 €,4395700,287500
-12,Avenue de Rodez,PONT-DE-SALARS,12290,1.80 €,,1.88 €,1.69 €,4428800,271500
+12,Avenue de Rodez,PONT-DE-SALARS,12290,1.79 €,,1.88 €,1.67 €,4428800,271500
 12,Z.A. PLAISANCE,Cassagnes-Bégonhès,12120,1.84 €,,,1.70 €,4417642.425,252119.462
 12,ZA le Plâ d'Aveyron RN88,Recoules-Prévinquières,12150,,1.27 €,,1.68 €,4435100,297200
 12,PARC ARTISANAL COMMUNAL ST FERREOL,Saint-Rome-de-Tarn,12490,,,1.90 €,1.67 €,4404300,290500
@@ -85,7 +85,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,24 Avenue de la Gineste,RODEZ,12000,1.90 €,,1.97 €,1.76 €,4436200,256700
 12,10 AV.DE TOULOUSE,Luc-la-Primaube,12450,,,1.99 €,1.77 €,4429202,255855
 12,Lotissement de Vaxergues,SAINT-AFFRIQUE,12400,,,1.86 €,1.65 €,4395800,287000
-12,111 ROUTE DE RODEZ,BOZOULS,12340,1.89 €,,1.99 €,1.78 €,4446900,272900
+12,111 ROUTE DE RODEZ,BOZOULS,12340,1.88 €,,1.99 €,1.78 €,4446900,272900
 12,le lachet,Olemps,12510,1.82 €,1.00 €,1.90 €,1.70 €,4432500,255800
 12,Avenue de Toulouse,VILLEFRANCHE-DE-ROUERGUE,12200,1.80 €,,1.88 €,1.65 €,4436100,203400
 12,Avenue de Brommat,Mur-de-Barrez,12600,,,1.92 €,1.73 €,4484071,266470
