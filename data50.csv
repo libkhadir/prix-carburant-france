@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,AUTOROUTE A84 - AIRE DU MONT SAINT MICHEL,Saint-Aubin-de-Terregatte,50240,1.99 €,1.26 €,1.99 €,1.90 €,4858491,-132638
 50,RUE DU GENERAL DE GAULLE,AVRANCHES,50300,,,,1.80 €,4868647,-136356
 50,LES FORGES,BLOSVILLE,50480,1.86 €,1.04 €,1.97 €,1.76 €,4938000,-129600
-50,6 rue de la liberation,Brécey,50370,1.70 €,0.99 €,,1.60 €,4872600,-116600
+50,6 rue de la liberation,Brécey,50370,1.76 €,0.99 €,,1.70 €,4872600,-116600
 50,59 Avenue Émile Dehousse,DUCEY,50220,1.82 €,,1.97 €,1.72 €,4861700,-128000
 50,147 RUE JOSEPH CUGNOT,Saint-Lô,50000,1.81 €,,,1.69 €,4911200,-105100
 50,LA VERTE CAMPAGNE,SAINT-HILAIRE-DU-HARCOUëT,50600,,,1.98 €,1.83 €,4857600,-108800
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Aire de la Vallée de la Vire - A84,Gouvets,50420,2.09 €,,2.21 €,1.95 €,4890900,-110400
 50,PARC D'ACTIVITE DE LA BAIE,Saint-Martin-des-Champs,50300,1.75 €,1.06 €,1.83 €,1.66 €,4865285.8767159,-135003.0743481
 50,9 rue des Pélerins,BRéCEY,50370,1.80 €,,1.95 €,1.67 €,4872486.89288,-116958.900338
-50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.67 €,,,1.58 €,4930400,-121200
+50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.77 €,,,1.65 €,4930400,-121200
 50,RUE DE LA CHAPONIERE,MARIGNY,50570,,,1.85 €,1.68 €,4909916,-124241
 50,94 Rue Sainte-Croix,LESSAY,50430,,,2.08 €,1.86 €,4921300,-152900
 50,240 Rue Bitouzé d'Auxmesnil,Bricquebec,50260,1.78 €,,1.87 €,1.68 €,4946800,-164000
@@ -71,7 +71,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,9 Route des Isles,PIERREVILLE,50340,1.91 €,,1.96 €,1.76 €,4947400,-178700
 50,25  rue de l'hotel saint denis,GAVRAY,50450,,,1.91 €,1.69 €,4891277,-135262
 50,1214 Avenue de Paris,Saint-Lô,50000,1.81 €,1.00 €,1.91 €,1.70 €,4911630.1972112,-105833.12301737
-50,Route de Montebourg - La Victoire,VALOGNES,50700,1.68 €,,1.79 €,1.58 €,4950200,-145600
+50,Route de Montebourg - La Victoire,VALOGNES,50700,1.75 €,,1.83 €,1.66 €,4950200,-145600
 50,Avenue de Normandie,Cherbourg-Octeville,50130,1.79 €,,1.87 €,1.65 €,4962600,-162800
 50,ZI PORTUAIRE DES MIELLES,Tourlaville,50110,1.78 €,,1.86 €,1.65 €,4964500,-159900
 50,10 Avenue Amiral Lemonnier,Cherbourg-Octeville,50100,,,,,4963442,-161233
@@ -99,7 +99,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,22 Le Bourg Robert,Ponts,50300,,,,1.77 €,4870900,-131900
 50,ROUTE DE VILLEDIEU,SAINT-Lô,50000,1.83 €,0.99 €,1.91 €,1.73 €,4910200,-111600
 50,62 RUE DE LA PAIX,CHERBOURG EN COTENTIN,50120,1.81 €,,1.88 €,1.67 €,4964981.95,-165049.88
-50,Chemin de la Chuque,CARENTAN,50500,,,1.76 €,1.58 €,4930200,-123100
+50,Chemin de la Chuque,CARENTAN,50500,,,1.90 €,1.65 €,4930200,-123100
 50,Route de Carolles,Sartilly-Baie-Bocage,50530,1.80 €,1.02 €,1.90 €,1.67 €,4875200,-145900
 50,85  route de Saint Lô,Saint-Amand,50160,,,,1.80 €,4904798,-99375
 50,Route de Mortain,SOURDEVAL,50150,1.73 €,1.05 €,1.85 €,1.65 €,4872000,-92200
@@ -109,7 +109,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,8 AV DE L'ABBAYE BLANCHE,MORTAIN,50140,1.92 €,,2.03 €,1.89 €,4865200,-94100
 50,54 Rue de la Poterne,Saint-Lô,50000,,,1.76 €,1.58 €,4911700,-109700
 50,39 route de Valognes,Bricquebec,50260,1.78 €,0.99 €,1.87 €,1.68 €,4947700,-162000
-50,Saint Martin des Champs Route d'Isigny le Buat,AVRANCHES,50300,1.68 €,,1.76 €,1.58 €,4868000,-134000
+50,Saint Martin des Champs Route d'Isigny le Buat,AVRANCHES,50300,1.78 €,,1.90 €,1.70 €,4868000,-134000
 50,Avenue du Quesnoy,AVRANCHES,50300,1.68 €,1.05 €,,1.58 €,4867800,-135100
 50,26 route de Cherbourgtest,Les Pieux,50340,1.80 €,1.05 €,1.81 €,1.68 €,4951595,-180055
 50,Route de Saint-Côme,CARENTAN,50500,1.77 €,1.04 €,1.87 €,1.87 €,4930901.239,-125428.308
@@ -118,4 +118,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,26 Rue de l'Europe,Créances,50710,,,1.85 €,1.65 €,4919753.92,-154360.47
 50,5  rue des Claires,QUERQUEVILLE,50460,1.68 €,0.89 €,1.76 €,1.59 €,4966000,-168600
 50,550 Rue du Grand Pré,Tourlaville,50110,1.79 €,1.05 €,,1.58 €,4963700,-159600
-50,39 Boulevard de l'Est,Tourlaville,50110,1.68 €,0.89 €,1.76 €,1.58 €,4963500,-159100
+50,39 Boulevard de l'Est,Tourlaville,50110,1.79 €,1.04 €,1.88 €,1.66 €,4963500,-159100
