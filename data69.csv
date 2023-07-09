@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,85  Avenue de Chaponnay - Parc d'activité de la vallée de l'Ozon,CHAPONNAY,69970,1.70 €,0.89 €,1.78 €,1.58 €,4565000,492700
-69,Avenue de la Gare,Saint-Romain-en-Gal,69560,1.74 €,,1.82 €,1.62 €,4552800,486500
+69,Avenue de la Gare,Saint-Romain-en-Gal,69560,1.76 €,,1.85 €,1.65 €,4552800,486500
 69,1880 route de strasbourg,Rillieux-la-Pape,69140,,,,1.76 €,4581300,488800
 69,10 Chemin Jean Petit,Caluire-et-Cuire,69300,1.81 €,1.02 €,1.89 €,1.67 €,4580500,485900
 69,633 route de villefranche,Anse,69480,,,1.93 €,1.73 €,4594300,471500
@@ -89,7 +89,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,913 route du beaujolais,Blacé,69460,1.93 €,1.25 €,1.98 €,1.74 €,4604400,467300
 69,les plaines,Saint-Laurent-d'Oingt,69620,1.90 €,,2.02 €,1.76 €,4594400,456600
 69,3710 ROUTE DE SAINT VINCENT,Quincié-en-Beaujolais,69430,,1.40 €,1.99 €,1.95 €,4613965.793122,460822.098476
-69,Route de Roanne,Amplepuis,69550,1.71 €,1.05 €,1.79 €,1.60 €,4597868,432020
+69,Route de Roanne,Amplepuis,69550,1.80 €,1.00 €,1.86 €,1.67 €,4597868,432020
 69,ZAC Bellevue,SOUZY,69610,,1.05 €,1.88 €,1.67 €,4569970.87496,445586.71352
 69,49 AVENUE VICTOR HUGO,TASSIN LA DEMI LUNE,69160,,1.22 €,1.93 €,1.73 €,4576600,478400
 69,AUTOROUTE A6 - AIRE DE BRUYÈRES PAISY,DARDILLY,69570,1.99 €,,1.99 €,1.85 €,4580876.8531846,476959.29893495
@@ -150,7 +150,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,91 RTE DE GRENOBLE,Saint-Priest,69800,1.79 €,,1.88 €,1.65 €,4570706.8733951,498880.03335362
 69,RN 6- ROUTE DE GRENOBLE,Saint-Priest,69800,1.79 €,,,1.65 €,4571810,495269
 69,403 Route de Bellevue,LIMONEST,69760,,,,1.87 €,4584300,477000
-69,80 Rue Joseph Desbois,MEYZIEU,69330,1.70 €,1.00 €,1.79 €,1.60 €,4578200,500500
+69,80 Rue Joseph Desbois,MEYZIEU,69330,1.74 €,1.00 €,1.85 €,1.64 €,4578200,500500
 69,34 Rue Pasteur,CALUIRE-ET-CUIRE,69300,1.89 €,,1.99 €,1.76 €,4578800,484000
 69,AUTOROUTE A43  AIRE DE SAINT PRIEST,Saint-Priest,69800,2.03 €,,2.15 €,1.90 €,4569900,497400
 69,Aire de Taponas - A 6,Taponas,69220,2.14 €,,2.26 €,1.96 €,4612200,476800
@@ -160,7 +160,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,RN 86 - LES SEPT CHEMINS,Vourles,69390,1.90 €,,1.99 €,1.72 €,4566000,477500
 69,165 RUE JOLIOT CURIE,LYON 5EME,69005,,1.21 €,1.92 €,1.72 €,4575400,477700
 69,51 avenue Gabriel Péri,Corbas,69960,1.90 €,1.15 €,1.99 €,1.76 €,4567700,491900
-69,142 Avenue Franklin Roosevelt,Bron,69500,1.88 €,1.22 €,,1.75 €,4573300,490800
+69,142 Avenue Franklin Roosevelt,Bron,69500,1.86 €,1.20 €,,1.74 €,4573300,490800
 69,131 Rue Joliot-Curie,LYON,69005,1.85 €,,1.95 €,1.70 €,4575400,477900
 69,129 Rue de la Mûre,CHARLY,69390,,,,1.82 €,4565400,479300
 69,26 Avenue Édouard Millaud,CRAPONNE,69290,1.80 €,,1.88 €,1.67 €,4574700,474100

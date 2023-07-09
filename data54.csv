@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,2 Rue Paul Keller,TOUL,54200,1.90 €,,1.97 €,1.76 €,4867300,588600
 54,41 RUE DU GAL LECLERC,CUSTINES,54670,1.90 €,1.01 €,1.99 €,1.76 €,4879284.5,614503.3
 54,11 GRANDE RUE,AVRICOURT,54450,,,,1.80 €,4864400,680600
-54,96 Rue de Franchepré,Joeuf,54240,1.79 €,,1.87 €,1.64 €,4922500,601400
+54,96 Rue de Franchepré,Joeuf,54240,1.80 €,,1.88 €,1.69 €,4922500,601400
 54,49 Rue du Colonel Driant,Malzéville,54220,1.81 €,,1.89 €,1.68 €,4870500,619200
 54,46 Rue du Capitaine Caillon,Neuves-Maisons,54230,1.79 €,,1.87 €,1.66 €,4861500,610400
 54,AUTOROUTE A 31,Dommartin-lès-Toul,54200,2.06 €,,2.18 €,1.93 €,4866400,591200
@@ -47,7 +47,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,ZA TURLOMONT,POMPEY,54340,1.82 €,1.20 €,1.90 €,1.67 €,4876800,612400
 54,110 Avenue Paul Muller,VILLERS-LèS-NANCY,54600,1.71 €,1.00 €,1.79 €,1.62 €,4865700,611200
 54,19 RUE NATIONALE,TELLANCOURT,54260,1.89 €,,1.95 €,1.75 €,4950700,563200
-54,Avenue de la Meurthe,Maxéville,54320,,,1.78 €,1.62 €,4871000,617500
+54,Avenue de la Meurthe,Maxéville,54320,,,1.88 €,1.67 €,4871000,617500
 54,60 Boulevard Georges Pompidou,LUNéVILLE,54300,1.88 €,,1.99 €,1.77 €,4859664,647738
 54,104 Avenue Carnot,Saint-Max,54130,1.89 €,,1.97 €,1.73 €,4870200,621400
 54,3 route de BRIEY,Lantéfontaine,54150,,,,1.85 €,4924900,592700
@@ -82,8 +82,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 54,Rue Pasteur,NEUVES-MAISONS,54230,1.75 €,,1.86 €,1.66 €,4861300,609600
 54,rue de la Sapinière,LAXOU,54520,1.80 €,,,1.68 €,4869121.06069,612776.14592
 54,2 Rue du Bois,Frouard,54390,1.70 €,0.88 €,1.77 €,1.60 €,4874200,614900
-54,17 Rue du Curtin,Colombey-les-Belles,54170,1.80 €,,1.91 €,1.69 €,4857800,584400
-54,1 Rue Denis Papin,Chanteheux,54300,1.72 €,,1.79 €,1.64 €,4859200,652800
+54,17 Rue du Curtin,Colombey-les-Belles,54170,1.80 €,,1.91 €,1.70 €,4857800,584400
+54,1 Rue Denis Papin,Chanteheux,54300,1.77 €,,1.84 €,1.67 €,4859200,652800
 54,37 Rue de Verdun,Landres,54970,1.77 €,1.00 €,1.86 €,1.68 €,4931900,579900
 54,Le Pré Latour,PONT-à-MOUSSON,54700,1.82 €,,1.90 €,1.69 €,4891700,606500
 54,AUTOROUTE A31AIRE DE LOISY,LOISY,54700,1.89 €,,1.98 €,1.77 €,4886058.8172143,609169.35288608

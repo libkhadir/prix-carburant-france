@@ -2,14 +2,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,120 Chemin du Mas Fléchier,NîMES,30900,1.73 €,,,1.59 €,4381600,437000
 30,Route de Beaucaire,NîMES,30000,1.73 €,0.96 €,,1.59 €,4383700,439500
 30,10 CROIX PALMIER,UZèS,30700,,,,1.73 €,4400805,441802
-30,58 Avenue Clément Ader ,Marguerittes,30320,1.69 €,0.88 €,1.77 €,1.57 €,4386701,444381
+30,58 Avenue Clément Ader ,Marguerittes,30320,1.76 €,0.99 €,1.85 €,1.63 €,4386701,444381
 30,24 Avenue du Pasteur Rollin,Anduze,30140,,,1.92 €,1.68 €,4405184,398507
 30,Quartier Tuber CD 48,Avèze,30120,1.77 €,,1.87 €,1.65 €,4397400,359200
 30,RD 310,Gaujac,30330,1.81 €,,1.87 €,1.68 €,4407600,458600
 30,Route d'Alès,Montaren-et-Saint-Médiers,30700,1.82 €,1.00 €,1.90 €,1.66 €,4402500,438900
 30,Sauvegarde,BESSEGES,30160,,1.87 €,1.96 €,1.71 €,4428700,411000
 30,RN 113,FOURQUES,30300,1.89 €,,1.99 €,1.76 €,4369100,460500
-30,2  rue du Levant,Calvisson,30420,1.72 €,,1.82 €,1.62 €,4378312.11,420360.04
+30,2  rue du Levant,Calvisson,30420,1.76 €,,1.84 €,1.65 €,4378312.11,420360.04
 30,Route de Codognan,VERGEZE,30310,1.76 €,,1.86 €,1.62 €,4374200,422100
 30,ZI DOMITIA SUD Avenue jean Monnet,Beaucaire,30300,1.85 €,1.07 €,,1.70 €,4378900,464500
 30,2705 RTE DE MONTPELLIER,NIMES,30900,1.80 €,,,1.63 €,4381000,432900
@@ -86,7 +86,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,15 RUE DES POETES,Nîmes,30900,1.80 €,,1.88 €,1.63 €,4382100,433700
 30,2290 ROUTE DE MONTPELLIER,NIMES,30900,1.91 €,,,1.75 €,4381305,433267
 30,286 Rue de la Digue,Meyrannes,30410,,,,1.73 €,4427000,416800
-30,Route de Saussines,Sommières,30250,1.70 €,1.00 €,,1.60 €,4378095,408168
+30,Route de Saussines,Sommières,30250,1.77 €,1.00 €,,1.66 €,4378095,408168
 30,163 route de sommieres,Calvisson,30420,1.89 €,,1.99 €,1.74 €,4378100,420100
 30,ROUTE D'ARLES,Saint-Gilles,30800,1.76 €,1.05 €,1.84 €,1.63 €,4367700,443200
 30,Avenue Charles de Gaulle,LA CALMETTE,30190,1.83 €,1.05 €,1.88 €,1.68 €,4392419,426390
@@ -118,11 +118,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,711 avenue Cabassan Clarettes,Beauvoisin,30640,1.78 €,,1.88 €,1.64 €,4372600,433000
 30,1 RUE ALTIER,Le Grau-du-Roi,30240,,,1.99 €,1.85 €,4351900,413200
 30,Rue Victor Hugo,LAUDUN,30290,1.81 €,1.04 €,1.88 €,1.68 €,4410600,466100
-30,Place de La Couronne,Saint-Hippolyte-du-Fort,30170,1.71 €,0.98 €,1.79 €,1.59 €,4395132,387348
+30,Place de La Couronne,Saint-Hippolyte-du-Fort,30170,1.76 €,0.98 €,1.85 €,1.63 €,4395132,387348
 30,AVENUE JEAN MONNET,BEAUCAIRE,30300,,,,1.68 €,4379039.7508843,463726.14587217
 30,Vieille Route d'Anduze,SAINT-CHRISTOL-LèS-ALèS,30380,1.77 €,,1.85 €,1.63 €,4409700,406800
 30,ROUTE DE LA GARE,Les Mages,30960,1.80 €,1.13 €,1.96 €,1.67 €,4422700,416300
-30,Place du Maréchal Juin,LE VIGAN,30120,,0.90 €,,1.59 €,4399100,360800
+30,Place du Maréchal Juin,LE VIGAN,30120,,0.98 €,,1.62 €,4399100,360800
 30,639 Avenue de l'Aigoual,Quissac,30260,,1.15 €,1.97 €,1.75 €,4391400,399500
 30,4 Lieu-Dit les Gousats,SAINT-GENIèS-DE-MALGOIRèS,30190,1.82 €,1.00 €,1.88 €,1.68 €,4394500,422700
 30,KM2 ROUTE DE NIMES,Générac,30510,,,1.92 €,1.72 €,4373441.2460034,434755.91304305

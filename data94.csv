@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,99/101 Avenue Foch,Saint-Maur-des-Fossés,94100,1.85 €,,1.93 €,1.73 €,4879900,250000
 94,264 Avenue du Général de Gaulle,Le Perreux-sur-Marne,94170,1.83 €,0.98 €,1.91 €,1.73 €,4885100,249500
 94,20 Rue Winston Churchill,Villeneuve-Saint-Georges,94190,1.85 €,,1.93 €,1.72 €,4875400,245000
-94,67 Avenue Raspail,Gentilly,94250,1.84 €,,1.92 €,1.73 €,4881400,234800
+94,67 Avenue Raspail,Gentilly,94250,1.80 €,,1.88 €,1.71 €,4881400,234800
 94,ROUTE DE LA POMPADOUR,Bonneuil-sur-Marne,94380,1.84 €,,1.92 €,1.71 €,4876500,247800
 94,1 Rue de Paris,Sucy-en-Brie,94370,1.84 €,,1.92 €,1.70 €,4877300,250000
 94,159 Avenue Rouget de l'Isle,Vitry-sur-Seine,94400,1.84 €,,1.92 €,1.74 €,4878200,239500
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,128  BOULEVARD DE STRASBOURG,Nogent-sur-Marne,94130,1.91 €,,1.99 €,1.82 €,4884300,248600
 94,2 Rue du Général de Gaulle,LA QUEUE-EN-BRIE,94510,1.81 €,,1.89 €,1.71 €,4878900,257600
 94,26 AVENUE ARDOUIN,Le Plessis-Trévise,94420,2.03 €,,2.15 €,1.93 €,4881012.7157257,257218.11878052
-94,135 AV DU GENERAL LECLERC,Maisons-Alfort,94700,1.91 €,1.09 €,1.99 €,1.81 €,4880623,243809
+94,135 AV DU GENERAL LECLERC,Maisons-Alfort,94700,1.91 €,1.09 €,1.99 €,,4880623,243809
 94,2 Route de la Libération,Chennevières-sur-Marne,94430,,,,1.79 €,4880464,253525
 94,186 Avenue Gallieni,SAINT-MANDé,94160,2.00 €,,2.17 €,1.93 €,4884700,241600
 94,119 Avenue du Général de Gaulle,Créteil,94000,1.92 €,,2.00 €,1.77 €,4878186.7204601,245789.45751426

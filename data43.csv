@@ -10,7 +10,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 43,ROUTE DU PUY,LE MONASTIER SUR GAZEILLE,43150,1.71 €,1.00 €,1.80 €,1.61 €,4494870,398740
 43,MONTMEAT,RIOTORD,43220,,,1.87 €,1.67 €,4522311.9214503,439291.14359744
 43,RN 88,LE PERTUIS,43200,,,,1.80 €,4509700,405900
-43,16 Avenue de Bonneville,Aiguilhe,43000,1.79 €,,1.89 €,1.65 €,4505000,388800
+43,16 Avenue de Bonneville,Aiguilhe,43000,,,1.89 €,,4505000,388800
 43,rue jean martouret,MONISTROL-SUR-LOIRE,43120,,,1.90 €,1.67 €,4529070.447,416960.856
 43,rue louis amargier route de lahgeac,Saugues,43170,1.85 €,,,1.69 €,4496351,354460
 43,Le Verdier,Saint-Paulien,43350,,,1.82 €,1.65 €,4513200,381400
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 43,route du Puy,Saugues,43170,1.90 €,,1.99 €,1.76 €,4495871,354987
 43,1 Avenue de Coubon,BRIVES-CHARENSAC,43700,1.79 €,,1.89 €,1.65 €,4504800,391700
 43,25 AVENUE PIERRE CHABANNES,Vorey,43800,,,,1.90 €,4518400,391100
-43,Rue Jean-Baptiste Ribeyron,RETOURNAC,43130,1.82 €,,1.90 €,1.68 €,4521100,403000
+43,Rue Jean-Baptiste Ribeyron,RETOURNAC,43130,1.75 €,,1.82 €,1.64 €,4521100,403000
 43,195  route de Retournac,Yssingeaux,43200,1.75 €,1.00 €,1.82 €,1.64 €,4514400,411600
 43,45 Rue des Entreprises - Villeneuve,Yssingeaux,43200,1.75 €,1.00 €,1.82 €,1.64 €,4514600,410900
 43,Route de Saint-Agrève-Valence,Le Chambon-sur-Lignon,43400,1.79 €,,,1.66 €,4505556,431412
