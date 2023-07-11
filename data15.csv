@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,route de murat  station-service BAR,Riom-es-Montagnes,15400,,,1.97 €,1.82 €,4528000,266500
 15,63 AVENUE GENERAL DE GAULLE,MASSIAC,15500,,,1.89 €,1.69 €,4525400,319700
-15,35 bis Avenue du 15 Septembre 1945,Le Rouget,15290,1.82 €,,1.93 €,1.70 €,4485500,223300
+15,35 bis Avenue du 15 Septembre 1945,Le Rouget,15290,1.83 €,,1.94 €,1.72 €,4485500,223300
 15,12 AVENUE MAX MABIT FOURNIER,VIC SUR CERE,15800,,,1.99 €,1.81 €,4497767.5282279,262331.27421777
 15,29 Avenue des Estourocs,PLEAUX,15700,1.92 €,,1.96 €,1.83 €,4513300,222000
 15,ZA DU COMBLAT,Vic-sur-Cère,15800,1.81 €,1.12 €,2.00 €,1.68 €,4496700,260600
@@ -32,13 +32,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,87 Avenue Charles de Gaulle,AURILLAC,15000,1.79 €,,1.92 €,1.64 €,4490915.21744,242441.831845
 15,Avenue du Général de Gaulle,MASSIAC,15500,1.84 €,,,1.72 €,4525800,319900
 15,AVENUE DU DOCTEUR MALLET,Chaudes-Aigues,15110,,,,,4485651,300700
-15,8 AVENUE D'AURILLAC,Saint-Étienne-de-Maurs,15600,1.78 €,1.00 €,1.89 €,1.66 €,4471400,220300
+15,8 AVENUE D'AURILLAC,Saint-Étienne-de-Maurs,15600,1.78 €,1.00 €,1.89 €,1.67 €,4471400,220300
 15,Route de Riom Es Montagne,Murat,15300,,,,,4510839,287932
 15,ZAC du Crozatier,Saint Georges,15100,1.80 €,1.03 €,,1.67 €,4503203.5,313041.2
 15,66 Rue de Firminy,AURILLAC,15000,1.79 €,1.12 €,2.00 €,1.66 €,4491572,243189
 15,1 rue germain prat,LAFEUILLADE-EN-VéZIE,15130,1.96 €,,1.99 €,1.82 €,4478800,245600
 15,Route d'Aurillac,Saint-Paul-des-Landes,15250,,,,,4493800,232400
-15,Rue de la Jordanne,AURILLAC,15000,1.79 €,1.07 €,,1.64 €,4491400,244100
+15,Rue de la Jordanne,AURILLAC,15000,1.81 €,1.07 €,,1.68 €,4491400,244100
 15,Allée des Tilleuls,Vic-sur-Cère,15800,,,,,4498100,262800
 15,PRE CHAMBON,MASSIAC,15500,,,,1.70 €,4526200,319900
 15,RN122 La Croix Blanche,Saint-Mamet-la-Salvetat,15220,,,1.99 €,1.85 €,4485900,229200
