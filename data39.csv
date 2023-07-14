@@ -23,15 +23,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,Boulevard des frères Lumière,Dole,39100,,1.10 €,,1.66 €,4709800,550000
 39,3 rue des Isles,FONCINE LE HAUT,39460,1.85 €,1.16 €,1.95 €,1.70 €,4665800,607400
 39,AUTOROUTE A36 AIRE DE DOLE ROMANGE,Orchamps,39700,2.05 €,,2.17 €,1.88 €,4714900,566400
-39,Lieu-dit Champs Bouvier,Beaufort,39190,,,1.98 €,1.74 €,4657600,543700
+39,Lieu-dit Champs Bouvier,Beaufort,39190,,,1.99 €,1.75 €,4657600,543700
 39,Place du 1er mai,DAMPARIS,39500,1.80 €,1.05 €,1.87 €,1.70 €,4707224,541392
 39,ROUTE NATIONALE 73,DAMPARIS,39500,,,,1.95 €,4704888.9,542944.4
 39,77 Rue de la République,MOREZ,39400,,,1.95 €,1.75 €,4652443,602145
-39,1 Avenue Jean Jaurès,Champagnole,39300,1.80 €,1.00 €,1.95 €,1.68 €,4674000,591600
+39,1 Avenue Jean Jaurès,Champagnole,39300,1.74 €,1.00 €,1.95 €,1.62 €,4674000,591600
 39,36 Route Nationale,Parcey,39100,,,,1.78 €,4702000,549500
 39,RN83,POLIGNY,39800,1.80 €,,,1.70 €,4683851.04998,568677.313277
 39,10 Rue de l'Europe,Morbier,39400,,,1.96 €,1.72 €,4654900,601600
-39,9 Rue Léon Bel,Dole,39100,1.76 €,1.00 €,,1.67 €,4710875,550677
+39,9 Rue Léon Bel,Dole,39100,1.74 €,1.00 €,,1.65 €,4710875,550677
 39,7 rn 73,Choisey,39100,1.80 €,,1.89 €,1.66 €,4706438,545483
 39,13 Route de Lons-le-Saunier,CLAIRVAUX-LES-LACS,39130,,,,1.90 €,4657698.40204,574694.452849
 39,rue du village,CHAMPAGNOLE,39300,1.80 €,,1.95 €,1.68 €,4674900,590700
@@ -42,7 +42,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,19A Rue de Lons,Saint-Aubin,39410,1.79 €,,,1.67 €,4702500,533800
 39,39 Rue Clemenceau,Champagnole,39300,1.74 €,,,1.62 €,4674600,592000
 39,ROUTE DU GENIE,LES ROUSSES,39220,1.81 €,1.00 €,1.87 €,1.67 €,4648600,605500
-39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.78 €,,1.86 €,1.68 €,4657200,595600
+39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.80 €,,1.87 €,1.67 €,4657200,595600
 39,20 Rue de Paris,Saint-Laurent-en-Grandvaux,39150,,1.09 €,,1.74 €,4658000,595400
 39,BOULEVARD DE L EUROPE,Lons-le-Saunier,39000,1.84 €,1.08 €,1.92 €,1.69 €,4668000,557200
 39,AIRE DU JURA,Arlay,39140,2.07 €,,2.17 €,1.97 €,4677600,552300
@@ -66,7 +66,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,RN 83 MONTCHAUVROT,MANTRY,39230,,1.16 €,1.99 €,1.76 €,4680800,558200
 39,4 Faubourg d'Aval,Bletterans,39140,,,1.84 €,1.68 €,4674500,545000
 39,6 Rue du Jura,SAINT-LUPICIN,39170,,,,1.69 €,4640300,579300
-39,Rue du Général Bethouart,DOLE,39100,1.76 €,,1.89 €,1.67 €,4708600,549000
+39,Rue du Général Bethouart,DOLE,39100,1.74 €,,1.82 €,1.65 €,4708600,549000
 39,2 RUE DU PARTERRE,Clairvaux-les-Lacs,39130,,,1.95 €,1.72 €,4657500,575100
 39,2 avenue de Franche-Comté,SAINT-AMOUR,39160,1.79 €,,1.90 €,1.70 €,4644200,534300
 39,23B AVENUE MAILLOT,MONTMOROT,39570,,1.00 €,,1.70 €,4667600,552400
@@ -74,5 +74,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,316 Route de Conliège,Perrigny,39570,1.89 €,,1.99 €,1.75 €,4666800,557700
 39,RUE DU CRET DU BIEF,Lavans-lès-Saint-Claude,39170,,,1.96 €,1.72 €,4638100,577800
 39,2 PLACE DU COLONEL VARROZ,Orgelet,39270,,1.14 €,,1.75 €,4652100,561100
-39,4 Rue de Magnin,ARINTHOD,39240,1.80 €,,1.90 €,1.69 €,4639400,557000
+39,4 Rue de Magnin,ARINTHOD,39240,1.83 €,,1.91 €,1.70 €,4639400,557000
 39,Rue de la Bolée,BANS,39380,1.81 €,,1.91 €,1.68 €,4698200,558200
