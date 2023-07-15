@@ -1,12 +1,12 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-10,RN 19,Barberey-Saint-Sulpice,10600,1.77 €,0.97 €,,1.69 €,4833300,402300
+10,RN 19,Barberey-Saint-Sulpice,10600,1.76 €,0.98 €,,1.66 €,4833300,402300
 10,14 FAUX BOURG DE BOURGOGNE,Bar-sur-Seine,10110,1.76 €,0.99 €,1.84 €,1.66 €,4810600,437700
 10,29 Rue Joseph Anglade,AIX-EN-OTHE,10160,1.77 €,,1.83 €,1.67 €,4821600,374100
 10,ROUTE D ARCIS,MERY-SUR-SEINE,10170,1.76 €,1.00 €,1.83 €,1.67 €,4850802.13687,387881.675396
 10,104 rue de Paris,Arcis-sur-Aube,10700,1.76 €,,1.84 €,1.68 €,4853500,413000
 10,25 Rue du Pont,Les Riceys,10340,,,1.97 €,1.76 €,4799651,436718
 10,AVENUE DE LA REPUBLIQUE,ESTISSAC,10190,,,,1.75 €,4827400,380400
-10,23 boulevard de Dijon,Saint-Julien-les-Villas,10800,1.79 €,,1.86 €,1.70 €,4826766,408884
+10,23 boulevard de Dijon,Saint-Julien-les-Villas,10800,1.80 €,,1.86 €,1.73 €,4826766,408884
 10,42  Route de Brienne (5 minutes A26 Sortie 21),ARCIS-SUR-AUBE,10700,1.82 €,1.05 €,1.91 €,1.70 €,4853400,415600
 10,14 rue du bocage,essoyes,10360,,,1.97 €,1.76 €,4806063.95,453803.32
 10,RUE DE VIGNETTES,MAILLY-LE-CAMP,10230,,,1.97 €,1.77 €,4866800,419200
@@ -17,7 +17,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,71 rue Victor Hugo,Rosières,10430,1.72 €,0.91 €,1.80 €,1.63 €,4826650.8041454,406117.27612853
 10,5 RUE DES TANNERIES,VENDEUVRE-SUR-BARSE,10140,,,,1.75 €,4823700,446700
 10,29 Avenue Pierre Gomand,Lusigny-sur-Barse,10270,,,1.93 €,1.69 €,4825347,426119.9
-10,29 BOULEVARD DE DIJON,Saint-Julien-les-Villas,10800,1.79 €,1.00 €,1.86 €,1.70 €,4826800,408800
+10,29 BOULEVARD DE DIJON,Saint-Julien-les-Villas,10800,1.80 €,1.00 €,1.86 €,1.73 €,4826800,408800
 10,RD 960,LESMONT,10500,1.89 €,,1.99 €,1.79 €,4842800,442100
 10,34 Route de Troyes,CHAOURCE,10210,,,1.94 €,1.69 €,4806585,414076
 10,208 Route d'Auxerre,ROSIèRES-PRèS-TROYES,10430,1.79 €,,1.85 €,1.70 €,4826200,403700
@@ -26,7 +26,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 10,3 Rue de la Mission,TROYES,10000,1.92 €,,1.98 €,1.75 €,4828855,407571
 10,321 rue des Carrés,AUXON,10130,1.95 €,1.05 €,1.98 €,1.74 €,4811000,392100
 10,Rue du Général P.decouz,Brienne-le-Château,10500,1.79 €,,1.85 €,1.69 €,4839900,451800
-10,Boulevard de l'Ouest,Sainte-Savine,10300,1.79 €,,1.87 €,1.70 €,4830500,402700
+10,Boulevard de l'Ouest,Sainte-Savine,10300,1.79 €,,1.88 €,1.70 €,4830500,402700
 10,Rue Jean Moulin,VILLENAUXE-LA-GRANDE,10370,1.78 €,,,1.70 €,4858500,356100
 10,47 Route de Bray,Nogent-sur-Seine,10400,1.76 €,,1.80 €,1.69 €,4848593,349118
 10,RD 619,BARBEREY,10600,1.81 €,,1.88 €,1.69 €,4833600,401900

@@ -1,11 +1,11 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-65,route de Bagnères,LALOUBERE,65310,1.80 €,,1.90 €,1.67 €,4320600,7200
+65,route de Bagnères,LALOUBERE,65310,1.77 €,,1.86 €,1.66 €,4320600,7200
 65,Place Germain Claverie,TARBES,65000,,,1.91 €,1.70 €,4322800,8800
 65,13 route de Lourdes,Juillan,65290,1.80 €,1.15 €,1.88 €,1.70 €,4320079,3601
 65,LIEU DIT PLAS,ARREAU,65240,,,1.93 €,1.72 €,4289922.58853,35364.2473678
 65,route pierrefitte,Cauterets,65110,,,2.00 €,1.80 €,4289995,-10814
 65,21 ROUTE DE BORDEAUX,bazet,65460,1.93 €,,1.99 €,1.80 €,4329100,7600
-65,centre commercial Val d'Adour,Maubourguet,65700,1.79 €,,1.87 €,1.69 €,4344100,4200
+65,centre commercial Val d'Adour,Maubourguet,65700,1.79 €,,1.87 €,1.68 €,4344100,4200
 65,3150 RN 117,CAPVERN,65130,,1.00 €,,1.72 €,4311200,35600
 65,Route de Pau,IBOS,65420,1.72 €,0.92 €,1.79 €,1.63 €,4323900,1800
 65,265 Route de Toulouse,LANNEMEZAN,65300,,,1.99 €,1.80 €,4311900,41100
@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 65,97 AV.DE TOULOUSE,SéMéAC,65600,,1.17 €,,1.78 €,4322296.0787651,10284.173632663
 65,D 817,TOURNAY,65190,,,,1.82 €,4318500,23900
 65,BD DE LATTRE DE TASSIGNY,Tarbes,65000,1.83 €,1.19 €,1.91 €,1.70 €,4322300,5800
-65,4 Avenue François Abadie,Lourdes,65100,1.83 €,,1.91 €,1.68 €,4310800,-3900
+65,4 Avenue François Abadie,Lourdes,65100,1.83 €,,1.92 €,1.71 €,4310800,-3900
 65,86 Avenue François Mitterrand,Séméac,65600,,,,,4322400,10200
 65,32  avenue du Général de Gaulle,ARGELES-GAZOST,65400,,,1.99 €,1.80 €,4300300,-9700
 65,ROUTE DE TOULOUSE,CASTELNAU-MAGNOAC,65230,1.82 €,1.00 €,1.88 €,1.74 €,4329300,51500

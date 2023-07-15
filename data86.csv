@@ -6,7 +6,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 86,1 Avenue de l'Europe,Montmorillon,86500,,,,,4642092,86076
 86,59 BIS AVENUE HENRI ROUCHER,CIVRAY,86400,,,,1.82 €,4615166.66,29441.68
 86,480 ROUTE DE LIMOGES,Mignaloux-Beauvoir,86550,1.87 €,,1.98 €,1.78 €,4654914,40515
-86,Beaulieu - 2 Avenue de Lafayette,POITIERS,86000,1.74 €,,1.82 €,1.62 €,4657600,37500
+86,Beaulieu - 2 Avenue de Lafayette,POITIERS,86000,1.73 €,,1.80 €,1.62 €,4657600,37500
 86,Route Nationale 10 - Lieu-dit la Fosse aux Sables,Les Ormes,86220,,,,1.82 €,4694833.645,60763.006
 86,38 rue de Parigny,Jaunay-Marigny,86130,1.77 €,1.00 €,1.85 €,1.66 €,4668200,37300
 86,route de lencloitre,Saint-Genest-d'Ambière,86140,1.79 €,,1.85 €,1.69 €,4681600,33700
@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 86,8 ROUTE DE CHARDONCHAMPS,Migné-Auxances,86440,1.78 €,,1.84 €,1.67 €,4661800,31600
 86,Avenue Jean Moulin,CHâTELLERAULT,86100,1.75 €,,1.83 €,1.66 €,4679700,53100
 86,Rue des Ecoles,BUXEROLLES,86180,1.71 €,,,1.61 €,4659739.0880917,35110.607183029
-86,Rue Julien David,Lussac-les-Châteaux,86320,1.77 €,1.00 €,1.85 €,1.67 €,4640200,72200
+86,Rue Julien David,Lussac-les-Châteaux,86320,1.82 €,1.00 €,1.89 €,1.72 €,4640200,72200
 86,13 place de la croix cadet,Vouneuil-sous-Biard,86580,,,1.86 €,1.67 €,4657109.72,27208.73
 86,AUTOROUTE A10,Jaunay-Clan,86130,2.02 €,,2.12 €,1.88 €,4669100,35500
 86,Rue du Paradis,CHâTELLERAULT,86100,1.76 €,,1.85 €,1.66 €,4679896,54931
@@ -57,8 +57,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 86,41 allée jean monnet,Neuville-de-Poitou,86170,1.76 €,,1.84 €,1.66 €,4667863.4849341,26579.980945895
 86,RN 151 - La Carte,Jardres,86800,1.71 €,,,1.61 €,4656700,56400
 86,RN10 LES PORTES DU FUTUR,Chasseneuil-du-Poitou,86360,1.77 €,,1.85 €,1.66 €,4666700,37100
-86,Sortie A10 Nord - ZI Nord - Espace d Argenson,CHATELLERAULT,86100,1.76 €,1.00 €,1.82 €,1.66 €,4684011.24663,54742.251739
 86,17  RUE PORTES ROUGES,VIVONNE,86370,1.74 €,,1.82 €,1.64 €,4643100,26200
+86,Sortie A10 Nord - ZI Nord - Espace d Argenson,CHATELLERAULT,86100,1.76 €,1.00 €,1.82 €,1.66 €,4684011.24663,54742.251739
 86,13 Avenue Honoré de Balzac,CHâTELLERAULT,86100,1.76 €,,1.89 €,1.66 €,4679200,52600
 86,Route de Poitiers,Chauvigny,86300,1.77 €,,1.87 €,1.66 €,4657100,63700
 86,93 Route de Gençay,Poitiers,86000,1.71 €,,1.78 €,1.61 €,4656606.713088,35440.526256445
