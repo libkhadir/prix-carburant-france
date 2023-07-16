@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,3 boulevard des Pyrénées,Mauléon-Licharre,64130,1.92 €,,1.99 €,1.78 €,4322300,-88800
 64,Route de Cambo,Hasparren,64240,,,1.83 €,1.71 €,4338500,-131300
 64,AUTOROUTE A63 - AIRE DE BIDART EST,BIDART,64210,1.99 €,1.26 €,1.99 €,1.91 €,4342214,-159760
-64,Avenue Louis Sallenave,PAU,64000,1.71 €,,1.79 €,1.62 €,4332000,-36000
+64,Avenue Louis Sallenave,PAU,64000,1.77 €,,1.83 €,1.66 €,4332000,-36000
 64,65 RTE DE L'AUBISQUE,ASSON,64800,,,1.99 €,1.89 €,4314661.5074533,-25807.624582917
 64,23 Avenue de la Gare,Coarraze,64800,,,,1.79 €,4317699,-23820
 64,107  Avenue de Jalday,SAINT-JEAN-DE-LUZ,64500,1.79 €,1.00 €,1.85 €,1.69 €,4340300,-162700
@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,17  allée Edmond Rostand,Cambo les bains,64250,,,1.89 €,1.69 €,4336195.0140658,-140378.86367707
 64,208 AV JEAN MERMOZ,PAU,64000,1.79 €,1.00 €,1.87 €,1.68 €,4331900,-37800
 64,65 Rue des Oustalots prolongés,Oloron-Sainte-Marie,64400,1.75 €,,,1.69 €,4318100,-61500
-64,77 Avenue de bayonne,Anglet,64600,1.70 €,,1.80 €,1.61 €,4348400,-150100
+64,77 Avenue de bayonne,Anglet,64600,,,1.80 €,1.61 €,4348400,-150100
 64,CHEMIN DEPARTEMENTAL 533,OS MARSILLON,64150,,,1.90 €,1.67 €,4338565.4130567,-61129.551817699
 64, Rue du Bourguet,LARUNS,64440,1.79 €,,,1.70 €,4299129,-42454
 64,AV DU JAI ALAI,Saint-Jean-Pied-de-Port,64220,,1.04 €,1.87 €,1.69 €,4316500,-123400
@@ -35,7 +35,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,22 Rue de la Bastide,MORLAàS,64160,1.79 €,1.18 €,1.87 €,1.69 €,4335100,-26300
 64,ROUTE DE SAINT JEAN PIED DE PORT,Saint-Étienne-de-Baïgorry,64430,,,1.88 €,1.71 €,4318277.823,-133534.068
 64,20 Avenue Jean Mermoz,PAU,64000,2.00 €,1.18 €,2.05 €,1.90 €,4330700,-37600
-64,163 Av. Jean Mermoz,LONS,64140,1.87 €,1.04 €,,1.74 €,4331500,-37800
+64,163 Av. Jean Mermoz,LONS,64140,1.78 €,0.98 €,,1.66 €,4331500,-37800
 64,123 rue d'Ossau,GAN,64290,1.78 €,1.04 €,1.88 €,1.68 €,4321800,-38400
 64,78 Route de Bayonne,Billère,64140,1.78 €,1.00 €,1.88 €,1.69 €,4330400,-40000
 64,6 AVENUE LOUIS DE FOIX,BAYONNE,64100,1.77 €,1.00 €,1.90 €,1.67 €,4350489,-146719
@@ -66,7 +66,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,Avenue d'Euskual-Herria,Chéraute,64130,1.80 €,1.00 €,1.86 €,1.70 €,4323033.1413191,-87387.499106774
 64,Avenue de Lahanchipia,Saint-Jean-de-Luz,64500,1.72 €,,1.79 €,1.62 €,4340100,-163300
 64,RD 33,Pardies,64150,1.88 €,1.03 €,1.99 €,1.79 €,4336700,-58100
-64,90 avenue Henri de Navarre,BAYONNE,64100,1.71 €,,1.80 €,1.62 €,4350500,-144400
+64,90 avenue Henri de Navarre,BAYONNE,64100,1.77 €,,1.89 €,1.67 €,4350500,-144400
 64,36  Boulevard des Pyrénées,Mauléon-Licharre,64130,,,1.85 €,1.68 €,4322600,-88500
 64,AVENUE HENRI IV,Jurançon,64110,1.89 €,,1.99 €,1.77 €,4328000,-38800
 64,AIRE DE LACQ AUDEJOS SUD,LACQ AUDEJOS SUD,64170,2.05 €,1.20 €,2.17 €,1.97 €,4342142.6,-59899.6
@@ -103,7 +103,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,506 CHEMIN ARKIA,USTARITZ,64480,,,,1.84 €,4342300,-146500
 64,174 ZA de la Plaine des Bois,BIRON,64300,,,,,4346400,-74100
 64,RN 10,Urrugne,64122,1.71 €,,1.79 €,1.62 €,4337500,-167900
-64,Route d'Elizaberri,Hasparren,64240,,,1.81 €,1.63 €,4338400,-130500
+64,Route d'Elizaberri,Hasparren,64240,,,1.83 €,1.66 €,4338400,-130500
 64,Route de CAMBO,LARRESSORE,64480,1.95 €,,1.99 €,1.87 €,4337200,-143500
 64,Avenue Aristide Briand,Louvie-Juzon,64260,1.79 €,,1.90 €,1.70 €,4309800,-41600
 64,RN 10,SAINT-JEAN-DE-LUZ,64500,,,,1.80 €,4339172,-165483
@@ -116,5 +116,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,ZA Errobi,ITXASSOU,64250,1.80 €,,1.86 €,1.69 €,4333800,-140500
 64,80  AVENUE DE LA MARNE,BIARRITZ,64200,1.93 €,1.00 €,1.99 €,1.83 €,4348153,-154269
 64,865 RD 817,PUYOO,64270,1.71 €,0.92 €,,1.62 €,4352726.5816904,-91705.815232016
-64,Avenue du Général de Gaulle,Mazères-Lezons,64110,1.71 €,,1.79 €,1.62 €,4327900,-36100
+64,Avenue du Général de Gaulle,Mazères-Lezons,64110,1.77 €,,1.83 €,1.66 €,4327900,-36100
 64,CD 932,Ustaritz,64480,1.77 €,1.00 €,1.85 €,1.67 €,4339300,-145700

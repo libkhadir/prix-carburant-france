@@ -28,7 +28,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 36,26 Rue Jean Lurçat,Châtillon-sur-Indre,36700,1.80 €,1.00 €,1.88 €,1.70 €,4698700,116900
 36,ROUTE DE CHATEAUROUX,Valençay,36600,,,,1.83 €,4714300,157300
 36,route de chateauroux,BUZANçAIS,36500,,,1.90 €,1.70 €,4688831,143328
-36,Rue de la Limoise,Issoudun,36100,1.71 €,,1.79 €,1.63 €,4695700,200300
+36,Rue de la Limoise,Issoudun,36100,1.77 €,,1.85 €,1.65 €,4695700,200300
 36,rue des Remparts,SAINT-GAULTIER,36800,,,1.88 €,1.70 €,4663900,142500
 36,96 AVENUE D'OCCITANIE,Saint-Maur,36250,1.80 €,1.05 €,1.91 €,1.67 €,4678058,165276
 36,Rue Albert Chichery,Le Blanc,36300,1.70 €,0.93 €,1.82 €,1.62 €,4663843,106210
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 36,28 Rue Georges Clemenceau,PAULNAY,36290,,,,1.79 €,4685100,114300
 36,18 rue des Ajoncs,LA CHâTRE,36400,1.75 €,1.05 €,1.84 €,1.65 €,4657400,197700
 36,59 Rue Haute Saint-Paterne,Issoudun,36100,,,1.88 €,1.70 €,4694210,198786
-36,Route de Tours,Saint-Maur,36250,1.71 €,0.91 €,1.80 €,1.64 €,4681800,166900
-36,RD 920,Déols,36130,1.80 €,1.05 €,1.91 €,1.67 €,4685027.3080948,170741.60371735
+36,Route de Tours,Saint-Maur,36250,1.80 €,1.06 €,1.90 €,1.68 €,4681800,166900
+36,RD 920,Déols,36130,,1.05 €,,,4685027.3080948,170741.60371735
 36, Route de Limoges,ARGENTON-SUR-CREUSE,36200,1.80 €,1.05 €,1.90 €,1.70 €,4657643,151152
 36,ROUTE DE VALENCAY,CHABRIS,36210,1.78 €,,1.89 €,1.69 €,4724800,163800

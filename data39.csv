@@ -37,10 +37,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,rue du village,CHAMPAGNOLE,39300,1.80 €,,1.95 €,1.68 €,4674900,590700
 39,15 route Prémanon,La Doye,39220,,1.00 €,1.86 €,1.67 €,4650100,602800
 39,Rue d'Amont,BLETTERANS,39140,1.89 €,,1.99 €,1.77 €,4674600,545700
-39,13 AVENUE ARISTIDE BRIAND,Salins-les-Bains,39110,1.81 €,1.04 €,1.93 €,1.70 €,4694900,587400
+39,13 AVENUE ARISTIDE BRIAND,Salins-les-Bains,39110,1.81 €,1.04 €,,1.70 €,4694900,587400
 39,ROUTE DE DOLE,Arbois,39600,1.81 €,1.06 €,1.91 €,1.68 €,4691500,575700
 39,19A Rue de Lons,Saint-Aubin,39410,1.79 €,,,1.67 €,4702500,533800
-39,39 Rue Clemenceau,Champagnole,39300,1.74 €,,,1.62 €,4674600,592000
+39,39 Rue Clemenceau,Champagnole,39300,1.82 €,,,1.68 €,4674600,592000
 39,ROUTE DU GENIE,LES ROUSSES,39220,1.81 €,1.00 €,1.87 €,1.67 €,4648600,605500
 39,14 rue Lacuzon,Saint-Laurent-en-Grandvaux,39150,1.80 €,,1.87 €,1.67 €,4657200,595600
 39,20 Rue de Paris,Saint-Laurent-en-Grandvaux,39150,,1.09 €,,1.74 €,4658000,595400
@@ -54,7 +54,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 39,Rue de la Gare,Fraisans,39700,1.77 €,,,1.69 €,4715200,576000
 39,2 Grande Rue,CLAIRVAUX-LES-LACS,39130,1.89 €,,1.99 €,1.78 €,4657700,575400
 39,ZI LES PRES SITOZ D467,SALINS-LES-BAINS,39110,1.81 €,,,1.69 €,4692428.073,588581.893
-39,1140 route blanche,Les Rousses,39220,,,1.88 €,1.67 €,4647900,606400
+39,1140 route blanche,Les Rousses,39220,,,1.88 €,,4647900,606400
 39,8 Route de Salins,MONT-SOUS-VAUDREY,39380,,,1.95 €,1.75 €,4698101,560756
 39,Route de Besançon,Arbois,39600,1.87 €,1.07 €,1.94 €,1.70 €,4691100,577000
 39,65 Avenue du Général Eisenhower,DOLE,39100,1.77 €,,,1.66 €,4709800,550300

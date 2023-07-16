@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 77, Rue Gallieni,Chartrettes,77590,,,1.89 €,1.73 €,4848338,269601
 77,AUTOROUTE A5B - AIRE DE GALANDE-LA-MARE-LAROCHE,REAU,77550,1.93 €,1.26 €,1.99 €,1.81 €,4862570.47881,263006.7987
-77,ROUTE D'OZOIR,Roissy-en-Brie,77680,1.80 €,,1.87 €,1.70 €,4878203,265712
+77,ROUTE D'OZOIR,Roissy-en-Brie,77680,1.79 €,,1.86 €,1.70 €,4878203,265712
 77,CARREFOUR DE LA LIBERATION,Fontainebleau,77300,2.02 €,1.13 €,2.12 €,1.95 €,4840800,268800
 77,ROUTE DE PARIS,Villeneuve-sous-Dammartin,77230,1.89 €,,1.99 €,1.80 €,4903300,263500
 77,73 Avenue du Président Franklin Roosevelt,Avon,77210,1.84 €,1.02 €,1.92 €,1.73 €,4841650.2022012,272334.52057242
@@ -93,8 +93,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 77,8 avenue du 8 mai 1945,SAVIGNY-LE-TEMPLE,77176,1.92 €,1.07 €,1.99 €,1.82 €,4859700,257300
 77,7 rue Marguerite Perey,Fontenay-Trésigny,77610,1.72 €,0.91 €,1.80 €,1.65 €,4869800,288900
 77,RN 19   AVENUE DU GENERAL DE GAU,NANGIS,77370,,,1.90 €,1.72 €,4855900,302100
-77,544 Avenue André Ampère,DAMMARIE-LES-LYS,77190,1.72 €,,1.83 €,1.64 €,4850900,260400
-77,Avenue de la Courtillière,SAINT-THIBAULT-DES-VIGNES,77400,1.84 €,1.00 €,1.90 €,1.76 €,4886900,267500
+77,Avenue de la Courtillière,SAINT-THIBAULT-DES-VIGNES,77400,,1.00 €,1.90 €,1.76 €,4886900,267500
+77,544 Avenue André Ampère,DAMMARIE-LES-LYS,77190,1.79 €,,1.86 €,1.70 €,4850900,260400
 77,Avenue du Gendarme Castermant,CHELLES,77500,1.79 €,,1.88 €,1.74 €,4887800,260900
 77,36 Avenue de Fontainebleau,La Chapelle-la-Reine,77760,,,,1.82 €,4832000,257500
 77,127 Avenue du général leclerc,LAGNY-SUR-MARNE,77400,,,,,4887100,268300
@@ -129,10 +129,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 77,1 Avenue Robert Schuman,COUPVRAY,77700,1.94 €,,2.03 €,1.81 €,4887200,279800
 77,AVENUE DE STRASBOURG,COULOMMIERS,77120,1.80 €,,1.89 €,1.70 €,4880100,308700
 77,Chemin du Berceau,Lorrez-le-Bocage-Préaux,77710,1.81 €,,1.88 €,1.71 €,4825100,287400
-77,16 Avenue du Chemin Noir,Lizy-sur-Ourcq,77440,1.85 €,1.00 €,1.90 €,1.77 €,4902663,302167
+77,16 Avenue du Chemin Noir,Lizy-sur-Ourcq,77440,1.85 €,1.00 €,1.91 €,1.77 €,4902663,302167
 77,Boulevard Georges Bidault,Croissy-Beaubourg,77183,1.82 €,1.00 €,1.88 €,1.73 €,4882800,264400
 77,Avenue de la Maison-Blanche,LA FERTé-GAUCHER,77320,1.83 €,1.00 €,1.90 €,1.72 €,4878261,329464
-77,RN 34,Lagny-sur-Marne,77400,1.82 €,1.00 €,,1.70 €,4887700,272900
+77,RN 34,Lagny-sur-Marne,77400,,,,,4887700,272900
 77,ROUTE DE CHELLES,LE PIN,77181,1.80 €,1.00 €,,1.74 €,4891061,262339
 77,A5 Aire des Jonchets Les Récompenses,Forges,77130,1.96 €,,2.07 €,1.86 €,4842917.6472519,293179.777984
 77,7 Rue du Général Leclerc,BRIE-COMTE-ROBERT,77170,1.91 €,,1.99 €,1.80 €,4870075.943685,260087.9926279
@@ -158,7 +158,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 77,RN 4 77346 Pontault-Combault,PONTAULT-COMBAULT,77340,1.78 €,,1.87 €,1.70 €,4876300,264700
 77,C.COMMERCIAL CARRE SENART,Lieusaint,77127,1.80 €,1.07 €,1.88 €,1.72 €,4861700,254800
 77, Rue d'Esbly,Coupvray,77700,1.81 €,,1.87 €,1.72 €,4889666,280162
-77,route du bréau,VARENNES-SUR-SEINE,77130,1.72 €,0.91 €,1.80 €,1.64 €,4837500,294300
+77,route du bréau,VARENNES-SUR-SEINE,77130,1.79 €,0.99 €,1.85 €,1.69 €,4837500,294300
 77,Rue de Nisceville,CHâTEAU-LANDON,77570,,,1.86 €,1.70 €,4814461,269420
 77,26 Avenue Charles de Gaulle,CRéCY-LA-CHAPELLE,77580,,,2.05 €,1.81 €,4886000,290800
 77,Chemin des Prés,THOMERY,77810,1.76 €,,1.83 €,1.70 €,4840900,279200
@@ -179,5 +179,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 77, Rue du Perré,RUBELLES,77950,,,1.87 €,1.71 €,4855275.28221,267091.809609
 77,Avenue du 8 Mai 1945,VARENNES-SUR-SEINE,77130,1.72 €,,1.80 €,1.64 €,4837000,293900
 77,2 Avenue Édouard Gourdon,Ozoir-la-Ferrière,77330,,,1.93 €,1.76 €,4877300,267600
-77,Boulevard de la Marne,COULOMMIERS,77120,1.71 €,0.90 €,1.81 €,1.64 €,4880400,309100
+77,Boulevard de la Marne,COULOMMIERS,77120,1.80 €,1.02 €,1.89 €,1.70 €,4880400,309100
 77,81 Avenue Président Roosevelt,MEAUX,77100,1.88 €,,1.99 €,1.80 €,4895674,290382
