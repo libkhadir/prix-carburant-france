@@ -11,7 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,37 Boulevard Paul Ramadier,CAPDENAC-GARE,12700,1.79 €,,1.86 €,1.69 €,4457100,207500
 12,241 Avenue de Marengo,Baraqueville,12160,,,,1.81 €,4427800,243000
 12,280 Rue de la Renaissance,Decazeville,12300,1.80 €,1.00 €,1.89 €,1.69 €,4455913.1275643,225812.46898855
-12,Z.A. Bel air,Camarès,12360,1.86 €,,,1.71 €,4383200,287300
+12,Z.A. Bel air,Camarès,12360,1.83 €,,,1.69 €,4383200,287300
 12,Rue du General de Gaulle,Sévérac-le-Château,12150,,,1.87 €,1.72 €,4431970,306825
 12,Boulevard de Guizard,ESPALION,12500,,,,1.76 €,4452400,276500
 12,Espace Les Cayres,Laguiole,12210,,,1.92 €,1.74 €,4468300,285100
@@ -43,7 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,3 AVENUE DU SEGALA,RIEUPEYROUX,12240,1.81 €,,,1.70 €,4430812.1642119,224202.33682987
 12,AUTOROUTE A75 - AIRE DE L'AVEYRON,Sévérac-le-Château,12150,1.99 €,1.26 €,1.99 €,1.89 €,4433000,308200
 12,59 Avenue Étienne Soulié,Villefranche-de-Rouergue,12200,1.82 €,,1.90 €,1.69 €,4436000,204000
-12,32 Rue Gambetta,Decazeville,12300,1.80 €,,1.88 €,1.71 €,4456200,224900
+12,32 Rue Gambetta,Decazeville,12300,1.86 €,,1.94 €,1.73 €,4456200,224900
 12,41ter Avenue Adam Grange,Viviez,12110,1.93 €,,1.99 €,1.81 €,4456086,223115
 12,La Méridienne,La Cavalerie,12230,2.06 €,,1.89 €,1.68 €,4397400,320400
 12,600 Avenue de Rodez,Baraqueville,12160,1.82 €,,,1.69 €,4427700,244400
@@ -52,10 +52,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,33 AVENUE DU LAC,VILLEFRANCHE-DE-PANAT,12430,,,,1.81 €,4409000,270100
 12,15 route du rouergue,La Fouillade,12270,,,1.98 €,1.79 €,4422900,203800
 12,ZA les Pradades - Salles la Source,MARCILLAC-VALLON,12330,1.80 €,,1.87 €,1.71 €,4445500,247300
-12,Avenue de Rodez,Pont-de-Salars,12290,,,,1.79 €,4428900,271400
-12,ROUTE D'ESPALION,RODEZ,12000,1.89 €,1.00 €,1.99 €,1.77 €,4437700,259300
-12, Avenue Marie Curie,SéVéRAC-LE-CHâTEAU,12150,1.82 €,,1.87 €,1.72 €,4432524,306544
-12,D840,NUCES,12330,,,,1.79 €,4444100,244100
+12,Avenue de Rodez,Pont-de-Salars,12290,,,,1.80 €,4428900,271400
+12,ROUTE D'ESPALION,RODEZ,12000,1.91 €,1.00 €,1.99 €,1.78 €,4437700,259300
+12, Avenue Marie Curie,SéVéRAC-LE-CHâTEAU,12150,1.80 €,,1.88 €,1.70 €,4432524,306544
+12,D840,NUCES,12330,,,,1.78 €,4444100,244100
 12,Avenue du 19 Mars 1962,CRANSAC,12110,1.79 €,,1.86 €,1.68 €,4452600,226900
 12,33 Bd Paul ramadier,Rodez,12000,,,,1.76 €,4435921.9211413,256985.24525378
 12,PARC D’ACTIVITÉ SAINT PIERRE,Rebourguil,12400,,,1.89 €,1.68 €,4387600,277800
@@ -72,9 +72,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 12,37 AVENUE DE PARIS,Sévérac d'Aveyron,12150,,,,1.68 €,4432932.8023609,306931.6338544
 12,le fargal haut,Montbazens,12220,,1.09 €,,1.70 €,4446138.9568938,222235.07921239
 12,Route de Lacroix Barrez,MUR-DE-BARREZ,12600,,,1.93 €,1.75 €,4483700,266300
-12,9 Avenue des Croates,VILLEFRANCHE-DE-ROUERGUE,12200,1.91 €,,1.99 €,1.75 €,4436100,204100
+12,9 Avenue des Croates,VILLEFRANCHE-DE-ROUERGUE,12200,1.92 €,,1.99 €,1.76 €,4436100,204100
 12,30 Avenue du Rouergue,BERTHOLèNE,12310,,,1.99 €,1.78 €,4439367,277776
-12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.90 €,,1.99 €,1.76 €,4395700,287500
+12,131 Avenue Docteur Lucien Galtier,Saint-Affrique,12400,1.91 €,,1.99 €,1.76 €,4395700,287500
 12,AVENUE DU PONT LEROUGE,Millau,12100,,,1.86 €,1.65 €,4409065,307745
 12,Avenue de Rodez,PONT-DE-SALARS,12290,1.80 €,,1.87 €,1.70 €,4428800,271500
 12,Z.A. PLAISANCE,Cassagnes-Bégonhès,12120,1.84 €,,,1.70 €,4417642.425,252119.462
