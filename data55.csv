@@ -7,9 +7,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,6 RUE DU FORT,Saint-Mihiel,55300,1.95 €,1.00 €,1.99 €,1.87 €,4888800,554000
 55,30 Rue du 3ème RHC,ÉTAIN,55400,1.86 €,,1.94 €,1.74 €,4921700,564300
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS SUD,HAUDIOMONT,55160,1.95 €,,2.05 €,1.84 €,4911834.37,550846.34
-55,Place Maurice Genevoix,VERDUN,55100,1.81 €,,1.88 €,1.70 €,4916500,538000
+55,Place Maurice Genevoix,VERDUN,55100,1.86 €,,1.93 €,1.76 €,4916500,538000
 55,4 IMPASSE DE LA VARENNE,Fains-Véel,55000,1.85 €,,1.93 €,1.73 €,4878700,514000
-55,Lieu-dit le moulin Charlier,Dieue-sur-Meuse,55320,1.81 €,,1.89 €,1.69 €,4907700,544800
+55,Lieu-dit le moulin Charlier,Dieue-sur-Meuse,55320,1.85 €,,1.91 €,1.73 €,4907700,544800
 55,2 Route de Reims,FAINS-VéEL,55000,1.86 €,1.03 €,1.94 €,1.77 €,4879000,513700
 55,10 Rue d'Abainville,Houdelaincourt,55130,,,2.08 €,1.78 €,4855000,548100
 55,4 AV DU GENERAL DE GAULLE,VERDUN,55100,1.96 €,1.03 €,1.99 €,1.87 €,4916500,538000
@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,3 Rue de Verdun,GONDRECOURT-LE-CHâTEAU,55130,,,,,4851838,550427
 55,28 Rue de Saint-Mihiel,Vigneulles-lès-Hattonchâtel,55210,1.86 €,,,1.75 €,4897600,570100
 55,Rue du Docteur Edmond Morelle,COMMERCY,55200,,,,,4875735,559035
-55,Avenue de la Grande Terre,BAR-LE-DUC,55000,1.81 €,0.97 €,1.88 €,1.70 €,4875700,519200
+55,Avenue de la Grande Terre,BAR-LE-DUC,55000,1.86 €,1.02 €,1.93 €,1.75 €,4875700,519200
 55,Porte de Cheppy,Varennes-en-Argonne,55270,,,1.89 €,1.71 €,4922900,504200
 55,Rue de la Ballastière,Ligny-en-Barrois,55500,,,1.91 €,1.74 €,4867700,532600
 55,Avenue de Metz,VERDUN,55100,1.85 €,1.03 €,1.91 €,1.73 €,4914300,540900

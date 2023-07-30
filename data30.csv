@@ -5,11 +5,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,Route d'Alès,Montaren-et-Saint-Médiers,30700,1.88 €,1.00 €,1.95 €,1.73 €,4402500,438900
 30,Sauvegarde,BESSEGES,30160,,1.87 €,1.98 €,1.76 €,4428700,411000
 30,RN 113,FOURQUES,30300,1.96 €,,1.99 €,1.83 €,4369100,460500
-30,ZAC du Rieu Rocade Est,Alès,30100,1.78 €,,1.85 €,1.65 €,4411700,410700
+30,ZAC du Rieu Rocade Est,Alès,30100,1.87 €,,1.93 €,1.75 €,4411700,410700
 30,2  rue du Levant,Calvisson,30420,1.90 €,,1.94 €,1.75 €,4378312.11,420360.04
 30,ZI DOMITIA SUD Avenue jean Monnet,Beaucaire,30300,1.93 €,1.09 €,,1.77 €,4378900,464500
 30,24 Avenue du Pasteur Rollin,Anduze,30140,,,1.96 €,1.73 €,4405184,398507
-30,2705 RTE DE MONTPELLIER,NIMES,30900,1.86 €,1.00 €,1.96 €,1.73 €,4381000,432900
+30,2705 RTE DE MONTPELLIER,NIMES,30900,1.87 €,1.00 €,1.96 €,1.73 €,4381000,432900
 30, Route de Nîmes,SAINT-DIONIZY,30980,1.93 €,,1.99 €,1.79 €,4380672,423172
 30,Route de Beaucaire,NîMES,30000,1.79 €,0.97 €,,1.66 €,4383700,439500
 30,Quartier Tuber CD 48,Avèze,30120,1.84 €,,1.91 €,1.71 €,4397400,359200
@@ -25,7 +25,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,route des plages,AIMARGUES,30470,1.86 €,,1.93 €,1.74 €,4368469.57,420930.07847336
 30,42 chemin de brueges,Alès,30100,,,1.96 €,1.74 €,4414100,409000
 30,Route de Codognan,VERGEZE,30310,1.85 €,,1.91 €,1.70 €,4374200,422100
-30,390 AV PIERRE MENDES FRANCE,NIMES,30000,1.89 €,1.00 €,1.98 €,1.75 €,4382500,437900
+30,390 AV PIERRE MENDES FRANCE,NIMES,30000,,1.00 €,1.98 €,1.75 €,4382500,437900
 30,89 RUE PIERRE SEMARD,NIMES,30000,2.09 €,1.05 €,2.21 €,1.99 €,4384100,437200
 30,78 route d'Alès,NîMES,30000,,,1.94 €,1.77 €,4384748.9529364,434650.58716558
 30,1121 Route de Nîmes,AIGUES-MORTES,30220,1.85 €,1.00 €,1.91 €,1.70 €,4357400,419600
@@ -44,8 +44,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,PONT DES CHARETTES,UZèS,30700,1.89 €,,,1.74 €,4399000,442900
 30,97 AVENUE GÉNÉRAL LECLERC,Villeneuve-lès-Avignon,30400,1.87 €,1.00 €,1.99 €,1.75 €,4395800,477800
 30,AVENUE DE LA GARE,UZES,30700,,1.05 €,,1.75 €,4401100,440800
+30,Route d'Uzès,Saint-Ambroix,30500,1.87 €,,1.98 €,1.75 €,4425500,420300
 30, Rue du Docteur Paul Vermale,BESSEGES,30160,,,1.98 €,1.75 €,4429233,409340
-30,Route d'Uzès,Saint-Ambroix,30500,1.90 €,,2.00 €,1.73 €,4425500,420300
 30,Route de Saint-Brès,Saint-Ambroix,30500,,,1.94 €,1.73 €,4426800,419600
 30,Le Grand Jardin,AUJARGUES,30250,1.82 €,1.00 €,,1.73 €,4379000,412200
 30,108 routes des platanes,Pont-Saint-Esprit,30130,,1.15 €,,1.77 €,4427300,462800
@@ -55,7 +55,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,DE LA REPUBLIQUE,Manduel,30129,,,1.99 €,1.74 €,4382100,446900
 30,153 Route de Montpellier,LEDIGNAN,30350,1.95 €,1.15 €,1.99 €,1.82 €,4398500,410600
 30,128  Avenue Général Leclerc,Villeneuve-lès-Avignon,30400,1.96 €,,2.05 €,1.84 €,4395800,477900
-30,1 Av. du Président Kennedy,PONT-SAINT-ESPRIT,30130,1.95 €,,2.02 €,1.78 €,4425993,464752
+30,1 Av. du Président Kennedy,PONT-SAINT-ESPRIT,30130,1.90 €,,1.95 €,1.69 €,4425993,464752
 30,4 avenue des arenes,BELLEGARDE,30127,,,2.00 €,1.72 €,4375724.08919,451195.169942
 30,Chemin de Calvisson,Bernis,30620,1.97 €,,2.04 €,1.82 €,4376675,428181
 30,Avenue Gaston Doumergue,Pont-Saint-Esprit,30130,,1.05 €,1.95 €,1.75 €,4425500,464600
@@ -86,7 +86,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,15 RUE DES POETES,Nîmes,30900,1.86 €,,1.94 €,1.74 €,4382100,433700
 30,2290 ROUTE DE MONTPELLIER,NIMES,30900,1.99 €,,,1.85 €,4381305,433267
 30,286 Rue de la Digue,Meyrannes,30410,,,,1.79 €,4427000,416800
-30,Route de Saussines,Sommières,30250,1.77 €,1.00 €,,1.65 €,4378095,408168
+30,Route de Saussines,Sommières,30250,1.85 €,1.00 €,,1.72 €,4378095,408168
 30,163 route de sommieres,Calvisson,30420,1.96 €,,1.99 €,1.81 €,4378100,420100
 30,ROUTE D'ARLES,Saint-Gilles,30800,1.82 €,1.00 €,1.87 €,1.69 €,4367700,443200
 30,Avenue Charles de Gaulle,LA CALMETTE,30190,1.86 €,1.05 €,1.93 €,1.72 €,4392419,426390
