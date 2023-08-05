@@ -1,5 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
-02,85 rue du général Leclerc,Villers-Cotterêts,02600,1.98 €,,,1.87 €,4925500,308300
+02,85 rue du général Leclerc,Villers-Cotterêts,02600,1.97 €,,,1.88 €,4925500,308300
 02,route d'Amiens,St Quentin,02100,1.88 €,1.04 €,1.95 €,1.76 €,4985800,325300
 02,3 Avenue Raymonde Fiolet,Soissons,02200,1.88 €,1.00 €,1.95 €,1.80 €,4936994,331490
 02,Boulevard de l'Europe,Chauny,02300,1.89 €,1.00 €,1.96 €,1.79 €,4962645,321575
@@ -7,10 +7,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,14 ROUTE DE MONTCORNET,LISLET,02340,,,1.94 €,1.79 €,4968900,402200
 02,13 Avenue Jules Lefèbvre,Château-Thierry,02400,2.05 €,,2.13 €,1.95 €,4904318,339518
 02,1000 rue jean jaures,Fresnoy-le-Grand,02230,,,1.97 €,1.80 €,4995751.4,343042.81
-02,73 chaussee de fontaine,Fontaine-lès-Vervins,02140,1.90 €,,,1.80 €,4984300,390500
+02,73 chaussee de fontaine,Fontaine-lès-Vervins,02140,1.89 €,,,1.81 €,4984300,390500
 02,98 rue Alexandre Dumas,SAINT-QUENTIN,02100,1.85 €,1.00 €,1.92 €,1.74 €,4984800,327200
 02,3 Rue Pierre Curtil,Guignicourt,02190,,,1.99 €,1.80 €,4943503.6675202,396689.49241097
-02,37 Avenue d'Essômes,CHâTEAU-THIERRY,02400,1.89 €,,1.95 €,1.80 €,4904000,338700
+02,37 Avenue d'Essômes,CHâTEAU-THIERRY,02400,1.86 €,,1.92 €,1.80 €,4904000,338700
 02,39 Rue de Picardie,Bellicourt,02420,,,,1.98 €,4996029,323160
 02,16 RUE DU 2 SEPTEMBRE 1944,La Neuville-lès-Dorengt,02450,,,1.97 €,1.80 €,4997729.68,367681.51
 02,RD 338,Viry-Noureuil,02300,1.86 €,,1.93 €,1.78 €,4964287,325950
@@ -18,9 +18,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,rue de l'armistice,LA CAPELLE,02260,,,1.98 €,1.80 €,4997300,391800
 02,Rue des Docteurs Devillers,GUISE,02120,1.88 €,,1.92 €,1.80 €,4990249,363841
 02,Avenue de Compiègne,MERCIN-ET-VAUX,02200,,,1.97 €,1.81 €,4938127,330822
-02,56  rue du jeu de Paume,Guise,02120,1.97 €,1.17 €,1.99 €,1.88 €,4989600,362600
+02,56  rue du jeu de Paume,Guise,02120,1.96 €,1.17 €,1.99 €,1.89 €,4989600,362600
 02, Place Sohier,Vervins,02140,,,1.90 €,2.00 €,4983535,390963
-02,Z.I rue de la Plaine,CHÂTEAU-THIERRY,02400,1.84 €,1.01 €,,1.75 €,4903700,339000
+02,Z.I rue de la Plaine,CHÂTEAU-THIERRY,02400,1.83 €,1.02 €,,1.75 €,4903700,339000
 02,RUE SADI CARNOT,GUISE,02120,,,1.95 €,1.80 €,4990316,362899
 02,16 RUE FERNAND CHRIST,LAON,02000,,,1.97 €,1.81 €,4957005.31713,360820.562241
 02,25 Boulevard Victor Hugo,SAINT-QUENTIN,02100,1.89 €,1.15 €,,1.76 €,4984200,328400
@@ -32,7 +32,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,autoroute A4 aire de tardenois sud,Fresnes-en-Tardenois,02130,2.09 €,,2.19 €,1.99 €,4907771,337046
 02,89 Grand Rue,Dizy-le-Gros,02340,1.93 €,,,1.79 €,4963000,402500
 02,Avenue de la Ferté Milon,VILLERS-COTTERêTS,02600,1.81 €,0.99 €,,1.74 €,4924000,309800
-02,43 Avenue de Château-Thierry,Belleu,02200,1.88 €,1.00 €,1.95 €,1.80 €,4937046,332985
+02,43 Avenue de Château-Thierry,Belleu,02200,1.87 €,1.00 €,1.95 €,1.81 €,4937046,332985
 02,2 RUE Jese RACINE,Neuilly-Saint-Front,02470,1.80 €,,1.84 €,1.74 €,4916900,325700
 02,Rue du Stade,FèRE-EN-TARDENOIS,02130,,1.00 €,,1.75 €,4920100,351100
 02,Autoroute de l'Est,Fresnes-en-Tardenois,02130,2.09 €,,2.19 €,2.09 €,4907771,337046
@@ -47,10 +47,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,AVENUE DE VERDUN,HIRSON,02500,1.88 €,,1.96 €,1.80 €,4991117.4181842,409008.04252982
 02,rue de Saint-Quentin,BOHAIN-EN-VERMANDOIS,02110,1.89 €,1.00 €,1.86 €,1.83 €,4998100,345100
 02,AVENUE DE LA GARE,Ressons-le-Long,02290,1.87 €,1.00 €,1.95 €,1.81 €,4939680.7142795,311562.94899994
-02,46 Avenue Faidherbe,Saint-Quentin,02100,1.92 €,,2.00 €,1.84 €,4984400,327900
+02,46 Avenue Faidherbe,Saint-Quentin,02100,1.92 €,,2.00 €,1.85 €,4984400,327900
 02,74 Rue Blondel,RIBEMONT,02240,1.84 €,1.00 €,,1.79 €,4980095,346696
 02,16 Boulevard Pierre Brossolette,Laon,02000,1.92 €,1.12 €,2.00 €,1.84 €,4957000,362100
-02,18 route de Thiernu,Marle,02250,1.98 €,,1.99 €,1.88 €,4975000,377200
+02,18 route de Thiernu,Marle,02250,1.97 €,,1.99 €,1.89 €,4975000,377200
 02,9 ET 11 RUE DE VILLENEUVE,SOISSONS,02200,1.87 €,1.00 €,1.95 €,1.81 €,4937100,334100
 02,D1 - LIEU DIT LE PRE MONTRE,Crécy-au-Mont,02380,1.87 €,1.00 €,1.95 €,1.81 €,4948900,333600
 02,ZI l'Ecorcherie,La Ferté-Milon,02460,,,,,4918562,312480
@@ -58,16 +58,16 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,1 Chemin de Danizy,LA FèRE,02800,,,1.97 €,1.80 €,4966023,337185
 02,50 BIS ROUTE DE CHATEAU THIERRY,SOISSONS,02200,1.97 €,1.00 €,1.99 €,1.90 €,4936800,332900
 02,A26 - Aire du Champ Roland,Guignicourt,02190,1.99 €,1.36 €,2.06 €,1.86 €,4944872,392652
-02,ZAC ILE DE FRANCE,LAON,02000,1.88 €,,1.94 €,1.82 €,4954800,361600
-02,183 ROUTE DE PARIS,Vauxbuin,02200,1.89 €,,1.97 €,1.81 €,4936400,330400
+02,ZAC ILE DE FRANCE,LAON,02000,1.86 €,,1.94 €,1.82 €,4954800,361600
+02,183 ROUTE DE PARIS,Vauxbuin,02200,1.88 €,,1.96 €,1.82 €,4936400,330400
 02,AUT A 26- AIRE DU MONT NIZY,Juvincourt-et-Damary,02190,1.99 €,1.36 €,2.06 €,1.86 €,4944508.4070022,392761.87076699
 02,Rue de Coucy,ANIZY-LE-CHâTEAU,02320,1.88 €,,1.93 €,1.80 €,4950600,344000
 02,87 rue de st quentin,Bohain-en-Vermandois,02110,,,,,4998291.82,345337.16
-02,1 Place de Laon,Soissons,02200,1.88 €,,1.96 €,1.80 €,4938600,333300
+02,1 Place de Laon,Soissons,02200,1.87 €,,1.95 €,1.81 €,4938600,333300
 02,36 ROUTE DE LA FERTE MILON,VILLERS-COTTERÊTS,02600,,,1.99 €,1.87 €,4925113.78044,307679.246569
 02,Rue Antoine Parmentier,SAINT-QUENTIN,02100,1.88 €,1.00 €,1.96 €,1.80 €,4985366.40026,326295.970618
 02,34 BD DE MONTPELLIER,BRAINE,02220,1.90 €,1.07 €,1.97 €,1.80 €,4934100,352900
-02,CD 24  route de liesse,SAINT-ERME-OUTRE-ET-RAMECOURT,02820,1.81 €,1.00 €,1.91 €,1.76 €,4953100,385600
+02,CD 24  route de liesse,SAINT-ERME-OUTRE-ET-RAMECOURT,02820,1.88 €,1.00 €,1.91 €,1.80 €,4953100,385600
 02,213 Boulevard Gambetta,CONDREN,02700,1.98 €,,1.99 €,1.89 €,4965000,328000
 02,BLD CAMILLE GUERIN,Saint-Quentin,02100,1.87 €,1.00 €,,1.81 €,4983410,329966
 02,AV.DE COMPIEGNE - RN.31,Mercin-et-Vaux,02200,1.97 €,1.00 €,1.99 €,1.90 €,4938100,330200
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,Route de BOHAIN,Saint-Quentin,02100,1.86 €,,1.92 €,1.76 €,4986500,329100
 02, Rue du Thil,ORIGNY-SAINTE-BENOITE,02390,,,1.87 €,1.72 €,4983722,349412
 02,Rue d'Acy,Venizel,02200,,,1.95 €,1.80 €,4936299,340346
-02,Rue Saint Nicolas,MARLE,02250,,1.14 €,,1.75 €,4974284,377337
+02,Rue Saint Nicolas,MARLE,02250,,1.14 €,,1.80 €,4974284,377337
 02, Rue Auguste Delaune,GAUCHY,02430,1.81 €,1.00 €,1.88 €,1.74 €,4982606,327920
 02,ZAC DU CHAMP DU ROY,Laon,02000,1.89 €,1.07 €,1.96 €,1.81 €,4957100,365500
 02,102 RUE CHARLES DE GAULLE,HIRSON,02500,1.88 €,,,1.81 €,4992100,408400
