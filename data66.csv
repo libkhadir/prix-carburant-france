@@ -1,9 +1,9 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+66,BOULEVARD DU 14 JUILLET,LE BARCARèS,66420,,,,,4278737,303490
 66,Avenue du 8 mai 1945,ARGELèS-SUR-MER,66700,,1.10 €,2.00 €,1.85 €,4255000,304100
-66,Avenue Victor Dalbiez,Perpignan,66000,,0.98 €,1.87 €,1.73 €,4268600,288300
+66,Avenue Victor Dalbiez,Perpignan,66000,,1.00 €,1.93 €,1.76 €,4268600,288300
 66,route de canet,PERPIGNAN,66000,1.88 €,,1.93 €,1.80 €,4270100,294400
 66,9 Carrer d'en cavailles,Le Boulou,66160,1.87 €,,1.93 €,1.80 €,4253318.14,283921.86
-66,BOULEVARD DU 14 JUILLET,LE BARCARèS,66420,1.89 €,,1.95 €,,4278737,303490
 66,109 avenue du général de gaulle,Olette,66360,1.95 €,,,1.85 €,4255353.9623093,226787.83322119
 66,Avenue du Roussillon,LE BARCARèS,66420,1.91 €,1.12 €,1.97 €,1.81 €,4282400,303500
 66,4 Rue Louis Joseph Gay-Lussac,Cabestany,66330,1.88 €,1.00 €,,1.79 €,4269200,292000
@@ -37,7 +37,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 66,Grande Rocade,Prades,66500,1.79 €,0.98 €,1.87 €,1.74 €,4262524,242810
 66,avenue de Saint Cyprien,Latour-Bas-Elne,66200,1.88 €,,1.94 €,1.81 €,4260951.7496565,300950.01852417
 66,Route de Prades,Millas,66170,1.90 €,1.00 €,1.96 €,1.81 €,4269300,268800
-66,C.COMMERCIAL DU RIBERAL,ILLE-SUR-TêT,66130,1.84 €,1.02 €,1.92 €,1.75 €,4267700,263400
+66,C.COMMERCIAL DU RIBERAL,ILLE-SUR-TêT,66130,1.87 €,1.02 €,1.95 €,1.77 €,4267700,263400
 66,ROUTE D ESPAGNE,PERPIGNAN,66000,1.90 €,1.00 €,1.97 €,1.80 €,4267777.1792859,289062.60773838
 66,Avenue de Perpignan,SALEILLES,66280,1.99 €,,1.99 €,1.88 €,4265800,295200
 66,Route du Barcarès,Saint-Laurent-de-la-Salanque,66250,1.97 €,,,1.90 €,4277300,301100
@@ -66,7 +66,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 66,14 rue des grillons,Saint-Estève,66240,,1.07 €,2.04 €,1.89 €,4271600,284400
 66,RD 83 borne 12,CLAIRA,66530,1.90 €,1.07 €,,1.80 €,4277700,295100
 66,Route de Perpignan BP1,Elne,66200,1.98 €,1.09 €,,1.82 €,4261100,296200
-66,Route de Perpignan,LE BOULOU,66160,1.83 €,1.00 €,1.90 €,1.77 €,4253200,284000
+66,Route de Perpignan,LE BOULOU,66160,1.86 €,1.05 €,1.91 €,1.76 €,4253200,284000
 66,21 Boulevard Docteur Joseph Dénoyes,PERPIGNAN,66000,1.89 €,,1.88 €,1.77 €,4271000,288500
 66,Lieu dit La Devèze,POLLESTRES,66450,1.91 €,1.00 €,,1.83 €,4264100,287700
 66,47a av dr torreilles  station esso,ESTAGEL,66310,,,2.14 €,1.93 €,4277238.98,269943.63

@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,LES BUIS,Anneyron,26140,,,1.97 €,1.81 €,4527376,489712
 26,AUTOROUTE A7  AIRE DE SAULCE,Saulce-sur-Rhône,26270,1.98 €,,2.05 €,1.85 €,4472016.0117012,478701.71386338
 26,A7 AIRE DE PORTES LES VALENCE,PORTES-LES-VALENCE,26800,2.07 €,1.35 €,2.17 €,1.98 €,4486708.107,486473.757
-26,20 ROUTE DE MONTELIMAR,Montboucher-sur-Jabron,26740,1.91 €,,1.99 €,1.74 €,4454768.7918314,480650.73349464
+26,20 ROUTE DE MONTELIMAR,Montboucher-sur-Jabron,26740,1.88 €,,1.94 €,1.74 €,4454768.7918314,480650.73349464
 26,60 BD. DU 6 JUIN 1944,CREST,26400,1.96 €,,1.99 €,1.88 €,4472954.82446,501713.715307
 26,Quartier les Rollands,MONTMEYRAN,26120,1.99 €,,,1.79 €,4483600,496900
 26,2 montée du beffroi,grane,26400,1.92 €,1.07 €,1.99 €,1.82 €,4473434.5977585,492504.9866101
@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,2745 Route Nationale 7,Livron-sur-Drôme,26250,1.95 €,,2.04 €,1.83 €,4480200,485400
 26,31 Avenue de Venterol,NYONS,26110,1.89 €,1.00 €,1.96 €,1.79 €,4436000,512700
 26,Avenue de Valence,CHABEUIL,26120,1.94 €,1.03 €,,1.84 €,4490184.20072,501047.652172
-26,Route de la résistance Conches et Chamarges,Die,26150,1.90 €,1.00 €,1.96 €,1.79 €,4476076,535682
+26,Route de la résistance Conches et Chamarges,Die,26150,,1.00 €,1.96 €,1.79 €,4476076,535682
 26,1  Av Dauphiné-Provence,ALIXAN,26300,,,,1.80 €,4497600,502800
 26,Place du 8 Mai 1945,PORTES-LèS-VALENCE,26800,1.93 €,1.00 €,,1.84 €,4487500,487900
 26,Route du Stade,Chatuzange-le-Goubet,26300,,,1.95 €,1.77 €,4500000,508900
@@ -26,9 +26,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,280 avenue Jean Moulin RN7,DONZERE,26290,1.85 €,1.09 €,,1.77 €,4443600,471700
 26,Route de Dieulefit,MONTéLIMAR,26200,1.87 €,1.04 €,,1.76 €,4455029.3935106,477507.84205627
 26,245 AVENUE DU GENERAL DE GAULLE,BUIS-LES-BARONNIES,26170,1.94 €,,2.06 €,1.84 €,4427100,526700
-26,26 Avenue Dauphiné-Provence,Mours-Saint-Eusèbe,26540,1.90 €,,1.97 €,1.75 €,4506900,505100
+26,26 Avenue Dauphiné-Provence,Mours-Saint-Eusèbe,26540,1.90 €,,1.99 €,1.80 €,4506900,505100
 26,Parc des Crozes,LORIOL-SUR-DRôME,26270,1.81 €,1.00 €,1.92 €,1.76 €,4475932,483463
-26,Aire de Saint Rambert d'Albon,Saint-Rambert-d'Albon,26140,1.94 €,,1.99 €,1.90 €,4527692.4902728,482503.22038246
+26,Aire de Saint Rambert d'Albon,Saint-Rambert-d'Albon,26140,1.94 €,,1.99 €,1.94 €,4527692.4902728,482503.22038246
 26,ZA LA TULANDIERE 26 route de la Maison Blanche,Saint-Rambert-d'Albon,26140,1.78 €,0.98 €,1.86 €,1.73 €,4528700,481500
 26,13 allée des alpes,BOURG-DE-PéAGE,26300,1.84 €,,1.92 €,1.77 €,4503500,505300
 26,160 ROUTE D ALEYRAC,La Bégude-de-Mazenc,26160,,,2.00 €,1.82 €,4454116.713,493414.812
@@ -43,14 +43,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,Les Basseaux,ÉTOILE-SUR-RHôNE,26800,1.84 €,1.00 €,1.92 €,1.77 €,4485000,487000
 26,RN-7,DONZERE,26290,1.86 €,1.00 €,1.94 €,1.79 €,4442900,471200
 26,RN7,Tain-l'Hermitage,26600,1.90 €,,1.95 €,1.75 €,4506800,484800
-26,85 route d'orpierre,verclause,26510,1.82 €,1.00 €,1.89 €,1.70 €,4437894.5777085,542601.45606024
+26,85 route d'orpierre,verclause,26510,1.83 €,1.06 €,1.92 €,1.77 €,4437894.5777085,542601.45606024
 26,Les Chabanneries,Bourg-lès-Valence,26500,1.82 €,,1.89 €,1.73 €,4495900,488300
 26,Route de Lyon,ROMANS-SUR-ISèRE,26100,1.78 €,,1.86 €,1.73 €,4504300,502900
 26,Route de Valence,SAINT-DONAT-SUR-L'HERBASSE,26260,1.89 €,1.15 €,1.98 €,1.78 €,4511900,497200
 26,RN7,Pont-de-l'Isère,26600,1.88 €,1.00 €,1.97 €,1.80 €,4500800,487000
 26,114 Avenue de la Libération,VALENCE,26000,,,,1.87 €,4491000,488300
 26,1287 RN 7 - LES BLACHES,Cliousclat,26270,1.86 €,1.00 €,1.94 €,1.79 €,4472000,480600
-26,Avenue des Catalins,MONTéLIMAR,26200,,1.00 €,1.86 €,1.73 €,4456700,475900
+26,Avenue des Catalins,MONTéLIMAR,26200,,1.01 €,1.92 €,1.76 €,4456700,475900
 26,900 ROUTE DE MONTELIMAR,GRIGNAN,26230,1.90 €,1.00 €,1.96 €,1.80 €,4442000,493400
 26,300 AVENUE DE CHABEUIL,Valence,26000,1.96 €,1.20 €,2.05 €,1.85 €,4492700,491600
 26,A 7 - AIRE DE MONTELIMAR OUEST,ALLAN,26780,2.20 €,,2.32 €,2.09 €,4451500,478000
@@ -96,9 +96,9 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 26,rond point du gymnase - quartier les peches,Châteauneuf-sur-Isère,26300,1.93 €,1.13 €,2.00 €,1.82 €,4500700,492800
 26,Autoroute A7,Pont-de-l'Isère,26600,2.07 €,,2.17 €,2.01 €,4502014.6848083,487636.8447721
 26,Route de Marseille,MONTéLIMAR,26200,1.87 €,,1.92 €,1.77 €,4453200,474800
-26,rte de nyons,Tulette,26790,,,1.90 €,1.73 €,4428700,494300
+26,rte de nyons,Tulette,26790,,,2.00 €,1.80 €,4428700,494300
 26,41 RUE DU VIVARAIS,Saint-Marcel-lès-Valence,26320,1.96 €,1.20 €,,1.83 €,4496400,494600
-26,avenue boissy d'anglas,Buis-les-Baronnies,26170,1.84 €,1.02 €,,1.78 €,4427400,527100
+26,avenue boissy d'anglas,Buis-les-Baronnies,26170,1.85 €,1.02 €,,1.79 €,4427400,527100
 26,BOULEVARD GUSTAVE ANDRE,VALENCE,26000,1.88 €,1.00 €,1.97 €,1.79 €,4494034,491049
 26,Zone d'activité de la roue est,Saint-Jean-en-Royans,26190,,1.00 €,1.93 €,1.77 €,4502500,528700
 26,Lieu-dit Les Grangiers,Luc-en-Diois,26310,,,,1.84 €,4459145,545003

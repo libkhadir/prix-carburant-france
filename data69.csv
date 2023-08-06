@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,28 Avenue Maurice JARROSSON,Sainte-Foy-lès-Lyon,69110,1.92 €,,2.05 €,1.85 €,4574200,479800
 69,69 AVENUE DU 25EME RTS,Lyon,69009,1.87 €,1.09 €,1.95 €,1.79 €,4578100,480100
 69,2 rue Joseph Gillet - D30 Route de Villefranche,Chazay-d'Azergues,69380,1.85 €,1.00 €,1.93 €,1.79 €,4586823.3282713,469884.27022745
-69,Les Vernailles  110 rue de l'industrie,Saint-Georges-de-Reneins,69830,,,,1.72 €,4606000,472100
+69,Les Vernailles  110 rue de l'industrie,Saint-Georges-de-Reneins,69830,,,,1.76 €,4606000,472100
 69,7 Avenue Édouard Herriot,Tarare,69170,1.87 €,,1.96 €,1.78 €,4589200,444200
 69,72 COURS TOLSTOI,VILLEURBANNE,69100,2.15 €,,2.27 €,2.00 €,4576299.05,487675.86
 69,BD LAURENT BONNEVAY,BRON,69500,1.89 €,1.16 €,1.97 €,1.81 €,4573900,490500
@@ -20,12 +20,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,16 AV F ROOSEVELT,BRON,69500,1.88 €,,1.95 €,1.80 €,4573800,489400
 69,LA CHEVALIERE,Beaujeu,69430,1.92 €,,1.97 €,1.92 €,4614600,459900
 69,236 avenue Franklin Roosevelt,Vaulx-en-Velin,69120,1.87 €,,1.95 €,1.79 €,4574800,493100
-69,Avenue de la Gare,Saint-Romain-en-Gal,69560,1.78 €,,1.86 €,1.73 €,4552800,486500
+69,Avenue de la Gare,Saint-Romain-en-Gal,69560,1.85 €,,1.93 €,1.80 €,4552800,486500
 69,2315 ROUTE DE LONGSARD,ARNAS,69400,,1.12 €,,1.87 €,4602578.9444187,470209.17620382
 69,1 Rue de la république,Quincieux,69650,1.97 €,,1.99 €,1.90 €,4591700,477500
 69,AVENUE DE VERDUN,BELLEVILLE,69220,,,1.97 €,1.85 €,4609900,474900
-69,296 Route de Genas,Bron,69500,1.94 €,,2.02 €,1.84 €,4575100,490900
 69,Rue Commandant Charcot,SAINTE-FOY-LèS-LYON,69110,2.07 €,,2.19 €,2.00 €,4574890,479384
+69,296 Route de Genas,Bron,69500,1.94 €,,2.02 €,1.84 €,4575100,490900
 69,244  Chemin Rivière de la Cour,Le Bois-d'Oingt,69620,1.90 €,,,1.79 €,4592200,458000
 69,38 Rue de l'Abbaye,Villefranche-sur-Saône,69400,,,,,4601100,472600
 69,A6 Aire des Cheres Est,Les Cheres,69380,2.06 €,1.12 €,2.17 €,1.95 €,4590300,473000
@@ -36,7 +36,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,Autoroute A6 382 Chemin de l'emprunt,Dracé,69220,1.99 €,1.31 €,2.13 €,1.95 €,4614306.2121949,476753.57889549
 69,260 rue du parc st Jean,Saint-Jean-d'Ardières,69220,1.89 €,,,1.82 €,4611600,474000
 69,44 AVENUE LECLERC,LYON 7,69007,,,2.09 €,1.91 €,4573700,482400
-69,27 route de la taquière,Ampuis,69420,1.79 €,1.00 €,,1.73 €,4548751,480054
+69,27 route de la taquière,Ampuis,69420,1.85 €,1.12 €,,1.80 €,4548751,480054
 69,23 Avenue de la Porte de Lyon,Dardilly,69570,1.84 €,,1.93 €,1.76 €,4582100,476600
 69,Z.A. les Martinets,L'Arbresle,69210,1.84 €,,1.97 €,1.79 €,4582300,460600
 69,85  Avenue de Chaponnay - Parc d'activité de la vallée de l'Ozon,CHAPONNAY,69970,1.78 €,0.98 €,1.86 €,1.73 €,4565000,492700
@@ -130,7 +130,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,112 Boulevard Irène Joliot-Curie,Vénissieux,69200,1.91 €,,1.99 €,1.82 €,4571000,488300
 69,61 Avenue de la République,VéNISSIEUX,69200,2.00 €,,2.12 €,2.00 €,4570543,487794
 69,Route de Lyon,Fleurieu-sur-Saône,69250,1.99 €,,2.09 €,1.87 €,4585511.0976539,483986.80314607
-69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.90 €,1.11 €,1.98 €,1.80 €,4581200,460100
+69,30 QUAI DE LA BREVENNE,Sain-Bel,69210,1.85 €,1.11 €,1.93 €,1.80 €,4581200,460100
 69,15 Avenue Édouard Millaud,Craponne,69290,1.88 €,,1.96 €,1.81 €,4574700,474100
 69,49 Avenue de Verdun,Meyzieu,69330,1.89 €,,1.97 €,1.81 €,4577600,499100
 69,145 Boulevard de l'Europe,Pierre-Bénite,69310,1.89 €,,1.97 €,1.81 €,4569600,482600
@@ -160,12 +160,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69,RN 86 - LES SEPT CHEMINS,Vourles,69390,1.99 €,,2.07 €,1.87 €,4566000,477500
 69,165 RUE JOLIOT CURIE,LYON 5EME,69005,,1.30 €,2.00 €,1.85 €,4575400,477700
 69,51 avenue Gabriel Péri,Corbas,69960,1.98 €,1.10 €,1.99 €,1.90 €,4567700,491900
-69,142 Avenue Franklin Roosevelt,Bron,69500,1.97 €,1.20 €,,1.85 €,4573300,490800
+69,142 Avenue Franklin Roosevelt,Bron,69500,1.96 €,1.20 €,,1.85 €,4573300,490800
 69,131 Rue Joliot-Curie,LYON,69005,1.93 €,,2.00 €,1.83 €,4575400,477900
 69,26 Avenue Édouard Millaud,CRAPONNE,69290,1.87 €,,1.95 €,1.81 €,4574700,474100
 69,Route de Roanne ,BOURG-DE-THIZY,69240,1.90 €,,,1.80 €,4603486,429911
 69,129 Rue de la Mûre,CHARLY,69390,,,,1.89 €,4565400,479300
-69,BP 132,LYON ST EXUPERY AEROPORT,69125,1.99 €,1.15 €,1.99 €,1.96 €,4572329,507109
+69,BP 132,LYON ST EXUPERY AEROPORT,69125,,1.15 €,,1.96 €,4572329,507109
 69,AVENUE DU CHATER,FRANCHEVILLE,69340,1.86 €,,1.99 €,1.79 €,4573500,477500
 69,44 Route de Genas,CHASSIEU,69680,,,1.95 €,1.79 €,4573704,497295
 69,50-51 ROUTE DE PARIS,CHARBONNIERES,69260,2.00 €,,2.10 €,1.92 €,4578400,475000
@@ -186,15 +186,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 69, Route des Monts du Lyonnais,MESSIMY,69510,1.98 €,1.16 €,1.99 €,1.89 €,4569128,467995
 69,55 Avenue Garibaldi,VAULX-EN-VELIN,69120,,,1.99 €,1.85 €,4576772,493540
 69,1139 RUE DE TARARE,GLEIZE,69400,,0.99 €,1.86 €,1.73 €,4597900,469000
-69,140 Rue du Companet,Rillieux-la-Pape,69140,1.78 €,0.98 €,,1.73 €,4581200,488100
+69,140 Rue du Companet,Rillieux-la-Pape,69140,1.89 €,1.05 €,,1.86 €,4581200,488100
 69,145  Rue Anatole France,VILLEURBANNE,69100,1.87 €,,1.95 €,1.78 €,4576900,488400
 69,Rue Charles BAUDELAIRE,Vénissieux,69200,1.78 €,,,1.73 €,4571700,486000
 69,RUE CLAUDE TERRASSE,L'Arbresle,69210,1.84 €,1.10 €,1.97 €,1.79 €,4584200,460700
 69,Les basses barolles,SAINT-GENIS-LAVAL,69230,1.88 €,,1.97 €,1.80 €,4567900,479200
 69,695 Avenue Théodore Braun,Villefranche-sur-Saône,69400,1.97 €,,,1.90 €,4597900,473900
-69,2 AVENUE DU DAUPHINE,SEREZIN DU RHONE,69360,1.81 €,,1.90 €,1.75 €,4562900,482500
+69,2 AVENUE DU DAUPHINE,SEREZIN DU RHONE,69360,1.87 €,,1.95 €,1.85 €,4562900,482500
 69,397 avenue jean jaures,Décines-Charpieu,69150,1.95 €,1.00 €,1.99 €,1.87 €,4577200,498000
-69,Rue Ampère,GENAY,69730,1.79 €,,1.88 €,1.73 €,4589300,482200
+69,Rue Ampère,GENAY,69730,1.86 €,,1.94 €,1.76 €,4589300,482200
 69,Avenue Emmanuel Clément,SAINT-SYMPHORIEN-SUR-COISE,69590,1.89 €,1.11 €,,1.77 €,4563700,446200
 69,Z.i. la Gaité,AMPLEPUIS,69550,1.97 €,,1.99 €,1.89 €,4598100,433400
 69,2 place des 4 chemins,SAINT-FONS,69190,1.95 €,,2.00 €,1.83 €,4570800,485500

@@ -8,7 +8,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,26 - RN 618 AVENUE DE CHANTACO,Saint-Jean-de-Luz,64500,1.99 €,,,1.93 €,4338200,-164900
 64,Route de Cambo,Hasparren,64240,,,1.97 €,1.91 €,4338500,-131300
 64,AUTOROUTE A63 - AIRE DE BIDART EST,BIDART,64210,1.99 €,1.26 €,1.99 €,1.99 €,4342214,-159760
-64,Avenue Louis Sallenave,PAU,64000,1.81 €,,1.89 €,1.75 €,4332000,-36000
+64,Avenue Louis Sallenave,PAU,64000,1.86 €,,1.94 €,1.77 €,4332000,-36000
 64,65 RTE DE L'AUBISQUE,ASSON,64800,,,1.99 €,1.99 €,4314661.5074533,-25807.624582917
 64,CD 933,Ispoure,64220,1.80 €,,1.94 €,1.80 €,4316900,-122800
 64,23 Avenue de la Gare,Coarraze,64800,,,,1.88 €,4317699,-23820
@@ -30,7 +30,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,2 Rue Saint-Jacques,BIDACHE,64520,,,,1.89 €,4348200,-114400
 64,Avenue Léon Guichené,HASPARREN,64240,,1.39 €,2.04 €,1.91 €,4338500,-129700
 64,77 Avenue de bayonne,Anglet,64600,1.81 €,,1.89 €,1.75 €,4348400,-150100
-64,65 Rue des Oustalots prolongés,Oloron-Sainte-Marie,64400,1.86 €,,,1.74 €,4318100,-61500
+64,65 Rue des Oustalots prolongés,Oloron-Sainte-Marie,64400,,,,,4318100,-61500
 64,ZAC DE TTARGA,Aïcirits-Camou-Suhast,64120,1.82 €,1.01 €,,1.74 €,4333249.85,-101614.24
 64,22 Rue de la Bastide,MORLAàS,64160,1.91 €,1.16 €,1.99 €,1.82 €,4335100,-26300
 64,ROUTE DE SAINT JEAN PIED DE PORT,Saint-Étienne-de-Baïgorry,64430,,,1.90 €,1.73 €,4318277.823,-133534.068
@@ -66,7 +66,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,Avenue d'Euskual-Herria,Chéraute,64130,1.90 €,1.00 €,1.96 €,1.83 €,4323033.1413191,-87387.499106774
 64,Avenue de Lahanchipia,Saint-Jean-de-Luz,64500,1.84 €,,1.89 €,1.75 €,4340100,-163300
 64,RD 33,Pardies,64150,1.98 €,1.03 €,1.99 €,1.87 €,4336700,-58100
-64,90 avenue Henri de Navarre,BAYONNE,64100,1.81 €,,1.91 €,1.74 €,4350500,-144400
+64,90 avenue Henri de Navarre,BAYONNE,64100,1.89 €,,1.98 €,1.79 €,4350500,-144400
 64,36  Boulevard des Pyrénées,Mauléon-Licharre,64130,,,1.87 €,1.78 €,4322600,-88500
 64,AVENUE HENRI IV,Jurançon,64110,1.97 €,,1.99 €,1.88 €,4328000,-38800
 64,AIRE DE LACQ AUDEJOS SUD,LACQ AUDEJOS SUD,64170,2.15 €,1.23 €,2.27 €,2.10 €,4342142.6,-59899.6
@@ -116,5 +116,5 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 64,ZA Errobi,ITXASSOU,64250,1.88 €,,1.93 €,1.82 €,4333800,-140500
 64,80  AVENUE DE LA MARNE,BIARRITZ,64200,1.99 €,1.00 €,1.99 €,1.94 €,4348153,-154269
 64,865 RD 817,PUYOO,64270,1.86 €,1.05 €,,1.76 €,4352726.5816904,-91705.815232016
-64,Avenue du Général de Gaulle,Mazères-Lezons,64110,1.81 €,,1.89 €,1.75 €,4327900,-36100
+64,Avenue du Général de Gaulle,Mazères-Lezons,64110,1.86 €,,1.93 €,1.76 €,4327900,-36100
 64,CD 932,Ustaritz,64480,1.81 €,0.98 €,1.88 €,1.72 €,4339300,-145700

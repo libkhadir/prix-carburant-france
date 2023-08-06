@@ -10,7 +10,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 63,Route de Châteaugay,CéBAZAT,63118,1.86 €,,1.96 €,1.80 €,4583600,309500
 63,CD 213,TALLENDE,63450,1.92 €,,2.00 €,1.83 €,4566900,310900
 63,ROUTE DE CLERMONT D 978,CHAMPEIX,63320,,,2.07 €,1.80 €,4559200,313900
-63,6 ROUTE DE ST GERMAIN,ISSOIRE,63500,1.96 €,,1.99 €,1.90 €,4553600,325200
+63,6 ROUTE DE ST GERMAIN,ISSOIRE,63500,,,,1.90 €,4553600,325200
 63,Avenue Roger Prat,PONT-DU-CHâTEAU,63430,1.87 €,,,1.77 €,4580100,324300
 63,2 rue paroueix,Pontaumur,63380,1.90 €,,1.98 €,1.80 €,4587000,267300
 63,10 ROUTE DU LAC,Saint-Rémy-sur-Durolle,63550,1.93 €,,1.98 €,1.81 €,4588900,359600
@@ -34,7 +34,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 63,Route de Volvic,ENVAL,63530,,,1.90 €,1.75 €,4588800,306900
 63,Avenue de la République,BILLOM,63160,1.87 €,,1.96 €,1.80 €,4572408,333296
 63,route de Bort,Tauves,63690,,,,1.98 €,4556000,262000
-63,Avenue Léo Lagrange,THIERS,63300,1.81 €,,1.87 €,1.74 €,4584900,353700
+63,Avenue Léo Lagrange,THIERS,63300,1.85 €,,1.96 €,1.81 €,4584900,353700
 63,Route d'Issoire,Sauxillanges,63490,,,1.95 €,1.69 €,4555000,336600
 63,Rue Jean Moulin,Saint-Éloy-les-Mines,63700,,,1.97 €,1.80 €,4616000,283800
 63,CD 213- LA PEIGNE,LE CREST,63450,1.97 €,,,,4568500,314300
@@ -58,7 +58,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 63, Avenue Georges Clemenceau,AMBERT,63600,1.99 €,,1.99 €,1.95 €,4555219,373976
 63,Route de Clermont-Ferrand,MARINGUES,63350,1.98 €,,1.99 €,1.89 €,4591900,333000
 63,Route du Puy,AMBERT,63600,1.87 €,1.00 €,1.94 €,1.78 €,4553100,372800
-63,ZAC Des Coustilles,Saint-Germain-Lembron,63340,1.80 €,1.02 €,1.91 €,1.75 €,4545900,325400
+63,ZAC Des Coustilles,Saint-Germain-Lembron,63340,1.88 €,1.10 €,1.96 €,1.80 €,4545900,325400
 63,8 BOULEVARD WINSTON CHURCHILL,Clermont-Ferrand,63000,1.88 €,,1.96 €,1.81 €,4576000,309400
 63, Boulevard Berthelot,CLERMONT-FERRAND,63000,1.90 €,,1.98 €,1.82 €,4578019,307141
 63,Route d'Issoire,AUBIèRE,63170,1.88 €,,1.96 €,1.79 €,4575400,313000
@@ -96,7 +96,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 63,2 Rue des saraillères,Brassac-les-Mines,63570,1.88 €,,1.96 €,1.80 €,4541400,332000
 63,ZA la Fontaine,BLANZAT,63112,1.87 €,1.00 €,1.96 €,1.78 €,4582500,307300
 63,AV DU MARECHAL LECLERC,MURAT-LE-QUAIRE,63150,1.88 €,,1.97 €,1.81 €,4559300,275000
-63,108 BLD ETIENNE CLEMENTEL,Clermont-Ferrand,63000,1.98 €,,1.99 €,1.90 €,4580662,310943
+63,108 BLD ETIENNE CLEMENTEL,Clermont-Ferrand,63000,1.98 €,,1.99 €,,4580662,310943
 63,3 Route de Riom,Châtel-Guyon,63140,,1.02 €,,1.82 €,4591853,307300
 63,Route de Compains,Besse-et-Saint-Anastaise,63610,1.91 €,,2.01 €,1.84 €,4550900,293600
 63,ROUTE DE BESSE,Égliseneuve-d'Entraigues,63850,,,,1.80 €,4540768.94,282723.42578947

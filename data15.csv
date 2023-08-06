@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,86 BLD LOUIS DAUZIER,AURILLAC,15000,,,,1.89 €,4492297.528,242765.388
 15,1 route de brive,Saint-Paul-des-Landes,15250,,,2.00 €,1.90 €,4494448.371,231132.819
 15,31 avenue de la republique,Saint-Flour,15100,1.92 €,,1.98 €,1.83 €,4503354.63,309315.4
-15,La Croix Jolie,Murat,15300,1.90 €,,1.94 €,1.83 €,4510616,286291
+15,La Croix Jolie,Murat,15300,,,1.94 €,1.83 €,4510616,286291
 15,zac du crozatier,Saint-Georges,15100,1.85 €,,,1.77 €,4503200,313500
 15,LE BOURG,Ruynes-en-Margeride,15320,,,1.98 €,1.83 €,4500148.03,322367.76
 15,38 route du lioran,USSEL,15300,,,,1.79 €,4507900,293700
@@ -34,11 +34,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 15,AVENUE DU DOCTEUR MALLET,Chaudes-Aigues,15110,,,,,4485651,300700
 15,8 AVENUE D'AURILLAC,Saint-Étienne-de-Maurs,15600,1.84 €,1.00 €,1.97 €,1.80 €,4471400,220300
 15,Route de Riom Es Montagne,Murat,15300,,,,,4510839,287932
-15,ZAC du Crozatier,Saint Georges,15100,1.85 €,1.05 €,,1.77 €,4503203.5,313041.2
+15,ZAC du Crozatier,Saint Georges,15100,1.90 €,1.09 €,,1.81 €,4503203.5,313041.2
 15,66 Rue de Firminy,AURILLAC,15000,1.90 €,1.07 €,1.97 €,1.79 €,4491572,243189
 15,1 rue germain prat,LAFEUILLADE-EN-VéZIE,15130,1.99 €,,1.99 €,1.95 €,4478800,245600
 15,Route d'Aurillac,Saint-Paul-des-Landes,15250,,,,,4493800,232400
-15,Rue de la Jordanne,AURILLAC,15000,1.81 €,1.02 €,,1.75 €,4491400,244100
+15,Rue de la Jordanne,AURILLAC,15000,1.90 €,1.12 €,,1.81 €,4491400,244100
 15,Allée des Tilleuls,Vic-sur-Cère,15800,,,,,4498100,262800
 15,PRE CHAMBON,MASSIAC,15500,,,1.99 €,1.84 €,4526200,319900
 15,RN122 La Croix Blanche,Saint-Mamet-la-Salvetat,15220,,,1.99 €,1.97 €,4485900,229200
