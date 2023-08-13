@@ -7,7 +7,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,BD PASTEUR,LA CHAPELLE-BASSE-MER,44450,1.81 €,,1.90 €,1.77 €,4726900,-133500
 44,route de Pontchâteau,Saint-Gildas-des-Bois,44530,,,1.90 €,1.79 €,4750937,-204035
 44,11 bis rue charles perron,Plessé,44630,,,1.92 €,1.81 €,4754254.28,-188270.17
-44,162 Route de Rennes,Nantes,44300,2.00 €,1.20 €,2.12 €,2.03 €,4726000,-157600
+44,162 Route de Rennes,Nantes,44300,1.99 €,1.20 €,2.12 €,2.03 €,4726000,-157600
 44,ESPACE CIAL GRAND LAC,SAINT-PHILBERT-DE-GRAND-LIEU,44310,1.84 €,,1.92 €,1.78 €,4704729.577,-164039.048
 44,la gargouille,MISSILLAC,44780,1.90 €,,,1.84 €,4748282.2997314,-216139.44821039
 44,16 Rue du Général Patton,CHâTEAUBRIANT,44110,1.95 €,,1.99 €,1.91 €,4770500,-138900
@@ -18,7 +18,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,54  avenue de la Ferrière,Orvault,44700,1.90 €,1.00 €,1.98 €,1.84 €,4724624,-158938
 44,48 Boulevard de la Libération,Couëron,44220,,,,,4721500,-168500
 44,RN 137 - Aire de Treillières Ouest,Treillières,44119,2.21 €,,2.33 €,2.06 €,4733800,-165500
-44,2 impasse de Breninguen,Saint-Molf,44350,1.80 €,,,1.78 €,4739000,-243200
+44,2 impasse de Breninguen,Saint-Molf,44350,1.80 €,,,1.77 €,4739000,-243200
 44,330 Rue du Général de Gaulle,Varades,44370,,,2.07 €,1.88 €,4738700,-102600
 44,20 Rue de Nantes,SAUTRON,44880,,1.00 €,,1.78 €,4726000,-165500
 44,Rue Férréol Prézelin,PAIMBOEUF,44560,1.85 €,,1.93 €,1.79 €,4728400,-201600
@@ -31,7 +31,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,Rue de Nantes,BOUAYE,44830,,,1.92 €,1.79 €,4714400,-167900
 44,Rue de Villejames,Guérande,44350,1.79 €,,1.87 €,1.75 €,4732944,-241115
 44,PLACE DE LA COMMUNE DE PARIS,Saint-Joachim,44720,,,1.96 €,1.78 €,4738623.2393331,-220349.03965864
-44,1 Impasse Ordronneau,REZé,44400,,,1.87 €,1.75 €,4719400,-157200
+44,1 Impasse Ordronneau,REZé,44400,,,1.94 €,1.79 €,4719400,-157200
 44,11 Rue du 8 Mai,Blain,44130,1.94 €,,1.99 €,1.86 €,4747700,-176200
 44,Avenue de la Libération,La Montagne,44620,1.88 €,1.07 €,1.95 €,1.79 €,4717600,-167800
 44,204 Route de Saint-Joseph,NANTES,44300,1.96 €,,2.06 €,1.90 €,4724900,-153000
@@ -49,7 +49,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,RUE DES CHARMES,SAINTE-PAZANNE,44680,1.84 €,,1.94 €,1.79 €,4710399,-180297
 44,BOULEVARD DE L'EUROPE,VERTOU,44120,1.86 €,1.00 €,1.95 €,,4717300,-147400
 44,24   ROUTE DE COUERON,SAINT-ÉTIENNE-DE-MONTLUC,44360,1.82 €,1.00 €,1.90 €,1.78 €,4727000,-177600
-44,Rue des Malifestes,Clisson,44190,1.79 €,0.98 €,1.87 €,1.75 €,4709900,-128200
+44,Rue des Malifestes,Clisson,44190,1.86 €,1.02 €,1.92 €,1.79 €,4709900,-128200
 44, Rue du Stade,DONGES,44480,1.87 €,,1.94 €,1.85 €,4732906,-208771
 44,ZA LE BUTAI,Arthon-en-Retz,44320,1.84 €,,1.94 €,1.79 €,4711454.3249043,-195112.37760851
 44,ZI DE LA SANGLE,Nort-sur-Erdre,44390,1.87 €,,1.95 €,1.80 €,4743658.6240468,-151744.08455977
@@ -58,15 +58,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,Route de Gorges,Clisson,44190,,,1.91 €,1.81 €,4709500,-129200
 44,48 Rue Châteaubriant,DERVAL,44590,1.85 €,,1.95 €,1.80 €,4766800,-166300
 44,CD 723 - ZI DE CHEVIRE,BOUGUENAIS,44340,1.86 €,1.00 €,1.97 €,1.81 €,4718550.05176,-160159.114752
-44,ROUTE BLEUE - LA HAUTIERE,Saint-Brevin-les-Pins,44250,1.86 €,1.00 €,1.95 €,1.80 €,4722914,-215541
-44,Espace 23 SAINT-GEREON,ANCENIS,44150,1.79 €,0.98 €,1.87 €,1.75 €,4737300,-119400
+44,ROUTE BLEUE - LA HAUTIERE,Saint-Brevin-les-Pins,44250,1.86 €,1.00 €,1.95 €,1.81 €,4722914,-215541
+44,Espace 23 SAINT-GEREON,ANCENIS,44150,1.82 €,1.00 €,1.89 €,1.77 €,4737300,-119400
 44,Lieu-dit Le Mortier,Derval,44590,,,,1.94 €,4764843,-166863
 44,Rue des Vignes,PONT-SAINT-MARTIN,44860,1.85 €,,1.94 €,1.79 €,4712900,-158300
 44,rue des artisans,MESQUER,44420,,,1.94 €,1.78 €,4739700,-246200
 44,AUTOROUTE A83 - AIRE DE LA GRASSINIÈRE,LES SORINIERES,44840,1.98 €,1.00 €,1.99 €,1.93 €,4715919,-151290
 44,93 Rue François-René de Chateaubriand,Carquefou,44470,,1.93 €,,1.90 €,4730200,-148800
 44,22 Rue de la Galarnière,Rezé,44400,1.82 €,,1.91 €,1.78 €,4717700,-155900
-44,Canton de la Haute Landelle  Routes de Nantes,Loroux-Bottereau,44430,1.79 €,0.98 €,1.87 €,1.75 €,4723378.83,-136691.72
+44,Canton de la Haute Landelle  Routes de Nantes,Loroux-Bottereau,44430,1.82 €,1.00 €,1.89 €,1.77 €,4723378.83,-136691.72
 44,28 Rue de la Jouardais,LE PELLERIN,44640,1.88 €,,1.94 €,1.80 €,4719800,-175800
 44,RUE DU PETIT PRINCE,Vigneux-de-Bretagne,44360,1.88 €,,1.97 €,1.78 €,4732000,-173800
 44,Rue de la Bérangerais,LA CHAPELLE-SUR-ERDRE,44240,,,,,4728400,-155200
@@ -93,7 +93,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,33 ROUTE BESLE,Guémené-Penfao,44290,,,1.95 €,1.78 €,4763100,-183700
 44,Route de Clisson,GORGES,44190,1.99 €,,1.99 €,1.89 €,4709800,-129600
 44,ZAC DE LA FONTAINE AU BRUN,Trignac,44570,1.85 €,,1.95 €,1.78 €,4730200,-221300
-44,ROUTE DE ST NAZAIRE - Z.C. SAVIN,TRIGNAC,44570,1.86 €,1.00 €,1.97 €,1.80 €,4729300,-220900
+44,ROUTE DE ST NAZAIRE - Z.C. SAVIN,TRIGNAC,44570,1.86 €,1.00 €,1.97 €,1.81 €,4729300,-220900
 44,Avenue Guy Lafontaine,Saint-Brevin-les-Pins,44250,1.97 €,1.00 €,,1.92 €,4724300,-215700
 44,15 Rue de Sucé,La Chapelle-sur-Erdre,44240,1.85 €,,1.93 €,1.82 €,4730200,-154800
 44,RN 23 ROUTE DE PARIS,CARQUEFOU,44470,1.86 €,1.00 €,1.94 €,1.81 €,4726600,-148800
@@ -117,7 +117,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,4 RTE DU POINT DU JOUR RD 47,SAINT-NAZAIRE,44600,,,,,4729100,-226100
 44,Place de la commune de Paris,Saint-Joachim,44720,,,,,4738537,-220281
 44,ROUTE DE SAINT AUBIN DES CHATEAUX,Châteaubriant,44110,1.84 €,,,1.80 €,4771600,-139200
-44,Zone Atlantis,Saint-Herblain,44800,1.79 €,0.97 €,1.87 €,1.75 €,4722600,-163500
+44,Zone Atlantis,Saint-Herblain,44800,1.82 €,1.00 €,1.89 €,1.77 €,4722600,-163500
 44,Route d'Ancenis,Vallet,44330,,,1.92 €,1.79 €,4717000,-126700
 44,Rue de Cornen,LE POULIGUEN,44510,1.85 €,,1.93 €,1.81 €,4727503,-244083
 44,54 Rue Léon Bourgeois,SAINT-NAZAIRE,44600,1.85 €,,1.94 €,1.78 €,4728000,-222800
@@ -130,7 +130,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,Route de Nantes ,PORNIC,44210,1.82 €,1.00 €,,1.78 €,4711293,-208468
 44,205 ROUTE DE VANNES,Saint-Herblain,44800,1.98 €,,1.99 €,1.92 €,4724121.79839,-159335.907484
 44,78 BD ROBERT SCHUMAN,NANTES,44300,1.97 €,1.00 €,1.99 €,1.93 €,4723770,-156947
-44,1 Rue de la Conraie,Orvault,44700,1.79 €,,1.87 €,1.75 €,4726200,-158800
+44,1 Rue de la Conraie,Orvault,44700,1.83 €,,1.90 €,1.77 €,4726200,-158800
 44,55 Boulevard Jules Verne,Nantes,44300,,2.09 €,,1.94 €,4723769,-153264
 44,310 Rue de Pornichet,SAINT-NAZAIRE,44600,2.09 €,,2.15 €,2.03 €,4726300,-223900
 44,1 Rue des Filets,LA PLAINE-SUR-MER,44770,1.84 €,,1.93 €,1.78 €,4714100,-218900
@@ -142,15 +142,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,Route de la Plaine,SAINT-MICHEL-CHEF-CHEF,44730,,,1.90 €,1.77 €,4717027,-214844
 44,226 BLD DE LA LOIRE,Basse-Goulaine,44115,1.86 €,,1.94 €,1.81 €,4722200,-147300
 44,325 Route de Vannes,SAINT-HERBLAIN,44800,1.85 €,1.02 €,1.93 €,1.80 €,4724700,-160600
-44,Avenue Jean Burel,Saint-Nicolas-de-Redon,44460,1.79 €,0.97 €,1.87 €,1.75 €,4764700,-207800
-44,zone d'activités de la guerche,Saint-Brevin-les-Pins,44250,1.79 €,,1.87 €,1.75 €,4724200,-215800
+44,Avenue Jean Burel,Saint-Nicolas-de-Redon,44460,1.85 €,1.00 €,1.92 €,1.78 €,4764700,-207800
+44,zone d'activités de la guerche,Saint-Brevin-les-Pins,44250,1.85 €,,1.93 €,1.77 €,4724200,-215800
 44,49-61 BLD DALBY,NANTES,44100,1.97 €,1.00 €,,1.92 €,4722390,-152985
 44,272  ROUTE DE SAINTE LUCE,NANTES,44300,1.86 €,1.00 €,1.94 €,1.81 €,4724100,-150800
-44,Rue du Traité d'Amsterdam,Pornic,44210,1.79 €,,1.87 €,1.75 €,4712510.65,-212329.4
+44,Rue du Traité d'Amsterdam,Pornic,44210,1.85 €,,1.93 €,1.77 €,4712510.65,-212329.4
 44,RUE DES EPINETTES,PORT SAINT-PERE,44710,,,1.91 €,1.76 €,4713100,-175300
 44,110 boulevard Égalite ( place zola ),NANTES,44100,1.97 €,,2.09 €,1.97 €,4721400,-158600
-44,10 Rond Point de la Corbinerie,REZé,44400,1.79 €,,1.87 €,1.75 €,4716000,-154500
-44,route de St Nazaire,CHâTEAUBRIANT,44110,1.79 €,,1.87 €,1.75 €,4770581,-138756
+44,10 Rond Point de la Corbinerie,REZé,44400,1.85 €,,1.94 €,1.79 €,4716000,-154500
+44,route de St Nazaire,CHâTEAUBRIANT,44110,1.84 €,,1.89 €,1.80 €,4770581,-138756
 44,Boulevard de Linz,PORNIC,44210,1.80 €,0.98 €,1.87 €,1.75 €,4712229,-211717
 44,BOULEVARD ALEXANDRE FLEMING,La Chapelle-sur-Erdre,44240,1.85 €,1.00 €,1.93 €,1.81 €,4725675.9,-154601.5
 44,1 AVENUE DU HECQUEUX,PORNICHET,44380,,,1.95 €,1.82 €,4725800,-231800
@@ -159,7 +159,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,BOULEVARD GUY MOLLET,NANTES,44000,,,,1.81 €,4724700,-155500
 44,95 rue du Perray,NANTES,44300,1.79 €,,1.87 €,1.75 €,4724800,-151200
 44,BOULEVARD BRANLY,Savenay,44260,1.86 €,,1.93 €,1.82 €,4736200,-195600
-44,6 Route de L'Isac,BLAIN,44130,1.79 €,0.97 €,1.87 €,1.75 €,4747600,-175000
+44,6 Route de L'Isac,BLAIN,44130,1.83 €,1.00 €,1.90 €,1.77 €,4747600,-175000
 44,140 Route des Sorinières,Rezé,44400,1.85 €,,1.94 €,1.80 €,4715479,-153707
 44,Boulevard de la Baule,SAINT-HERBLAIN,44800,1.82 €,1.00 €,1.93 €,1.77 €,4722200,-160600
 44,RUE GAETAN RONDEAU,NANTES,44200,1.89 €,1.04 €,1.95 €,1.85 €,4720600,-153500
@@ -167,14 +167,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 44,4 LES LEVEES MIRAUD,LA CHAPELLE-DES-MARAIS,44410,1.84 €,,1.93 €,1.81 €,4744500,-225000
 44,6  rue de Quarteron,VIEILLEVIGNE,44116,1.86 €,1.00 €,1.94 €,1.81 €,4697100,-143400
 44,Recouvrance,GéTIGNé,44190,1.97 €,1.00 €,1.99 €,1.92 €,4707800,-124000
-44,Le Point du Jour,SAINT-NAZAIRE,44600,1.79 €,0.97 €,1.87 €,1.75 €,4729000,-225700
-44,LA HIRTAIS,Sainte-Anne-sur-Brivet,44160,1.79 €,0.97 €,1.87 €,1.75 €,4743600,-207700
+44,Le Point du Jour,SAINT-NAZAIRE,44600,1.85 €,1.00 €,1.94 €,1.79 €,4729000,-225700
+44,LA HIRTAIS,Sainte-Anne-sur-Brivet,44160,1.85 €,1.05 €,1.93 €,1.79 €,4743600,-207700
 44,Avenue du Baulois,PORNICHET,44380,1.86 €,1.00 €,1.94 €,1.81 €,4726546.7051322,-233357.48698712
 44,Rue des 27 Otages,CHâTEAUBRIANT,44110,,,1.99 €,1.93 €,4771900,-136400
 44,Avenue de Nantes ZA le Haut Coin,Aigrefeuille-sur-Maine,44140,1.84 €,,1.91 €,1.81 €,4708200,-141200
 44,Rue de Rennes,TREILLIèRES,44119,1.79 €,1.05 €,1.87 €,1.75 €,4733200,-161800
 44,ROCADE SUD,BOUGUENAIS,44340,1.86 €,,1.97 €,1.81 €,4716700,-157500
-44,14 avenue Xavier Rineau - Le Barillet,GETIGNE,44190,1.79 €,,1.87 €,1.75 €,4708400,-126300
-44,Route de Nantes-CS 20077,Pontchâteau,44160,1.79 €,,1.87 €,1.75 €,4743200,-208300
+44,14 avenue Xavier Rineau - Le Barillet,GETIGNE,44190,1.86 €,,1.92 €,1.79 €,4708400,-126300
+44,Route de Nantes-CS 20077,Pontchâteau,44160,1.85 €,,1.93 €,1.79 €,4743200,-208300
 44,10 Rue de Châteaubriant,Guémené-Penfao,44290,1.89 €,,1.99 €,1.88 €,4762800,-183100
 44,Chemin de la Culee,BOURGNEUF-EN-RETZ,44580,,,1.94 €,1.80 €,4704693,-195644

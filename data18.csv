@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 18,Place Agénor Bardoux,BOURGES,18000,1.98 €,,2.10 €,1.90 €,4707900,238900
 18,18 avenue du 19 mars 1962,Vierzon,18100,1.83 €,1.00 €,1.92 €,1.79 €,4723978.6394848,209204.74189544
 18,avenue de l'Europe,Le Châtelet,18170,,,1.93 €,1.85 €,4664200,228400
-18,1 Rue du Mouton,Vierzon,18100,1.81 €,,1.90 €,1.77 €,4723100,208800
+18,1 Rue du Mouton,Vierzon,18100,1.87 €,,1.95 €,1.82 €,4723100,208800
 18,Route de Bourges,Sancerre,18300,,,2.07 €,1.99 €,4732500,282400
 18,21 RTE DE BOURGES,BLET,18350,,,,1.95 €,4689600,272900
 18,Route de Bourges,SAINT-AMAND-MONTROND,18200,1.90 €,,1.94 €,1.85 €,4673600,249100
@@ -30,7 +30,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 18,Rue Raymond Boisdé,Bourges,18000,1.88 €,,1.95 €,1.83 €,4706500,239800
 18,Avenue de Lattre de Tassigny,Vierzon,18100,1.88 €,1.00 €,,1.83 €,4720500,207200
 18,114 Avenue de Dun-sur-Auron,Bourges,18000,1.90 €,,2.00 €,1.84 €,4706700,241600
-18,191 les Terres du fénestrelay,Saint-Germain-du-Puy,18390,,,1.96 €,1.84 €,4709558.9154531,244073.17790985
+18,191 les Terres du fénestrelay,Saint-Germain-du-Puy,18390,,,1.27 €,1.84 €,4709558.9154531,244073.17790985
 18,70 RUE LEO MERIGOT,VIERZON,18100,1.90 €,1.00 €,1.98 €,1.84 €,4722712.57674,205324.708161
 18,RD 940 Les Aubépins,ARGENT-SUR-SAULDRE,18410,1.86 €,,1.94 €,1.82 €,4754900,244800
 18,Les Fouchards Route de Cosne,Boulleret,18240,1.95 €,1.17 €,,1.92 €,4742100,288400
@@ -39,7 +39,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 18,11 rue du 11 novembre,VIERZON,18100,,,1.96 €,1.80 €,4722147.3011548,206528.97018218
 18,RD 2076 ROUTE DE VIERZON,Saint-Doulchard,18230,1.81 €,,1.89 €,1.77 €,4712100,237000
 18,1 Champ sous Creux ROUTE DE MENETREOL,Saint-Satur,18300,1.88 €,1.10 €,,1.85 €,4733400,285600
-18,8-10 BOULEVARD DE L'AVENIR,BOURGES,18000,1.87 €,,1.99 €,1.82 €,4708173,238366
+18,8-10 BOULEVARD DE L'AVENIR,BOURGES,18000,1.87 €,,1.99 €,1.83 €,4708173,238366
 18,01 Route de Bourges,VIERZON,18100,1.98 €,,2.08 €,1.90 €,4721500,210900
 18,ROUTE DE BOURGES,Bué,18300,,,,,4730227,279561
 18,A71Aire de Ste Thorette,Marmagne,18500,2.05 €,,2.16 €,2.03 €,4709500,224000
