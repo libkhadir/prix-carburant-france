@@ -3,7 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,56  rue du jeu de Paume,Guise,02120,1.98 €,1.17 €,1.99 €,1.93 €,4989600,362600
 02,3 Avenue Raymonde Fiolet,Soissons,02200,1.88 €,1.00 €,1.96 €,1.83 €,4936994,331490
 02,Boulevard de l'Europe,Chauny,02300,1.88 €,1.00 €,1.95 €,1.83 €,4962645,321575
-02,231rd rue du general leclerc,Villers-Cotterêts,02600,,1.01 €,1.99 €,1.82 €,4925554.73077,308030.58224433
+02,231rd rue du general leclerc,Villers-Cotterêts,02600,,1.01 €,1.99 €,1.85 €,4925554.73077,308030.58224433
 02,14 ROUTE DE MONTCORNET,LISLET,02340,,,1.92 €,1.81 €,4968900,402200
 02,13 Avenue Jules Lefèbvre,Château-Thierry,02400,2.05 €,,2.13 €,1.95 €,4904318,339518
 02,route d'Amiens,St Quentin,02100,1.87 €,1.03 €,1.95 €,1.79 €,4985800,325300
@@ -29,7 +29,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,rue Jean Jaures,CHAMBRY,02000,1.85 €,1.03 €,1.93 €,1.82 €,4958700,364900
 02,ZC LA MOISERIE ROUTE DE SOISSONS,Château-Thierry,02400,1.88 €,,1.98 €,1.88 €,4905531.5837997,339916.61028551
 02,ZI de la Briquetterie,Vervins,02140,1.90 €,1.00 €,1.97 €,1.85 €,4983877.7788156,391678.79440021
-02,autoroute A4 aire de tardenois sud,Fresnes-en-Tardenois,02130,2.09 €,,2.19 €,1.99 €,4907771,337046
+02,autoroute A4 aire de tardenois sud,Fresnes-en-Tardenois,02130,2.09 €,,2.19 €,2.03 €,4907771,337046
 02,89 Grand Rue,Dizy-le-Gros,02340,1.91 €,,,1.81 €,4963000,402500
 02,Avenue de la Ferté Milon,VILLERS-COTTERêTS,02600,1.91 €,1.05 €,,1.85 €,4924000,309800
 02,43 Avenue de Château-Thierry,Belleu,02200,1.87 €,1.00 €,1.95 €,1.82 €,4937046,332985
@@ -69,7 +69,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 02,34 BD DE MONTPELLIER,BRAINE,02220,1.90 €,1.07 €,1.98 €,1.84 €,4934100,352900
 02,CD 24  route de liesse,SAINT-ERME-OUTRE-ET-RAMECOURT,02820,1.87 €,1.00 €,1.93 €,1.82 €,4953100,385600
 02,213 Boulevard Gambetta,CONDREN,02700,1.99 €,,1.99 €,1.94 €,4965000,328000
-02,BLD CAMILLE GUERIN,Saint-Quentin,02100,1.89 €,1.00 €,1.97 €,1.83 €,4983410,329966
+02,BLD CAMILLE GUERIN,Saint-Quentin,02100,1.89 €,1.00 €,,,4983410,329966
 02,AV.DE COMPIEGNE - RN.31,Mercin-et-Vaux,02200,1.99 €,1.00 €,1.99 €,1.94 €,4938100,330200
 02,2 AVENUE DE LA LIBERATION,Crécy-sur-Serre,02270,1.90 €,,1.96 €,1.84 €,4968900,362200
 02,Rue de la Fère,Saint-Quentin,02100,,,,,4983290,330705

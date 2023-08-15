@@ -1,11 +1,11 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 60,ROUTE DE SOISSONS- RN 31,Cuise-la-Motte,60350,1.89 €,,1.97 €,1.83 €,4940400,300800
+60,42 Rue Juliette Nevouet,Goincourt,60000,1.86 €,1.00 €,1.93 €,1.81 €,4943300,204600
 60,Rue du Général de Gaulle,Liancourt,60140,1.88 €,,1.95 €,1.83 €,4932593,246409
 60,84 Avenue du Général Frère,Breteuil,60120,1.99 €,,1.99 €,1.94 €,4963500,228600
 60,6 Avenue de l'Europe,VENETTE,60280,1.90 €,1.00 €,1.99 €,1.84 €,4940800,278100
 60,45 Rue du 1er Septembre,CAUFFRY,60290,1.90 €,1.04 €,,1.84 €,4932348,244772
 60,510 AVENUE MARECHAL FOCH,SENLIS,60300,2.13 €,1.03 €,2.25 €,1.99 €,4920774.4,259018.11
-60,42 Rue Juliette Nevouet,Goincourt,60000,1.86 €,1.00 €,1.94 €,1.84 €,4943300,204600
 60, Z.a.c. Mont-Renaud,NOYON,60400,1.88 €,,1.96 €,1.82 €,4957117,297854
 60,125 RUE DE NOAILLES,HERMES,60370,1.89 €,,1.95 €,1.87 €,4935200,223900
 60,Zone Artisanale,Lassigny,60310,1.87 €,,1.93 €,1.82 €,4959000,285400
@@ -17,7 +17,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 60,Z.A DE LA SEIGNEURIE,Lamorlaye,60260,1.89 €,1.00 €,1.95 €,1.83 €,4915012.446903,242470.54883607
 60,CHEMIN DE LA CROIX VERTE,NANTEUIL-LE-HAUDOUIN,60440,1.88 €,1.00 €,1.95 €,1.84 €,4913600,280100
 60,39 41 RUE DE LA REPUBLIQUE,Pont-Sainte-Maxence,60700,1.88 €,1.01 €,1.96 €,1.82 €,4930600,260400
-60,1 rue de londres,Amblainville,60110,1.88 €,1.10 €,1.95 €,1.82 €,4921400,212500
+60,1 rue de londres,Amblainville,60110,1.89 €,1.10 €,1.97 €,1.83 €,4921400,212500
 60,Avenue du Général de Gaulle,CRèVECOEUR-LE-GRAND,60360,,,1.99 €,1.80 €,4960400,208500
 60,Z.I. Nord,SAINT-JUST-EN-CHAUSSéE,60130,,1.07 €,1.95 €,1.85 €,4951200,243100
 60,Rue des Pâturages,ORRY-LA-VILLE,60560,1.96 €,,2.00 €,1.90 €,4913100,252100
@@ -40,11 +40,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 60,ZI route de Crouy,Neuilly-en-Thelle,60530,,,1.96 €,1.83 €,4922900,228200
 60,28 Avenue du Maréchal Joffre,Chantilly,60500,2.15 €,1.04 €,2.27 €,2.03 €,4919100,246400
 60,100 ROUTE DE GISORS,Auneuil,60390,1.99 €,,1.99 €,1.95 €,4937000,198700
-60,RD 931 Lieu dit Bois du Renard,Saint-Paul,60650,1.86 €,1.00 €,1.92 €,1.82 €,4942200,197800
+60,RD 931 Lieu dit Bois du Renard,Saint-Paul,60650,1.86 €,1.00 €,1.93 €,1.81 €,4942200,197800
 60,2 rue de la croix de coivrel,Maignelay-Montigny,60420,,,1.95 €,1.84 €,4955300,253300
 60,40 avenue du 8 Mai 1945,Beauvais,60000,,1.00 €,1.94 €,1.84 €,4944200,209300
 60,2 RUE ALAVOINE,Formerie,60220,,1.14 €,1.99 €,1.90 €,4965200,172800
-60,20 rue Charles de Gaulle,Crépy-en-Valois,60800,1.91 €,,1.95 €,1.79 €,4923186.7,288625.17249882
+60,20 rue Charles de Gaulle,Crépy-en-Valois,60800,1.91 €,,1.95 €,1.84 €,4923186.7,288625.17249882
 60,142 rue de Paris,Compiègne,60200,,,,,4940700,281200
 60,Route d' Amiens,BEAUVAIS,60000,1.99 €,,1.99 €,1.99 €,4945600,210000
 60,rue du moulin d'andeux,Noyon,60400,1.88 €,1.00 €,1.95 €,1.82 €,4957500,299900
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 60,70 avenue Jean Jaurès,NOYON,60400,1.89 €,1.00 €,1.97 €,1.84 €,4957500,299000
 60,Rue Marcel Coquet,MéRU,60110,1.88 €,,1.96 €,1.83 €,4922300,213700
 60,ZONE ARTISANALE RN 16,Chantilly,60500,1.89 €,,1.97 €,1.84 €,4920476.22946,246187.665476
-60,8 avenue du Général de Gaulle,Crèvecœur-le-Grand,60360,1.87 €,,,1.80 €,4960400,208500
+60,8 avenue du Général de Gaulle,Crèvecœur-le-Grand,60360,1.89 €,,,1.80 €,4960400,208500
 60,Route Nationale,Saint-Aubin-en-Bray,60650,1.97 €,1.25 €,2.04 €,1.89 €,4943866.190945,188731.8232293
 60,1 Esplanade Marguerite Perey,Compiègne,60200,1.90 €,1.00 €,1.99 €,1.84 €,4939491.9671941,279293.86448763
 60,Rue Truffaut,CHAMBLY,60230,1.88 €,,1.96 €,1.84 €,4915621.7844245,225460.61423989
@@ -65,14 +65,14 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 60,Route de Beauvais,ANGY,60250,1.89 €,1.00 €,1.97 €,1.85 €,4932100,233000
 60,RN 181,Trie-Château,60590,1.87 €,1.00 €,1.91 €,1.82 €,4928900,180700
 60,1 AVE KENNEDY,Beauvais,60000,1.90 €,,1.98 €,1.89 €,4943000,209200
-60,20 Rue de Clermont,Compiègne,60200,1.89 €,,1.97 €,1.83 €,4941900,282000
+60,20 Rue de Clermont,Compiègne,60200,1.90 €,,1.98 €,1.83 €,4941900,282000
 60,142 RUE DE PARIS,COMPIEGNE,60200,1.90 €,1.04 €,1.97 €,1.83 €,4940728,281295
-60,12 Avenue des Martyrs de la Liberté,Compiègne,60200,1.89 €,,1.97 €,1.82 €,4940100,280700
+60,12 Avenue des Martyrs de la Liberté,Compiègne,60200,1.90 €,,1.98 €,1.82 €,4940100,280700
 60,45 ROUTE DE PARIS,Le Plessis-Belleville,60330,1.91 €,1.00 €,1.98 €,1.83 €,4909785.08,275154.02
 60,41 Avenue du Général Leclerc,Chantilly,60500,1.89 €,,1.97 €,1.83 €,4917800,245600
 60,Avenue des Pommiers,VILLERS-SAINT-PAUL,60870,1.88 €,,1.96 €,1.82 €,4928900,250000
 60,avenue d'auvelais,pont sainte maxence,60700,1.88 €,1.05 €,1.96 €,1.81 €,4931700,260600
-60,ZAC SAINT-MATHURIN - RD1001,Allonne,60000,1.88 €,1.03 €,1.97 €,1.84 €,4940249.5035409,212786.69713141
+60,ZAC SAINT-MATHURIN - RD1001,Allonne,60000,,1.03 €,1.97 €,1.84 €,4940249.5035409,212786.69713141
 60,Route de Crèvecoeur,Grandvilliers,60210,1.90 €,1.00 €,,1.80 €,4966600,195900
 60,A16 - SORTIE 13,MERU,60110,1.99 €,,,1.93 €,4921043,215118.7
 60,6 Rue Victor Hugo,Liancourt,60140,,,,1.93 €,4932900,246400
@@ -104,11 +104,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 60,ROUTE DE PRECY,VILLERS-SOUS-SAINT-LEU,60340,1.90 €,,1.95 €,1.85 €,4920800,239100
 60,ZAC DE LA GRERIE,Ribécourt-Dreslincourt,60170,1.89 €,,1.97 €,1.84 €,4951500,292400
 60,Allée de l'Europe,Chantilly,60500,,,2.00 €,1.85 €,4920200,246300
-60,Centre Commercial Villevert,SENLIS,60300,1.88 €,1.00 €,1.93 €,1.86 €,4922100,259100
+60,Centre Commercial Villevert,SENLIS,60300,1.88 €,1.00 €,1.93 €,1.85 €,4922100,259100
 60,19 Route de Reims,Trosly-Breuil,60350,1.88 €,1.00 €,1.96 €,1.82 €,4940100,299400
 60,RN 17 / RN 31,MOYVILLERS,60190,1.98 €,1.08 €,1.99 €,1.93 €,4940300,262600
 60,206 Rue Marcel Poulin,GUISCARD,60640,1.95 €,,1.99 €,1.91 €,4965500,305000
-60,47 Rue Notre-Dame de Bon Secours,COMPIèGNE,60200,1.88 €,,1.95 €,1.80 €,4941300,281600
+60,47 Rue Notre-Dame de Bon Secours,COMPIèGNE,60200,1.88 €,,1.96 €,1.83 €,4941300,281600
 60,1 Avenue Descartes,BEAUVAIS,60000,1.87 €,1.03 €,1.95 €,1.85 €,4940900,211500
 60,RD922,La Chapelle-en-Serval,60520,1.95 €,,2.00 €,1.87 €,4910100,252900
 60,Rue Louis Pasteur,PONT-SAINTE-MAXENCE,60700,1.87 €,,1.93 €,1.78 €,4930752,259195
