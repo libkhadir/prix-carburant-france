@@ -30,8 +30,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,113 RUE DU HAUT CHEMIN,CREANCES,50710,,,1.96 €,1.83 €,4919900,-156800
 50,RUE DU GENERAL DE GAULLE,AVRANCHES,50300,,,,1.93 €,4868647,-136356
 50,6 rue de la liberation,Brécey,50370,1.90 €,1.00 €,,1.84 €,4872600,-116600
-50,59 Avenue Émile Dehousse,DUCEY,50220,1.94 €,,2.03 €,1.89 €,4861700,-128000
 50,147 RUE JOSEPH CUGNOT,Saint-Lô,50000,1.92 €,,,1.86 €,4911200,-105100
+50,59 Avenue Émile Dehousse,DUCEY,50220,1.98 €,,2.03 €,1.92 €,4861700,-128000
 50,Route de Carentan,COUTANCES,50200,1.93 €,1.04 €,1.99 €,1.84 €,4906808.2654636,-143132.42825037
 50,Rue de la Gabelle,CéRENCES,50510,1.87 €,,1.93 €,1.83 €,4891326,-144121.190391
 50,1251 route de coutances,agneaux,50180,1.95 €,,2.00 €,1.89 €,4911307.2609687,-112542.49743294
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Aire de la Vallée de la Vire - A84,Gouvets,50420,2.23 €,,2.35 €,2.08 €,4890900,-110400
 50,PARC D'ACTIVITE DE LA BAIE,Saint-Martin-des-Champs,50300,1.90 €,1.04 €,1.99 €,1.82 €,4865285.8767159,-135003.0743481
 50,9 rue des Pélerins,BRéCEY,50370,1.91 €,,2.00 €,1.86 €,4872486.89288,-116958.900338
-50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.86 €,,,1.76 €,4930400,-121200
+50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.93 €,,,1.82 €,4930400,-121200
 50,RUE DE LA CHAPONIERE,MARIGNY,50570,,,1.97 €,1.83 €,4909916,-124241
 50,94 Rue Sainte-Croix,LESSAY,50430,,,2.08 €,2.00 €,4921300,-152900
 50,240 Rue Bitouzé d'Auxmesnil,Bricquebec,50260,1.91 €,,1.98 €,1.84 €,4946800,-164000
@@ -70,7 +70,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,9 Route des Isles,PIERREVILLE,50340,1.99 €,,2.04 €,1.94 €,4947400,-178700
 50,25  rue de l'hotel saint denis,GAVRAY,50450,,,1.99 €,1.83 €,4891277,-135262
 50,1214 Avenue de Paris,Saint-Lô,50000,1.92 €,0.99 €,1.98 €,1.88 €,4911630.1972112,-105833.12301737
-50,Route de Montebourg - La Victoire,VALOGNES,50700,1.84 €,,1.91 €,1.74 €,4950200,-145600
+50,Route de Montebourg - La Victoire,VALOGNES,50700,1.93 €,,2.01 €,1.84 €,4950200,-145600
 50,Avenue de Normandie,Cherbourg-Octeville,50130,1.88 €,,1.96 €,1.81 €,4962600,-162800
 50,ZI PORTUAIRE DES MIELLES,Tourlaville,50110,1.88 €,,1.96 €,1.81 €,4964500,-159900
 50,10 Avenue Amiral Lemonnier,Cherbourg-Octeville,50100,,,,,4963442,-161233
@@ -81,7 +81,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,5 ZA ROUTE TOURISTIQUE D650,Les Moitiers-d'Allonne,50270,,,,1.94 €,4940700,-178300
 50,3 rue du clos,Montmartin-sur-Mer,50590,,,2.03 €,1.93 €,4898800,-151900
 50,TANIS RN 175 LIEU DIT BREE,TANIS,50170,,,,1.92 €,4857600,-145100
-50, Rue de la Gare,RAMPAN,50000,,,,1.77 €,4916281,-112662
+50, Rue de la Gare,RAMPAN,50000,,,,1.84 €,4916281,-112662
 50,ZI le Saussey,Guilberville,50160,2.00 €,,2.08 €,1.90 €,4898413.6,-94629.69
 50,Chemin de Pommenauque,CARENTAN,50500,,,1.93 €,1.79 €,4930700,-125300
 50,Rue de la Libération,La Haye-Pesnel,50320,1.93 €,,1.99 €,1.83 €,4879700,-139800
@@ -98,17 +98,17 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,22 Le Bourg Robert,Ponts,50300,,,,1.93 €,4870900,-131900
 50,ROUTE DE VILLEDIEU,SAINT-Lô,50000,1.93 €,1.00 €,1.99 €,1.89 €,4910200,-111600
 50,62 RUE DE LA PAIX,CHERBOURG EN COTENTIN,50120,1.87 €,,1.94 €,1.80 €,4964981.95,-165049.88
-50,Chemin de la Chuque,CARENTAN,50500,,,1.87 €,1.76 €,4930200,-123100
+50,Chemin de la Chuque,CARENTAN,50500,,,1.95 €,1.82 €,4930200,-123100
 50,Route de Carolles,Sartilly-Baie-Bocage,50530,1.88 €,1.02 €,1.95 €,1.78 €,4875200,-145900
 50,85  route de Saint Lô,Saint-Amand,50160,,,,1.98 €,4904798,-99375
 50,Route de Mortain,SOURDEVAL,50150,1.90 €,1.05 €,1.96 €,1.82 €,4872000,-92200
-50,15  le pont,Martinvast,50690,,,,1.82 €,4960766.9786358,-166145.17102173
+50,15  le pont,Martinvast,50690,,,,1.96 €,4960766.9786358,-166145.17102173
 50,204 Rue de la Paix,Équeurdreville-Hainneville,50120,1.99 €,,1.99 €,1.93 €,4965500,-165600
 50,Za de la Détourbe (D53),SAINT-AMAND,50160,1.93 €,,1.99 €,1.86 €,4904600,-99000
 50,8 AV DE L'ABBAYE BLANCHE,MORTAIN,50140,1.92 €,,2.03 €,1.89 €,4865200,-94100
 50,54 Rue de la Poterne,Saint-Lô,50000,,,1.91 €,1.74 €,4911700,-109700
 50,39 route de Valognes,Bricquebec,50260,1.91 €,1.07 €,1.98 €,1.84 €,4947700,-162000
-50,Saint Martin des Champs Route d'Isigny le Buat,AVRANCHES,50300,1.84 €,,1.91 €,1.74 €,4868000,-134000
+50,Saint Martin des Champs Route d'Isigny le Buat,AVRANCHES,50300,1.95 €,,2.02 €,1.90 €,4868000,-134000
 50,Avenue du Quesnoy,AVRANCHES,50300,1.95 €,,,1.86 €,4867800,-135100
 50,26 route de Cherbourgtest,Les Pieux,50340,1.91 €,1.00 €,1.98 €,1.84 €,4951595,-180055
 50,Route de Saint-Côme,CARENTAN,50500,1.90 €,1.00 €,1.98 €,1.82 €,4930901.239,-125428.308

@@ -1,7 +1,7 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ZA DE CHASSAT,CHABANAIS,16150,1.93 €,1.08 €,2.00 €,1.85 €,4587800,72600
 16,105 Rue Basse Saint-Martin,COGNAC,16100,1.83 €,,1.91 €,1.73 €,4568600,-33800
-16,Rue de la Tude,Chalais,16210,1.82 €,0.83 €,1.90 €,1.74 €,4527300,4200
+16,Rue de la Tude,Chalais,16210,1.86 €,1.00 €,1.94 €,1.78 €,4527300,4200
 16,ave du general de gaulle,SOYAUX,16800,1.90 €,1.00 €,1.97 €,1.80 €,4563900,21900
 16,Route d'Aigre ,Ruffec,16700,,1.00 €,1.92 €,1.75 €,4602138,18967
 16,BD DU 8 MAI 1945,ANGOULEME,16000,1.99 €,1.00 €,1.99 €,1.90 €,4566000,16500
@@ -11,12 +11,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,43 PLACE DE LA CORDERIE,COGNAC,16100,1.99 €,1.00 €,1.99 €,1.93 €,4569309,-32722
 16,1 ROUTE DE SIGALAUD,Villebois-Lavalette,16320,1.86 €,1.05 €,1.93 €,1.80 €,4548200,27800
 16,Place de l'Hôtel de Ville,Montbron,16220,1.89 €,,,1.80 €,4566500,50100
-16,ZA Les Montagnes Les Plantes Neuves,Champniers,16430,1.83 €,,,1.74 €,4568300,17900
+16,ZA Les Montagnes Les Plantes Neuves,Champniers,16430,1.86 €,,,1.79 €,4568300,17900
 16,40 Avenue Général Leclerc,Jarnac,16200,,,,,4568095,-16268
 16,Route de Barbezieux CD 14,Baignes-Sainte-Radegonde,16360,1.95 €,,2.00 €,1.84 €,4538500,-23000
 16,Le cerisier de la Barre,Ansac-sur-Vienne,16500,2.03 €,,2.07 €,1.95 €,4598927.3646187,61530.42573943
 16,Route de Bordeaux,LA COURONNE,16400,1.87 €,,1.94 €,1.80 €,4562011.8,10582.2
-16,Route de Limoges,LA ROCHEFOUCAULD,16110,1.85 €,1.00 €,1.92 €,1.74 €,4574200,38700
+16,Route de Limoges,LA ROCHEFOUCAULD,16110,1.91 €,1.02 €,1.95 €,1.80 €,4574200,38700
 16,RN 10,RUFFEC,16700,2.19 €,,2.31 €,2.06 €,4601900,18400
 16,250 Avenue de la République,L'ISLE-D'ESPAGNAC,16340,1.97 €,,2.07 €,1.87 €,4566500,20100
 16,RN 141,CHABANAIS,16150,,,,1.95 €,4587221.560482,68209.246867894
@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ROUTE DE COGNAC,SEGONZAC,16130,1.92 €,,1.99 €,1.83 €,4561787,-21934
 16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.88 €,,1.95 €,1.79 €,4558884.8804688,-4798.4026188222
 16,Avenue de l'Europe,BARBEZIEUX-SAINT-HILAIRE,16300,1.87 €,1.00 €,1.95 €,1.82 €,4546704,-16519
-16,Avenue de l'Europe,Barbezieux-Saint-Hilaire,16300,1.83 €,0.98 €,1.91 €,1.74 €,4546600,-16400
+16,Avenue de l'Europe,Barbezieux-Saint-Hilaire,16300,1.89 €,1.02 €,1.97 €,1.80 €,4546600,-16400
 16,186 Rue de Saintes,Angoulême,16000,1.84 €,,1.92 €,1.75 €,4566100,14000
 16,Avenue de l'Europe,JARNAC,16200,1.88 €,1.00 €,1.95 €,1.80 €,4568581.065,-16473.549
 16,Route d'Angoulême,Chasseneuil-sur-Bonnieure,16260,1.99 €,,1.99 €,1.89 €,4581500,44300

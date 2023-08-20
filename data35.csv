@@ -56,7 +56,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,Zone Industrielle de L'Etang,SAINT-GREGOIRE,35760,1.84 €,1.00 €,1.92 €,1.76 €,4814000,-168600
 35,2  RUE DE BROCÉLIANDE,Romillé,35850,1.85 €,,1.94 €,1.80 €,4821700,-188600
 35,Rue Mathurin Méheut,NOYAL-CHâTILLON-SUR-SEICHE,35230,1.87 €,,1.94 €,1.80 €,4804500,-166900
-35,ZONE COMMERCIALE DE LA PILAIS,Lécousse,35133,1.84 €,0.97 €,1.92 €,1.74 €,4835300,-123600
+35,ZONE COMMERCIALE DE LA PILAIS,Lécousse,35133,1.89 €,1.02 €,1.98 €,1.80 €,4835300,-123600
 35,21 Route de Redon,VITRé,35500,1.82 €,1.01 €,1.90 €,1.76 €,4811188.72889,-121216.857653
 35,Rue des Frênes,LA FRESNAIS,35111,1.90 €,,1.97 €,1.80 €,4859151.2004465,-184388.51562724
 35,avenue des acquêts,Le Rheu,35650,1.86 €,1.02 €,1.94 €,1.77 €,4809200,-179300
@@ -94,7 +94,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,6 Rue Louis Guilloux,Redon,35600,1.85 €,1.00 €,1.94 €,1.80 €,4767365,-206466
 35,60 Rue de la Libération,Saint-Pierre-de-Plesguen,35720,,,2.04 €,1.86 €,4844200,-191400
 35,254  ROUTE DE FOUGERES,RENNES,35000,1.89 €,1.00 €,1.97 €,1.82 €,4812700,-165100
-35,La Croix aux Potiers,CHARTRES-DE-BRETAGNE,35131,1.91 €,,,1.85 €,4804600,-171100
+35,La Croix aux Potiers,CHARTRES-DE-BRETAGNE,35131,1.93 €,,,1.83 €,4804600,-171100
 35,avenue CHARLES TILLON,RENNES,35000,,1.00 €,1.99 €,1.90 €,4812479.39368,-170143.173515
 35,39 Boulevard de Groslay,FOUGèRES,35300,1.90 €,,1.99 €,1.81 €,4834759,-118229
 35,ZA du RONZERAY,MARTIGNé-FERCHAUD,35640,1.90 €,,,1.84 €,4782000,-131900
@@ -111,7 +111,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,rue du phare de la Balue CAP MALO,La Mézière,35520,1.84 €,1.00 €,1.92 €,1.76 €,4820400,-172900
 35,20 Place de l'Europe,Fougères,35300,1.91 €,1.12 €,1.98 €,1.85 €,4834735,-119382
 35,ZA CHATEAU GAILLARD,Bain-de-Bretagne,35470,1.82 €,0.97 €,1.89 €,1.73 €,4784400,-169400
-35,2 Rue de l'Epinette,PLEUMELEUC,35137,1.84 €,,1.91 €,1.74 €,4817800,-192000
+35,2 Rue de l'Epinette,PLEUMELEUC,35137,1.86 €,,1.94 €,1.81 €,4817800,-192000
 35,Rue de la Rigourdière,CESSON-SéVIGNé,35510,1.88 €,0.99 €,1.96 €,1.79 €,4811200,-159000
 35,Beaurenom  RN12 sens Rennes/St-Brieuc,Saint-Gilles,35590,2.21 €,,2.33 €,2.05 €,4816800,-187300
 35,Lieu-dit Beauséjour,La Mézière,35520,1.85 €,,,1.83 €,4821824,-174787
@@ -143,7 +143,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,18 rue du Champ Martin,Vern-sur-Seiche,35770,1.89 €,,1.97 €,1.82 €,4805500,-161100
 35,CC UNIVER  Le Petit Launay,CHâTEAUGIRON,35410,1.87 €,0.99 €,1.94 €,1.80 €,4804001.142,-151804.699
 35,Boulevard Paul Hutin Desgrées,RENNES,35200,1.90 €,1.09 €,1.96 €,1.84 €,4809129.7777798,-164185.27606305
-35,58 Rue de Rennes,MONTAUBAN-DE-BRETAGNE,35360,1.82 €,1.00 €,,1.74 €,4819700,-203900
+35,58 Rue de Rennes,MONTAUBAN-DE-BRETAGNE,35360,1.89 €,1.00 €,,1.81 €,4819700,-203900
 35,Parc d'activités du Moulin Madame  14 Rue des coutures,Combourg,35270,1.85 €,1.00 €,1.94 €,1.83 €,4841723.2751142,-174925.93204568
 35,Lieu-dit Le Pommeret,Bréal-sous-Montfort,35310,1.89 €,1.00 €,1.95 €,1.81 €,4805900,-187300
 35,Rue de Rennes,GéVEZé,35850,,,1.94 €,1.83 €,4822117.09682,-179075.395872
@@ -151,4 +151,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,LA NOUVELLE VAGUE,Cancale,35260,,,1.94 €,1.81 €,4867905.3250025,-186562.98570839
 35,2  allée de la Piloinais,Saint-Aubin-d'Aubigné,35250,1.87 €,1.05 €,1.96 €,1.77 €,4826200,-161800
 35,ROUTE DE RENNES,VERN-SUR-SEICHE,35770,,,1.96 €,1.84 €,4805300,-161000
-35,17 boulevardLéon Bourgeois,RENNES,35000,1.91 €,,1.99 €,1.80 €,4809900,-165300
+35,17 boulevardLéon Bourgeois,RENNES,35000,1.99 €,,1.99 €,1.90 €,4809900,-165300

@@ -29,7 +29,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 19,Viaduc du Chavanon,Merlines,19340,2.08 €,,2.18 €,2.01 €,4562400,248100
 19,Route d'Egletons,TREIGNAC,19260,1.88 €,1.00 €,1.95 €,1.80 €,4553300,180400
 19,12 AV ALSACE LORRAINE,TULLE,19000,1.99 €,,1.99 €,1.94 €,4526170,175672
-19,AIRE DE LA CORREZE - AUTOROUTE A8,Vitrac-sur-Montane,19800,1.99 €,,1.99 €,1.95 €,4535945.71,193726.25
+19,AIRE DE LA CORREZE - AUTOROUTE A8,Vitrac-sur-Montane,19800,1.99 €,,,1.95 €,4535945.71,193726.25
 19,RD 921,BEYNAT,19190,,,2.00 €,1.88 €,4512554.2414,172250.665476
 19,1 Avenue de Coulaud,Laguenne,19150,,1.04 €,1.97 €,1.84 €,4524621,177323
 19,1 Rue de Baladour,TULLE,19000,,,,,4528454,177174
@@ -41,7 +41,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 19,42 route nationale 120,NAVES,19460,1.88 €,1.00 €,1.99 €,1.83 €,4531600,177000
 19,CD N°9 RTE DU SAILLANT,ALLASSAC,19240,1.92 €,1.00 €,1.99 €,1.88 €,4525300,146100
 19, Avenue de Coulaud,LAGUENNE,19150,,,,,4524705,177212
-19,86 Avenue Président John Kennedy,Brive-la-Gaillarde,19100,,,1.92 €,1.75 €,4516671,154590
+19,86 Avenue Président John Kennedy,Brive-la-Gaillarde,19100,,,1.99 €,1.84 €,4516671,154590
 19,ROUTE DE TULLE,Meymac,19250,1.96 €,,2.03 €,1.92 €,4554589,213640
 19,12 Rue du Commerce,Eygurande,19340,,,,,4566357,245215
 19,CHAULAUDRE,Égletons,19300,1.99 €,1.03 €,1.99 €,1.94 €,4539800,203600

@@ -1,6 +1,6 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,55 AVENUE GAMBETTA,CASTELNAU-DE-MéDOC,33480,,,,,4503300,-79900
-33,3 rue Jean Goudineau,Soulac-sur-Mer,33780,1.97 €,,2.02 €,1.88 €,4551400,-111300
+33,3 rue Jean Goudineau,Soulac-sur-Mer,33780,1.97 €,,1.02 €,1.88 €,4551400,-111300
 33,avenue des Industries,Ambarès-et-Lagrave,33440,,,,1.92 €,4492615.3290504,-52054.201580751
 33,25 COURS GEORGES MANDEL,Lesparre-Médoc,33340,1.99 €,,1.99 €,1.93 €,4531030,-93839
 33,A630 ROC.PRESQU'ILE LAC COTE2,Bruges,33520,1.91 €,,2.00 €,1.84 €,4488800,-57900
@@ -27,10 +27,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,A89 Aire des Pamobières,Gours,33660,1.99 €,,1.99 €,1.95 €,4500100,3700
 33,10 Route de Lalande,Montussan,33450,1.92 €,1.08 €,,1.86 €,4487400,-43000
 33,route de Bazas ZI dumes,LANGON,33210,1.85 €,,1.92 €,1.76 €,4454200,-24200
-33,1 rue Jean Marie Pelt - CS50510,MIOS,33380,1.83 €,,1.91 €,1.74 €,4461700,-91800
+33,1 rue Jean Marie Pelt - CS50510,MIOS,33380,1.86 €,,1.93 €,1.82 €,4461700,-91800
+33,6 avenue Favard,GRADIGNAN,33170,1.88 €,,1.98 €,1.80 €,4478586.33828,-60342.3825687
 33,1 lieu dit moleon,Langon,33210,1.84 €,0.98 €,1.91 €,1.76 €,4454200,-25400
 33,468 Route de Toulouse,BèGLES,33130,1.87 €,,1.94 €,1.82 €,4479000,-56700
-33,6 avenue Favard,GRADIGNAN,33170,1.88 €,,1.98 €,1.80 €,4478586.33828,-60342.3825687
 33,270 Boulevard de la République,ANDERNOS-LES-BAINS,33510,1.88 €,,1.95 €,1.81 €,4474600,-110300
 33,Route de Sore,SAINT-SYMPHORIEN,33113,1.87 €,,1.94 €,1.79 €,4442900,-49100
 33,12 Place Jean Moulin,Libourne,33500,2.04 €,,2.13 €,1.99 €,4491900,-24200
@@ -40,11 +40,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,13 avenue de soubeyran,ARSAC,33460,,,,1.99 €,4499400,-69300
 33,CENTRE COMMERCIAL LES 4 PAVILLONS,LORMONT,33310,1.87 €,0.97 €,1.94 €,1.79 €,4486500,-52000
 33,17 PLACE MAUCAILLOU,Saint-Sulpice-et-Cameyrac,33450,,,1.94 €,1.80 €,4491224,-39117
-33,ROUTE DE BORDEAUX,AUDENGE,33980,1.90 €,,1.97 €,1.81 €,4469600,-97900
-33,34  Avenue Descartes,Saint-Médard-en-Jalles,33160,1.83 €,0.97 €,1.91 €,1.74 €,4488400,-69100
+33,ROUTE DE BORDEAUX,AUDENGE,33980,1.91 €,,1.99 €,1.82 €,4469600,-97900
+33,34  Avenue Descartes,Saint-Médard-en-Jalles,33160,1.86 €,1.00 €,1.92 €,1.80 €,4488400,-69100
 33,43 Route des Graves,PORTETS,33640,,,2.16 €,1.99 €,4468800,-41700
-33,113 Avenue de Bordeaux,PORT-SAINTE-FOY-ET-PONCHAPT,33220,1.83 €,,1.87 €,1.74 €,4484500,18100
-33,Rue François Mitterrand,COUTRAS,33230,1.83 €,0.97 €,1.91 €,1.74 €,4504600,-12100
+33,113 Avenue de Bordeaux,PORT-SAINTE-FOY-ET-PONCHAPT,33220,1.86 €,,1.98 €,1.79 €,4484500,18100
+33,Rue François Mitterrand,COUTRAS,33230,1.88 €,1.00 €,1.93 €,1.82 €,4504600,-12100
 33,112 BLD DE LA COTE D ARGENT,ARCACHON,33120,1.99 €,,1.99 €,1.93 €,4465000,-118700
 33,AUT A 630  ROCADE PERIPHERIQUE SUD,GRADIGNAN,33170,1.95 €,1.09 €,2.04 €,1.88 €,4478600,-59600
 33,195 AV DU HAUT LEVEQUE,PESSAC,33600,1.99 €,1.05 €,1.99 €,1.93 €,4478126.36813,-64989.1423468
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,240 Boulevard Jean-Jacques Bosc,Bègles,33130,1.96 €,,2.06 €,1.86 €,4481700,-54800
 33,Avenue du Périgord lieu dit Les terres douces,Sallebœuf,33370,,,1.95 €,1.84 €,4483274.1171131,-40458.625713883
 33,Avenue des frères Robinson,MéRIGNAC,33700,1.87 €,,1.94 €,1.79 €,4484796.0484359,-65868.9383
-33,Route de Bordeaux,BLAYE,33390,1.84 €,0.98 €,1.91 €,1.78 €,4512700,-64300
+33,Route de Bordeaux,BLAYE,33390,1.88 €,0.99 €,1.93 €,1.80 €,4512700,-64300
 33,AVENUE G EIFFEL,Pessac,33600,1.88 €,,1.96 €,1.81 €,4478500,-63600
 33,Route de Blaye,Bourg,33710,1.90 €,1.03 €,1.93 €,1.82 €,4504200,-55300
 33,29 Rue du Maquis de Vignes Oudides,Pauillac,33250,,,1.94 €,1.86 €,4519500,-74900
@@ -109,7 +109,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,rue de la gabarre,Bouliac,33270,1.87 €,,1.94 €,1.81 €,4481400,-52400
 33, Avenue de Bordeaux,LACANAU,33680,1.88 €,1.05 €,,1.82 €,4497648,-106512
 33,Rocade Périphérique exterieur aire du truc,MERIGNAC,33700,1.89 €,,1.97 €,1.81 €,4484970.9502131,-66664.775466915
-33,Avenue de l'Europe,LA TESTE-DE-BUCH,33260,1.84 €,0.97 €,1.91 €,1.74 €,4461800,-112300
+33,Avenue de l'Europe,LA TESTE-DE-BUCH,33260,1.89 €,1.02 €,1.97 €,1.85 €,4461800,-112300
 33,1 allée Perrucade,La Brède,33650,1.90 €,,1.97 €,1.84 €,4468400,-52100
 33,9 AV DE LA LIBERATION,LATRESNE,33360,1.99 €,,1.99 €,1.93 €,4478300,-49600
 33,3 AV DE LA RESISTANCE,LORMONT,33310,2.04 €,1.19 €,2.12 €,2.00 €,4487900,-51800
@@ -117,7 +117,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,741 COURS DE LA LIBERATION,PESSAC,33600,1.99 €,1.00 €,1.99 €,1.93 €,4479527.994061,-60450.886604299
 33,25 Rue Frimont-Ouest,La Réole,33190,1.89 €,1.00 €,1.98 €,1.81 €,4458387,-6804
 33,25 Route d'Ambarès,Saint-Loubès,33450,1.87 €,,1.97 €,1.81 €,4492100,-45000
-33,avenue des 40 journaux,BORDEAUX,33300,1.83 €,0.97 €,1.91 €,1.74 €,4488400,-56300
+33,avenue des 40 journaux,BORDEAUX,33300,1.87 €,1.02 €,1.94 €,1.80 €,4488400,-56300
 33,4  rue Emile Baudoux,Lacanau-Océan,33680,,1.07 €,1.99 €,1.87 €,4500196.001,-120044.403
 33,51 Pontet Sud Est,EYRANS,33390,1.99 €,,1.99 €,1.89 €,4519000,-61900
 33,A63 Sens Bordeaux Bayonne,Cestas,33610,2.19 €,,2.31 €,2.06 €,4474600,-70300
@@ -147,7 +147,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,Lieu-dit Les Grandes Badines,Saint-Jean-d'Illac,33127,1.95 €,,2.02 €,1.89 €,4480900,-77200
 33,25 Route des Prés,Belin-Béliet,33830,1.88 €,1.00 €,1.96 €,1.84 €,4450865,-78425
 33,48 Avenue de la République,Mios,33380,2.11 €,,2.06 €,2.08 €,4461100,-94500
-33,80 avenue de la Résistance,PINEUILH,33220,1.83 €,0.97 €,1.89 €,1.74 €,4482600,22100
+33,80 avenue de la Résistance,PINEUILH,33220,1.86 €,1.02 €,1.98 €,1.79 €,4482600,22100
 33,ROUTE DE MONSEGUR,LA REOLE,33190,,,,,4459000,-3300
 33,ZA LOMBARDON,MACAU,33460,1.88 €,,1.99 €,1.82 €,4499942.13,-61885.1
 33,46 rue Jacques Vergeron,Saint-Savin,33920,1.87 €,,,1.80 €,4513900,-44300
@@ -165,7 +165,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,Avenue de l'Europe,SAINT-ANDRé-DE-CUBZAC,33240,1.88 €,,,1.81 €,4501300,-42500
 33,Lieu-dit Bazille-Ouest,Saugon,33920,2.09 €,,2.19 €,2.01 €,4518500,-50300
 33,15 Avenue de la Côte d'Argent,MARCHEPRIME,33380,1.90 €,1.00 €,1.97 €,1.86 €,4469100,-85800
-33, Rue des Fonderies,BIGANOS,33380,1.86 €,1.01 €,1.93 €,1.79 €,4463788,-96174
+33, Rue des Fonderies,BIGANOS,33380,1.88 €,1.01 €,1.95 €,1.81 €,4463788,-96174
 33,RD112 Lieu dit Jaumard,La Teste-de-Buch,33260,1.89 €,,1.98 €,1.85 €,4454900,-115800
 33,Centre Commercial Le Bourg,CESTAS,33610,1.90 €,1.06 €,1.98 €,1.85 €,4473969.8435813,-68126.411968472
 33,ROUTE DE L'ATLANTIQUE,Lacanau,33680,2.00 €,,2.05 €,1.93 €,4500600,-117100
@@ -177,17 +177,17 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,Avenue du Colonel Pierre Bourgoin,MARTIGNAS-SUR-JALLE,33127,1.82 €,1.00 €,1.89 €,1.74 €,4484200,-77000
 33,La Tour Rn 113,Cérons,33720,,,1.96 €,1.93 €,4463300,-33500
 33,7 Boulevard Mestrézat,ARCACHON,33120,2.08 €,1.19 €,2.12 €,1.95 €,4465200,-114700
-33,Centre Commercial GRAND TOUR,Sainte-Eulalie,33560,1.83 €,0.97 €,1.91 €,1.74 €,4490700,-48900
+33,Centre Commercial GRAND TOUR,Sainte-Eulalie,33560,1.84 €,0.99 €,1.92 €,1.75 €,4490700,-48900
 33,104 bis Avenue du Général de Gaulle,Gironde-sur-Dropt,33190,1.99 €,,1.99 €,1.93 €,4458500,-8100
 33,ROUTE DE VILLANDRAUT lieu dit SABLE ROUGE,PRECHAC,33730,,,,1.84 €,4444300,-32700
 33,127 AV. DE L YSER,MERIGNAC,33700,1.99 €,1.00 €,1.99 €,1.94 €,4484178,-66554.999999999
-33,R.N. 10,AMBARèS-ET-LAGRAVE,33440,1.83 €,0.97 €,1.91 €,1.74 €,4491900,-48000
+33,R.N. 10,AMBARèS-ET-LAGRAVE,33440,1.84 €,0.99 €,1.92 €,1.75 €,4491900,-48000
 33,3820 AVENUE DE TOULOUSE,CADAUJAC,33140,2.08 €,,2.16 €,1.99 €,4472898.64,-53036.29
-33,RUE JULES FERRY,CASTILLON-LA-BATAILLE,33350,1.82 €,,,1.74 €,4485378,-4451
+33,RUE JULES FERRY,CASTILLON-LA-BATAILLE,33350,1.85 €,,,1.82 €,4485378,-4451
 33,RN 113,Podensac,33720,,,1.89 €,1.74 €,4465647,-36582
 33,RN 89,ARTIGUES,33370,,,1.97 €,,4486747.7485278,-49283.912227867
 33,140 BOULEVARD GODARD,BORDEAUX,33300,1.89 €,,1.97 €,1.82 €,4486190,-58571.999999999
-33,70 avenue de la Libération,Béguey,33410,1.83 €,,1.89 €,1.74 €,4464600,-32400
+33,70 avenue de la Libération,Béguey,33410,1.88 €,,1.96 €,1.82 €,4464600,-32400
 33,16 ROUTE DE BORDEAUX,LANGON,33210,1.89 €,1.00 €,1.97 €,1.80 €,4457007.02602,-29929.4925695
 33,427 Route du Médoc,Bruges,33520,1.83 €,0.97 €,1.91 €,1.74 €,4487365,-61734.000000001
 33,Rue Alexander Fleming,BORDEAUX,33100,1.89 €,,1.97 €,1.82 €,4484256,-54265.2
@@ -202,8 +202,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 33,Rue des Marronniers,LE BOUSCAT,33110,,,1.99 €,1.85 €,4486100,-58800
 33,6 Avenue Pierre Mendès France,Saint-Ciers-sur-Gironde,33820,1.88 €,1.02 €,1.98 €,1.83 €,4529100,-60700
 33,5 Avenue de la Presqu'Île,Lège-Cap-Ferret,33950,,,2.01 €,1.86 €,4479034,-114618
-33,25 Avenue de la Libération,Lanton,33138,1.83 €,,1.99 €,1.74 €,4470331,-103713
-33,Route de Libourne,Saint-Magne-de-Castillon,33350,1.83 €,0.97 €,1.90 €,1.74 €,4485400,-6400
+33,25 Avenue de la Libération,Lanton,33138,1.91 €,,1.99 €,1.82 €,4470331,-103713
+33,Route de Libourne,Saint-Magne-de-Castillon,33350,1.86 €,1.02 €,1.96 €,1.79 €,4485400,-6400
 33,2 rue des jésuites,Saint-Maixant,33490,,,1.97 €,1.85 €,4457498.0414884,-25492.902257619
 33,77 rue de la croix de monjous,Gradignan,33170,1.94 €,1.19 €,2.04 €,1.89 €,4477600,-59500
 33,15 Avenue du Maréchal Juin,PINEUILH,33220,1.86 €,,,1.78 €,4484100,23000

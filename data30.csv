@@ -1,4 +1,5 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
+30,390 AV PIERRE MENDES FRANCE,NIMES,30000,1.93 €,,1.99 €,1.82 €,4382500,437900
 30,97 AVENUE GÉNÉRAL LECLERC,Villeneuve-lès-Avignon,30400,1.93 €,1.00 €,1.99 €,1.82 €,4395800,477800
 30,10 CROIX PALMIER,UZèS,30700,,,,1.90 €,4400805,441802
 30,Route de Beaucaire,NîMES,30000,1.86 €,0.98 €,,1.76 €,4383700,439500
@@ -10,8 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,Route d'Uzès,Saint-Ambroix,30500,1.92 €,1.00 €,2.02 €,1.80 €,4425500,420300
 30,Sauvegarde,BESSEGES,30160,,1.87 €,2.04 €,1.90 €,4428700,411000
 30,RN 113,FOURQUES,30300,1.99 €,,1.99 €,1.93 €,4369100,460500
-30,390 AV PIERRE MENDES FRANCE,NIMES,30000,,,,1.82 €,4382500,437900
-30,ZAC du Rieu Rocade Est,Alès,30100,1.85 €,,1.91 €,1.73 €,4411700,410700
+30,ZAC du Rieu Rocade Est,Alès,30100,1.88 €,,1.95 €,1.79 €,4411700,410700
 30,2  rue du Levant,Calvisson,30420,1.95 €,,2.01 €,1.87 €,4378312.11,420360.04
 30,ZI DOMITIA SUD Avenue jean Monnet,Beaucaire,30300,1.92 €,1.09 €,,1.87 €,4378900,464500
 30,24 Avenue du Pasteur Rollin,Anduze,30140,,,2.00 €,1.87 €,4405184,398507
@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,206 avenue de la condamine,vauvert,30600,1.89 €,1.00 €,1.97 €,1.84 €,4368958.60086,427325.79259363
 30,PONT DES CHARETTES,UZèS,30700,1.92 €,,,1.79 €,4399000,442900
 30,AVENUE DE LA GARE,UZES,30700,,1.14 €,,1.86 €,4401100,440800
-30,Route d'Uzès,Saint-Ambroix,30500,1.94 €,,1.99 €,1.80 €,4425500,420300
+30,Route d'Uzès,Saint-Ambroix,30500,1.94 €,,2.00 €,1.80 €,4425500,420300
 30, Rue du Docteur Paul Vermale,BESSEGES,30160,,,2.04 €,1.90 €,4429233,409340
 30,Route de Saint-Brès,Saint-Ambroix,30500,,,2.04 €,1.87 €,4426800,419600
 30,Le Grand Jardin,AUJARGUES,30250,1.87 €,1.00 €,,1.84 €,4379000,412200
@@ -60,7 +60,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,4 avenue des arenes,BELLEGARDE,30127,,,2.05 €,1.84 €,4375724.08919,451195.169942
 30,Chemin de Calvisson,Bernis,30620,2.00 €,,2.07 €,1.93 €,4376675,428181
 30,Avenue Gaston Doumergue,Pont-Saint-Esprit,30130,,1.00 €,1.96 €,1.87 €,4425500,464600
-30,ZI AV. DE CROUPILLAC,ALES,30100,1.90 €,1.17 €,1.97 €,1.79 €,4413800,410400
+30,ZI AV. DE CROUPILLAC,ALES,30100,,1.17 €,1.97 €,1.79 €,4413800,410400
 30,Route de Saint-Géniès-de-Comolas,Saint-Laurent-des-Arbres,30126,1.96 €,1.23 €,2.11 €,1.87 €,4405967,471313
 30,185 ROUTE D'AVIGNON,BEZOUCE,30320,,,1.99 €,1.82 €,4388362.4031929,449219.64622743
 30,198 Avenue des Frères Lumière,Alès,30100,1.88 €,,1.95 €,1.80 €,4414000,409100
@@ -86,8 +86,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 30,Quartier Reboulasse,Barjac,30430,,1.20 €,,1.88 €,4430598.3685312,434269.01021774
 30,15 RUE DES POETES,Nîmes,30900,1.90 €,,1.98 €,1.81 €,4382100,433700
 30,2290 ROUTE DE MONTPELLIER,NIMES,30900,1.99 €,,,1.92 €,4381305,433267
-30,286 Rue de la Digue,Meyrannes,30410,,,,1.94 €,4427000,416800
-30,Route de Saussines,Sommières,30250,1.81 €,1.00 €,,1.71 €,4378095,408168
+30,286 Rue de la Digue,Meyrannes,30410,,,,1.90 €,4427000,416800
+30,Route de Saussines,Sommières,30250,1.89 €,1.00 €,,1.78 €,4378095,408168
 30,163 route de sommieres,Calvisson,30420,1.97 €,,1.99 €,1.88 €,4378100,420100
 30,ROUTE D'ARLES,Saint-Gilles,30800,1.89 €,1.00 €,1.99 €,1.78 €,4367700,443200
 30,Avenue Charles de Gaulle,LA CALMETTE,30190,1.93 €,1.05 €,1.98 €,1.80 €,4392419,426390
