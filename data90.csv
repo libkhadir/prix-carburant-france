@@ -2,8 +2,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 90,56  AVENUE DU GENERAL LECLERC,BELFORT,90000,1.89 €,,1.98 €,1.84 €,4763600,683800
 90,37 Rue Alfred Péchin,Beaucourt,90500,,,2.03 €,1.89 €,4748973,692225
 90,4 Faubourg de Brisach,Belfort,90000,1.95 €,,1.99 €,1.92 €,4764000,686800
-90,1 avenue du général de Gaulle,Belfort,90000,1.87 €,,1.95 €,1.81 €,4762900,686300
-90,Rue Alfred Péchin,BEAUCOURT,90500,1.88 €,,1.93 €,1.84 €,4749000,692200
+90,1 avenue du général de Gaulle,Belfort,90000,1.87 €,,1.94 €,1.82 €,4762900,686300
+90,Rue Alfred Péchin,BEAUCOURT,90500,1.91 €,,2.00 €,1.87 €,4749000,692200
 90,57 Avenue d'Altkirch,Belfort,90000,,1.16 €,2.07 €,1.88 €,4763600,687300
 90,AVENUE D'ALTKIRCH,BELFORT,90000,1.97 €,1.05 €,1.99 €,1.94 €,4763100,686700
 90,2 Rue de la Libération,Montreux-Château,90130,1.89 €,,,1.83 €,4760600,700400
@@ -17,4 +17,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 90,Rue de Belfort,BAVILLIERS,90800,,,,,4762600,684400
 90,3 rue de Besançon,BELFORT,90000,1.89 €,,1.98 €,1.84 €,4762600,686000
 90,Route de montbéliard,ANDELNANS,90400,1.89 €,1.05 €,1.96 €,1.83 €,4760000,686200
-90,21 Rue Aristide Briand,OFFEMONT,90300,1.90 €,,,1.83 €,4765947.260068,686718.58557833
+90,21 Rue Aristide Briand,OFFEMONT,90300,1.89 €,,,1.82 €,4765947.260068,686718.58557833
