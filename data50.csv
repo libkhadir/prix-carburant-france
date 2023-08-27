@@ -45,7 +45,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,Aire de la Vallée de la Vire - A84,Gouvets,50420,2.25 €,,2.37 €,2.11 €,4890900,-110400
 50,PARC D'ACTIVITE DE LA BAIE,Saint-Martin-des-Champs,50300,1.91 €,1.05 €,2.00 €,1.86 €,4865285.8767159,-135003.0743481
 50,9 rue des Pélerins,BRéCEY,50370,1.95 €,,2.00 €,1.89 €,4872486.89288,-116958.900338
-50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.83 €,,,1.76 €,4930400,-121200
+50,rue de l'avenir,Saint-Hilaire-Petitville,50500,1.91 €,,,1.83 €,4930400,-121200
 50,RUE DE LA CHAPONIERE,MARIGNY,50570,,,1.99 €,1.83 €,4909916,-124241
 50,94 Rue Sainte-Croix,LESSAY,50430,,,2.08 €,2.00 €,4921300,-152900
 50,240 Rue Bitouzé d'Auxmesnil,Bricquebec,50260,1.93 €,,2.00 €,1.85 €,4946800,-164000
@@ -62,7 +62,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,3 ROUTE DES MARAIS - ST SYMPHORIEN LE VALOIS,La Haye-du-Puits,50250,1.99 €,,1.99 €,1.92 €,4929700,-154400
 50,Route de la poste,BREHAL,50290,1.89 €,,1.92 €,1.83 €,4890000,-151300
 50,1 Boulevard de Verdun,Valognes,50700,1.99 €,,1.99 €,1.95 €,4950800,-146600
-50,RUE DE LA SALINE,Cherbourg-octeville,50100,1.91 €,1.00 €,1.99 €,1.83 €,4963500,-161500
+50,RUE DE LA SALINE,Cherbourg-octeville,50100,1.91 €,1.00 €,1.99 €,1.84 €,4963500,-161500
 50,Route des Fourches,CHERBOURG-OCTEVILLE,50100,1.90 €,1.00 €,1.95 €,1.81 €,4963720,-165108
 50,Avenue de la République,COUTANCES,50200,1.96 €,,1.99 €,1.93 €,4905700,-143400
 50,4 charrière du commerce,Agon-Coutainville,50230,1.93 €,,1.99 €,1.84 €,4904900,-159300
@@ -70,7 +70,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,9 Route des Isles,PIERREVILLE,50340,2.03 €,,2.08 €,1.95 €,4947400,-178700
 50,25  rue de l'hotel saint denis,GAVRAY,50450,,,1.99 €,1.83 €,4891277,-135262
 50,1214 Avenue de Paris,Saint-Lô,50000,1.96 €,0.99 €,2.00 €,1.89 €,4911630.1972112,-105833.12301737
-50,Route de Montebourg - La Victoire,VALOGNES,50700,1.83 €,,1.92 €,1.76 €,4950200,-145600
+50,Route de Montebourg - La Victoire,VALOGNES,50700,1.94 €,,2.03 €,1.87 €,4950200,-145600
 50,Avenue de Normandie,Cherbourg-Octeville,50130,1.91 €,,1.99 €,1.83 €,4962600,-162800
 50,ZI PORTUAIRE DES MIELLES,Tourlaville,50110,1.91 €,,1.99 €,1.83 €,4964500,-159900
 50,10 Avenue Amiral Lemonnier,Cherbourg-Octeville,50100,,,,,4963442,-161233
@@ -98,7 +98,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,22 Le Bourg Robert,Ponts,50300,,,,1.96 €,4870900,-131900
 50,ROUTE DE VILLEDIEU,SAINT-Lô,50000,1.98 €,1.00 €,1.99 €,1.89 €,4910200,-111600
 50,62 RUE DE LA PAIX,CHERBOURG EN COTENTIN,50120,1.90 €,,1.95 €,1.81 €,4964981.95,-165049.88
-50,Chemin de la Chuque,CARENTAN,50500,,,1.95 €,1.76 €,4930200,-123100
+50,Chemin de la Chuque,CARENTAN,50500,,,1.98 €,1.83 €,4930200,-123100
 50,Route de Carolles,Sartilly-Baie-Bocage,50530,1.89 €,1.04 €,1.95 €,1.82 €,4875200,-145900
 50,85  route de Saint Lô,Saint-Amand,50160,,,,1.98 €,4904798,-99375
 50,Route de Mortain,SOURDEVAL,50150,1.91 €,1.05 €,1.99 €,1.84 €,4872000,-92200
@@ -117,4 +117,4 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 50,26 Rue de l'Europe,Créances,50710,,,1.97 €,1.82 €,4919753.92,-154360.47
 50,5  rue des Claires,QUERQUEVILLE,50460,1.84 €,0.96 €,1.92 €,1.77 €,4966000,-168600
 50,550 Rue du Grand Pré,Tourlaville,50110,1.83 €,1.00 €,1.88 €,1.76 €,4963700,-159600
-50,39 Boulevard de l'Est,Tourlaville,50110,1.83 €,0.92 €,1.89 €,1.76 €,4963500,-159200
+50,39 Boulevard de l'Est,Tourlaville,50110,1.87 €,0.97 €,1.92 €,1.81 €,4963500,-159200

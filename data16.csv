@@ -15,7 +15,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,40 Avenue Général Leclerc,Jarnac,16200,,,,,4568095,-16268
 16,Le cerisier de la Barre,Ansac-sur-Vienne,16500,2.03 €,,2.07 €,1.95 €,4598927.3646187,61530.42573943
 16,Route de Bordeaux,LA COURONNE,16400,1.87 €,,1.94 €,1.82 €,4562011.8,10582.2
-16,Route de Limoges,LA ROCHEFOUCAULD,16110,1.84 €,0.96 €,1.93 €,1.75 €,4574200,38700
+16,Route de Limoges,LA ROCHEFOUCAULD,16110,1.90 €,0.99 €,1.96 €,1.81 €,4574200,38700
 16,RN 10,RUFFEC,16700,2.21 €,,2.33 €,2.10 €,4601900,18400
 16,250 Avenue de la République,L'ISLE-D'ESPAGNAC,16340,2.01 €,,2.11 €,1.90 €,4566500,20100
 16,RN 141,CHABANAIS,16150,,,,1.95 €,4587221.560482,68209.246867894
@@ -27,7 +27,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,ROUTE DE COGNAC,SEGONZAC,16130,1.92 €,,1.99 €,1.83 €,4561787,-21934
 16,ROUTE DE BLANZAC,Châteauneuf-sur-Charente,16120,1.86 €,,1.96 €,1.79 €,4558884.8804688,-4798.4026188222
 16,Avenue de l'Europe,BARBEZIEUX-SAINT-HILAIRE,16300,1.89 €,1.00 €,1.97 €,1.83 €,4546704,-16519
-16,Avenue de l'Europe,Barbezieux-Saint-Hilaire,16300,1.83 €,0.95 €,1.91 €,1.75 €,4546600,-16400
+16,Avenue de l'Europe,Barbezieux-Saint-Hilaire,16300,1.89 €,0.99 €,1.97 €,1.81 €,4546600,-16400
 16,186 Rue de Saintes,Angoulême,16000,1.87 €,,1.94 €,1.81 €,4566100,14000
 16,Avenue de l'Europe,JARNAC,16200,1.90 €,1.00 €,1.97 €,1.81 €,4568581.065,-16473.549
 16,Route d'Angoulême,Chasseneuil-sur-Bonnieure,16260,1.99 €,,1.99 €,1.90 €,4581500,44300
@@ -38,7 +38,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 16,RN 141,ÉTAGNAC,16150,,,,,4589408.20321,78994.9785626
 16,ROUTE DE GENAC,ROUILLAC,16170,1.89 €,1.03 €,1.96 €,1.79 €,4577700,-6100
 16,RN 10,Reignac,16360,,,,1.87 €,4542582.0487558,-17272.59261077
-16,15 route des Boisdons,LINARS,16730,1.90 €,,1.97 €,1.83 €,4565500,8500
+16,15 route des Boisdons,LINARS,16730,1.92 €,,1.99 €,1.84 €,4565500,8500
 16,122 Rue Nationale,Roumazières-Loubert,16270,1.90 €,1.00 €,1.98 €,1.83 €,4588434,57522
 16,Avenue du 8 Mai 1945,CONFOLENS,16500,1.90 €,1.00 €,1.98 €,1.83 €,4602100,65600
 16,PLACE DE LA GARE - 3 BLD GAMBETTA,Châteauneuf-sur-Charente,16120,1.97 €,,2.00 €,1.89 €,4560000,-5500
