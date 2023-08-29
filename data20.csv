@@ -5,7 +5,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,STATION LUISI,Poggio-Mezzana,20230,,,,1.88 €,4240000,953000
 20,Station TOTAL - Relais du Rupione,PIETROSELLA,20166,,,,1.97 €,4183500,877900
 20,RT 20,TATTONE,20219,,,,1.96 €,4217200,917000
-20,Station TOTAL - Quartier La Poretta,PORTO-VECCHIO,20137,,,,1.97 €,4160200,927600
+20,Station TOTAL - Quartier La Poretta,PORTO-VECCHIO,20137,,,,1.98 €,4160200,927600
 20,Rue de la République,CARGESE,20130,,,,1.99 €,4213400,859800
 20,MACINAGGIO,ROGLIANO,20248,,,,1.94 €,4295666.9635916,944535.96189195
 20,Rond Point de Furiani,Furiani,20600,,,,1.96 €,4266306,943007
@@ -35,8 +35,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Route du Bord de Mer,Ajaccio,20090,,,,1.97 €,4193336,874403
 20,Route de Sagone,ALATA,20167,,,,1.92 €,4196500,878200
 20,avenue napoleon III,AJACCIO,20000,,,,1.97 €,4192500,873400
-20,SUARALTA,BASTELICACCIA,20129,,,,1.93 €,4192400,882500
-20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.94 €,4263200,894500
+20,SUARALTA,BASTELICACCIA,20129,,,,1.94 €,4192400,882500
+20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.95 €,4263200,894500
 20,Rt10,Penta-di-Casinca,20213,,,,1.92 €,4244500,950800
 20,Station TOTAL - BP 35 - RN 198,Ghisonaccia,20240,,,,1.91 €,4202100,940900
 20,Les Marines de Porticcio - Commune de Grosseto-Prugna,PORTICCIO,20166,,,,1.95 €,4188730,880770
@@ -54,7 +54,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,CTRE COMMERCIAL BENISTA,GROSSETO-PRUGNA,20166,,,,1.93 €,4188700,880800
 20,Lieu-dit Revinco - RN 193,Borgo,20290,,,,1.94 €,4256756,944075
 20,Veta Porticcio,PORTICCIO,20166,,,,1.94 €,4189800,881000
-20,RN T 10,Solenzara,20145,,,,1.93 €,4185788.64,936422.22
+20,RN T 10,Solenzara,20145,,,,1.94 €,4185788.64,936422.22
 20,Lieu-Dit Migliacciaro,PRUNELLI-DI-FIUMORBO,20243,,,,1.91 €,4199868.57757,940286
 20,CASAMOZZA,LUCCIANA,20290,,,,1.94 €,4254700,941800
 20,mezzavia centre rn 194,AJACCIO,20090,,,,1.92 €,4195300,878200
@@ -65,10 +65,10 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,4 QUARTIER ST JOSEPH,Propriano,20110,,,,1.97 €,4167200,890900
 20,Avenue de la Libération. Immeuble Santa Maria,BASTIA LUPINU,20600,,,,1.94 €,4267927.5416212,944309.56412724
 20,T 10,PRUNETE,20221,,,,1.91 €,4232500,953900
-20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.93 €,4197962.0445374,883383.448204
+20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.94 €,4197962.0445374,883383.448204
 20,I BAGNI,Guitera-les-Bains,20153,,,,1.88 €,4190100,909800
 20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.92 €,4192900,876200
-20,Aspretto,AJACCIO,20000,,,,1.92 €,4192900,876800
+20,Aspretto,AJACCIO,20000,,,,1.93 €,4192900,876800
 20,RT 20,Ponte-leccia,20218,,,,1.91 €,4246700,920900
 20,AVENUE SAPIERO CORSU,BASTIA,20600,,,,1.94 €,4267700,944400
 20,Avenue de la République,CORTE,20250,,,,1.99 €,4231350.70462,915173.144133
@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,1680 avenue du 9 Septembre - Lotissement Feminiccia - RN 198,GHISONACCIA,20240,,,,1.91 €,4202200,941100
 20,N194 Route de Mezzavia,Ajaccio,20167,,,,1.92 €,4195000,876900
 20,San Giuseppu,Propriano,20110,,,,1.96 €,4167100,891300
-20,Cours Joseph Colonna,vico,20160,,,,1.98 €,4216700,879900
+20,Cours Joseph Colonna,vico,20160,,,,1.99 €,4216700,879900
 20,CAMPINCA,Brando,20222,,,,1.96 €,4276500,946900
 20,Marinca - RD 157,Olmeto,20113,,,,1.97 €,4169741,889670
 20,Avenue Sampiero Corso - RN 193,Bastia,20600,,,,1.96 €,4267600,944500
@@ -96,7 +96,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Rn 198 Alistro,San-Giuliano,20230,,,,1.88 €,4231426.485904,948907.25133984
 20,Lot Arbuceta Rond Point Ceppe,BIGUGLIA,20620,,,,1.98 €,4262683,942864
 20,R.T 30,Ponte-Leccia,20218,,,,1.94 €,4246300,920500
-20,RN:193/T10 Crucetta,LUCCIANA,20290,,,,1.94 €,4255000,944200
+20,RN:193/T10 Crucetta,LUCCIANA,20290,,,,1.97 €,4255000,944200
 20,ARENA,Vescovato,20215,,,,1.95 €,4250000,946600
 20,Lieu dit Esigna Sagone,Coggia,20118,,,,1.94 €,4210200,870700
 20,Santa-Severa,Luri,20228,,,,2.09 €,4288800,947300
