@@ -4,15 +4,15 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,22 Avenue Pierre Brossolette,Créteil,94000,1.96 €,1.09 €,2.04 €,1.88 €,4879100,246200
 94,20 Avenue Paul Vaillant-Couturier,Arcueil,94110,2.00 €,1.08 €,2.08 €,1.93 €,4880100,234000
 94,99/101 Avenue Foch,Saint-Maur-des-Fossés,94100,1.97 €,,2.05 €,1.91 €,4879900,250000
-94,264 Avenue du Général de Gaulle,Le Perreux-sur-Marne,94170,1.96 €,1.00 €,2.04 €,1.91 €,4885100,249500
-94,20 Rue Winston Churchill,Villeneuve-Saint-Georges,94190,1.97 €,,2.05 €,1.90 €,4875400,245000
-94,67 Avenue Raspail,Gentilly,94250,1.96 €,,2.04 €,1.91 €,4881400,234800
+94,264 Avenue du Général de Gaulle,Le Perreux-sur-Marne,94170,1.96 €,1.00 €,2.04 €,1.90 €,4885100,249500
+94,20 Rue Winston Churchill,Villeneuve-Saint-Georges,94190,1.97 €,,2.04 €,1.90 €,4875400,245000
+94,67 Avenue Raspail,Gentilly,94250,2.00 €,,2.08 €,1.92 €,4881400,234800
 94,ROUTE DE LA POMPADOUR,Bonneuil-sur-Marne,94380,1.95 €,,2.03 €,1.89 €,4876500,247800
 94,1 Rue de Paris,Sucy-en-Brie,94370,1.95 €,,2.03 €,1.89 €,4877300,250000
 94,159 Avenue Rouget de l'Isle,Vitry-sur-Seine,94400,2.00 €,,2.08 €,1.93 €,4878200,239500
-94,264 Avenue de Stalingrad,Chevilly-Larue,94550,2.00 €,1.08 €,2.08 €,1.93 €,4876700,236800
+94,264 Avenue de Stalingrad,Chevilly-Larue,94550,2.00 €,1.08 €,2.08 €,1.92 €,4876700,236800
 94,14 Boulevard de Stalingrad,Choisy-le-Roi,94600,1.96 €,,2.04 €,1.88 €,4876800,240300
-94,5 Avenue Léon Blum,Maisons-Alfort,94700,2.00 €,,2.08 €,1.90 €,4880200,243600
+94,5 Avenue Léon Blum,Maisons-Alfort,94700,1.97 €,,2.05 €,1.90 €,4880200,243600
 94,75 RUE DE NOISY,VILLIERS SUR MARNE,94350,2.16 €,,2.28 €,2.08 €,4883400,254700
 94,43 QUAI AUGUSTE BLANQUI,ALFORTVILLE,94140,1.99 €,,1.99 €,1.99 €,4880430,241212
 94,32 Avenue le Foll,VILLENEUVE-LE-ROI,94290,2.00 €,,2.12 €,1.87 €,4872873.9311158,243184.46308188
@@ -53,7 +53,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 94,4 BIS AV DE LA LIBERTE,Charenton-le-Pont,94220,,,,,4882225,240285
 94,Rue d'Yerres,Villecresnes,94440,2.02 €,,2.10 €,1.96 €,4872100,252500
 94,232 RUE DE PARIS,Villeneuve-Saint-Georges,94190,1.99 €,1.14 €,1.99 €,1.99 €,4874205.2731851,244691.0938728
-94,156 Rue Alexandre Fourny,Champigny-sur-Marne,94500,1.94 €,,2.04 €,1.89 €,4882000,253100
+94,156 Rue Alexandre Fourny,Champigny-sur-Marne,94500,1.94 €,,2.02 €,1.88 €,4882000,253100
 94,128  BOULEVARD DE STRASBOURG,Nogent-sur-Marne,94130,1.99 €,,1.99 €,1.99 €,4884300,248600
 94,2 Rue du Général de Gaulle,LA QUEUE-EN-BRIE,94510,,,1.99 €,1.89 €,4878900,257600
 94,26 AVENUE ARDOUIN,Le Plessis-Trévise,94420,2.10 €,,2.22 €,2.05 €,4881012.7157257,257218.11878052
