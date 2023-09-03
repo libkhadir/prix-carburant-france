@@ -30,13 +30,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,ROUTE DE BORDEAUX,Neuvic,24190,,,1.91 €,1.75 €,4509700,47500
 24,68 avenue paul langevin,lalinde,24150,,,2.17 €,2.03 €,4483600,72900
 24,127 Rue du Limousin,LANOUAILLE,24270,,,,1.99 €,4539400,114000
-24,192 Route de Lyon,Boulazac,24750,1.91 €,,1.99 €,1.84 €,4518000,74600
+24,192 Route de Lyon,Boulazac,24750,,,,1.84 €,4518000,74600
 24,54 avenue Michel Grandou,Trélissac,24750,1.95 €,,,1.88 €,4519000,73600
 24,le bourg sud,prigonrieux,24130,,1.05 €,2.00 €,1.83 €,4485368.8478137,40039.274488292
 24,24 av de la Forge,Les Eyzies,24620,,,,1.92 €,4493500,102000
 24,32 AVENUE CHARLES DE GAULLE,THIVIERS,24800,,,1.99 €,1.82 €,4542456.1452651,92805.331392518
 24,Route de Brive,Sarlat-la-Canéda,24200,,,2.00 €,1.86 €,4492000,120600
-24,Route de Mussidan,RIBéRAC,24600,1.89 €,1.00 €,1.97 €,1.81 €,4523800,34800
+24,Route de Mussidan,RIBéRAC,24600,1.89 €,1.00 €,1.97 €,1.91 €,4523800,34800
 24,7 ROUTE DE BERGERAC,LE BUISSON DE CADOUIN,24480,,,1.99 €,1.99 €,4484700,89900
 24,740 avenue des jardins,TERRASSON,24120,1.93 €,,1.99 €,1.85 €,4512400,132100
 24,154 avenue de la roque,CREYSSE,24100,1.85 €,1.00 €,1.93 €,1.77 €,4484900,53800
@@ -57,7 +57,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,RN 89 - NIVERSAC,Saint-Laurent-sur-Manoire,24330,1.99 €,,1.99 €,1.95 €,4513800,80700
 24,138 RUE PIERRE SEMARD LE TOULON,PERIGUEUX,24000,1.90 €,1.00 €,1.99 €,1.83 €,4519700,70100
 24,2 route de Nontron,Saint-Martial-de-Valette,24300,1.99 €,1.00 €,1.99 €,1.94 €,4552000,65500
-24,101  Avenue Pasteur,Bergerac,24100,1.84 €,,1.93 €,1.77 €,4486262,49793
+24,101  Avenue Pasteur,Bergerac,24100,1.91 €,,1.99 €,1.83 €,4486262,49793
 24,229 les grand champs,saint aulaye puymangou,24410,,,1.90 €,1.70 €,4516800,8100
 24,2 Route de la Maladrerie,Nontron,24300,1.93 €,,1.99 €,1.85 €,4554059,66713
 24,Avenue Victor Hugo,Terrasson-Lavilledieu,24120,1.93 €,,1.99 €,1.86 €,4513100,129700

@@ -3,11 +3,11 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 93,2 AV DU 8 MAI 1945,Le Blanc-Mesnil,93150,1.96 €,1.09 €,2.04 €,1.91 €,4894800,243800
 93,108 Avenue Gallieni,Bondy,93140,1.97 €,,2.05 €,1.91 €,4890600,248100
 93,205 Avenue Gallieni,Bondy,93140,1.96 €,,2.04 €,1.91 €,4890700,248900
-93,2 Rue des Hauts-Châteaux,Noisy-le-Grand,93160,1.94 €,,2.02 €,1.90 €,4884300,257700
+93,2 Rue des Hauts-Châteaux,Noisy-le-Grand,93160,1.94 €,,2.02 €,1.86 €,4884300,257700
 93,22 Route de Neuilly,Noisy-le-Grand,93160,1.96 €,,2.04 €,1.90 €,4885100,253500
 93,60 - 68 PAUL VAILLANT COUTURIER,Le Blanc-Mesnil,93150,2.19 €,,2.31 €,2.08 €,4892779.23,247399.54
 93,107 AVENUE JULES GUESDE,GAGNY,93220,,,,,4888000,254600
-93,86 Avenue de Lattre de Tassigny,Épinay-sur-Seine,93800,1.97 €,,2.04 €,1.91 €,4896000,230400
+93,86 Avenue de Lattre de Tassigny,Épinay-sur-Seine,93800,1.96 €,,2.04 €,1.91 €,4896000,230400
 93,43 Avenue du Président Roosevelt,Aubervilliers,93300,1.97 €,,2.07 €,1.91 €,4891800,237900
 93,64 Rue de Meaux,Vaujours,93410,,,,2.09 €,4893463,256721
 93,33 Avenue Médéric,Noisy-le-Grand,93160,1.99 €,,1.99 €,1.98 €,4883000,256100
@@ -64,7 +64,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 93,126 Avenue Victor Hugo,Aubervilliers,93300,2.17 €,,2.32 €,2.09 €,4891195.6787623,238002.06560828
 93,274 avenue Jean-Jaures,DRANCY,93700,,,,,4891300,246300
 93,9 TER BD MARECHAL FOCH,Neuilly-sur-Marne,93330,1.99 €,1.00 €,1.99 €,1.99 €,4885427,252019
-93,140 Rue de Paris,NOISY-LE-SEC,93130,2.06 €,,2.17 €,1.95 €,4890200,245900
+93,140 Rue de Paris,NOISY-LE-SEC,93130,2.08 €,,2.18 €,1.96 €,4890200,245900
 93,AVENUE JEAN JAURES,Neuilly-sur-Marne,93330,1.95 €,,2.01 €,1.89 €,4886583.6168664,256269.534165
 93,41/45 BOULEVARD ROBERT SCHUMAN,Livry-Gargan,93190,1.93 €,1.00 €,2.00 €,1.86 €,4892800,254900
 93,BD ROBERT BALLANGER D115,VILLEPINTE,93420,1.97 €,,1.99 €,1.92 €,4895396.5389285,253368.6306402
@@ -79,7 +79,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 93,56 avenue du pavé neuf,Noisy-le-Grand,93160,,,,,4884200,255900
 93,104/106 AV MEDERIC,Noisy-le-Grand,93160,1.99 €,1.00 €,,1.98 €,4882908,256861
 93,55 Rue de la Commune de Paris,AUBERVILLIERS,93300,1.95 €,,2.03 €,1.91 €,4891000,238000
-93,80  rue Saint Stenay,DRANCY,93700,1.95 €,1.09 €,2.03 €,1.91 €,4891800,241800
+93,80  rue Saint Stenay,DRANCY,93700,1.95 €,1.09 €,2.03 €,1.90 €,4891800,241800
 93,70 Boulevard Marx Dormoy,LIVRY-GARGAN,93190,1.92 €,,,1.83 €,4890551.05953,252200.168155
 93,20-30 RUE JULES AUFFRET,Noisy-le-Sec,93130,1.95 €,,1.99 €,1.90 €,4888800,245500
 93,186  avenue jean-jaurès,MONTFERMEIL,93370,1.93 €,,2.00 €,1.88 €,4889900,254900

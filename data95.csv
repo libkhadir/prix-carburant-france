@@ -1,8 +1,8 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 95,20 avenue robert schumann,SAINT-BRICE-SOUS-FORêT,95350,1.92 €,,2.00 €,1.85 €,4900763,235163
-95,2 Avenue Gabriel Péri,Argenteuil,95100,1.97 €,1.00 €,2.05 €,1.92 €,4894300,225300
+95,2 Avenue Gabriel Péri,Argenteuil,95100,1.97 €,1.00 €,2.05 €,1.91 €,4894300,225300
 95,CD 916 - ROUTE DE GISORS,GENICOURT,95650,1.93 €,1.01 €,1.99 €,1.87 €,4908059.3609,207055.138774
-95,17 Route de Saint-Denis,Deuil-la-Barre,95170,1.96 €,,2.04 €,1.89 €,4896100,232600
+95,17 Route de Saint-Denis,Deuil-la-Barre,95170,1.95 €,,2.03 €,1.89 €,4896100,232600
 95,9 Boulevard du Bel Air,Franconville,95130,1.94 €,,2.02 €,1.88 €,4898600,223800
 95,RUE JACQUES BREL,ARGENTEUIL,95100,1.99 €,1.08 €,1.99 €,1.99 €,4895763,227971
 95,61 Boulevard DU HAVRE,Herblay,95220,1.95 €,,2.03 €,1.89 €,4900600,217200
@@ -11,7 +11,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 95,47 AVENUE DU GENERAL DE GAULLE,Saint-Brice-sous-Forêt,95350,1.99 €,1.00 €,1.99 €,1.99 €,4899300,235900
 95,Boulevard de l'Oise,Cergy,95490,,,,,4904700,205400
 95,5 Avenue Voltaire,Eaubonne,95600,1.96 €,1.08 €,2.04 €,1.90 €,4899400,228000
-95,RN1,Moisselles,95570,1.94 €,,2.02 €,1.90 €,4904100,234300
+95,RN1,Moisselles,95570,1.94 €,,2.02 €,1.86 €,4904100,234300
 95,Boulevard d'Osny,Cergy,95800,1.94 €,,2.02 €,1.88 €,4905000,204500
 95,ROUTE NATIONALE 184,Eragny-sur-Oise,95610,2.14 €,1.00 €,2.26 €,2.08 €,4902597.406,210397.381
 95,56 Rue de la Libération,Écouen,95440,1.95 €,1.01 €,2.06 €,1.92 €,4902700,236900
@@ -84,7 +84,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 95,Route de Mantes,Magny-en-Vexin,95420,2.02 €,,2.13 €,1.92 €,4914700,178700
 95,RN 311 QUAI ST DENIS,Argenteuil,95100,2.21 €,,2.33 €,2.08 €,4894500,226300
 95,41 Avenue du Général Leclerc,Saint-Prix,95390,1.95 €,,2.03 €,1.89 €,4900335.2,226089.8
-95,1 rue Jacques Anquetil,GOUSSAINVILLE,95190,1.95 €,,2.02 €,1.91 €,4902200,245600
+95,1 rue Jacques Anquetil,GOUSSAINVILLE,95190,1.97 €,,2.02 €,1.92 €,4902200,245600
 95,ZAC DES MEUNIERS - 7 RUE STEPHANE HESSEL,Bessancourt,95550,1.92 €,1.00 €,2.02 €,1.88 €,4903300,220500
 95,Rue Saint-Roch,BEAUMONT-SUR-OISE,95260,1.92 €,,1.99 €,1.86 €,4914100,227800
 95,ANGLE AV GROUETTES BLD L'HAUTIL,Cergy,95000,2.10 €,,2.22 €,2.03 €,4903200,206900

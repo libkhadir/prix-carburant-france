@@ -4,7 +4,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,71 Route de Pontenx,Parentis-en-Born,40160,1.84 €,,,1.76 €,4434746.9558383,-107650.71887945
 40,60 Boulevard Jacques Duclos,Tarnos,40220,1.90 €,,1.99 €,1.84 €,4352381.0231779,-146396.39826124
 40,642  avenue Robert Labeyrie,Pontonx-sur-l'Adour,40465,1.90 €,1.00 €,1.97 €,1.81 €,4378529,-93105
-40,8 D933N,LOSSE,40240,1.95 €,1.04 €,2.00 €,1.87 €,4406400,-5700
+40,8 D933N,LOSSE,40240,1.95 €,1.04 €,2.00 €,1.86 €,4406400,-5700
 40,384 avenue des Martyrs de la Résistance,MONT-DE-MARSAN,40000,1.97 €,,2.09 €,1.87 €,4388700,-51300
 40,1234 Avenue du Vignau,Mont-de-Marsan,40000,1.90 €,1.00 €,,1.84 €,4387771,-46152
 40,CHEMIN DU TUCAT,BEGAAR,40400,1.92 €,,1.97 €,1.85 €,4382296.86,-84894.289
@@ -81,12 +81,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,ZA LE BOURDET,GEAUNE,40320,,,,1.90 €,4363200,-37000
 40,Route de Pau,SARBAZAN,40120,1.92 €,1.03 €,1.96 €,1.84 €,4401900,-31300
 40,1800  Avenue de la Résistance,Saint-Paul-lès-Dax,40990,1.88 €,1.00 €,1.97 €,1.80 €,4372630.2655238,-107178.40383173
-40,15 bis avenue du Tursan,SAINT-SEVER,40500,,,1.99 €,1.80 €,4374900,-56400
+40,15 bis avenue du Tursan,SAINT-SEVER,40500,,,1.99 €,1.85 €,4374900,-56400
 40,RN134 - Route de Sabres,Garein,40420,,,,1.90 €,4406172.2244227,-66240.854479538
 40,Plaine de la Règle RN 117,Cauneille,40300,1.94 €,1.05 €,,1.85 €,4354451,-107601
 40,le claous,TARTAS,40400,,,2.04 €,1.89 €,4382800,-80500
 40,77 route de Bayonne,Peyrehorade,40300,1.99 €,,1.99 €,1.95 €,4354700,-111300
-40,355  avenue de l'Océan,AMOU,40330,1.85 €,,1.92 €,1.76 €,4359311,-75456
+40,355  avenue de l'Océan,AMOU,40330,1.93 €,,2.00 €,1.85 €,4359311,-75456
 40,302 Avenue du Corps Franc Pommies,Saint-Pierre-du-Mont,40280,2.00 €,1.30 €,,1.95 €,4388600,-52000
 40,Route de la Plage,BISCARROSSE,40600,1.96 €,,2.04 €,1.88 €,4441100,-116900
 40,Avenue des Grands Lacs,SANGUINET,40460,1.97 €,1.00 €,,1.90 €,4448127.212,-107975.102
@@ -97,7 +97,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,rue des morilles,LINXE,40260,1.84 €,,2.02 €,1.81 €,4392800,-125500
 40, Route de la Parcelle,Dax,40100,1.88 €,1.00 €,1.98 €,1.80 €,4369283,-105422
 40,C/C CD 54,SAINT-MARTIN-DE-SEIGNANX,40390,1.90 €,,1.99 €,1.85 €,4354300,-138700
-40,za LAMARRAQUE,Gabarret,40310,,,2.00 €,1.87 €,4398646,999.000000001
+40,za LAMARRAQUE,Gabarret,40310,,,2.00 €,1.86 €,4398646,999.000000001
 40,boulevard des cigales,CAPBRETON,40130,1.92 €,,2.00 €,1.88 €,4363862.89453,-142594.959368
 40,170 Route de Sabres,LABRIT,40420,1.96 €,,2.03 €,1.90 €,4410600,-54700
 40,AVENUE JEAN JAURES,VILLENEUVE-DE-MARSAN,40190,,,2.02 €,1.89 €,4388500,-30700

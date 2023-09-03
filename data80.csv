@@ -78,7 +78,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80,Avenue des Australiens,Péronne,80200,,,,,4994186,294077
 80,Autoroute A1 - Aire d'Assevillers Est,Péronne,80200,2.08 €,1.23 €,2.10 €,1.99 €,4988879.2881616,284077.70993548
 80,rue charles de gaulle,Gamaches,80220,,,1.99 €,1.85 €,4998297.73,156231.03625
-80,2 Route de Normandie,Salouël,80480,1.91 €,,1.99 €,1.86 €,4987000,224100
+80,2 Route de Normandie,Salouël,80480,1.91 €,,1.99 €,1.85 €,4987000,224100
 80,ZI IMPASSE DU MOULIN,ROYE,80700,1.91 €,,,1.84 €,4970300,278100
 80,Avenue du Président Roosevelt,Bouttencourt,80220,,,2.00 €,1.86 €,4993908,162364
 80,AUTOROUTE A 1,Péronne,80200,2.08 €,,2.19 €,1.97 €,4988700,283700
@@ -87,8 +87,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 80, Rue Henri Dunant,Conty,80160,,,1.98 €,1.90 €,4973859,215396
 80,18 RUE AUGUSTE GINDRE,CORBIE,80800,1.92 €,,1.99 €,1.86 €,4990800,251000
 80,Avenue Vincent Auriol,ABBEVILLE,80100,1.85 €,0.93 €,1.94 €,1.77 €,5009981.1078,185638.830058
-80,RD 933 Le Champs St Pierre,FLESSELLES,80260,1.91 €,,,1.86 €,5000100,225800
-80,12 Avenue du Parc,Friville-Escarbotin,80130,1.84 €,1.00 €,1.92 €,1.76 €,5007400.305217,153697.77407813
+80,RD 933 Le Champs St Pierre,FLESSELLES,80260,,,,1.86 €,5000100,225800
+80,12 Avenue du Parc,Friville-Escarbotin,80130,1.90 €,1.00 €,1.99 €,1.83 €,5007400.305217,153697.77407813
 80,26 AVENUE DE LA LIBERATION,BEAUCAMPS-LE-VIEUX,80430,,1.07 €,,1.85 €,4984200,177800
 80,AIRE DE LA BAIE DE SOMME A16,Sailly-Flibeaucourt,80970,2.37 €,,2.49 €,2.27 €,5016727.9526077,175476.37895941
 80,Pôle Activité du Pays Neslois - Route de Rouy,NESLE,80190,1.99 €,,1.99 €,1.95 €,4976000,291400
