@@ -4,7 +4,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,1 rue Jean Moulin,Commercy,55200,1.90 €,1.00 €,2.00 €,1.88 €,4875600,558500
 55,6 Rue du Général de Gaulle,Belleville-sur-Meuse,55430,1.91 €,,1.98 €,1.87 €,4916200,564900
 55,Route de Longeville,SAVONNIèRES-DEVANT-BAR,55000,1.91 €,,1.97 €,1.88 €,4875400,517900
-55,6 RUE DU FORT,Saint-Mihiel,55300,1.99 €,1.00 €,1.99 €,1.99 €,4888800,554000
+55,6 RUE DU FORT,Saint-Mihiel,55300,1.99 €,1.00 €,1.99 €,2.00 €,4888800,554000
 55,106 Route Nationale,Lérouville,55200,,,,1.96 €,4879000,554900
 55,30 Rue du 3ème RHC,ÉTAIN,55400,1.90 €,,1.99 €,1.87 €,4921700,564300
 55,AUTOROUTE A4 AIRE DE VERDUN SAINT NICOLAS SUD,HAUDIOMONT,55160,2.03 €,,2.13 €,1.98 €,4911834.37,550846.34
@@ -23,7 +23,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 55,11 Avenue de Verdun,Montmédy,55600,,,2.00 €,1.88 €,4951300,537500
 55,ZAC des cailloux,STENAY,55700,1.89 €,1.00 €,,1.88 €,4948300,520200
 55,63 Rue Raymond Poincaré,VIGNEULLES-LèS-HATTONCHâTEL,55210,1.99 €,1.00 €,1.99 €,1.96 €,4898000,571300
-55,2 Avenue Miribel,Verdun,55100,1.93 €,,2.01 €,1.90 €,4916800,538700
+55,2 Avenue Miribel,Verdun,55100,1.92 €,,2.00 €,1.90 €,4916800,538700
 55,3 Rue de Verdun,GONDRECOURT-LE-CHâTEAU,55130,,,,,4851838,550427
 55,28 Rue de Saint-Mihiel,Vigneulles-lès-Hattonchâtel,55210,1.92 €,,,1.88 €,4897600,570100
 55,Rue du Docteur Edmond Morelle,COMMERCY,55200,,,,,4875735,559035
