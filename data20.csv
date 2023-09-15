@@ -35,7 +35,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,avenue napoleon III,AJACCIO,20000,,,,1.97 €,4192500,873400
 20,RN 193,FURIANI,20600,,,,1.99 €,4265800,941600
 20,SUARALTA,BASTELICACCIA,20129,,,,1.99 €,4192400,882500
-20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.95 €,4263200,894500
 20,Rt10,Penta-di-Casinca,20213,,,,1.94 €,4244500,950800
 20,Station TOTAL - BP 35 - RN 198,Ghisonaccia,20240,,,,1.93 €,4202100,940900
 20,Les Marines de Porticcio - Commune de Grosseto-Prugna,PORTICCIO,20166,,,,1.96 €,4188730,880770
@@ -44,6 +43,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,ALISTRO,SAN GIULIANO,20230,,,,1.93 €,4225900,954700
 20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.93 €,4184900,940000
 20,Ponte Novu,Castello-di-Rostino,20235,,,,1.98 €,4248820,928306
+20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.97 €,4263200,894500
 20,RD 31 lieu dit Manicola Vecchia,AJACCIO,20090,,,,1.93 €,4195100,878000
 20,Station TOTAL - Relais du Rupione,PIETROSELLA,20166,,,,1.97 €,4183500,877900
 20,rond point du fango avenue jean zuccarelli,Bastia,20200,,,,1.98 €,4270358.1401618,944219.35452675
@@ -69,7 +69,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,I BAGNI,Guitera-les-Bains,20153,,,,1.88 €,4190100,909800
 20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.94 €,4192900,876200
 20,Aspretto,AJACCIO,20000,,,,1.94 €,4192900,876800
-20,RT 20,Ponte-leccia,20218,,,,1.93 €,4246700,920900
+20,RT 20,Ponte-leccia,20218,,,,1.97 €,4246700,920900
 20,AVENUE SAPIERO CORSU,BASTIA,20600,,,,1.98 €,4267700,944400
 20,Avenue de la République,CORTE,20250,,,,1.99 €,4231350.70462,915173.144133
 20,AVENUE PAUL DOUMER,L'Île-Rousse,20220,,,,1.94 €,4263248,894075
@@ -88,7 +88,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Station TOTAL - RN 198 - FOLELLI,Penta-di-Casinca,20213,,,,1.98 €,4244600,950800
 20,BODICCIONE,Ajaccio,20090,,,,1.97 €,4193484,874775
 20,Boulevard Louis Campi,Ajaccio,20090,2.00 €,,,1.99 €,4194385,875484
-20,Hotel des Calanches,Piana,20115,,,,2.00 €,4223728.0621206,863583.71530654
+20,Hotel des Calanches,Piana,20115,,,,2.02 €,4223728.0621206,863583.71530654
 20,Allée des Chênes,Levie,20170,,,,1.90 €,4170379.437476,912330.89279334
 20,520 Avenue du 9 Septembre,Ghisonaccia,20240,,,,1.93 €,4201351.1447946,940397.08675736
 20,Lieu dit Fango - D81,GALERIA,20245,,,,2.25 €,4240213.638648,869797.43018495
@@ -125,7 +125,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,36 Avenue Paul Doumer,L'Île-Rousse,20220,,,,1.98 €,4263200,894500
 20,65 COURS LUCIEN BONAPARTE,AJACCIO,20000,,,,1.95 €,4191078.61872,872151.667262
 20,Route de Bonifacio,Porto-Vecchio,20137,,,,1.99 €,4157100,927300
-20,rond point de ponte leccia,Ponte-Leccia,20218,,,,1.93 €,4246274,920667
+20,rond point de ponte leccia,Ponte-Leccia,20218,,,,1.97 €,4246274,920667
 20,RN 193,FURIANI,20600,,,,1.98 €,4265300,944000
 20,VIGNETTA ROUTE DE CAMPO DELL ORO BP580,Ajaccio,20090,,,,1.93 €,4192700,878400
 20,Santa Severa,LURI,20228,,,,1.87 €,4288780.0122102,947310.06942498
