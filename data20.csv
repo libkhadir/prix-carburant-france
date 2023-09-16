@@ -3,6 +3,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Quartier St Joseph,Ajaccio,20090,,,,1.97 €,4193331.973,875493.22
 20,ROUTE N 198,Aléria,20270,,,,1.96 €,4211476.8875884,951366.60631343
 20,STATION LUISI,Poggio-Mezzana,20230,,,,1.88 €,4240000,953000
+20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.95 €,4184900,940000
 20,RT 20,TATTONE,20219,,,,1.98 €,4217200,917000
 20,Station TOTAL - Quartier La Poretta,PORTO-VECCHIO,20137,,,,1.98 €,4160200,927600
 20,Rue de la République,CARGESE,20130,,,,1.99 €,4213400,859800
@@ -41,7 +42,6 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,SASU CORSICA MODELISME,SAN-NICOLAO,20230,,,,1.93 €,4236800,950700
 20,Place Saint Damien,Sartène,20100,,,,1.99 €,4161900,896800
 20,ALISTRO,SAN GIULIANO,20230,,,,1.93 €,4225900,954700
-20,RN 198 - Solenzara,Sari-Solenzara,20145,,,,1.93 €,4184900,940000
 20,Ponte Novu,Castello-di-Rostino,20235,,,,1.98 €,4248820,928306
 20,29  Ave Pdt Paul Doumer,L'ÎLE-ROUSSE,20220,,,,1.97 €,4263200,894500
 20,RD 31 lieu dit Manicola Vecchia,AJACCIO,20090,,,,1.93 €,4195100,878000
@@ -65,7 +65,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 20,Route de Patrimonio,Saint-Florent,20217,,,,1.98 €,4268500,930700
 20,Avenue de la Libération. Immeuble Santa Maria,BASTIA LUPINU,20600,,,,1.99 €,4267927.5416212,944309.56412724
 20,T 10,PRUNETE,20221,,,,1.93 €,4232500,953900
-20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.95 €,4197962.0445374,883383.448204
+20,Gare de Mezzana - Lieu-dit 'Saint Pierre  T20,Sarrola-Carcopino,20167,,,,1.98 €,4197962.0445374,883383.448204
 20,I BAGNI,Guitera-les-Bains,20153,,,,1.88 €,4190100,909800
 20,Route Campo Dell'Oro Col d'Aspretto,Ajaccio,20090,,,,1.94 €,4192900,876200
 20,Aspretto,AJACCIO,20000,,,,1.94 €,4192900,876800

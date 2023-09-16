@@ -2,8 +2,8 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 23,ROUTE DE LIMOGES,AHUN,23150,1.90 €,1.00 €,1.97 €,1.95 €,4607800,204400
 23,Route de Bénévent,BOURGANEUF,23400,,,2.01 €,1.96 €,4595971,175988
 23,avenue de bourbonnais,BOUSSAC,23600,,,2.00 €,1.94 €,4635000,221500
-23, Avenue du Berry,GOUZON,23230,,,2.03 €,1.93 €,4619516,223891
-23,Avenue Jean Jaures,La Souterraine,23300,1.93 €,1.06 €,,1.96 €,4623857.7409039,147921.75194644
+23, Avenue du Berry,GOUZON,23230,,,2.03 €,1.95 €,4619516,223891
+23,Avenue Jean Jaures,La Souterraine,23300,1.96 €,1.04 €,,1.98 €,4623857.7409039,147921.75194644
 23,26 ROUTE D'AUBUSSON,Felletin,23500,,,2.00 €,1.94 €,4588800,217600
 23,Z.I du mont rue Ampère,Aubusson,23200,1.93 €,1.00 €,2.00 €,1.95 €,4596400,219300
 23,Le Verger Sainte Feyre,GUéRET,23000,1.94 €,1.00 €,,1.95 €,4617672.8050278,189791.91984534
@@ -17,7 +17,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 23,ZA les bois verts,Le Grand-Bourg,23240,,1.09 €,,1.96 €,4616634.48197,164844.994641
 23,Avenue Pierre Leroux,BOUSSAC,23600,,,2.04 €,1.94 €,4634900,221700
 23,46 Avenue d'Auvergne,Guéret,23000,1.94 €,,2.03 €,1.95 €,4616800,188800
-23,Rue du Docteur Manouvrier,GUéRET,23000,2.11 €,,2.16 €,2.15 €,4616800,187400
+23,Rue du Docteur Manouvrier,GUéRET,23000,2.13 €,,2.19 €,2.17 €,4616800,187400
 23,Nouallet,Sardent,23250,1.94 €,1.04 €,,1.95 €,4604300,187800
 23,La Rebeyrette,AUBUSSON,23200,,,2.08 €,1.96 €,4594800,217200
 23,ZA LA PRADE,LA SOUTERRAINE,23300,1.96 €,1.12 €,2.01 €,2.02 €,4623100,150500

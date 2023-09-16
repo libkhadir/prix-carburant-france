@@ -1,14 +1,14 @@
 Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,59 Avenue d'Aquitaine,La Roche-Chalais,24490,1.89 €,1.00 €,1.96 €,1.93 €,4514600,500
 24,Lieu dit chez Noillac,Vieux-Mareuil,24340,,,2.00 €,1.86 €,4544700,46700
-24,18 place de l'ancien temple,Sigoulès-et-Flaugeac,24240,,,2.00 €,1.90 €,4475739.933224,41106.265064555
+24,18 place de l'ancien temple,Sigoulès-et-Flaugeac,24240,,,2.00 €,1.96 €,4475739.933224,41106.265064555
 24,CD 91,Piégut-Pluviers,24360,1.90 €,,1.99 €,1.87 €,4562000,69900
 24,94 Avenue de la Beauronne,Agonac,24460,,,,1.96 €,4529276.92,75169.24
 24,Avenue de Périgueux,LA COQUILLE,24450,,,1.97 €,1.92 €,4553900,97600
 24,Route de BERGERAC,Sarlat-la-Canéda,24200,,1.13 €,,1.98 €,4487600,121300
 24,8 boulevard Jean Moulin,Bergerac,24100,1.94 €,1.20 €,1.96 €,1.96 €,4485570.5921094,47879.478719295
 24,Route de Bergerac,VERGT,24380,1.90 €,1.00 €,1.97 €,1.95 €,4502300,71100
-24,Avenue Winston Churchill,COULOUNIEIX-CHAMIERS,24660,,,2.00 €,1.92 €,4517100,68900
+24,Avenue Winston Churchill,COULOUNIEIX-CHAMIERS,24660,,,1.98 €,1.92 €,4517100,68900
 24,Route de Limoges,TRéLISSAC,24750,1.90 €,0.99 €,1.98 €,1.92 €,4520000,78500
 24,Zone des Reaux,Vélines,24230,,,1.98 €,1.90 €,4485201.45,10365.84
 24,27  Avenue André Maurois,BRANTôME,24310,,,,1.93 €,4536400,65300
@@ -40,7 +40,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,7 ROUTE DE BERGERAC,LE BUISSON DE CADOUIN,24480,,,1.99 €,1.99 €,4484700,89900
 24,740 avenue des jardins,TERRASSON,24120,1.94 €,,1.99 €,1.93 €,4512400,132100
 24,154 avenue de la roque,CREYSSE,24100,1.91 €,1.00 €,1.99 €,1.90 €,4484900,53800
-24,Le Mayne,Saint-Martial-d'Albarède,24160,1.91 €,,1.99 €,1.88 €,4533308,104339
+24,Le Mayne,Saint-Martial-d'Albarède,24160,1.91 €,,2.00 €,1.91 €,4533308,104339
 24,Les Peyrieres,Négrondes,24460,,,1.99 €,1.99 €,4534400,86900
 24,16  Rue des Fleurs,Chancelade,24650,1.90 €,,1.98 €,1.92 €,4520000,66800
 24,1 place mianne,Le Buisson-de-Cadouin,24480,,,1.99 €,1.99 €,4484600,91100
@@ -48,7 +48,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,2161 ROUTE DE LA VALLEE,Tursac,24620,,,,1.85 €,4497000,104400
 24,5 Avenue du Commandant Pinson,LA FORCE,24130,,,2.00 €,1.97 €,4487000,37700
 24,LA PLANCHE,LANOUAILLE,24270,1.90 €,,1.98 €,1.90 €,4538621.3921837,113595.242501
-24, Chemin des Sables,SARLAT-LA-CANéDA,24200,1.92 €,1.09 €,2.00 €,1.91 €,4487349,123042
+24, Chemin des Sables,SARLAT-LA-CANéDA,24200,1.90 €,1.09 €,1.99 €,1.93 €,4487349,123042
 24,le bourg,Groléjac,24250,,1.00 €,1.99 €,1.93 €,4482086.8467717,129057.81261784
 24, Boulevard Auguste Comte,BERGERAC,24100,,,1.99 €,1.91 €,4484832,49248
 24,rue du moulin neuf CC le Privilège,PéRIGUEUX,24000,1.90 €,0.99 €,,1.92 €,4520030.3,69447.8
@@ -60,12 +60,12 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,101  Avenue Pasteur,Bergerac,24100,1.91 €,,1.99 €,1.90 €,4486262,49793
 24,229 les grand champs,saint aulaye puymangou,24410,,,1.98 €,1.92 €,4516800,8100
 24,2 Route de la Maladrerie,Nontron,24300,1.92 €,,1.99 €,1.92 €,4554059,66713
-24,Avenue Victor Hugo,Terrasson-Lavilledieu,24120,1.95 €,,2.00 €,1.89 €,4513100,129700
+24,Avenue Victor Hugo,Terrasson-Lavilledieu,24120,1.95 €,,2.00 €,1.94 €,4513100,129700
 24,route de Périgueux,LA FEUILLADE,24120,1.94 €,1.00 €,1.99 €,1.96 €,4512400,140800
 24,VAUREZ,Belvès,24170,1.99 €,0.99 €,1.99 €,1.99 €,4477100,101100
 24,LES PLATEAUX DE GRAULET,Rouffignac-Saint-Cernin-de-Reilhac,24580,,,1.98 €,1.88 €,4504300,98100
 24,Puy Laurent,BRANTôME,24310,1.92 €,1.15 €,,1.92 €,4538100,64600
-24,Avenue Georges Pompidou,Montpon-Ménestérol,24700,1.86 €,,1.91 €,1.92 €,4500900,15200
+24,Avenue Georges Pompidou,Montpon-Ménestérol,24700,1.85 €,,1.92 €,1.92 €,4500900,15200
 24,Lieu-dit Grands Champs de Baunac,Tocane-Saint-Apre,24350,,,,1.90 €,4525805,50632
 24,Lieu-dit Le Bout de la Côte,Siorac-en-Périgord,24170,,,2.00 €,1.87 €,4481019,98906.999999998
 24,Bd mallebay,SAINT-ASTIER,24110,1.90 €,0.99 €,1.98 €,1.92 €,4514900,52700
@@ -78,13 +78,13 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 24,ROUTE DE PERIGUEUX,Ribérac,24600,1.90 €,,1.98 €,1.93 €,4524800,34000
 24,8 RUE CLAUDE BERNARD,BERGERAC,24100,1.91 €,,1.99 €,1.90 €,4485352.69,48766.25054723
 24,Avenue de Sarlat,SALIGNAC-EYVIGUES,24590,1.96 €,,2.00 €,1.93 €,4497400,132100
-24,Route de Mareuil,La Tour-Blanche,24320,,,2.05 €,1.92 €,4536588,44451
+24,Route de Mareuil,La Tour-Blanche,24320,,,2.05 €,2.00 €,4536588,44451
 24,LA GARE,HAUTEFORT,24390,1.92 €,1.00 €,,1.90 €,4526681.28926,113778.022236
 24,LIEU DIT LA FOUGERE  ROUTE DE CAHORS,Villefranche-du-Périgord,24550,,,2.08 €,1.95 €,4463855.2720827,106084.09067322
 24,les guichoux,Saint-Pierre-de-Chignac,24330,,,2.07 €,1.96 €,4512300,86000
 24,Avenue du 8 mai 1945,Brantôme,24310,,,2.00 €,1.92 €,4535705,65291.4
 24,Route de Mauzac,LALINDE,24150,1.91 €,1.00 €,1.98 €,1.94 €,4483700,74600
-24,Route des Eyzies,Montignac,24290,1.91 €,1.00 €,1.98 €,1.92 €,4505862,115415
+24,Route des Eyzies,Montignac,24290,1.91 €,1.00 €,1.98 €,1.94 €,4505862,115415
 24,VOIE DE LA VALLEE,SAINT-CYPRIEN,24220,,,2.00 €,1.87 €,4486213.37672,103980.008932
 24,RN 21 ZAC DU CERF (SORTIE :15 - A89),NOTRE DAME DE SANILHAC,24660,,,1.97 €,1.92 €,4513600,70100
 24,RN.21,Sarliac-sur-l'Isle,24420,1.99 €,,1.99 €,1.99 €,4523500,87300
