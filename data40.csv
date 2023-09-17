@@ -21,7 +21,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,Chemin de Perrot,Aire-sur-l'Adour,40800,2.00 €,1.07 €,2.09 €,1.99 €,4371700,-26900
 40,1850 ROUTE DE LALANDE,Carcarès-Sainte-Croix,40400,,,1.99 €,1.96 €,4383300,-80800
 40,71 Route de Pontenx,Parentis-en-Born,40160,1.92 €,,,1.93 €,4434746.9558383,-107650.71887945
-40,Avenue de Bordeaux,Aire-sur-l'Adour,40800,2.00 €,,,1.96 €,4370739.37,-25655.32
+40,Avenue de Bordeaux,Aire-sur-l'Adour,40800,2.00 €,,,1.98 €,4370739.37,-25655.32
 40,Avenue Georges Clémenceau,Dax,40100,1.88 €,,1.99 €,1.89 €,4370800,-104500
 40,Route de Seignosse,SOORTS-HOSSEGOR,40150,1.92 €,,2.00 €,1.93 €,4367000,-139100
 40,67 allée de Genets,Labouheyre,40210,1.88 €,,,1.89 €,4420200,-92900
@@ -39,7 +39,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,ZAE Atlantisud 90 rue du pays d'orthe,Saint Geours de Maremne,40230,2.00 €,1.09 €,2.09 €,1.98 €,4371400,-123300
 40,40 BD DES SPORTS,DAX,40100,1.88 €,,1.99 €,1.88 €,4371000,-104100
 40,Boulevard des Cigales,CAPBRETON,40130,1.90 €,1.08 €,1.98 €,1.93 €,4364500,-142600
-40,AVENUE DE MARSAN,SARBAZAN,40120,1.92 €,,,1.88 €,4401853.84,-31264.28
+40,AVENUE DE MARSAN,SARBAZAN,40120,1.92 €,,,1.90 €,4401853.84,-31264.28
 40,1 rue Brémontier,Ychoux,40160,,,,1.99 €,4432700,-94400
 40,Avenue du Tursan,Hagetmau,40700,,,2.00 €,1.93 €,4365700,-58000
 40,A64 - Aire d'Hastingues,HASTINGUES,40300,2.15 €,,2.25 €,2.09 €,4352943.573,-115155.841
@@ -86,7 +86,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 40,Plaine de la Règle RN 117,Cauneille,40300,1.92 €,1.05 €,,1.95 €,4354451,-107601
 40,le claous,TARTAS,40400,,,2.03 €,1.95 €,4382800,-80500
 40,77 route de Bayonne,Peyrehorade,40300,1.99 €,,1.99 €,1.99 €,4354700,-111300
-40,355  avenue de l'Océan,AMOU,40330,1.94 €,,2.00 €,1.93 €,4359311,-75456
+40,355  avenue de l'Océan,AMOU,40330,1.94 €,,2.00 €,1.94 €,4359311,-75456
 40,302 Avenue du Corps Franc Pommies,Saint-Pierre-du-Mont,40280,2.00 €,1.30 €,,1.95 €,4388600,-52000
 40,Route de la Plage,BISCARROSSE,40600,1.94 €,,2.03 €,1.97 €,4441100,-116900
 40,Avenue des Grands Lacs,SANGUINET,40460,1.92 €,1.00 €,,1.95 €,4448127.212,-107975.102

@@ -48,7 +48,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,86 Rue Abbe Pierre,LIMOGES,87100,1.92 €,1.00 €,1.99 €,1.92 €,4583800,121900
 87,282 Rue François Perrin,Limoges,87000,1.92 €,,2.00 €,1.92 €,4582500,122800
 87,14 avenue François Mitterrand,Châlus,87230,,,1.96 €,1.92 €,4565300,98100
-87,270 ROUTE DE TOULOUSE,LIMOGES,87000,1.91 €,0.99 €,1.99 €,1.94 €,4581200,128200
+87,270 ROUTE DE TOULOUSE,LIMOGES,87000,,0.99 €,,1.94 €,4581200,128200
 87,AUT A 20  AIRE DE BOISMANDE,Saint-Sulpice-les-Feuilles,87160,2.24 €,,2.36 €,2.20 €,4631400,141800
 87,BOULEVARD DE BEL AIR,LIMOGES,87100,1.99 €,0.99 €,1.99 €,1.99 €,4582146.54804,124194.302558
 87,17 RUE DU COLLEGE,NANTIAT,87140,,,2.00 €,1.93 €,4600700,116900
@@ -79,7 +79,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 87,EYCOUVEAUX,Saint-Léonard-de-Noblat,87400,,,1.99 €,1.99 €,4586100,151500
 87,5 Avenue du Président Carnot,Panazol,87350,,,1.99 €,1.99 €,4583000,129700
 87,route de la meyze,Nexon,87800,1.96 €,1.01 €,2.00 €,1.95 €,4567929,118634
-87,Avenue de Limoges,Le Palais-sur-Vienne,87410,1.94 €,,2.00 €,1.90 €,4585600.17,130939.86
+87,Avenue de Limoges,Le Palais-sur-Vienne,87410,1.94 €,,2.00 €,1.92 €,4585600.17,130939.86
 87,Av. Nelson Mandela,SAINT-JUNIEN,87200,1.90 €,1.02 €,1.97 €,1.87 €,4589700,92000
 87,129 rue des Tuilières,Limoges,87100,1.92 €,,2.00 €,1.85 €,4585100,125300
 87,62  Avenue Jean Jaurès,Châlus,87230,,,1.99 €,1.99 €,4566100,98600

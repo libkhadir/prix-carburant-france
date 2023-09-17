@@ -19,7 +19,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 68,2 RUE DU RHIN,Huningue,68330,1.89 €,1.08 €,1.99 €,1.95 €,4759826.5356567,758978.046562
 68,2 Rue des Alpes,Niederentzen,68128,1.90 €,1.00 €,2.00 €,1.92 €,4795200,737000
 68,Rue de Kingersheim,WITTENHEIM,68270,1.89 €,,1.97 €,1.91 €,4780500,733700
-68,Rue du Pont d'Aspach,BURNHAUPT-LE-HAUT,68520,1.88 €,1.00 €,1.97 €,1.91 €,4774100,714800
+68,Rue du Pont d'Aspach,BURNHAUPT-LE-HAUT,68520,1.88 €,1.00 €,1.97 €,1.94 €,4774100,714800
 68,9 Rue Charles de Gaulle,Orbey,68370,1.89 €,,1.97 €,1.92 €,4812800,716700
 68,Rue du 17 Novembre,GUEBWILLER,68500,1.92 €,,1.99 €,1.94 €,4791600,720400
 68,14 Rue de Berne,ILLZACH,68110,1.89 €,1.01 €,1.99 €,1.93 €,4777200,738700
@@ -61,7 +61,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 68,73 Grand'Rue,Horbourg-Wihr,68180,1.89 €,1.03 €,1.97 €,1.94 €,4808000,739800
 68,Boulevard Stoessel,MULHOUSE,68200,,,,,4774185,732290
 68,24 Boulevard des Nations,MULHOUSE,68200,,,,,4773658,730197
-68,37 Rue de Kingersheim,Wittenheim,68270,1.91 €,1.10 €,1.99 €,1.91 €,4780600,733700
+68,37 Rue de Kingersheim,Wittenheim,68270,1.91 €,1.10 €,1.99 €,1.93 €,4780600,733700
 68, Avenue de la Gare,CHALAMPé,68490,1.90 €,,1.98 €,1.96 €,4781643,753969
 68,77 AVENUE DE FRIBOURG,ILLZACH,68110,1.89 €,1.00 €,1.99 €,1.93 €,4776800,738700
 68,Route de Mulhouse,ALTKIRCH,68130,1.89 €,1.08 €,1.98 €,1.95 €,4762900,726000

@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,58 avenue de la verrerie,FOUGERES,35300,1.98 €,,1.99 €,1.99 €,4836300,-118800
 35,16  rue d'Aleth,LA GOUESNIERE,35350,1.97 €,,2.05 €,1.93 €,4860500,-190000
 35,ROUTE NATIONALE 157 - AIRE DE MONDEVERT,MONDEVERT,35370,1.99 €,1.26 €,1.99 €,1.99 €,4808900,-109600
-35, Rue du Général Allard,MESSAC,35480,,,1.96 €,1.89 €,4782082,-180959
+35, Rue du Général Allard,MESSAC,35480,,,1.96 €,1.92 €,4782082,-180959
 35,1 rue de Domalain,VITRé,35500,1.87 €,1.00 €,1.98 €,1.91 €,4810983.64701,-121377.14592
 35,64 rue de Rennes,Betton,35830,2.11 €,,2.23 €,2.12 €,4817200,-164100
 35,68 Boulevard Jules Verger,DINARD,35800,,,,1.97 €,4861500,-207000
@@ -85,7 +85,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,BOULEVARD CHARCOT,Janzé,35150,,1.01 €,1.99 €,1.92 €,4795800,-148900
 35,route de saint remy du plain,Bazouges-la-Pérouse,35560,1.91 €,,1.97 €,1.89 €,4842500,-157100
 35,17 Rue de la Libération,Miniac-Morvan,35540,,,2.03 €,1.93 €,4851160.8144097,-189563.12928375
-35,46 rue de la Forêt,LA BOUëXIèRE,35340,1.94 €,,2.00 €,1.92 €,4818000,-143800
+35,46 rue de la Forêt,LA BOUëXIèRE,35340,1.94 €,,2.00 €,1.95 €,4818000,-143800
 35, Rue de Saint-Brieuc,SAINT-GILLES,35590,,,,1.92 €,4815639,-183256
 35,182 rue de chateaugiron,Rennes,35000,2.05 €,1.19 €,2.14 €,2.13 €,4809800,-164300
 35,ROUTE NATIONALE 157 - AIRE D'ERBRÉE,ERBREE,35500,1.99 €,1.26 €,1.99 €,1.99 €,4808781.22294,-112130.648599
@@ -94,7 +94,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,6 Rue Louis Guilloux,Redon,35600,1.88 €,1.00 €,1.96 €,1.90 €,4767365,-206466
 35,60 Rue de la Libération,Saint-Pierre-de-Plesguen,35720,,,2.03 €,1.92 €,4844200,-191400
 35,254  ROUTE DE FOUGERES,RENNES,35000,1.90 €,0.99 €,1.99 €,1.93 €,4812700,-165100
-35,La Croix aux Potiers,CHARTRES-DE-BRETAGNE,35131,1.93 €,,,1.95 €,4804600,-171100
+35,La Croix aux Potiers,CHARTRES-DE-BRETAGNE,35131,1.94 €,,,1.94 €,4804600,-171100
 35,avenue CHARLES TILLON,RENNES,35000,,0.99 €,1.99 €,1.99 €,4812479.39368,-170143.173515
 35,39 Boulevard de Groslay,FOUGèRES,35300,1.89 €,,1.98 €,1.93 €,4834759,-118229
 35,ZA du RONZERAY,MARTIGNé-FERCHAUD,35640,1.93 €,,,1.95 €,4782000,-131900
@@ -110,7 +110,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 35,boulevard Giraudais,PACé,35740,1.86 €,1.01 €,,1.89 €,4814114.9348512,-176603.54602074
 35,rue du phare de la Balue CAP MALO,La Mézière,35520,1.87 €,0.99 €,1.97 €,1.91 €,4820400,-172900
 35,20 Place de l'Europe,Fougères,35300,1.93 €,1.12 €,2.00 €,1.89 €,4834735,-119382
-35,ZA CHATEAU GAILLARD,Bain-de-Bretagne,35470,1.88 €,1.01 €,1.96 €,1.89 €,4784400,-169400
+35,ZA CHATEAU GAILLARD,Bain-de-Bretagne,35470,1.89 €,1.01 €,1.96 €,1.92 €,4784400,-169400
 35,2 Rue de l'Epinette,PLEUMELEUC,35137,1.87 €,,1.96 €,1.90 €,4817800,-192000
 35,Beaurenom  RN12 sens Rennes/St-Brieuc,Saint-Gilles,35590,2.21 €,,2.33 €,2.15 €,4816800,-187300
 35,Rue de la Rigourdière,CESSON-SéVIGNé,35510,1.89 €,0.99 €,1.98 €,1.93 €,4811200,-159000

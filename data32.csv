@@ -9,7 +9,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 32,ALLEE JEAN CAHUZAC,Samatan,32130,,,2.00 €,1.89 €,4348982.65,93190.67
 32,BOULEVARD DES PYRENEES,Cazaubon,32150,,,1.94 €,1.94 €,4393418.8321698,-6350.5417152977
 32,1 Avenue du Corps Franc Pommiès,Fleurance,32500,,,,1.97 €,4385302,66406
-32,ZA Bellevue,SAINT-CLAR,32380,1.98 €,,2.00 €,1.91 €,4388600,76100
+32,ZA Bellevue,SAINT-CLAR,32380,1.98 €,,2.00 €,1.94 €,4388600,76100
 32,45  Avenue du Général De Gaulle,Fleurance,32500,,,,2.11 €,4384200,66100
 32,Avenue Ernest Aimé Touyarou,Eauze,32800,1.91 €,1.05 €,2.00 €,1.90 €,4386386,10749
 32,Route de Mont-de-Marsan,LE HOUGA,32460,,1.18 €,,1.98 €,4377800,-19100
@@ -46,7 +46,7 @@ Departement,Adresse,Ville,Code postale,E10,E85,SP98,GAZOLE,Latitude,Longitude
 32,Route de Fleurance,LECTOURE,32700,,,1.99 €,1.86 €,4391700,62800
 32,Boulevard du Nord,GIMONT,32200,2.00 €,1.20 €,2.06 €,1.96 €,4362600,88000
 32,ROUTE DE TARBES,Auch,32000,1.94 €,,2.00 €,1.92 €,4363100,58200
-32,Route de Samatan Lombez,L'ISLE-JOURDAIN,32600,,1.18 €,,1.89 €,4360100,106900
+32,Route de Samatan Lombez,L'ISLE-JOURDAIN,32600,,1.18 €,,1.94 €,4360100,106900
 32,ROUTE D'AUCH,Masseube,32140,1.94 €,1.03 €,2.00 €,1.88 €,4344300,57800
 32,LES MOULINS DE LA JUSTICE,LECTOURE,32700,1.89 €,1.00 €,1.95 €,1.93 €,4393600,64300
 32,Route D'Auche  Lieu Dit Haut Rege,Valence-sur-Baïse,32310,2.00 €,,2.06 €,1.94 €,4386900,39200
